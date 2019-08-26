@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	width="1460" height="460" viewBox="-1 -1 1460 460">
+	<title>Lights Out Illustration</title>
+	<defs>
+		<linearGradient id="LinearGradientGreenlight">
+			<stop style="stop-color:#99ff99;stop-opacity:1" offset="0" />
+			<stop style="stop-color:#4ce54c;stop-opacity:1" offset="0.7" />
+			<stop style="stop-color:#00cc00;stop-opacity:1" offset="1" />
+		</linearGradient>
+		<radialGradient id="RadialGradientGreenlight"
+			cx="25" cy="25" r="26" fx="25" fy="25" xlink:href="#LinearGradientGreenlight"
+			gradientUnits="userSpaceOnUse" />
+		<rect id="Greenlight"
+			x="0" y="0" width="50" height="50" rx="8" ry="8"
+			style="fill:url(#RadialGradientGreenlight);stroke:#000000;stroke-width:2" />
+		<rect id="LightOut" width="50" height="50" rx="8" ry="8" x="0" y="0"
+			style="fill:#006600;stroke:#000000;stroke-width:2" />
+	</defs>
+	<polygon id="Backgrounder"
+		points="-1,-1 1459,-1 1459,459 -1,459"
+		style="fill:#ffffff;stroke:none" />
+	<g id="AllBoxes">
+		<g id="Box1of5">
+			<rect id="BoxShadow"
+				width="250" height="250" rx="8" ry="8" x="6" y="6"
+				style="fill:#cccccc;stroke:none" />
+			<rect id="BoxMain"
+				width="250" height="250" rx="8" ry="8" x="0" y="0"
+				style="fill:#cccccc;stroke:#000000;stroke-width:2" />
+			<g id="FiveLightsOut">
+				<use xlink:href="#LightOut" />
+				<use xlink:href="#LightOut" transform="translate(0,50)" />
+				<use xlink:href="#LightOut" transform="translate(0,100)" />
+				<use xlink:href="#LightOut" transform="translate(0,150)" />
+				<use xlink:href="#LightOut" transform="translate(0,200)" />
+			</g>
+			<use xlink:href="#FiveLightsOut" transform="translate(50,0)" />
+			<use xlink:href="#FiveLightsOut" transform="translate(100,0)" />
+			<use xlink:href="#FiveLightsOut" transform="translate(150,0)" />
+			<use xlink:href="#FiveLightsOut" transform="translate(200,0)" />
+		</g>
+		<use xlink:href="#Box1of5" transform="translate(300,0)" />
+		<use xlink:href="#Box1of5" transform="translate(600,0)" />
+		<use xlink:href="#Box1of5" transform="translate(900,0)" />
+		<use xlink:href="#Box1of5" transform="translate(1200,0)" />
+		<polygon id="ArrowMaster"
+			points="278,115 295,125 278,135 278,129 255,129 255,121 278,121"
+			style="fill:#0000ff;stroke:none" />
+		<use xlink:href="#ArrowMaster" transform="translate(300,0)" />
+		<use xlink:href="#ArrowMaster" transform="translate(600,0)" />
+		<use xlink:href="#ArrowMaster" transform="translate(900,0)" />
+	</g>
+	<g id="LightsOn">
+		<path id="PressHere"
+			d="M 525,203 C 526.06366,203 527.92616,212.55213 528.93776,212.88081 C 529.94936,213.2095 537.07076,206.57642 537.93128,207.20163 C 538.79179,207.82683 534.68399,216.64942 535.30919,217.50993 C 535.9344,218.37045 545.59456,217.19003 545.92324,218.20163 C 546.25193,219.21322 537.74287,223.93634 537.74287,225 C 537.74287,226.06366 546.25193,230.78678 545.92324,231.79837 C 545.59456,232.80997 535.9344,231.62955 535.3092,232.49007 C 534.68399,233.35058 538.79179,242.17317 537.93128,242.79837 C 537.07076,243.42358 529.94936,236.7905 528.93776,237.11919 C 527.92617,237.44787 526.06366,247 525,247 C 523.93634,247 522.07384,237.44787 521.06224,237.11919 C 520.05064,236.7905 512.92924,243.42358 512.06872,242.79837 C 511.20821,242.17317 515.31601,233.35058 514.69081,232.49007 C 514.0656,231.62955 504.40544,232.80997 504.07676,231.79837 C 503.74807,230.78678 512.25713,226.06366 512.25713,225 C 512.25713,223.93634 503.74807,219.21322 504.07676,218.20163 C 504.40544,217.19003 514.0656,218.37045 514.6908,217.50993 C 515.31601,216.64942 511.20821,207.82683 512.06872,207.20163 C 512.92924,206.57642 520.05064,213.2095 521.06224,212.88081 C 522.07383,212.55213 523.93634,203 525,203 z"
+			style="fill:#ffd800;stroke:#bb6600;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4" />
+		<use xlink:href="#PressHere" transform="translate(550,-50)" />
+		<use xlink:href="#Greenlight" />
+		<use xlink:href="#Greenlight" transform="translate(300,0)" />
+		<use xlink:href="#Greenlight" transform="translate(600,0)" />
+		<use xlink:href="#Greenlight" transform="translate(800,150)" />
+		<use xlink:href="#Greenlight" transform="translate(750,200)" />
+		<use xlink:href="#Greenlight" transform="translate(800,200)" />
+		<use xlink:href="#Greenlight" transform="translate(900,0)" />
+		<use xlink:href="#Greenlight" transform="translate(1100,150)" />
+		<use xlink:href="#Greenlight" transform="translate(1050,200)" />
+		<use xlink:href="#Greenlight" transform="translate(1100,200)" />
+		<use xlink:href="#Greenlight" transform="translate(1200,0)" />
+		<use xlink:href="#Greenlight" transform="translate(1350,100)" />
+		<use xlink:href="#Greenlight" transform="translate(1300,150)" />
+		<use xlink:href="#Greenlight" transform="translate(1350,150)" />
+		<use xlink:href="#Greenlight" transform="translate(1400,200)" />
+		<path id="TheFinger"
+			d="M 509.2485,324.67866 C 512.09064,312.18307 510.92072,312.17195 518.11527,299.46127 C 525.29046,286.78485 537.08653,277.38371 533.45086,272.03564 C 529.90089,266.8136 521.2351,276.64974 521.2351,276.64974 C 521.2351,276.64974 533.18538,268.99994 528.52082,262.84929 C 523.95601,256.83017 513.32253,268.56849 513.32253,268.56849 C 513.32253,268.56849 526.51449,258.56574 520.29383,253.39164 C 514.07318,248.21756 506.04618,262.76968 506.04618,262.76968 C 506.04618,262.76968 519.06771,243.0559 521.10633,239.81044 C 523.04145,236.72975 531.40634,227.25366 525.79384,223.21398 C 519.96026,219.01518 509.16404,235.25298 504.40748,241.5895 C 499.56472,248.04083 497.53725,250.36939 494.97457,252.94224 C 493.74974,254.17193 488.5689,261.92953 490.66313,256.23361 C 492.60161,250.96126 490.34954,234.54415 484.19901,232.26295 C 478.04847,229.98175 478.63093,238.70721 479.32058,244.21832 C 479.32263,255.25907 475.23848,268.3727 473.61886,273.07514 C 472.04206,277.65326 471.2446,287.75931 471.80617,295.25448 C 472.37811,302.88817 470.78292,307.64044 470.78292,307.64044"
+			style="fill:#e99b6b;stroke:#000000;stroke-width:1" />
+		<use xlink:href="#TheFinger" transform="translate(550,-53)" />
+	</g>
+	<g id="Legend">
+		<use xlink:href="#Greenlight" transform="translate(700,300)" />
+		<use xlink:href="#LightOut" transform="translate(700,355)" />
+		<use xlink:href="#PressHere" transform="translate(200,210)" />
+		<g id="Texts" style="font-size:36px;text-align:start;text-anchor:start;fill:#000000;stroke:none;font-family:Arial,sans,sans-serif">
+			<text x="772" y="338">On</text>
+			<text x="772" y="393">Off</text>
+			<text x="772" y="448">Select</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,49 @@
+
+# 题目描述
+
+### 原文
+
+The government of Byteland has decided that it is time to connect their little country to the Internet, so that all citizens can participate in programming competitions and watch videos of cute cats. When it was time to build the network backbone of the country, they assigned the company Internet Optimists Inc. with connecting all the $N$ computers of Byteland. The connections were made as direct links between pairs of computers in such a way that any pair of computers are connected by a sequence of links.
+
+Byteland is not a rich country by any means, so to minimize costs the network topology was built in the form of a tree (i.e. there are exactly $N-1$ direct links between computers). Far too late, it was realised that this solution suffers from a serious drawback. If just a single link is broken, the computers of Byteland will be partitioned so that some computers cannot communicate with each other!
+To improve the reliability of Byteland's network, it was decided that it should at least tolerate if a single link is broken. Your task is to help Internet Optimists Inc. to improve the network in a cheapest way. Given the network topology of Byteland (i.e. which $N-1$  pairs of computers are connected by direct links), find the minimum number of links that need to be added so that the network will still be connected if any single link is broken.
+
+### 译文
+
+给定一颗无根树，求最少加多少条边使形成的图形任意删除一条边后都联通，边是无向的
+输出最少加边数和任意一种加边方案。
+
+**注意不能加已出现的边**。
+
+# 输入格式
+
+The first line of input contains a positive integer $N$ ( $N \geq 3$ ) , the number of computers in Byteland. For simplicity, all computers are numbered from 1 to $N$. Each of the following $N-1$ lines contains a pair of integers $a$ and $b$ ( $1\leq a,b \leq n,a \ne b$ ) that describes a direct link between computers $a$ and $b$.
+
+# 输出格式
+
+In the first line of output your program should write an integer $k$, the minimal number of links that should be added to the network. In each of the following $k$ lines your program should write a pair of integers $a$ and $b$ ( $1\leq a,b \leq n,a \ne b$ )  that denote the numbers of computers that should be connected by a link. The links can be written in any order. If there is more than one solution, your program should output any one of them.
+
+# 样例
+
+#### 样例输入 1
+
+```plain
+6
+1 2
+2 3
+2 4
+5 4
+6 4
+```
+#### 样例输出 1
+
+```plain
+2
+1 5
+3 6
+```
+
+# 数据范围与提示
+
+$3\leq N \leq 500000$
+

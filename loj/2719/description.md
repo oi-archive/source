@@ -1,0 +1,183 @@
+
+# 题目描述
+
+最近，小 S 对冒泡排序产生了浓厚的兴趣。为了问题简单，小 S 只研究对 **$1$ 到 $n$ 的排列**的冒泡排序。
+
+下面是对冒泡排序的算法描述。
+
+```plain
+输入：一个长度为 n 的排列 p[1...n]
+输出：p 排序后的结果。
+for i = 1 to n do
+	for j = 1 to n - 1 do
+		if(p[j] > p[j + 1])
+			交换 p[j] 与 p[j + 1] 的值
+```
+
+冒泡排序的交换次数被定义为交换过程的执行次数。可以证明交换次数的一个下界是 $\frac 1 2 \sum_{i=1}^n \lvert i - p_i \rvert$，其中 $p_i$ 是排列 $p$ 中第 $i$ 个位置的数字。如果你对证明感兴趣，可以看提示。
+
+小 S 开始专注于研究长度为 $n$ 的排列中，满足交换次数 $= \frac 1 2 \sum_{i=1}^n \lvert i - p_i \rvert$ 的排列（在后文中，为了方便，我们把所有这样的排列叫「好」的排列）。他进一步想，这样的排列到底多不多？它们分布的密不密集？
+
+小 S 想要对于一个给定的长度为 $n$ 的排列 $q$，计算字典序严格大于 $q$ 的“好”的排列个数。但是他不会做，于是求助于你，希望你帮他解决这个问题，考虑到答案可能会很大，因此只需输出答案对 $998244353$ 取模的结果。
+
+# 输入格式
+
+从文件 `inverse.in` 读入数据。
+
+输入第一行包含一个正整数 $T$，表示数据组数。
+
+对于每组数据，第一行有一个正整数 $n$，保证 $n \leq 6 \times 10^5$。
+
+接下来一行会输入 $n$ 个正整数，对应于题目描述中的 $q_i$，保证输入的是一个 $1$ 到 $n$ 的排列。
+
+# 输出格式
+
+输出到文件 `inverse.out` 中。
+
+输出共 $T$ 行，每行一个整数。
+
+对于每组数据，输出一个整数，表示字典序严格大于 $q$ 的「好」的排列个数对 $998244353$ 取模的结果。
+
+# 样例
+
+#### 样例输入 1
+
+```plain
+1
+3
+1 3 2
+```
+
+#### 样例输出 1
+
+```plain
+3
+```
+
+#### 样例解释 1
+
+字典序比 $1 \ 3 \ 2$ 大的排列中，除了 $3 \ 2 \ 1$ 以外都是「好」的排列，故答案为 $3$。
+
+#### 样例输入 2
+
+```plain
+1
+4
+1 4 2 3
+```
+
+#### 样例输出 2
+
+```plain
+9
+```
+
+#### 样例 3
+见附加文件中的 `inverse3.in` 与 `inverse3.ans`.
+
+# 数据范围与提示
+
+下面是对本题每个测试点的输入规模的说明。
+
+对于所有数据，均满足 $T = 5$（样例可能不满足）。
+
+记 $n_\mathrm{max}$ 表示每组数据中 $n$ 的最大值，$\sum n$ 表示所有数据的 $n$ 的和。
+
+<!-- BEGIN: Migrated markdown table -->
+
+| 测试点 | $n_\mathrm{max} =$ | $\sum n \leq$ | 特殊性质 |
+|:-:|:-:|:-:|:-:|
+| 1 | $8$ | $5 \ n_\mathrm{max}$ | 无 |
+| 2 | $9$ | $5 \ n_\mathrm{max}$ | 无 |
+| 3 | $10$ | $5 \ n_\mathrm{max}$ | 无 |
+| 4 | $12$ | $5 \ n_\mathrm{max}$ | 无 |
+| 5 | $13$ | $5 \ n_\mathrm{max}$ | 无 |
+| 6 | $14$ | $5 \ n_\mathrm{max}$ | 无 |
+| 7 | $16$ | $5 \ n_\mathrm{max}$ | 无 |
+| 8 | $16$ | $5 \ n_\mathrm{max}$ | 无 |
+| 9 | $17$ | $5 \ n_\mathrm{max}$ | 无 |
+| 10 | $18$ | $5 \ n_\mathrm{max}$ | 无 |
+| 11 | $18$ | $5 \ n_\mathrm{max}$ | 无 |
+| 12 | $122$ | $700$ | $\forall i \enspace q_i = i$ |
+| 13 | $144$ | $700$ | 无 |
+| 14 | $166$ | $700$ | 无 |
+| 15 | $200$ | $700$ | 无 |
+| 16 | $233$ | $700$ | 无 |
+| 17 | $777$ | $4000$ | $\forall i \enspace q_i = i$ |
+| 18 | $888$ | $4000$ | 无 |
+| 19 | $933$ | $4000$ | 无 |
+| 20 | $1000$ | $4000$ | 无 |
+| 21 | $266666$ | $2000000$ | $\forall i \enspace q_i = i$ |
+| 22 | $333333$ | $2000000$ | 无 |
+| 23 | $444444$ | $2000000$ | 无 |
+| 24 | $555555$ | $2000000$ | 无 |
+| 25 | $600000$ | $2000000$ | 无 |
+
+<!-- Migrated from original HTML table:
+<table><thead>
+<tr>
+<th style='text-align:center'>测试点</th><th style='text-align:center'>$n_\mathrm{max} =$ </th><th style='text-align:center'>$\sum n \leq$ </th><th style='text-align:center'>特殊性质</th></tr>
+</thead><tbody>
+<tr>
+<td style='text-align:center'>1</td><td style='text-align:center'>$8$ </td><td style='text-align:center' rowspan='11'>$5 \ n_\mathrm{max}$ </td><td style='text-align:center' rowspan='11'>无</td></tr>
+<tr>
+<td style='text-align:center'>2</td><td style='text-align:center'>$9$ </td></tr>
+<tr>
+<td style='text-align:center'>3</td><td style='text-align:center'>$10$ </td></tr>
+<tr>
+<td style='text-align:center'>4</td><td style='text-align:center'>$12$ </td></tr>
+<tr>
+<td style='text-align:center'>5</td><td style='text-align:center'>$13$ </td></tr>
+<tr>
+<td style='text-align:center'>6</td><td style='text-align:center'>$14$ </td></tr>
+<tr>
+<td style='text-align:center'>7</td><td style='text-align:center' rowspan='2'>$16$ </td></tr>
+<tr>
+<td style='text-align:center'>8</td></tr>
+<tr>
+<td style='text-align:center'>9</td><td style='text-align:center'>$17$ </td></tr>
+<tr>
+<td style='text-align:center'>10</td><td style='text-align:center' rowspan='2'>$18$ </td></tr>
+<tr>
+<td style='text-align:center'>11</td></tr>
+<tr>
+<td style='text-align:center'>12</td><td style='text-align:center'>$122$ </td><td style='text-align:center' rowspan='5'>$700$ </td><td style='text-align:center'>$\forall i \enspace q_i = i$ </td></tr>
+<tr>
+<td style='text-align:center'>13</td><td style='text-align:center'>$144$ </td><td style='text-align:center' rowspan='4'>无</td></tr>
+<tr>
+<td style='text-align:center'>14</td><td style='text-align:center'>$166$ </td></tr>
+<tr>
+<td style='text-align:center'>15</td><td style='text-align:center'>$200$ </td></tr>
+<tr>
+<td style='text-align:center'>16</td><td style='text-align:center'>$233$ </td></tr>
+<tr>
+<td style='text-align:center'>17</td><td style='text-align:center'>$777$ </td><td style='text-align:center' rowspan='4'>$4000$ </td><td style='text-align:center'>$\forall i \enspace q_i = i$ </td></tr>
+<tr>
+<td style='text-align:center'>18</td><td style='text-align:center'>$888$ </td><td style='text-align:center' rowspan='3'>无</td></tr>
+<tr>
+<td style='text-align:center'>19</td><td style='text-align:center'>$933$ </td></tr>
+<tr>
+<td style='text-align:center'>20</td><td style='text-align:center'>$1000$ </td></tr>
+<tr>
+<td style='text-align:center'>21</td><td style='text-align:center'>$266666$ </td><td style='text-align:center' rowspan='5'>$2000000$ </td><td style='text-align:center'>$\forall i \enspace q_i = i$ </td></tr>
+<tr>
+<td style='text-align:center'>22</td><td style='text-align:center'>$333333$ </td><td style='text-align:center' rowspan='4'>无</td></tr>
+<tr>
+<td style='text-align:center'>23</td><td style='text-align:center'>$444444$ </td></tr>
+<tr>
+<td style='text-align:center'>24</td><td style='text-align:center'>$555555$ </td></tr>
+<tr>
+<td style='text-align:center'>25</td><td style='text-align:center'>$600000$ </td></tr>
+</tbody></table>
+-->
+
+<!-- END: Migrated markdown table -->
+
+#### 「提示」
+
+下面是对交换次数下界是 $\frac 1 2 \sum_{i=1}^n \lvert i - p_i \rvert$ 的证明。
+
+排序本质上就是数字的移动，因此排序的交换次数应当可以用数字移动的总距离来描述。对于第 $i$ 个位置，假设在初始排列中，这个位置上的数字是 pi，那么我们需要将这个数字移动到第 $p_i$ 个位置上，移动的距离是 $\lvert i - p_i \rvert$。从而移动的总距离就是 $\sum_{i=1}^n \lvert i - p_i \rvert$，而冒泡排序每次会交换两个相邻的数字，每次交换可以使移动的总距离至多减少 $2$。因此 $\frac 1 2 \sum_{i=1}^n \lvert i - p_i \rvert$ 是冒泡排序的交换次数的下界。
+
+并不是所有的排列都达到了下界，比如在 $n = 3$ 的时候，考虑排列 $3 \ 2 \ 1$，这个排列进行冒泡排序以后的交换次数是 $3$，但是 $\frac 1 2 \sum_{i=1}^n \lvert i - p_i \rvert$ 只有 $2$。
+

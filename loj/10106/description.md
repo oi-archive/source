@@ -1,0 +1,43 @@
+
+# 题目描述
+
+**来自 ICPC CERC 1999/2000，有改动。**
+
+有 $N$ 个盘子，每个盘子上写着一个仅由小写字母组成的英文单词。你需要给这些盘子安排一个合适的顺序，使得相邻两个盘子中，前一个盘子上单词的末字母等于后一个盘子上单词的首字母。请你编写一个程序，判断是否能达到这一要求。如果能，请给出一个合适的顺序。
+
+# 输入格式
+
+多组数据。第一行给出数据组数 $T$，每组数据第一行给出盘子数量 $N$，接下去 $N$ 行给出小写字母字符串，一种字符串可能出现多次。
+
+# 输出格式
+
+若存在一组合法解输出`Ordering is possible.`，否则输出`The door cannot be opened.`。
+
+# 样例
+
+#### 样例输入
+```plain
+3
+2
+acm
+ibm
+3
+acm
+malform
+mouse
+2
+ok
+ok
+```
+
+#### 样例输出
+```plain
+The door cannot be opened.
+Ordering is possible.
+The door cannot be opened.
+```
+
+# 数据范围与提示
+
+$1 \le N \le 10^5,|S| \le 1000$
+

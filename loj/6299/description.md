@@ -1,0 +1,106 @@
+
+# 题目描述
+
+> 千里白金雪满天　烽火江山起狼烟　分手竟兵刃相见
+
+> 1941.7.
+
+> 苏联军队出乎意料的反抗力量、前线德军的补给困难 —— 元首 Adolf 望着天空的云层陷入沉思……
+
+在 $xy$-直角坐标平面的天空中，有 $n$ 片四边平行于坐标轴的矩形云朵。每一片云由一个五元组 $(x_i, y_i, w_i, h_i, d_i)$ 表示，其中 $(x_i, y_i)$ 为云左下角顶点的坐标，$w_i$ 表示云在 $x$ 轴方向的宽度，$h_i$ 表示云在 $y$ 轴方向的长度，$d_i \in \{0, 1\}$ 为云的移动方向（$0$ 为横向，$1$ 为纵向）。具体来说，满足 $d_i = 0$ 的云沿 $x$ 轴正方向以每秒 $1$ 长度单位的速率不断移动，而满足 $d_i = 1$ 的云沿 $y$ 轴正方向以每秒 $1$ 长度单位的速率不断移动。
+
+元首发现，**所有的云在此时没有重叠的面积**。他将这个时刻记作时刻 $0$。他想知道，对于 $(-\infty, +\infty)$ 中的**任意时刻**和平面上的**任意一个点**，最多可以同时被多少片云覆盖。一个点在某时刻被一朵云覆盖当且仅当这个点位于该时刻云朵所处矩形的**内部（不含边界）**。
+
+你需要编写程序帮助元首满足他的好奇心。
+
+# 输入格式
+
+从标准输入读入数据。
+
+输入的第一行包含一个正整数 $T$ —— 数据的组数。接下来包含 $T$ 组数据，格式如下，数据间没有空行。
+
+* 第 $1$ 行：一个正整数 $n$ —— 云朵的数量。
+* 接下来 $n$ 行：每行五个空格分隔的整数 $x_i$、$y_i$、$w_i$、$h_i$ 和 $d_i$ —— 描述一朵云在时刻 $0$ 的状态。
+
+# 输出格式
+
+输出到标准输出。
+
+对于每组数据输出一行 —— 在任意时刻，覆盖平面上任意一个点的云朵数目的最大值。
+
+# 样例
+
+#### 样例输入
+
+```plain
+3
+1
+0 0 1 1 0
+3
+0 -10 10 10 1
+10 0 10 10 1
+-10 0 10 10 0
+3
+0 10 10 10 1
+10 20 10 10 1
+10 0 10 10 0
+```
+
+#### 样例输出
+
+```plain
+1
+2
+2
+```
+
+第 $1$ 组数据中，任意时刻的任意一个点至多被惟一的一片云覆盖。
+
+第 $2$ 组数据中，下图从左至右分别示意时刻 $0$、时刻 $4$、时刻 $11$ 的情形。
+
+![Sample](https://oj.thusaac.org/staticdata/publicfile.nQoFkrziKiTbOyle.sample.png/sample.png)
+
+第 $3$ 组数据中，时刻 $0$ 对应第 $2$ 组数据时刻 $20$ 的情形。在该组数据中，$(-20, 0)$ 内的时刻均有 $2$ 片云覆盖同一个点。请注意考察范围 $(-\infty, +\infty)$ 包含时刻 $0$ 之前的时间段。
+
+# 数据范围与提示
+
+#### 子任务
+
+对于所有数据，有 $1 \leq T \leq 15$，$-5 \times 10^8 \leq x_i, y_i \leq -5 \times 10^8$，$1 \leq w_i, h_i \leq -5 \times 10^8$，$d_i \in \{0, 1\}$。
+
+<!-- BEGIN: Migrated markdown table -->
+
+| 测试点编号 | $n$ | 特殊约定 |
+|-|-|-|
+| 1 | $\leq 1$ | 无 |
+| 2 | $\leq 2$ | 无 |
+| 3 | $\leq 10$ | $-50 \leq x_i, y_i \leq 50$，$1 \leq w_i, h_i \leq 50$ |
+| 4 | $\leq 50$ | $-50 \leq x_i, y_i \leq 50$，$1 \leq w_i, h_i \leq 50$ |
+| 5 | $\leq 100$ | $w_i = h_i = 1$ |
+| 6 | $\leq 1000$ | $-10^{3} \leq x_i, y_i \leq 10^{3}$，$1 \leq w_i, h_i \leq 10^{3}$ |
+| 7 | $\leq 1000$ | $-10^{3} \leq x_i, y_i \leq 10^{3}$，$1 \leq w_i, h_i \leq 10^{3}$ |
+| 8 | $\leq 1000$ | $w_i = h_i = 1$ |
+| 9 | $\leq 100000$ | $w_i = h_i = 1$ |
+| 10 | $\leq 100000$ | 无 |
+
+<!-- Migrated from original HTML table:
+<table class="ui center aligned celled table"><thead><tr><th rowspan="1">测试点编号</th><th rowspan="1">$n$ </th><th rowspan="1">特殊约定</th></tr></thead><tbody><tr><td rowspan="1">1</td><td rowspan="1">$\leq 1$ </td><td rowspan="2">无</td></tr><tr><td rowspan="1">2</td><td rowspan="1">$\leq 2$ </td></tr><tr><td rowspan="1">3</td><td rowspan="1">$\leq 10$ </td><td rowspan="2">$-50 \leq x_i, y_i \leq 50$，$1 \leq w_i, h_i \leq 50$ </td></tr><tr><td rowspan="1">4</td><td rowspan="1">$\leq 50$ </td></tr><tr><td rowspan="1">5</td><td rowspan="1">$\leq 100$ </td><td rowspan="1">$w_i = h_i = 1$ </td></tr><tr><td rowspan="1">6</td><td rowspan="3">$\leq 1000$ </td><td rowspan="2">$-10^{3} \leq x_i, y_i \leq 10^{3}$，$1 \leq w_i, h_i \leq 10^{3}$ </td></tr><tr><td rowspan="1">7</td></tr><tr><td rowspan="1">8</td><td rowspan="2">$w_i = h_i = 1$ </td></tr><tr><td rowspan="1">9</td><td rowspan="2">$\leq 100000$ </td></tr><tr><td rowspan="1">10</td><td rowspan="1">无</td></tr></tbody></table>
+-->
+
+<!-- END: Migrated markdown table --> 
+
+> “_Dann soll die Armee eben kehrt machen!_”
+
+题面与史实无关。
+
+#### 提示
+
+最大输入约为 50 MiB，请注意程序在读入上的耗时哦。
+
+<hr style='color: #ddd; margin-bottom: 1em'>
+
+来自 CodePlus 2018 3 月赛，清华大学计算机科学与技术系学生算法与竞赛协会 荣誉出品。  
+Credit：idea/吕时清　命题/吕时清　验题/丁子钧  
+Git Repo：https://git.thusaac.org/publish/CodePlus3  
+感谢腾讯公司对此次比赛的支持。
+

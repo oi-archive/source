@@ -1,0 +1,119 @@
+
+# 题目描述
+
+有 $n$ 位同学，每位同学都参加了全部的 $m$ 门课程的期末考试，都在焦急的等待成绩的公布。
+
+第 $i$ 位同学希望在第 $t_i$ 天或之前得知**所有**课程的成绩。如果在第 $t_i$ 天，有至少一门课程的成绩没有公布，他就会等待最后公布成绩的课程公布成绩，每等待一天就会产生 $C$ 不愉快度。
+
+对于第 $i$ 门课程，按照原本的计划，会在第 $b_i$ 天公布成绩。
+
+有如下两种操作可以调整公布成绩的时间:
+1. 将负责课程 $X$ 的部分老师调整到课程 $Y$，调整之后公布课程 $X$ 成绩的时间推迟一天，公布课程 $Y$ 成绩的时间提前一天；每次操作产生 $A$ 不愉快度。
+2. 增加一部分老师负责学科 $Z$，这将导致学科 $Z$ 的出成绩时间提前一天；每次操作产生 $B$ 不愉快度。
+
+上面两种操作中的参数 $X, Y, Z$ 均可任意指定，每种操作均可以执行多次，每次执行时都可以重新指定参数。
+
+现在希望你通过合理的操作，使得最后总的不愉快度之和最小，输出最小的不愉快度之和即可。
+
+# 输入格式
+
+第一行三个非负整数 $A, B, C$，描述三种不愉快度，详见【题目描述】；  
+第二行两个正整数 $n, m$，分别表示学生的数量和课程的数量；  
+第三行 $n$ 个正整数 $t_i$，表示每个学生希望的公布成绩的时间；  
+第四行 $m$ 个正整数 $b_i$，表示按照原本的计划，每门课程公布成绩的时间。
+
+# 输出格式
+
+输出一行一个整数，表示最小的不愉快度之和。
+
+# 样例
+
+#### 样例输入 1
+```plain
+100 100 2
+4 5
+5 1 2 3
+1 1 2 3 3
+```
+
+#### 样例输出 1
+```plain
+6
+```
+
+#### 样例解释 1
+由于调整操作产生的不愉快度太大，所以在本例中最好的方案是不进行调整；全部的 $5$ 门课程中，最慢的在第 $3$ 天出成绩；  
+同学 $1$ 希望在第 $5$ 天或之前出成绩，所以不会产生不愉快度；  
+同学 $2$ 希望在第 $1$ 天或之前出成绩，产生的不愉快度为 $(3 - 1) \times 2 = 4$；  
+同学 $3$ 希望在第 $2$ 天或之前出成绩，产生的不愉快度为 $(3 - 2) \times 2 = 2$；  
+同学 $4$ 希望在第 $3$ 天或之前出成绩，所以不会产生不愉快度；  
+不愉快度之和为 $4 + 2 = 6$。
+
+#### 样例输入 2
+```plain
+3 5 4
+5 6
+1 1 4 7 8
+2 3 3 1 8 2
+```
+
+#### 样例输出 2
+```plain
+33
+```
+
+# 数据范围与提示
+
+<!-- BEGIN: Migrated markdown table -->
+
+| Case # | $n, m, t_i, b_i$ | $A, B, C$ |
+|:-:|:-:|:-:|
+| 1, 2 | $1 \leq n, m, t_i, b_i \leq 2000$ | $A = 10^9; B = 10^9; 0 \leq C \leq 10^2$ |
+| 3, 4 | $1 \leq n, m, t_i, b_i \leq 2000$ | $0 \leq A; C \leq 10^2; B = 10^9$ |
+| 5, 6, 7, 8 | $1 \leq n, m, t_i, b_i \leq 2000$ | $0 \leq B \leq A \leq 10^2; 0 \leq C \leq 10^2$ |
+| 9 - 12 | $1 \leq n, m, t_i, b_i \leq 2000$ | $0 \leq A, B, C \leq 10^2$ |
+| 13, 14 | $1 \leq n, m, t_i, b_i \leq 10^5$ | $0 \leq A, B \leq 10^5; C = 10^{16}$ |
+| 15 - 20 | $1 \leq n, m, t_i, b_i \leq 10^5$ | $0 \leq A, B, C \leq 10^5$ |
+
+<!-- Migrated from original HTML table:
+<table class='ui table'>
+<thead>
+    <tr>
+        <th style='text-align: center;'> Case # </th>
+        <th style='text-align: center;'> $n, m, t_i, b_i$ </th>
+        <th style='text-align: center;'> $A, B, C$ </th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td style='text-align: center;'>1, 2</td>
+        <td style='text-align: center;' rowspan='4'> $1 \leq n, m, t_i, b_i \leq 2000$ </td>
+        <td style='text-align: center;'> $A = 10^9; B = 10^9; 0 \leq C \leq 10^2$ </td>
+    </tr>
+    <tr>
+        <td style='text-align: center;'>3, 4</td>
+        <td style='text-align: center;'> $0 \leq A; C \leq 10^2; B = 10^9$ </td>
+    </tr>
+    <tr>
+        <td style='text-align: center;'>5, 6, 7, 8</td>
+        <td style='text-align: center;'> $0 \leq B \leq A \leq 10^2; 0 \leq C \leq 10^2$ </td>
+    </tr>
+    <tr>
+        <td style='text-align: center;'>9 - 12</td>
+        <td style='text-align: center;'> $0 \leq A, B, C \leq 10^2$ </td>
+    </tr>
+    <tr>
+        <td style='text-align: center;'>13, 14</td>
+        <td style='text-align: center;' rowspan='2'> $1 \leq n, m, t_i, b_i \leq 10^5$ </td>
+        <td style='text-align: center;'> $0 \leq A, B \leq 10^5; C = 10^{16}$ </td>
+    </tr>
+    <tr>
+        <td style='text-align: center;'>15 - 20</td>
+        <td style='text-align: center;'> $0 \leq A, B, C \leq 10^5$ </td>
+    </tr>
+</tbody>
+</table>
+-->
+
+<!-- END: Migrated markdown table -->
+
