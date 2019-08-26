@@ -1,0 +1,43 @@
+
+# Description
+
+<div class="content">波罗的海的考古学家最近正参与一个非常重要的工程，并发现了一个古老的手稿 ，这个手稿对于理解他们正在探索区域的居民文化起着关键性的作用。手稿上主要由图案构成, 因此考古学家能够对文档的主题有个大致的概念。 
+
+然而，手稿中仍有一些书写部分，使考古学家百思不得其解。由于除了其所使用语言过于古老，手稿还有部分段落被毁，其中一些单词也模糊了，所以他们不能完整的理解这部分的含义。 
+
+其中一个考古学家说，手稿中的一些单词使他想到了某种语言：在这种语言的单词中不会有超过Vc个连续的元音和Cc连续的辅音, 同时不会有超过VE个连续的元音和CE个连续的辅音是相同的。
+
+考古学家留下一组人员寻找更多准确的信息。另一部分人， 在等待那些人的回音的同时，决定检查手稿中是否有东西违背那位考古学家的假设，并且估计目前的工作量，所以他们想知道手稿究竟有多少种译解方法。我们必须帮助他们！
+
+注意： 元音是指 “aeiou” 而其它21个英文字母为辅音。
+
+</div>
+
+# Input
+
+<div class="content"> The first line of the input file contains four integers VE, VC, CE and CC (1 ≤ VE ≤ VC ≤ 4, 1 ≤ CE ≤ CC ≤ 4) separated by single spaces. 第二行描述一个从手稿中抽出的单词，它由最多15个英文小写单词构成，如果某一位为“*”，那么说明这个字母已经模糊不清了。
+</div>
+
+# Output
+
+<div class="content"> 输出只有一个整数，描述有多少种可能的合法单词符合上文给出的限制条件。你可以假设答案不超过64位带符号的整数。有可能那位考古学家的假设是错误的，不存在任何一种可能的合法单词，那么答案输出为0。
+</div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">1 1 1 1<br/>
+a**<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">105</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

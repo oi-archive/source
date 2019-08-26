@@ -1,0 +1,82 @@
+
+# Description
+
+<div class="content"><div>【题目背景】</div>
+<div>拿到了飞机的驾照(?)，这样补给就不愁了</div>
+<div>XXXX年XX月XX日</div>
+<div>拿到了喷气机(??)的驾照，这样就飞得更快了</div>
+<div>XXXX年XX月XX日</div>
+<div>拿到了攻击机(???)的驾照（不存在的）</div>
+<div>XXXX年XX月XX日</div>
+<div>用铅版做夹层的话，机身可是会变重的呢</div>
+<div>XXXX年XX月XX日</div>
+<div>幸酱的特制快递，精确投递到了目标地点</div>
+<div>-------------------------------------</div>
+<div>又是核平的一天。</div>
+<div>天音正在给喷气机做保养，并充填燃料。</div>
+<div>这种喷气机是某姬(?????)特别制作的，发动机拥有三种工作状态</div>
+<div>1、通常型（Original）：在高空平飞或隐蔽飞行时进行的低功耗高效率工作状态</div>
+<div>2、后期型（Extended）：为在俯冲时最大化能量利用率而特别改造过的工作状态</div>
+<div>3、增强型（Enhanced）：在俯冲攻击结束后为产生极限扭力抬高高度的工作状态</div>
+<div>在一次攻击中，喷气机将会经历&#34;通常-后期-增强-通常&#34;的工作流程</div>
+<div>不同工作状态中，燃料的利用效率是不同的</div>
+<div>现在天音正在调整喷气机燃料装填序列</div>
+<div>你需要做的就是求出燃料能产生的最大总能量</div>
+<div>为什么是你？</div>
+<div>和平还是核平，选一个吧</div>
+<div></div>
+<div>【题目描述】</div>
+<div>初始燃料序列为空。每次操作会向序列中的pi位置添加xi单位的同种燃料，该燃料每一单位在三种工作状态下能产</div>
+<div>生的能量分别为ai, bi, ci。添加的位置pi是指，在添加后，加入的第一个单位燃料前面有pi个单位的原燃料。全</div>
+<div>部的xi单位燃料依次放置，然后原来在pi位置的燃料（如果有的话）依次向后排列。对于一个确定的燃料序列，其</div>
+<div>能产生的最大总能量为：将序列依次分成&#34;通常-后期-增强-通常&#34;四段（每段可以为空），每一段在对应工作状态</div>
+<div>下产生的能量之和的最大值。对于每次添加操作，你需要给出该次操作使得最大总能量增加了多少。如果对于这种</div>
+<div>计算方式没有直观的感受，可以查看样例说明。</div></div>
+
+# Input
+
+<div class="content"><div>第一行一个数n，表示操作个数。</div>
+<div>接下来n行，每行5个数pi, ai, bi, ci, xi，空格分隔，表示向序列中的pi位置添加xi单位的同种燃料</div>
+<div>这种燃料每单位在通常、后期、增强工作状态下产生的能量分别为ai, bi, ci。</div>
+<div>对于100%的数据，1 ≤ n ≤ 10^5, 1 ≤ ai, bi, ci ≤ 10^4， 1 ≤ xi ≤ 10^9。</div>
+<div>对于100%的数据，保证插入时序列中至少已有pi单位的燃料。</div></div>
+
+# Output
+
+<div class="content"><div>n行，每行一个数，表示该次操作后能量序列所能产生的最大总能量增加了多少。</div></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">5<br/>
+0 25 37 46 2<br/>
+1 32 14 16 3<br/>
+3 99 77 88 4<br/>
+2 43 68 57 5<br/>
+14 72 36 18 6</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">92<br/>
+75<br/>
+396<br/>
+319<br/>
+432<br/>
+<br/>
+【样例解释】<br/>
+第一次操作后，燃料序列为[1 1]，最大能量发生方式为[En1 En1]，共46+46=92。<br/>
+第二次操作后，燃料序列为[1 2 2 2 1]，最大能量发生方式为[Or1 Or2 Or2 Or2 En1]，共25+32+32+32+46=167，增加了167-92=75。<br/>
+第三次操作后，燃料序列为[1 2 2 3 3 3 2 1]，最大能量发生方式为[Or1 Or2 Or2 Or3 Or3 Or3 Or3 Or2 En1]，增加了99*4=396。<br/>
+第四次操作后，燃料序列为[1 2 4 4 4 4 4 2 3 3 3 2 1]<br/>
+最大能量发生方式为[Or1 Or2 Ex4 Ex4 Ex4 Ex4 Ex4 Or2 Or3 Or3 Or3 Or3 Or2 Or1]。<br/>
+第五次操作后，燃料序列为[1 2 4 4 4 4 4 2 3 3 3 2 1 5 5 5 5 5 5]<br/>
+最大能量发生方式为[Or1 Or2 Ex4 Ex4 Ex4 Ex4 Ex4 Or2 Or3 Or3 Or3 Or3 Or2 Or1 Or5 Or5 Or5 Or5 Or5 Or5]。<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

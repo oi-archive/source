@@ -1,0 +1,63 @@
+
+# Description
+
+<div class="content"><div>由乃有一天去参加一个商场举办的游戏。商场派了一些球王排成一行。每个人面前有几堆球。说来也巧，由乃和你</div>
+<div>一样，觉得这游戏很无聊，于是决定换一个商场。另一个商场是Deus的，他看到由乃来了，于是想出了一个更有趣</div>
+<div>的游戏：写数据结构题这个题是这样的：</div>
+<div></div>
+<div>我们的情人，不过是随便借个名字，用幻想吹出来的肥皂泡，把信拿去吧，你可以使假戏成真。我本来是无病呻吟</div>
+<div>，漫无目的的吐露爱情---现在这些漂泊不定的鸟儿有地方栖息了，你可以从信里看出来。拿去吧---由于不是出自</div>
+<div>真心，话就说得格外动听，拿去吧，就这么办吧...由于世界会在7月20日完结，作为救世主，间宫卓司要在19日让</div>
+<div>所有人回归天空现在已经是19日傍晚，大家集合在C栋的天台上，一共n个人在他们面前，便是终之空，那终结的天</div>
+<div>空</div>
+<div></div>
+<div>回归天空是一件庄重的事情，所以卓司决定让大家分批次进行，给每个人给了一个小写字母&#39;a&#39;-&gt;&#39;z&#39;作为编号一个</div>
+<div>区间的人如果满足他们的编号重排之后可以成为一个回文串，则他们可以一起回归天空，即这个区间可以回归天空</div>
+<div>由于卓司是一个喜欢妄想的人，他妄想了m个区间，每次他想知道每个区间中有多少个子区间可以回归天空因为世</div>
+<div>界末日要来了，所以卓司的信徒很多</div>
+<div></div>
+<div>由乃天天做数据结构已经快恶心死了，于是让您帮她做当然，您天天做数据结构题，肯定也觉得恶心死了，不过可</div>
+<div>爱即正义！所以这个题还是要做的~</div>
+<p></p></div>
+
+# Input
+
+<div class="content"><div>第一行两个数n,m</div>
+<div>之后一行一个长为n的字符串，代表每个人的编号</div>
+<div>之后m行每行两个数l,r代表每次卓司妄想的区间</div>
+<div>n,m&lt;=60000</div>
+<p></p></div>
+
+# Output
+
+<div class="content"><div>m行，每行一个数表示答案</div>
+<p></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">6 6<br/>
+zzqzzq<br/>
+1 6<br/>
+2 4<br/>
+3 4<br/>
+2 3<br/>
+4 5<br/>
+1 1</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">16<br/>
+4<br/>
+2<br/>
+2<br/>
+3<br/>
+1</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=By 佚名提供">By 佚名提供</a></p></div>
+

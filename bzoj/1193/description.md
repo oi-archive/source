@@ -8,7 +8,7 @@
 <div>出发经过一步马步移动可以达到 (xp+1,yp+2)、(xp+2,yp+1)、(xp+1,yp-2)、(xp+2,yp-1)、(xp-1,yp+2)、(xp-2,</div>
 <div>yp+1)、(xp-1,yp-2)、(xp-2,yp-1)。假设棋盘充分大，并且坐标可以为负数。现在请你求出从点 p 到点 s 至少</div>
 <div>需要经过多少次马步移动？</div>
-<div><img src="source/bzoj/1193/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE2MDYvaG9yc2UucG5n.png" width="153" height="152" alt=""/></div></div>
+<div><img src="source/bzoj/1193/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNi9ob3JzZS5wbmc=.png" width="153" height="152" alt=""/></div></div>
 
 # Input
 

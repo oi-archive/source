@@ -1,0 +1,45 @@
+
+# Description
+
+<div class="content"><p><span style="font-size: medium">为了避免餐厅过分拥挤，FJ要求奶牛们分3批就餐。每天晚饭前，奶牛们都会在餐厅前排队入内，按FJ的设想所有第3批就餐的奶牛排在队尾，队伍的前端由设定为第1批就餐的奶牛占据，中间的位置就归第2批就餐的奶牛了。由于奶牛们不理解FJ的安排，晚饭前的排队成了一个大麻烦。 第i头奶牛有一张标明她用餐批次D_i(1 &lt;= D_i &lt;= 3)的卡片。虽然所有N(1 &lt;= N &lt;= 30,000)头奶牛排成了很整齐的队伍但谁都看得出来，卡片上的号码是完全杂乱无章的。 在若干次混乱的重新排队后，FJ找到了一种简单些的方法：奶牛们不动，他沿着队伍从头到尾走一遍把那些他认为排错队的奶牛卡片上的编号改掉，最终得到一个他想要的每个组中的奶牛都站在一起的队列，例如111222333或者333222111。哦，你也发现了，FJ不反对一条前后颠倒的队列，那样他可以让所有奶牛向后转，然后按正常顺序进入餐厅。 你也晓得，FJ是个很懒的人。他想知道，如果他想达到目的，那么他最少得改多少头奶牛卡片上的编号。所有奶牛在FJ改卡片编号的时候，都不会挪位置。 </span></p></div>
+
+# Input
+
+<div class="content"><p><span style="font-size: medium">第1行: 1个整数：N 第2..N+1行: 第i+1行是1个整数，为第i头奶牛的用餐批次D_i </span></p></div>
+
+# Output
+
+<div class="content"><p><span style="font-size: medium">第1行: 输出1个整数，为FJ最少要改几头奶牛卡片上的编号，才能让编号变成他设想中的样子 </span></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">5<br/>
+1<br/>
+3<br/>
+2<br/>
+1<br/>
+1<br/>
+输入说明: <br/>
+<br/>
+队列中共有5头奶牛，第1头以及最后2头奶牛被设定为第一批用餐，第2头奶牛的预设是第三批用餐，第3头则为第二批用餐。 <br/>
+<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">1<br/>
+<br/>
+输出说明: <br/>
+<br/>
+如果FJ想把当前队列改成一个不下降序列，他至少要改2头奶牛的编号，一种可行的方案是：把队伍中2头编号不是1的奶牛的编号都改成1。不过，如果FJ选择把第1头奶牛的编号改成3就能把奶牛们的队伍改造成一个合法的不上升序列了。 <br/>
+<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=Silver">Silver</a></p></div>
+

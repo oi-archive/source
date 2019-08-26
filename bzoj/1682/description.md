@@ -1,0 +1,42 @@
+
+# Description
+
+<div class="content"><p><span style="font-size: medium">The cows have run out of hay, a horrible event that must be remedied immediately. Bessie intends to visit the other farms to survey their hay situation. There are N (2 &lt;= N &lt;= 2,000) farms (numbered 1..N); Bessie starts at Farm 1. She&#39;ll traverse some or all of the M (1 &lt;= M &lt;= 10,000) two-way roads whose length does not exceed 1,000,000,000 that connect the farms. Some farms may be multiply connected with different length roads. All farms are connected one way or another to Farm 1. Bessie is trying to decide how large a waterskin she will need. She knows that she needs one ounce of water for each unit of length of a road. Since she can get more water at each farm, she&#39;s only concerned about the length of the longest road. Of course, she plans her route between farms such that she minimizes the amount of water she must carry. Help Bessie know the largest amount of water she will ever have to carry: what is the length of longest road she&#39;ll have to travel between any two farms, presuming she chooses routes that minimize that number? This means, of course, that she might backtrack over a road in order to minimize the length of the longest road she&#39;ll have to traverse. </span></p>
+<div></div>
+<div><span style="font-size: medium">    牛们干草要用完了！贝茜打算去勘查灾情．</span></div>
+<div><span style="font-size: medium">    有N(2≤N≤2000)个农场，M(≤M≤10000)条双向道路连接着它们，长度不超过109．每</span><span style="font-size: medium">一个农场均与农场1连通．贝茜要走遍每一个农场．她每走一单位长的路，就要消耗一单位的水．从一个农场走到另一个农场，她就要带上数量上等于路长的水．请帮她确定最小的水箱容量．也就是说，确定某一种方案，使走遍所有农场通过的最长道路的长度最小，必要时她可以走回头路．</span></div></div>
+
+# Input
+
+<div class="content"><p>* Line 1: Two space-separated integers, N and M. * Lines 2..1+M: Line i+1 contains three space-separated integers, A_i, B_i, and L_i, describing a road from A_i to B_i of length L_i.</p>
+<div><span style="font-size: medium">    第1行输入两个整数N和M;接下来M行，每行输入三个整数，表示一条道路的起点终点和长</span><span style="font-size: medium">度．</span></div>
+<div><span style="font-size: medium">   </span></div></div>
+
+# Output
+
+<div class="content"><p>* Line 1: A single integer that is the length of the longest road required to be traversed.</p>
+<div> </div>
+<div><span style="font-size: medium">    输出一个整数，表示在路线上最长道路的最小值．</span></div></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">3 3<br/>
+1 2 23<br/>
+2 3 1000<br/>
+1 3 43<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">43<br/>
+<br/>
+ 由1到达2，需要经过长度23的道路；回到1再到3，通过长度43的道路．最长道路为43</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=Silver">Silver</a></p></div>
+

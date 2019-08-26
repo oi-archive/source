@@ -1,0 +1,45 @@
+
+# Description
+
+<div class="content">今天是Byteman的生日。有n个孩子参加他的生日宴会（包括Byteman）。孩子们从1到n编号。Byteman的父母准备了一张大圆桌并放了n把椅子在圆桌周围。孩子们来了就坐下。1号孩子坐其中一个，然后2号孩子坐在他左边，然后3号孩子坐在2号左边，以此类推。最后n号孩子坐在最后一个空椅子上，也就是n-1号孩子和1号孩子之间。
+Byteman的父母非常了解这些孩子，知道如果有些孩子坐在一起就会非常吵。因此他们将按特定顺序调整这些孩子的座位。用一个置换p1,p2,…,pn (p1,p2…pn是1到n的整数)来表示这个顺序。孩子p1将坐在p2和pn之间，孩子pi(i=2,3,…n-1)将坐在孩子pi-1和pi+1之间，孩子pn将坐在孩子pn-1和p1之间。需要注意的是p1可以坐在pn左边也可以坐在pn右边。
+让所有孩子按给定顺序做好，Byteman父母必须让每个孩子绕圆桌向左或向右移动一些座位。他们必须决定每个孩子如何移动，也就是说它们必须决定一个方向，以及距离。对于给定的移动信号，所有孩子立刻站起来，移到合适的位置坐下。
+串座过程使研会变得乱七八糟，乱七八糟值等于所有孩子中最大移动距离，孩子们可以以很多种方式移动，Byteman父母将选择乱七八糟值最小的。帮他们找到这一种方案。
+任务
+你的任务是写一个程序：
+*从标准输入读入孩子的数目和描述目标序列的那个置换。
+*算出最小的乱七八糟值。
+*向标准输出输出结果。
+</div>
+
+# Input
+
+<div class="content">第一行包括一个整数n(1≤n≤1000000)。
+第二行包括n个整数p1,p2,…,pn，以一个空格分开。p1,p2,…,pn是集合{1,2,…n}的一个置换，描述目标顺序。
+另外，50%的数据n不超过1000。
+</div>
+
+# Output
+
+<div class="content">一行包含一个整数：最小的乱七八糟值。
+</div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">6<br/>
+3 4 5 1 2 6	</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">2<br/>
+<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

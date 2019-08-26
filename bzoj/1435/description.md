@@ -1,0 +1,42 @@
+
+# Description
+
+<div class="content"><div>有一个n × m 的矩形表格，其中有一些位置有障碍。现在要在这个表格内 放一些1 × 2 或者2 × 1 的多米诺骨</div>
+<div>牌，使得任何两个多米诺骨牌没有重叠部 分，任何一个骨牌不能放到障碍上。并且满足任何相邻两行之间都有至</div>
+<div>少一个 骨牌横跨，任何相邻两列之间也都至少有一个骨牌横跨。求有多少种不同的放 置方法，注意你并不需要放</div>
+<div>满所有没有障碍的格子。</div></div>
+
+# Input
+
+<div class="content"><div>
+<div>第一行两个整数n;m。</div>
+<div>接下来n行，每行m个字符，表示这个矩形表格。</div>
+<div>其中字符“x”表示这个位置有障碍，字符“.”表示没有障碍。</div>
+<div>1 ≤ n;m ≤ 15</div>
+</div></div>
+
+# Output
+
+<div class="content"><p>一行一个整数，表示不同的放置方法数mod 19901013 的值。</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">3 3<br/>
+...<br/>
+...<br/>
+...<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">2<br/>
+//两种放置方法分别为 112 411 4.2 4.2 433 332 注意这里的数字只用于区分骨牌，不同的排列并不代表不同的方案。</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

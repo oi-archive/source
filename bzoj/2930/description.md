@@ -1,0 +1,61 @@
+
+# Description
+
+<div class="content"><div style="text-indent: 24pt"><span style="font-size: 12pt">在一幢豪华的公寓中，有一块面积巨大的正方形大厅。这个大厅的地板被分成了</span><span style="font-size: 12pt">3<sup>k</sup></span><span style="font-size: 12pt">×</span><span style="font-size: 12pt">3<sup>k</sup></span><span style="font-size: 12pt">个格子，每个格子上都被铺了一块与格子面积大小一致的瓷砖，如此的布置使得整个大厅显得更加的气派。遗憾的是，地板上有一块瓷砖因为损坏而被移走了，这就留下了一个洞。</span></div>
+<div style="text-indent: 24pt"><span style="font-size: 12pt">为了方便的表示这个洞的位置，我们将大厅的地板置于一个平面直角坐标系中，最西南方的格子的坐标为</span><span style="font-size: 12pt">(1,1)</span><span style="font-size: 12pt">，往东是</span><span style="font-size: 12pt">X</span><span style="font-size: 12pt">轴的正方向，往北是</span><span style="font-size: 12pt">Y</span><span style="font-size: 12pt">轴的正方向。</span></div>
+<div style="text-indent: 24pt"><span style="font-size: 12pt">一个梦游者正在这个大厅里游荡。梦游者从西南方</span><span style="font-size: 12pt">(1,1)</span><span style="font-size: 12pt">出发，每次可以往四周的方向（东</span><span style="font-size: 12pt">E</span><span style="font-size: 12pt">、南</span><span style="font-size: 12pt">S</span><span style="font-size: 12pt">、西</span><span style="font-size: 12pt">W</span><span style="font-size: 12pt">、北</span><span style="font-size: 12pt">N</span><span style="font-size: 12pt">）移动，要走便所有的格子而不重复。他的行动路线十分怪异，例如</span><span style="font-size: 12pt">k=1</span><span style="font-size: 12pt">，即地板是</span><span style="font-size: 12pt">3</span><span style="font-size: 12pt">×</span><span style="font-size: 12pt">3</span><span style="font-size: 12pt">规模时，他的行走路线为：</span><span style="font-size: 12pt">D<sub>1</sub>=EENNWSWN</span><span style="font-size: 12pt">；当</span><span style="font-size: 12pt">k=2</span><span style="font-size: 12pt">时，地板是</span><span style="font-size: 12pt">9</span><span style="font-size: 12pt">×</span><span style="font-size: 12pt">9</span><span style="font-size: 12pt">规模，他的行走路线</span><span style="font-size: 12pt">D<sub>2</sub>=NNEESWSEENNEESWSEEEENNWSWNNEENNWSWNNEENNWSWNWWWSSENESSSSWWNENWWSSWWNENWNEENNWSWN</span><span style="font-size: 12pt">。</span></div>
+<div style="text-indent: 24pt"><span style="font-size: 12pt">直观的将路线画在图上如下图：</span></div>
+<div style="text-indent: 24pt"></div>
+<div style="text-indent: 24pt"><span style="font-size: 12pt"><img height="234" width="354" alt="" src="source/bzoj/2930/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSgyKS5qcGc=.jpg"/></span></div>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">总的来说，当地板规模是</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">3<sup>k+1</sup></font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">×</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">3<sup>k+1</sup></font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">时，梦游者的路径为</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">D<sub>k+1 </sub>= a(D<sub>k</sub>) E a(D<sub>k</sub>) E D<sub>k</sub> N D<sub>k</sub> N D<sub>k</sub> W c(D<sub>k</sub>) S b(D<sub>k</sub>) W b(D<sub>k</sub>) N D<sub>k</sub><o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">其中，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">a()</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">b()</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">c()</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">均表示一种字母置换，具体如下：</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><img height="110" width="220" alt="" src="source/bzoj/2930/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8yMigxKS5qcGc=.jpg"/></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"></p>
+<p>
+</p><p></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"></p>
+<p></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">例如，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">a(SEN)=WNE, b(SEN)=ESW, c(SEN)=NWS<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">现在，梦游者正站在坐标为</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">(x1,y1)</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">的地板上，而没有因为瓷砖损坏造成了一个洞的地板坐标为</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">(x2,y2)</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">。你能求出可怜的梦游者将在第几步后跌入洞中么？</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"></p></div>
+
+# Input
+
+<div class="content"><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">第一行有一个数字</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">k</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">（</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">1&lt;=k&lt;=60</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">），表示大厅地板的规模是</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">3<sup>k</sup></font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">×</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">3<sup>k</sup></font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">第二行有两个数字，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">x1</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">和</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">y1</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">表示梦游者</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">L</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">先生开始所站的坐标位置。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">第三行有两个数字，</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">x2</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">和</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">y2</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">表示洞的坐标位置。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">可以保证的是梦游者在若干步之后一定会跌入洞中。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt"><o:p><font face="Times New Roman"> </font></o:p></span></p>
+<p></p></div>
+
+# Output
+
+<div class="content"><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">输出文件只有一行，一个数字，表示多少步后，梦游者会跌如洞中。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman"><span style="mso-spacerun: yes"> </span><o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman"><o:p></o:p></font></span></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">2<br/>
+3 2<br/>
+7 2<br/>
+<br/>
+ <br/>
+<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">20<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

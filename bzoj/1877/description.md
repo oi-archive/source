@@ -1,0 +1,48 @@
+
+# Description
+
+<div class="content"><div>Elaxia最近迷恋上了空手道，他为自己设定了一套健身计划，比如俯卧撑、仰卧起坐等 等，不过到目前为止，他</div>
+<div>坚持下来的只有晨跑。 现在给出一张学校附近的地图，这张地图中包含N个十字路口和M条街道，Elaxia只能从 一</div>
+<div>个十字路口跑向另外一个十字路口，街道之间只在十字路口处相交。Elaxia每天从寝室出发 跑到学校，保证寝室</div>
+<div>编号为1，学校编号为N。 Elaxia的晨跑计划是按周期（包含若干天）进行的，由于他不喜欢走重复的路线，所以 </div>
+<div>在一个周期内，每天的晨跑路线都不会相交（在十字路口处），寝室和学校不算十字路 口。Elaxia耐力不太好，</div>
+<div>他希望在一个周期内跑的路程尽量短，但是又希望训练周期包含的天 数尽量长。 除了练空手道，Elaxia其他时间</div>
+<div>都花在了学习和找MM上面，所有他想请你帮忙为他设计 一套满足他要求的晨跑计划。</div></div>
+
+# Input
+
+<div class="content"><div>第一行：两个数N,M。表示十字路口数和街道数。 </div>
+<div>接下来M行，每行3个数a,b,c，表示路口a和路口b之间有条长度为c的街道（单向）。</div>
+<div>N ≤ 200，M ≤ 20000。</div>
+<p></p></div>
+
+# Output
+
+<div class="content"><p>两个数，第一个数为最长周期的天数，第二个数为满足最长天数的条件下最短的路程长 度。</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">7 10<br/>
+1 2 1<br/>
+1 3 1<br/>
+2 4 1<br/>
+3 4 1<br/>
+4 5 1<br/>
+4 6 1<br/>
+2 5 5<br/>
+3 6 6<br/>
+5 7 1<br/>
+6 7 1</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">2 11</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=Day1">Day1</a></p></div>
+

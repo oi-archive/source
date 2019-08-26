@@ -1,0 +1,43 @@
+
+# Description
+
+<div class="content"><div><span style="font-size: 12pt">    </span><span style="font-size: 12pt">每个非空的0，1元素的序列称作一个二进制单词。一个单词等式是一个形式为X1X2…XL＝Y1Y2…YR的等式，XI和YJ是二进制数字（0或1）或者变体的英文小写字母（即通常我们所说的变量）。对于每个变体代替一个固定长度的二进制单词，这个长度称作变体的长度。为了解决一个单词等式我们必须给所有的变体分配适当长度的二进制单词（分配给变体X的单词长度必须等于这个变体的长度）。采用这种方式，如果用变体代替单词，那么等式的两边（替换后的二进制单词）相等。</span></div>
+<div><span style="font-size: 12pt">    </span><span style="font-size: 12pt">对于一个给定的等式，计算它有多少种不同的方法使等式成立。</span></div>
+<div><span style="font-size: 12pt">例如：A，B，C，D，E是变体，它们的长度分别是4，2，4，4，2，（即A的长度是4，B的长度是2，……）；考虑等式：1BAD1＝ACBE</span></div>
+<div><span style="font-size: 12pt">    </span><span style="font-size: 12pt">这个等式有16种不同的方法能使等式成立。</span></div>
+<div><b><span style="font-size: 12pt">【任务】编写程序：</span></b></div>
+<div style="margin: 0cm 0cm 0pt 39pt; text-indent: -18pt"><span style="font-size: 12pt">１、<span style="font: 7pt &#39;Times New Roman&#39;">            </span></span><span style="font-size: 12pt">读入等式的总数及它们的描述；</span></div>
+<div style="margin: 0cm 0cm 0pt 39pt; text-indent: -18pt"><span style="font-size: 12pt">２、<span style="font: 7pt &#39;Times New Roman&#39;">            </span></span><span style="font-size: 12pt">寻找对于每个等式最多有多少种不同方法使等式成立；</span></div>
+<div style="margin: 0cm 0cm 0pt 39pt; text-indent: -18pt"><span style="font-size: 12pt">３、<span style="font: 7pt &#39;Times New Roman&#39;">            </span></span><span style="font-size: 12pt">将结果输出</span></div></div>
+
+# Input
+
+<div class="content"><div> <span style="font-size: 12pt">第一行有一个整数X，1≤X≤5，表示等式的总数。下面的行包含X个等式的描述，每个等式的描述包含6行，描述的等式间没有空行，每个等式的描述是：第一行有一个整数K，0≤K≤26，表示等式中不同变体的个数，并且假定是用英文字母表中的前K个小写字母；第二行有K个正整数，它们由空格分开，代表等式中K个变体的长度；第三行有一个整数L，表示等式左边二进制单词的长度，这个长度包括0、1、及变体；第四行是等式左边的二进制单词；第五行有一个整数R，表示等式右边二进制单词的长度；第六行是等式右边的二进制单词。在等式两边的二进制单词的长度总和不超过10000。</span></div></div>
+
+# Output
+
+<div class="content"><div><span style="font-size: 12pt">    </span><span style="font-size: 12pt">对于每个I，1≤I≤X，你的程序应该在输出文件PRO．OUT的第I行上写出第I个等式有多少种不同的方法使等式成立。</span></div></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">1                                         <br/>
+5<br/>
+4 2 4 4 2<br/>
+5<br/>
+1BAD1<br/>
+4<br/>
+ACBE</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata"> 16<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

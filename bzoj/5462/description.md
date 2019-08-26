@@ -1,0 +1,60 @@
+
+# Description
+
+<div class="content"><div>五福街是一条笔直的道路，这条道路可以看成一个数轴，街上每个建筑物的坐标都可以用一个整数来表示。小明是</div>
+<div>一位时光旅行者，他知道在这条街上，在过去现在和未来共有 n 个商店出现。第 i 个商店可以使用四个整数 x_i</div>
+<div>, t_i, a_i, b_i 描述，它们分别表示：商店的坐标、商店的类型、商店开业的年份、商店关闭的年份。</div>
+<div></div>
+<div>小明希望通过时光旅行，选择一个合适的时间，住在五福街上的某个地方。他给出了一份他可能选择的列表，上面</div>
+<div>包括了 q 个询问，每个询问用二元组（坐标，时间）表示。第 i 对二元组用两个整数 l_i, y_i 描述，分别表示</div>
+<div>选择的地点 l_i 和年份 y_i 。  </div>
+<div></div>
+<div>现在，他想计算出在这些时间和地点居住的生活质量。他定义居住的不方便指数为：在居住的年份，离居住点最远</div>
+<div>的商店类型到居住点的距离。类型 t 的商店到居住点的距离定义为：在指定的年份，类型 t 的所有营业的商店中</div>
+<div>，到居住点距离最近的一家到居住点的距离。我们说编号为 i 的商店在第 y 年在营业当且仅当 a_i &lt;= y &lt;= b_i</div>
+<div> 。注意，在某些年份中，可能在五福街上并非所有 k 种类型的商店都有至少一家在营业。在这种情况下，不方便</div>
+<div>指数定义为 -1。你的任务是帮助小明求出每对（坐标，时间）二元组居住的不方便指数。</div>
+<p></p></div>
+
+# Input
+
+<div class="content"><div>第一行包含三个整数 n ， k 和 q，分别表示商店的数量、商店类型的数量和（坐标，时间）二元组的数量。  </div>
+<div>接下来 n 行，每行包含四个整数 x_i, t_i, a_i, 和 b_i 用于描述一家商店，意义如题面所述  </div>
+<div>接下来 q 行，每行包含两个整数 l_i, 和 y_i ，表示一组（坐标，时间）查询</div>
+<div>(1&lt;= n,q&lt;= 3e5,1&lt;= k &lt;= n)</div>
+<div>(1&lt;= x_i,a_i,b_i &lt;= 1e9,1&lt;= t_i &lt;= k,a_i &lt;= b_i)</div>
+<div>(1&lt;= l_i,y_i &lt;= 1e8)</div>
+<p></p></div>
+
+# Output
+
+<div class="content"><div>输出一行，包含q个整数，依次表示对于q组（坐标、时间）询问求出的结果。</div>
+<p></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">4 2 4<br/>
+3 1 1 10<br/>
+9 2 2 4<br/>
+7 2 5 7<br/>
+4 1 8 10<br/>
+5 3<br/>
+5 6<br/>
+5 9<br/>
+1 10</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">4<br/>
+2<br/>
+-1<br/>
+-1</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=鸣谢Qingyu上传">鸣谢Qingyu上传</a></p></div>
+

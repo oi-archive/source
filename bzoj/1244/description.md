@@ -1,0 +1,43 @@
+
+# Description
+
+<div class="content"><p>Mirko和Slavko终于找到了工作——火车司机。第一天上班，他们就接到一个任务：各从一个给定的城市出发，访问尽可能多的城市。  Mirko是个有经验的司机，他什么都不怕。但是Slavko是个新手，如果只有他一个人，他什么都做不了。幸运的是，火车上有无线电收发装置，所以只要Slavko处在Mirko驾驶的火车的通讯范围内，就可以根据Mirko的指令顺利驾驶了。  N座城市处于一个平面上，有的城市之间有铁路相连。Mirko和Slavko从不同的城市出发，他们之间的距离不超过D千米。  火车可以在所有的铁路上以任意速度沿着任意方向行驶。火车不能在非城市的地方更换铁路。在任意时刻，Mirko和Slavko的距离都不能超过D千米。  请你写一个程序，列出Slavoko可能到达的所有城市。</p></div>
+
+# Input
+
+<div class="content"><p>第一行有两个整数N和P，一个实数D，2&lt;=N&lt;=100，1&lt;=P&lt;=3000。N是城市的数目，P是铁路的数目，D是无线电收发装置的最大通讯距离（以千米为单位，保留两位小数）。城市编号从1到N。  接下来的N行，每行两个整数X和Y，-5000&lt;=X,Y&lt;=5000，表示城市的位置。  接下来的P行，每行两个整数G1和G2，表示有一条铁路连接G1和G2。  最后一行有两个整数U和V，分别表示Mirko和Slavko的出发城市。U和V的距离不会超过D千米。</p></div>
+
+# Output
+
+<div class="content"><p>Slavko可以到达的所有城市。一行一个，按照编号从小到大的顺序排序。</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">5 4 1.5<br/>
+0 1<br/>
+0 0<br/>
+4 1<br/>
+4 0<br/>
+2 2<br/>
+1 3<br/>
+1 5<br/>
+3 5<br/>
+2 4<br/>
+2 1<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">1<br/>
+3<br/>
+<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

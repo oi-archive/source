@@ -1,0 +1,45 @@
+
+# Description
+
+<div class="content">在计算机中，CPU只能和高速缓存Cache直接交换数据。当所需的内存单元不在Cache中时，则需要从主存里把数据调入Cache。此时，如果Cache容量已满，则必须先从中删除一个。
+例如，当前Cache容量为3，且已经有编号为10和20的主存单元。
+此时，CPU访问编号为10的主存单元，Cache命中。
+接着，CPU访问编号为21的主存单元，那么只需将该主存单元移入Cache中，造成一次缺失（Cache Miss）。
+接着，CPU访问编号为31的主存单元，则必须从Cache中换出一块，才能将编号为31的主存单元移入Cache，假设我们移出了编号为10的主存单元。
+接着，CPU再次访问编号为10的主存单元，则又引起了一次缺失。我们看到，如果在上一次删除时，删除其他的单元，则可以避免本次访问的缺失。
+在现代计算机中，往往采用LRU(最近最少使用)的算法来进行Cache调度——可是，从上一个例子就能看出，这并不是最优的算法。
+对于一个固定容量的空Cache和连续的若干主存访问请求，聪聪想知道如何在每次Cache缺失时换出正确的主存单元，以达到最少的Cache缺失次数。
+
+</div>
+
+# Input
+
+<div class="content">输入文件第一行包含两个整数N和M(1&lt;=M&lt;=N&lt;=100,000)，分别代表了主存访问的次数和Cache的容量。
+第二行包含了N个空格分开的正整数，按访问请求先后顺序给出了每个主存块的编号(不超过1,000,000,000)。
+ 
+</div>
+
+# Output
+
+<div class="content">输出一行，为Cache缺失次数的最小值。
+ 
+</div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">6 2<br/>
+1 2 3 1 2 3</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">4</span></div>
+
+# Hint
+
+<div class="content"><p>在第4次缺失时将3号单元换出Cache。<br/>
+</p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=JSOI2010第二轮Contest2">JSOI2010第二轮Contest2</a></p></div>
+

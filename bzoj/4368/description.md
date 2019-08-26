@@ -1,0 +1,89 @@
+
+# Description
+
+<div class="content"><p><span lang="EN-US" style="font-size:12.0pt;font-family:宋体">IOI2015</span><span style="font-size:12.0pt;font-family:宋体">开幕式正在进行最后一个环节。按计划在开幕式期间，每个代表队都将收到由主办方发放的一个装有纪念品的盒子。然而所有志愿者都被精彩的开幕式所吸引，除<span lang="EN-US">Aman</span>外其他人完全忘记了发放纪念品这件事。<span lang="EN-US">Aman</span>是一位热情的志愿者，为使得<span lang="EN-US">IOI</span>尽量圆满，他要用最短的时间将所有纪念品发放出去。</span></p>
+<p><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+</w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:普通表格;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体">开幕式的场地是一个圆环，被分为 个完全相等的区域，这些区域的编号依次为 到，也就是说，对于<span lang="EN-US">0</span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:Cambria">≤i≤L-2</span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体">,</span><span style="font-size:12.0pt;font-family:宋体">区域<span lang="EN-US">i</span>与区域<span lang="EN-US">i+1</span>相邻，且区域<span lang="EN-US">L-1</span>与区域<span lang="EN-US">0</span>相邻。场地上共有<span lang="EN-US">N</span>个代表队，每队坐在上面的一个区域上，每个区域可以包含任意多个代表队，也可以为空。</span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体">共有<span lang="EN-US">N</span>个相同的纪念品。开始，<span lang="EN-US">Aman</span>和所有纪念品都在区域<span lang="EN-US">0</span>。<span lang="EN-US">Aman</span>应该给每队一个纪念品，并且在发放完最后一个纪念品后他必须回到区域<span lang="EN-US">0</span>。注意，有些队可能坐在区域<span lang="EN-US">0</span>。</span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体">在任意时刻，<span lang="EN-US">Aman</span>只能够携带至多<span lang="EN-US">K</span>个纪念品。<span lang="EN-US">Aman</span>必须从区域<span lang="EN-US">0</span>取走这些纪念品，且取纪念品不需要时间。纪念品一旦从区域<span lang="EN-US">0</span>被取走后，<span lang="EN-US">Aman</span>只能将其发放给某个代表队或者随身携带。无论何时，<span lang="EN-US">Aman</span>携带一个或更多的纪念品到达一个这样的区域，该区域有一个代表队尚未收到纪念品，<span lang="EN-US">Aman</span>便可将他携带的一个纪念品发给这个代表队。这种发放也在瞬间完成。他所花的时间都消耗在区域之间的移动上。无论携带多少纪念品，<span lang="EN-US">Aman</span>都需要<span lang="EN-US">1</span>秒钟从一个区域移动到其相邻的区域（可以顺时针移动也可以逆时针移动）。</span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体">你的任务是计算出<span lang="EN-US">Aman</span>发放完所有纪念品并返回到他的最初区域所需要的最短时间（秒数）。</span><span lang="PT-BR" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria;mso-ansi-language:PT-BR"><br/>
+</span></p>
+<p></p></div>
+
+# Input
+
+<div class="content"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:
+Cambria">第一行</span><span lang="PT-BR" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria;mso-ansi-language:PT-BR">: N K L</span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:
+Cambria">第二行</span><span lang="FR" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria;mso-ansi-language:FR">: positions[0] </span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:Cambria;mso-ansi-language:
+FR">…<span lang="FR"> positions[N-1]</span></span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria">N: </span><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:Cambria">代表队的数目。</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria">K: Aman</span><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:Cambria">在同一时间能够携带纪念品的最大数目。</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria">L: </span><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:Cambria">开幕式场地上的区域数目。</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria">positions: </span><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:Cambria">一个长度为<span lang="EN-US">N</span>的数组，<span lang="EN-US">positions[0],...,positions[N-1]</span>给出了所有代表队所在区域的编号。<span lang="EN-US">positions </span>的元素按非递减排序。</span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria"><br/>
+</span></p></div>
+
+# Output
+
+<div class="content"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:
+Cambria">一个整数，表示<span lang="EN-US">Aman </span>能够完成这一任务所需的最短时间（秒数）。</span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:Cambria"><br/>
+</span></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">3 2 8<br/>
+1 2 5</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">10</span></div>
+
+# Hint
+
+<div class="content"><p></p><p><img width="581" height="366" src="source/bzoj/4368/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xMS5naWY=.gif" alt=""/></p><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=鸣谢yts1999上传">鸣谢yts1999上传</a></p></div>
+

@@ -7,7 +7,7 @@
 扰；若某个粒子在某个时刻碰到了器皿壁，将发生完全弹性碰撞，即速度方向按照碰撞点的切线镜面反射，且速度<br/>
 大小不变（如图）。认为碰撞是瞬间完成的。<br/>
 </span></p>
-<p><img alt="" src="source/bzoj/1094/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE0MDkvMTA5NC5qcGc=.jpg"/></p>
+<p><img alt="" src="source/bzoj/1094/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS8xMDk0LmpwZw==.jpg"/></p>
 <p><span style="font-size: medium;">　　尽管碰撞不会影响粒子的速率，但是粒子却会受到一定的伤害，所以若某一个粒子碰撞了k次器皿壁，那么在<br/>
 第k次碰撞时它便会消亡。 出于研究的需要，阿Q博士希望知道从时刻0到所有粒子都消亡这段时间内，所有粒子之<br/>
 间的最近距离是什么。你能帮助他么？<br/>

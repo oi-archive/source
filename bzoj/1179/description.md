@@ -8,7 +8,7 @@
 <div>现金数额。他希 望你帮助他计算从市中心出发最后到达某个酒吧时最多能抢劫的现金总数。他可 以经过同一路口</div>
 <div>或道路任意多次。但只要他抢劫过某个 ATM 机后，该 ATM 机 里面就不会再有钱了。 例如，假设该城中有 6 个</div>
 <div>路口，道路的连接情况如下图所示：</div>
-<div><img src="source/bzoj/1179/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE4MDIvMTEucG5n.png" width="332" height="135" alt=""/></div>
+<div><img src="source/bzoj/1179/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMS5wbmc=.png" width="332" height="135" alt=""/></div>
 <div>市中心在路口 1，由一个入口符号→来标识，那些有酒吧的路口用双圈来表示。每个 ATM 机中可取的钱数标在了</div>
 <div>路口的上方。在这个例子中，Banditji 能抢 劫的现金总数为 47，实施的抢劫路线是：1-2-4-1-2-3-5。</div></div>
 

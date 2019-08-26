@@ -1,0 +1,49 @@
+
+# Description
+
+<div class="content"><p> 消棋子是一个有趣的游戏。游戏在一个r * c的棋盘上进行。棋盘的每个格子，要么是空，要么是一种颜色的棋子。同一种颜色的棋子恰好有两个。每一轮，玩家可以选择一个空格子(x, y)，并选择上下左右四个方向中的两个方向，如果在这两个方向上均存在有棋子的格子，而且沿着这两个方向上第一个遇到的棋子颜色相同，那么，我们将这两个棋子拿走，并称之为合法的操作。否则称这个操作不合法，游戏不会处理这个操作。游戏的目的是消除尽量多的棋子。 </p>
+<div>给出这样一个游戏和一个人的玩法。你需要： </div>
+<div>z 指出此人能消去多少棋子。 </div>
+<div>z 给出一种能消去最多棋子的方案。</div>
+<div></div></div>
+
+# Input
+
+<div class="content"><p>第一行给出了整数r, c。第二行给出了整数n，表示不同颜色数。接下来n行，第i行含4个整数a[i], b[i], c[i], d[i]，表示颜色为i的两个格子分别是(a[i], b[i]), (c[i], d[i])。然后是一个整数m，表示此人的操作数。接下来m行，每行有2个整数和2个字母，代表了他选择的格子，以及两个方向。我们用“UDLR”分别表示上下左右。</p>
+<div></div></div>
+
+# Output
+
+<div class="content"><p> 第一行输出此人能消去多少棋子。第二行含一个整数k(0 ≤k ≤10^6)，表示你给出的方案的操作数。接下来k行，每行2个整数和2个字母，代表你选择的格子以及两个方向。</p>
+<div></div></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata"><br/>
+4 4 <br/>
+4 <br/>
+1 1 1 4 <br/>
+1 2 3 4 <br/>
+1 3 3 2 <br/>
+4 1 2 3<br/>
+<br/>
+6 <br/>
+2 3 U R <br/>
+2 1 D R <br/>
+2 2 L R <br/>
+2 4 L D <br/>
+3 1 L R <br/>
+3 3 L U</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata"></span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

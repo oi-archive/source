@@ -10,7 +10,7 @@
 有边界的，而所有的云朵恰好在两个边界之间做着往返运动。每一个单位时间云朵向左或向右运动一个单位，当云<br/>
 朵的左界碰到天空的左界，它会改变方向向右运动；当云朵完全移出了天空的右界，它会改变方向向左运动。我们<br/>
 不妨把天空想象为一个平面直角坐标系，而云朵则抽象为线段（线段可能退化为点)：<br/>
-<img width="311" height="266" alt="" src="source/bzoj/1062/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE2MDQv5peg5qCH6aKYLnBuZw==.png"/><br/>
+<img width="311" height="266" alt="" src="source/bzoj/1062/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC_ml6DmoIfpopgucG5n.png"/><br/>
 如上图，不妨设天空的左界为 0 ，右界为 len 。图中共有 5 片云朵，其中标号为 1 的云朵恰好改变方向向<br/>
 右运动，标号为 2 的云朵恰好改变方向向左运动。忽略云朵的纵坐标，它们在运动过程中不会相互影响。小Z发现<br/>
 天空中会不断出现一些云朵（某个时刻从某个初始位置开始朝某个方向运动），而有的云朵运动到一定时刻就会从<br/>
@@ -25,7 +25,7 @@
 <div class="content"><div>　　输入第一行有两个正整数 n，len ，分别表示事件总数以及天空的“边界”。接下来 n 行每行描述一个事件</div>
 <div>，所有的事件按照输入顺序依次发生。每行的第一个数 k（k=1,2,3）分别表示事件的类型，分别对应三种事件：</div>
 <div>插入事件，询问事件以及删除事件。输入格式如下：</div>
-<div><img src="source/bzoj/1062/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE2MDQvZmZmLnBuZw==.png" width="501" height="361" alt=""/></div>
+<div><img src="source/bzoj/1062/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mZmYucG5n.png" width="501" height="361" alt=""/></div>
 <p></p></div>
 
 # Output

@@ -1,0 +1,36 @@
+
+# Description
+
+<div class="content"><p><span style="font-size: medium">佳佳最近被一个叫做“丹奇方块”的游戏吸引住了，但是却因为游戏太难而迟迟无法通关。游戏在一个没有边界的棋盘上进行，中心(0,0)处有一块黑色的障碍物，不远处坐标值为奇数的N个不同的格子中各有一个灰色方块。游戏的任务是把所有灰色方块全部粘起来组成一个给定的形状，如图一所示。该形状可以出现在棋盘上的任何位置，但不能旋转或者对称。图二描述了一个合法的初始状态，其中在坐标(-1,-1),(1,-1),(1,1)处各有一个灰色方块。</span></p>
+<p><span style="font-size: medium"><img alt="" src="source/bzoj/2545/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDMpLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium">这个游戏看起来简单，但方块数目多，目标形状又很复杂的时候游戏者往往需要很多步才能完成。佳佳希望找到一个不超过2000步的解决方案，你能帮帮他吗？</span></p></div>
+
+# Input
+
+<div class="content"><p class="MsoPlainText" style="margin: 0cm 0cm 0pt"><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt"><font face="宋体">    第一行包含一个整数</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">N</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">（</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">3&lt;=N&lt;=20</span><font face="宋体"><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">）</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt">，即方块个数。<span lang="EN-US"><o:p></o:p></span></span></font></p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt"><font face="宋体"><span lang="EN-US" style="font-size: 12pt; mso-bidi-font-size: 10.0pt"><span style="mso-spacerun: yes">    </span></span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">第</span></font><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">2</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">行包含</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">N</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">个整数对</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">x<sub>i</sub>, y<sub>i</sub>, (-9&lt;=x<sub>i</sub>,y<sub>i</sub>&lt;=9,<i style="mso-bidi-font-style: normal"> </i>x<sub>i</sub>,y<sub>i</sub></span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">为奇数</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">) </span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">其中第</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">i</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">个整数对代表第</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">i</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">个方块的初始位置。位置按照从上到下（即</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">x</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">递增）从左到右（即</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">y</span><font face="宋体"><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">递增）的顺序排列。</span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt"><o:p></o:p></span></font></p>
+<p class="MsoPlainText" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt"><span style="mso-spacerun: yes">    </span><span style="mso-spacerun: yes">    </span></span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">第</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">3</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">行包含</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">N</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">个整数对</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt">Px<sub>i</sub>, Py<sub>i</sub>(1&lt;=Px<sub>i</sub>,Py<sub>i</sub>&lt;=N)</span><span style="font-size: 12pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font face="宋体">，代表目标形状中各小方块的相对位置。目标方块保证是一个连在一起的整体，且数据总是有解的。</font></span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt"><o:p></o:p></span></p>
+<p></p></div>
+
+# Output
+
+<div class="content"><p><span style="font-size: 12pt; font-family: 宋体; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;; mso-bidi-font-family: &#39;Times New Roman&#39;; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">第一行为需要的步数</span><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;; mso-bidi-font-size: 10.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-fareast-font-family: 宋体">S</span></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">3<br/>
+-1  -1    1   -1    1    1<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">7</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=鸣谢刘汝佳先生授权使用">鸣谢刘汝佳先生授权使用</a></p></div>
+

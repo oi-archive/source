@@ -1,0 +1,39 @@
+
+# Description
+
+<div class="content"><p><span style="font-size: medium">农夫John的农场遭受了一场地震.有一些牛棚遭到了损坏,但幸运地,所有牛棚间的路经都还能使用. FJ的农场有P(1 &lt;= P &lt;= 30,000)个牛棚,编号1..P. C(1 &lt;= C &lt;= 100,000)条双向路经联接这些牛棚,编号为1..C. 路经i连接牛棚a_i和b_i (1 &lt;= a_i&lt;= P;1 &lt;= b_i &lt;= P).路经可能连接a_i到它自己,两个牛棚之间可能有多条路经.农庄在编号为1的牛棚. N (1 &lt;= N &lt;= P)头在不同牛棚的牛通过手机短信report_j(2 &lt;= report_j &lt;= P)告诉FJ它们的牛棚(report_j)没有损坏,但是它们无法通过路经和没有损坏的牛棚回到到农场. 当FJ接到所有短信之后,找出最小的不可能回到农庄的牛棚数目.这个数目包括损坏的牛棚. 注意:前50次提交将提供在一些测试数据上的运行结果. </span></p></div>
+
+# Input
+
+<div class="content"><p><span style="font-size: medium">* 第1行: 三个空格分开的数: P, C, 和 N </span></p>
+<p><span style="font-size: medium">* 第2..C+1行: 每行两个空格分开的数: a_i 和 b_i * 第C+2..C+N+1行: 每行一个数: report_j </span></p></div>
+
+# Output
+
+<div class="content"><p><span style="font-size: medium">* 第1行: 一个数,最少不能回到农庄的牛的数目(包括损坏的牛棚). </span></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">4 3 1<br/>
+1 2<br/>
+2 3<br/>
+3 4<br/>
+3<br/>
+<br/>
+<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">3<br/>
+<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p><p>牛棚2遭到损坏,导致牛棚2, 3, 4里面的牛无法回到农庄.</p><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=Gold">Gold</a></p></div>
+

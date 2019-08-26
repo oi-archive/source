@@ -1,0 +1,35 @@
+
+# Description
+
+<div class="content"><p>某加工厂有A、B两台机器，来加工的产品可以由其中任何一台机器完成，或者两台机器共同完成。由于受到机器性能和产品特性的限制，不同的机器加工同一产品所需的时间会不同，若同时由两台机器共同进行加工，所完成任务又会不同。某一天，加工厂接到n个产品加工的任务，每个任务的工作量不尽一样。你的任务就是：已知每个任务在A机器上加工所需的时间t1, B机器上加工所需的时间t2及由两台机器共同加工所需的时间t3，请你合理安排任务的调度顺序，使完成所有n个任务的总时间最少。</p></div>
+
+# Input
+
+<div class="content"><p>输入共n+1行第1行为 n。 n是任务总数（1≤n≤6000）第i+1行为3个[0，5]之间的非负整数t1,t2,t3，分别表示第i个任务在A机器上加工、B机器上加工、两台机器共同加工所需要的时间。如果所给的时间t1或t2为0表示任务不能在该台机器上加工，如果t3为0表示任务不能同时由两台机器加工。</p></div>
+
+# Output
+
+<div class="content"><p>最少完成时间</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">5                                <br/>
+2 1 0<br/>
+0 5 0<br/>
+2 4 1<br/>
+0 0 3<br/>
+2 1 1<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">9</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

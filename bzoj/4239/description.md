@@ -1,0 +1,60 @@
+
+# Description
+
+<div class="content"><div>大学生的JOI君每天乘坐巴士走读。</div>
+<div>JOI君的家和学校都在IOI市内。IOI市内共有N个巴士停靠点，编号为1~N，离JOI家最近的停靠点为1号停靠点，离大学最近的停靠点为N号停靠点。</div>
+<div>IOI市内共有M辆巴士，每辆巴士一天只跑一次，从某一时刻某一停靠点出发，在某一时刻到达另一个站点。运行途中不可以下车。</div>
+<div>JOI君每天要乘坐一次以上的巴士到达学校。我们可以无视JOI君换车的时间，换言之，为了换乘某个时刻从某个停靠点出发的巴士，只需要在该巴士的出发时间或之前到达停靠点就可以了。此外，多次在某个停靠点换乘也是可以的。</div>
+<div>在这样的条件下，JOI君想知道自己应该何时从家中出发才能按时赶到学校。然而，学校每天开始上课的时间都不同。在某Q天里，每天到达N号站点的最晚时间都是已知的，JOI君想知道，他最晚何时到达1号站点才能赶上学校的授课。</div>
+<div>现在给你巴士的运营信息，以及这Q天里每天到达N号站点的最晚时间，请你求出每天JOI君最晚何时到达1号站点。</div>
+<p></p></div>
+
+# Input
+
+<div class="content"><div>第一行两个空格分隔的正整数N和M，表示IOI市内有N个巴士站点和M辆巴士。</div>
+<div>接下来M行，第i行(1&lt;=i&lt;=M)有四个空格分隔的整数Ai,Bi,Xi,Yi(1&lt;=Ai&lt;=N,1&lt;=Bi&lt;=N,Ai≠Bi)，表示第i辆巴士在时刻Xi从停靠点Ai出发，在时刻Yi到达停靠点Bi。时刻从半夜12点开始计算，单位为毫秒。</div>
+<div>接下来一行一个整数Q，含义如题目中所示</div>
+<div>接下来Q行，第i行(1&lt;=i&lt;=Q)有一个整数Li，表示第i天最迟Li时刻到达站点N</div>
+<p></p></div>
+
+# Output
+
+<div class="content"><div>输出Q行，第i行(1&lt;=i&lt;=Q)一个整数，表示JOI君第i天最迟到达1号站点的时刻。</div>
+<div>如果无法在时限内到达，输出-1。</div>
+<p></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">5 6<br/>
+1 2 10 25<br/>
+1 2 12 30<br/>
+2 5 26 50<br/>
+1 5 5 20<br/>
+1 4 30 40<br/>
+4 5 50 70<br/>
+4<br/>
+10<br/>
+30<br/>
+60<br/>
+100</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">-1<br/>
+5<br/>
+10<br/>
+30</span></div>
+
+# Hint
+
+<div class="content"><p></p><div>2&lt;=N&lt;=100000</div><br/>
+<div>1&lt;=M&lt;=300000</div><br/>
+<div>0&lt;=Xi&lt;Yi&lt;86400000(=24*60*60*1000)(1&lt;=i&lt;=M)</div><br/>
+<div>1&lt;=Q&lt;=100000</div><br/>
+<div>0&lt;=Li&lt;86400000(1&lt;=i&lt;=Q)</div><br/>
+<p></p><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=JOI 2013~2014 春季training合宿 竞技1 By PoPoQQQ">JOI 2013~2014 春季training合宿 竞技1 By PoPoQQQ</a></p></div>
+

@@ -1,0 +1,42 @@
+
+# Description
+
+<div class="content">欢乐岛上最著名的游戏是一个寻宝游戏，小可可来到宝藏的埋藏地，这是一块开阔地，宝藏被分散的埋藏在这块地下，现在要做的是一件件的把宝藏挖出来。为了提示宝藏的埋藏点，游戏的主办方把这块开阔地当作第一象限，将所有可能埋藏宝藏的地方划成一个个矩形的土地，并把这些矩形土地的坐标都告诉了参赛者。挖宝的提示很简单，只要某一个矩阵土地至少被另外一个矩阵土地所包含，那么这个矩阵土地里肯定埋有宝藏。其实这些宝藏都是一些精美的纪念品，如果谁挖出来了纪念品就归谁了，小可可很想为这次旅程画上完美的句号，有你的帮助他信心十足，你只要告诉他．有多少个矩形土地里肯定埋有宝藏就行了。胜利就在眼前，加油吧!!
+</div>
+
+# Input
+
+<div class="content">第一行包含一个整数N(N≤200000)，表示矩形的个数。接下来N行，每行用4个整数x1,y1,x2,y2，描述了一个矩形。其中(x1，y1)表示这个矩形左下角的坐标，(x2，y2)表示右上角的坐标，一个xi值或yi值最多出现一次．
+</div>
+
+# Output
+
+<div class="content">只包含一个整数，表示肯定埋有宝藏的矩形土地的个数。
+</div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">3<br/>
+0 0 5 5<br/>
+1 2 3 4<br/>
+2 1 4 3<br/>
+</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">2<br/>
+<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p>100％的数据中，N&lt;=200000<br/>
+70%的数据申，N&lt;=50000<br/>
+30％的数据中，N&lt;=5000<br/>
+所有数据中，一个x值或Y值最多出现一次<br/>
+</p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=Day2">Day2</a></p></div>
+

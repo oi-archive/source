@@ -1,0 +1,41 @@
+
+# Description
+
+<div class="content"><p>Fancy爷宣布XJOI群将要选举下一任群主。候选人有两名，分别是XYW和吉丽。<br/>
+共有n个人（从1~n编号）参加这次投票。他们之间形成了一个树结构，根结点（1号结点）为Fancy。树上的结点有两种身份：专家（叶子结点）或领导（非叶子结点）。每位专家都有自己的选择——支持XYW和吉丽之中的一个；每位领导都有若干个下属（儿子结点），领导的选择决定于下属中人数较多的那一方，下属的数目保证为奇数，从而不会出现平局状况。最后，Fancy的选择即为选举结果。<br/>
+吉丽和XYW知道，目前仍有一些专家处于犹豫未决的状态，只要前去游说，就可获得他的支持。但是由于精力不够，每人每天只能选择游说1名专家；XYW起床更早，他比吉丽先进行游说。这样两人交替进行，直到每位专家都有了确定的选择。请问XYW是否有策略保证自己赢得选举胜利？<br/>
+</p></div>
+
+# Input
+
+<div class="content"><p>第一行一个整数n(2&lt;=n&lt;=1000)，表示人数。<br/>
+接下来有n行。第i行中，第一个数为c[i](-2&lt;=c[i]&lt;=n0)。如果c[i]&lt;=0，则i是专家，-2表示其支持XYW，-1表示支持吉丽，0表示仍在犹豫；如果c[i]&gt;0，则c[i]为奇数，表示i是领导，其后c[i]个整数为i的下属。<br/>
+（数据保证为树结构，即除了根节点1以外每个结点有且仅有一个上级）</p></div>
+
+# Output
+
+<div class="content"><p>若XYW无法保证胜利，仅输出一行NIE。<br/>
+否则，输出第一行包含TAK和一个非负整数d；输出第二行包含d个整数，按升序排列，表示XYW在必胜策略下，第一天可以选择游说的专家的编号。（如果不存在犹豫不决的专家，且XYW获得胜利的情况下，则d=0，第二行为空行）</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">4<br/>
+3 2 3 4<br/>
+-2<br/>
+0<br/>
+-1</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">TAK 1<br/>
+3<br/>
+</span></div>
+
+# Hint
+
+<div class="content"><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=鸣谢Jcvb">鸣谢Jcvb</a></p></div>
+

@@ -4,11 +4,11 @@
 <div class="content"><div>一个二维平面初始时为空，有一串往平面中加入点的命令。加入的点有两种，这里称为A类点和B类点（如图1，黑</div>
 <div>色正方形表示A类点，小圆黑点表示B类点）。A类点一定位于X轴上，而且不会重叠，而B类点可以出现在平面上的</div>
 <div>任何一个位置，可以重叠。每个B类点有一个权值W。</div>
-<div><img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE4MDIvMSgzKS5wbmc=.png" width="541" height="218" alt=""/></div>
+<div><img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDMpLnBuZw==.png" width="541" height="218" alt=""/></div>
 <div>处理：一、最初，将相邻两个A类点之间连一个与X轴成45度的正方形（如图2）。二、每次可以将任意两个有公共</div>
 <div>点的正方形合并为一个大正方形，合并之后两个小正方形消失。图2的左数第2、3的正方形合并后在图3中表示为灰</div>
 <div>边正方形。</div>
-<div> <img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE4MDIvMigyKS5wbmc=.png" width="348" height="241" alt=""/>        </div>
+<div> <img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yKDIpLnBuZw==.png" width="348" height="241" alt=""/>        </div>
 <div>合并后的正方形将平面划分为9个区域，与正方形4条边相邻的4个区域分别为图3中的I，II，III，IV。落在区域I</div>
 <div>中的B类点的权值和记为w1，落在区域II中的B类点的权值和记为w2，落在区域III中的B类点的权值和记为w3，落在</div>
 <div>区域IV中的B类点的权值和记为w4。落在灰色正方形内部的B类点的权值和记为w5（B类点保证不会出现在任何一个</div>
@@ -49,7 +49,7 @@ A 4</span></div>
 # Hint
 
 <div class="content"><p></p><div>输入最后一个点时，所有点如下图。B类点旁边的数字为权值。</div><br/>
-<div><img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vL0p1ZGdlT25saW5lL3VwbG9hZC8yMDE4MDIvMy5wbmc=.png" width="208" height="201" alt=""/></div><br/>
+<div><img src="source/bzoj/1157/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8zLnBuZw==.png" width="208" height="201" alt=""/></div><br/>
 <div>合并前3个点的最小费用为f(3) = 27, 合并前4个点的最小费用f(4) = 36。</div><br/>
 <div>由于f(3) &lt; 30而f(4) &gt; 30，因此最大的K为3。</div><p></p></div>
 

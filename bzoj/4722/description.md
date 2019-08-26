@@ -1,0 +1,82 @@
+
+# Description
+
+<div class="content"><div>
+<div>由于一周目的由乃穿越到了三周目，并带来了巨大的影响，改变了三周目所有未来日记所有者的命运所以三周目的</div>
+<div>神Deus准备不利用未来日记来决定把神的位置交给谁Deus特别崇拜某知名社会主义国家领导人，因为他的寿命比神</div>
+<div>还长，所以他想钦定下一个卡密，而不通过选举他决定钦定三周目的由乃成为卡密，去和一周目的雪辉重逢（终于</div>
+<div>做了一件好事了）但是，既然是钦定，那么肯定还是要做做样子的，以防某些来自香港的记者造个大新闻，导致被</div>
+<div>批判一番所以Deus决定，出一道OI题来考察由乃有没有当神的能力如果你没有看过这个番，以上内容可以无视</div>
+<div></div>
+<div>给一个长为n的序列a，每个数在0到v - 1之间，有m次操作。</div>
+<div>操作1：每次询问一个区间中是否可以选出两个下标的集合X，Y，满足：</div>
+<div>1.X和Y没有交集</div>
+<div>2.设集合X中有一个元素是i，则其对集合X的贡献是a[i] + 1，要求集合X的元素的总贡献和集合Y的元素的总贡献</div>
+<div>相等如果可以选出这两个集合，输出 Yuno否则输出 Yuki</div>
+<div>操作2：修改一个区间l,r之间的数，使得所有l &lt;= i &lt;= r，a[i] = a[i] * a[i] * a[i] % v ，即区间立方</div>
+<div></div>
+<div>如果你没有看过这个番，或者你已经是国家队队员，以下内容可以无视</div>
+<div>可以去和雪辉重逢，由乃肯定非常高兴然而可爱的由乃虽然很机智但是并不会OI呀，特别不会数据结构这种神奇的</div>
+<div>东西（会数据结构和成为卡密有什么关系吗233333）所以她请您——未来的国家队队员来帮助她啦</div>
+</div>
+<p></p></div>
+
+# Input
+
+<div class="content"><div>第一行三个数n , m , v，意义如题所述</div>
+<div>之后一行n个数，表示序列a</div>
+<div>之后m行每行三个数opt , l , r，表示操作类型是1还是2，操作的区间是[l , r]</div>
+<p></p></div>
+
+# Output
+
+<div class="content"><div>m行，每行一个字符串 Yuno 或者 Yuki 表示能否选出这两个集合</div>
+<p></p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">20 20 152<br/>
+3 26 133 54 79 81 72 109 66 91 82 100 35 23 104 17 51 114 12 58<br/>
+2 1 17<br/>
+2 6 12<br/>
+1 1 12<br/>
+2 3 5<br/>
+2 11 11<br/>
+2 7 19<br/>
+2 6 15<br/>
+1 5 12<br/>
+1 1 9<br/>
+1 10 19<br/>
+2 3 19<br/>
+2 6 20<br/>
+2 1 13<br/>
+2 1 15<br/>
+2 1 9<br/>
+1 1 1<br/>
+2 1 7<br/>
+2 7 19<br/>
+2 6 19<br/>
+2 3 6</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">Yuno<br/>
+Yuno<br/>
+Yuno<br/>
+Yuno<br/>
+Yuki</span></div>
+
+# Hint
+
+<div class="content"><p></p><div>总算在bzoj上出题了呀</div><br/>
+<div>这下可以安心退役了~</div><br/>
+<div>总共有10组数据</div><br/>
+<div>对于100%的数据，n , m &lt;= 100000 , v &lt;= 1000,数据没有梯度</div><br/>
+<p></p><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search=By nzhtl1477
+">By nzhtl1477<br/>
+</a></p></div>
+
