@@ -1,0 +1,37 @@
+
+# Description
+
+<div class="content"><div>　　某人在山上种了N棵小树苗。冬天来了，温度急速下降，小树苗脆弱得不堪一击，于是树主人想用一些塑料薄</div>
+<div>膜把这些小树遮盖起来，经过一番长久的思考，他决定用3个L*L的正方形塑料薄膜将小树遮起来。我们不妨将山建</div>
+<div>立一个平面直角坐标系，设第i棵小树的坐标为（Xi,Yi），3个L*L的正方形的边要求平行与坐标轴，一个点如果在</div>
+<div>正方形的边界上，也算作被覆盖。当然，我们希望塑料薄膜面积越小越好，即求L最小值。</div></div>
+
+# Input
+
+<div class="content"><div>　　第一行有一个正整数N，表示有多少棵树。接下来有N行，第i+1行有2个整数Xi,Yi，表示第i棵树的坐标，保证</div>
+<div>不会有2个树的坐标相同。</div></div>
+
+# Output
+
+<div class="content"><p>　　一行，输出最小的L值。</p></div>
+
+# Sample Input
+
+<div class="content"><span class="sampledata">4<br/>
+0 1<br/>
+0 -1<br/>
+1 0<br/>
+-1 0</span></div>
+
+# Sample Output
+
+<div class="content"><span class="sampledata">1</span></div>
+
+# Hint
+
+<div class="content"><p></p><p><span style="font-size: medium;">100%的数据，N&lt;=20000</span></p><p></p></div>
+
+# Source
+
+<div class="content"><p><a href="problemset.php?search="></a></p></div>
+

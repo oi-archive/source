@@ -1,0 +1,14 @@
+[
+  {
+    "name": "主题库",
+    "id": "main"
+  },
+  {
+    "name": "Libre Online Judge",
+    "id": "loj"
+  },
+  {
+    "name": "BZOJ",
+    "id": "bzoj"
+  }
+]
