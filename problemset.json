@@ -14,5 +14,9 @@
   {
     "name": "UOJ",
     "id": "uoj"
+  },
+  {
+    "name": "GuOJ",
+    "id": "guoj"
   }
 ]
