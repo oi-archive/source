@@ -70,11 +70,11 @@ For each test case, output a line containing a single integer — the maximum of
 
 对于 $2 \times 2$ 的网格，左上格与右下格匹配，右上格与左下格匹配，答案为 $4$。如下图所示。
 
-![样例说明 1](source/loj/550/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL0V4cGxhbmF0aW9uMy5wbmc=.png)
+![样例说明 1](https://loj.ac/problem/1/testdata/download/Explanation3.png)
 
 对于 $2 \times 3$ 的网格，左上格与中下格匹配，中上格与右下格匹配，右上格与左下格匹配，答案为 $7$。如下图所示。
 
-![样例说明 1](source/loj/550/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL0V4cGxhbmF0aW9uNC5wbmc=.png)
+![样例说明 1](https://loj.ac/problem/1/testdata/download/Explanation4.png)
 
 #### 样例输入 2
 
@@ -128,11 +128,11 @@ As for $1 \times 2$ grid, we match the only two points into a pair, so the answe
 
 As for $2 \times 2$ grid, we match the top left point and the bottom right one into a pair, the top right point and the bottom left one into a pair. The answer is $4$, as shown by the following picture. 
 
-![Sample Explanation 1](source/loj/550/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL0V4cGxhbmF0aW9uMy5wbmc=.png)
+![Sample Explanation 1](https://loj.ac/problem/1/testdata/download/Explanation3.png)
 
 As for $2 \times 3$ grid, we match the top left point and the bottom middle one, the top middle point and the bottom right one, the top right point and the bottom left one. The answer is $7$, as shown by the following picture. 
 
-![Sample Explanation 1](source/loj/550/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL0V4cGxhbmF0aW9uNC5wbmc=.png)
+![Sample Explanation 1](https://loj.ac/problem/1/testdata/download/Explanation4.png)
 
 #### Sample Input 2
 
