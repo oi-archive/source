@@ -4,19 +4,11 @@
     "id": "main"
   },
   {
-    "name": "LOJ",
+    "name": "Libre Online Judge",
     "id": "loj"
   },
   {
     "name": "BZOJ",
     "id": "bzoj"
-  },
-  {
-    "name": "UOJ",
-    "id": "uoj"
-  },
-  {
-    "name": "GuOJ",
-    "id": "guoj"
   }
 ]
