@@ -39,7 +39,7 @@
 
 #### 样例解释 1
 样例输出描述的图如下：  
-![](/problem/1/testdata/download/p1.png)
+![](source/loj/540/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL3AxLnBuZw==.png)
 
 #### 更多样例
 请从页面上方的附加文件处下载。
