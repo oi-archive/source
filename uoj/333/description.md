@@ -35,7 +35,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img src="http://7xoz7t.com1.z0.glb.clouddn.com/17_4.png" alt="17_4.png"/></p>
+<p><img src="source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvdVpyc25rOHpiYVU0Y1ZnLnBuZw==.png" alt="uZrsnk8zbaU4cVg.png"/></p>
 <p>小明选定让赞助商打通了 $1$ 号宝藏屋。小明开发了道路 $1\rightarrow 2$，挖掘了 $2$ 号宝藏。开发了道路 $1\rightarrow 4$，挖掘了 $4$ 号宝藏。还开发了道路 $4\rightarrow 3$，挖掘了 $3$ 号宝藏。工程总代价为：
 $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 1\\ \small{(1\rightarrow 4)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 2\\ \small{(4\rightarrow 3)}\end{array}\begin{array}{c}=4\\ \ \end{array}$$</p>
 # 样例二
@@ -57,7 +57,7 @@ $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c
 </pre>
 
 <h4>explanation</h4>
-<p><img src="http://7xoz7t.com1.z0.glb.clouddn.com/17_5.png" alt="17_5.png"/></p>
+<p><img src="source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvTG4ybTQzcDd0TlA1aGNyLnBuZw==.png" alt="Ln2m43p7tNP5hcr.png"/></p>
 <p>小明选定让赞助商打通了 $1$ 号宝藏屋。小明开发了道路 $1\rightarrow 2$，挖掘了 $2$ 号宝藏。开发了道路 $1\rightarrow 3$，挖掘了 $3$ 号宝藏。还开发了道路 $1\rightarrow 4$，挖掘了 $4$ 号宝藏。工程总代价为：
 $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}3\times 1\\ \small{(1\rightarrow 3)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 1\\ \small{(1\rightarrow 4)}\end{array}\begin{array}{c}=5\\ \ \end{array}$$</p>
 # 样例三

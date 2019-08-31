@@ -68,7 +68,7 @@ Yes
 <p>输出 <samp>Yes</samp></p>
 </td>
 <td style="text-align:center;" width="25%">
-<img src="http://7xoz7t.com1.z0.glb.clouddn.com/17_3.png" alt="17_3.png"/></td>
+<img src="source/uoj/332/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvR0prb2N1WDRtSGdpVEF6LnBuZw==.png" alt="GJkocuX4mHgiTAz.png"/></td>
 
 </tr></tbody></table># 样例二
 

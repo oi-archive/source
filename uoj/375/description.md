@@ -39,7 +39,7 @@
 
 <h4>explanation</h4>
 <p>第一组数据(左)和第二组数据(右)的一种设计方案如下图所示。其中紫色边表示 $0$ 号边，蓝色边表示 $1$ 号边。</p>
-<p> <img src="http://7xoz7t.com1.z0.glb.clouddn.com/375_1.png" style="width:900px;" alt="375_1" class="center-block"/></p>
+<p><img src="source/uoj/375/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvSml2a1dwUFNkMVFLOWwyLnBuZw==.png" class="center-block" alt="JivkWpPSd1QK9l2.png"/></p>
 # 样例二
 
 

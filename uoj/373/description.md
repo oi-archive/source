@@ -6,7 +6,7 @@
 <ul><li>它的点集大小为 $E$，每个点唯一对应着原图的一条边。</li>
 <li>两个点之间有边当且仅当这两个点对应的边在原图上有公共点(注意不会有自环)。</li>
 </ul><p>下图是一个简单的例子，左图是原图，右图是它对应的线图。其中点 $1$ 对应原图的边 $(1, 2)$， 点 $2$ 对应 $(1,4)$，点 $3$ 对应 $(1,3)$，点 $4$ 对应 $(3,4)$。</p>
-<p> <img src="http://7xoz7t.com1.z0.glb.clouddn.com/373_1.png" style="width:900px;" alt="373_1" class="center-block"/></p>
+<p><img src="source/uoj/373/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvN1lvbUl3ZlJpQnpBR1dhLnBuZw==.png" class="center-block" alt="7YomIwfRiBzAGWa.png"/></p>
 <p>经过一些初步的摸索，可怜发现线图的性质要比补图复杂很多，其中突出的一点就是补图的补图会变回原图，而 $L(L(G))$ 在绝大部分情况下不等于 $G$，甚至在大多数情况下它的点数和边数会以很快的速度增长。</p>
 <p>因此，可怜想要从最简单的入手，即计算 $L^k(G)$ 的点数($L^k(G)$ 表示对 $G$ 求 $k$ 次线图)。 </p>
 <p>然而遗憾的是，即使是这个问题，对可怜来说还是太困难了，因此她进行了一定的弱化。她给出了一棵 $n$ 个节点的树 $T$ ，现在她想让你计算一下 $L^k (T )$ 的点数。</p>
@@ -39,7 +39,7 @@
 <h4>explanation</h4>
 <p>如下图所示，左图为原树，中图为 $L(G)$，右图为 $L^2(G)$。这儿并未画出 $L^3(G)$，但是由于
 $L^2(G)$ 有 $5$ 条边，因此 $L^3(G)$ 中有 $5$ 个点。</p>
-<p> <img src="http://7xoz7t.com1.z0.glb.clouddn.com/373_2.png" style="width:900px;" alt="373_2" class="center-block"/></p>
+<p><img src="source/uoj/373/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvRUx5blg5ZGdjNUpHQVVwLnBuZw==.png" class="center-block" alt="ELynX9dgc5JGAUp.png"/></p>
 # 样例二
 
 
