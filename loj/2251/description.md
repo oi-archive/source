@@ -10,9 +10,9 @@
 
 尽管那个时候的可怜非常的 simple，但是她还是发现这题可以用树状数组做。当时非常 young 的她写了如下的算法：
 
-<img src="source/loj/2251/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3MDY4NWQyZDUucG5n.png">
+![](source/loj/2251/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3MDY4NWQyZDUucG5n.png)
 
-其中 $\mathrm{lowbit}(x)$ 表示数字 $x$** 最低**的非0二进制位，例如 $\text{lowbit}(5) = 1, \text{lowbit}(12) = 4$。进行第一类操作的时候就调用 $\mathrm{Add}(x)$，第二类操作的时候答案就是 $\mathrm{Query}(l, r)$。
+其中 $\mathrm{lowbit}(x)$ 表示数字 $x$ **最低**的非 $0$ 二进制位，例如 $\text{lowbit}(5) = 1, \text{lowbit}(12) = 4$。进行第一类操作的时候就调用 $\mathrm{Add}(x)$，第二类操作的时候答案就是 $\mathrm{Query}(l, r)$。
 
 如果你对树状数组比较熟悉，不难发现可怜把树状数组写错了：**$\text{Add}$ 和 $\text{Find}$ 中 $x$  变化的方向反了**。因此这个程序在最终测试时华丽的爆 0 了。
 
@@ -60,7 +60,20 @@
 
 # 数据范围与提示
 
-<img src="source/loj/2251/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3MzhlODI0ZTgucG5n.png">
+| 测试点编号 |        $n$         |              $m$               |      其他约定      |
+| :--------: | :----------------: | :----------------------------: | :----------------: |
+|    $1$     |      $\le 5$       |            $\le 10$            |         无         |
+|    $2$     |      $\le 50$      |      $\le 50$<!-- 233 -->      |         无         |
+|    $3$     |      $\le 50$      |      $\le 50$<!-- 233 -->      |         无         |
+|    $4$     | $\le 3\times 10^3$ | $\le 3\times 10^3$<!-- 233 --> |         无         |
+|    $5$     | $\le 3\times 10^3$ | $\le 3\times 10^3$<!-- 233 --> |         无         |
+|    $6$     |       $10^5$       |       $10^5$<!-- 233 -->       | 所有询问都在修改后 |
+|    $7$     |       $10^5$       |       $10^5$<!-- 233 -->       | 所有询问都在修改后 |
+|    $8$     |       $10^5$       |       $10^5$<!-- 233 -->       |         无         |
+|    $9$     |       $10^5$       |       $10^5$<!-- 233 -->       |         无         |
+|    $10$    |       $10^5$       |       $10^5$<!-- 233 -->       |         无         |
+
+
 
 对于 $100\%$ 的数据，保证 $1\leq l\leq r\leq n$。
 
