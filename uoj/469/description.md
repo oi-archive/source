@@ -66,3 +66,7 @@
 
 <p><strong>时间限制</strong>：$1\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=469">样例数据下载</a></p>

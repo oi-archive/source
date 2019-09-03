@@ -31,6 +31,10 @@
 <pre><code>8</code></pre>
 <h4>explanation</h4>
 <p>可以开展贸易活动的城市对为 $(1,2),(1,3),(1,4),(1,5),(2,3),(2,5),(3,4),(3,5)$。</p>
+# 样例二
+
+
+<p>见样例数据下载</p>
 # 限制与约定
 
 
@@ -63,3 +67,7 @@
 
 <p><strong>时间限制</strong>：$3\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=470">样例数据下载</a></p>
