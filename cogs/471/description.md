@@ -1,3 +1,5 @@
+# 题目描述
+
 
 <p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
 <span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【问题描述】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
@@ -53,14 +55,36 @@
 <p style="text-align:left;margin-top:0pt;text-indent:-18pt;margin-bottom:0pt;margin-left:36pt;" class="p0">
 <span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
 </p>
-
-# 样例输入1
-
-
-
-# 样例输出1
-
-
+<p>
+<span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【样例输入1】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p>
+ 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">5 5</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">4 5 2 5 4</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">1 2</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">3 2</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">5 1</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">3 4</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">3 1</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
+<p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【样例输出1】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
 <p style="text-align:left;margin-top:0pt;margin-bottom:0pt;" class="p0">
 <span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;">3 5 1 4 2</span><span style="font-family:&#39;宋体&#39;;font-size:12pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
 </p>

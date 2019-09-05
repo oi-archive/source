@@ -1,8 +1,10 @@
+# 题目描述
 
 
-# 问题描述
-
-
+<div>
+<h3>
+【问题描述】
+</h3>
 </div>
 <div style="text-indent:24pt;">
 对于一个软件公司来说，在发行一个新软件之后，可以说已经完成了工作。但是实际上，许多软件公司在发行一个新产品之后，还经常发送补丁程序，修改原产品中的错误(当然，有些补丁是要收费的)。
@@ -19,10 +21,10 @@
 <div style="text-indent:24pt;">
  
 </div>
-
-# 输入格式
-
-
+<div>
+<h3>
+【输入格式】
+</h3>
 </div>
 <div style="text-indent:24pt;">
 数据存放在当前目录下的文本文件“<span>bugs.in</span>&#34;中。
@@ -42,10 +44,10 @@
 <div style="text-indent:24pt;">
  
 </div>
-
-# 输出格式
-
-
+<div>
+<h3>
+【输出格式】
+</h3>
 </div>
 <div style="text-indent:24pt;">
 答案输出在当前目录下的文本文件“<span>bugs.out</span>&#34;中。
@@ -62,10 +64,10 @@
 <div style="text-indent:24pt;">
  
 </div>
-
-# 输入输出样例
-
-
+<div>
+<h3>
+【输入输出样例】
+</h3>
 </div>
 <div style="text-indent:24pt;">
 样例输入（<span>bugs.in</span>）:

@@ -1,3 +1,5 @@
+# 题目描述
+
 
 <h2 style="margin-top:0pt;margin-bottom:0pt;">
 <span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【问题描述】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
@@ -26,10 +28,22 @@
 <p style="margin-top:0pt;text-indent:21pt;margin-bottom:0pt;" class="p0">
  
 </p>
-
-# 输入格式
-
-
+<p>
+<br/>
+</p>
+<p>
+ 
+</p>
+<!--EndFragment-->
+<p>
+<br/>
+</p>
+<h2 style="margin-top:0pt;margin-bottom:0pt;">
+<span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【输入格式】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</h2>
+<p style="margin-top:0pt;margin-bottom:0pt;" class="p0">
+<span style="font-family:&#39;Calibri&#39;;font-size:10.5pt;mso-spacerun:&#39;yes&#39;;"><span style="font-family:宋体;">仅包含一行，为两个整数</span><span style="font-family:Calibri;">n</span><span style="font-family:宋体;">和</span><span style="font-family:Calibri;">m</span><span style="font-family:宋体;">。</span></span><span style="font-family:&#39;Calibri&#39;;font-size:10.5pt;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
+</p>
 <h2 style="margin-top:0pt;margin-bottom:0pt;">
 <span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;">【输出格式】</span><span style="font-family:&#39;宋体&#39;;font-size:18pt;font-weight:bold;mso-spacerun:&#39;yes&#39;;"><o:p></o:p></span> 
 </h2>

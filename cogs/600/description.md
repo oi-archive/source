@@ -1,8 +1,7 @@
+# 题目描述
 
-<div style="line-height: 15pt" align="left">
-# 问题描述
 
-<span style="font-size: 10pt"><br/>
+<div style="line-height: 15pt" align="left"><b><span style="font-size: 10pt">【问题描述】</span></b><span style="font-size: 10pt"><br/>
     </span><span style="font-size: 10pt">话说由于 Z4 的共同努力，SARS终于被成功击退了。大家都松了一口气。回想之前，当 jakrinchose 患SARS，其它人采取急救措施时，可真有过一段胆颤心惊的经历！ </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">    </span><span style="font-size: 10pt">当时 jakrinchose 表现出一点像是SARS的症状，大家都怕了！要是真的得了SARS可就麻烦了！于是一向十分冷静的立方立刻提出最好采取一些预防措施的十分明智的建议，之后 hongyan 和 worm 丢下一句“包在我身上”就出去了，立方只好留下来照顾 jakrinchose 。 </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">    </span><span style="font-size: 10pt">原来他们是找草药去了。把采来的草药调配好后，就叫 jakrinchose 喝下。谁知 jakrinchose 才喝了一两口，就突然吐了出来，并当场晕倒（正在看题的 jakrinchose 说：立方这小子真黑心）！ </span></div>
@@ -13,11 +12,15 @@
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">    </span><span style="font-size: 10pt">输入文件 drug.in 的第一行包括三个整数 V （ 0&lt;=V&lt;=50000 ） ， N(0&lt;=N&lt;=16) 和 M ，分别表示袋子能装的总质量 (g) ，药材种类数和冲突的药材对数。第二行有 N 个不大于 100 整数，分别表示这 N 种药材的功效。接下来有 M 行，每行有两个整数，表示这两种药材是不可相混的。同一对药材只会出现一次。 </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">【输出格式】 <br/>
     输出文件 drug .out 仅有一个实数，表示最大功效。保留一位小数。 <br/>
-【输入输出样例】 
-# 样例说明
-
-
-
-#  （ 1+4 ） ×(1/2) ×sqrt(2) 
-
-
+【输入输出样例】 <b><br/>
+</b>输入:<br/>
+drug.in<br/>
+6 4 2<br/>
+1 2 3 4<br/>
+1 3<br/>
+2 4</span></div>
+<div style="line-height: 15pt" align="left"><span style="font-size: 10pt">输出:<br/>
+drug.out<br/>
+24.5</span></div>
+<div style="line-height: 15pt" align="left"><span style="font-size: 10pt">【样例说明】</span></div>
+<p><span style="font-size: 10pt">    </span><span style="font-size: 10pt">将药材按 1..N 编号。可能的配药方案有：（ 1 ），（ 2 ），（ 3 ），（ 4 ），（ 1+2 ），（ 1+4 ），（ 2+3 ），（ 3+4 ）。最终选择的配药方案分别是（不唯一）：（ 4 ） 1g ，（ 1+4 ） 1g ，（ 2+3 ） 2g ，（ 3+4 ） 2g 。其功效之和为 4+ [ （ 1+4 ） ×(1/2) ×sqrt(2) ] + [ (2+3) ×sqrt(2) ] + [ (3+4) ×sqrt(2) ] = 24.5 。 </span></p>

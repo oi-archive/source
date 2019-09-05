@@ -1,8 +1,7 @@
+# 题目描述
 
-<div style="line-height: 15pt" align="left">
-# 问题描述
 
-<span style="font-size: 10pt"><br/>
+<div style="line-height: 15pt" align="left"><b><span style="font-size: 10pt">【问题描述】</span></b><span style="font-size: 10pt"><br/>
     </span><span style="font-size: 10pt">话说 Z4 阴差阳错地来到了神秘岛。不久，他们发现，这是一个由 n 个小岛和一个中心岛组成的群岛，群岛之间有 m 座桥。令他们感到惊讶的是，这些桥并不是固定不变的，经较长时间的观察，发现它们会随时间作周期性的变化（即桥的两端会不断更换）。 </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">    </span><span style="font-size: 10pt">立方很早就留意到远远的那个中心岛了。他发现岛的上空好像有一个很巨大的东西，但实在太远了，看不清楚。此时 jakrinchose 得意地从身上拿出一个超高倍数望远镜，好像很自豪的样子，因为他平时专门用来看美女的工具此时终于派得上用场了。 </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">    </span><span style="font-size: 10pt">“那是一间小屋！架在一棵好大好大的树上！” </span></div>
@@ -15,10 +14,26 @@
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">【输出格式】 <br/>
     输出文件 house .out 仅有一个整数，表示 Z4 最少得花多少时间到达中心岛。如果 Z4 无法到达中心岛，则输出“ Poor Z4! ”。 </span></div>
 <div style="line-height: 15pt" align="left"><span style="font-size: 10pt">【输入输出样例1】<br/>
- 
-# 输入输出样例2
-
-输入： <br/>
+ <b><br/>
+</b>输入： <br/>
+house.in<br/>
+4 5 2<br/>
+1 2<br/>
+1 3<br/>
+1 4<br/>
+2 0<br/>
+4 0</span></div>
+<div style="line-height: 15pt" align="left"><span style="font-size: 10pt">1 3<br/>
+1 3<br/>
+2 3<br/>
+4 3<br/>
+3 0</span></div>
+<div style="line-height: 15pt" align="left"><span style="font-size: 10pt">输出：<br/>
+house.out<br/>
+2</span></div>
+<div style="line-height: 15pt" align="left"><span style="font-size: 10pt">【输入输出样例2】<br/>
+ <b><br/>
+</b>输入： <br/>
 house.in<br/>
 7 3 2<br/>
 1 2<br/>
