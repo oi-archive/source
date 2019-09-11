@@ -58,7 +58,7 @@ Access Globe 操控的士兵的战绩是第 $k$ 高，他希望能估计出最�
 
 D 国地图如下，其中危险程度为 $d$ 的城市的形状是 $(d + 3)$ 边形。
 
-![Explanation](source/guoj/1004/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QzRXhwbGFpbi5wbmc=.png)
+![Explanation](source/guoj/1004/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwMDQvaHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QzRXhwbGFpbi5wbmc=.png)
 
 以下是所有符合条件且选择的城市不少于 $3$ 个的方案：
 
