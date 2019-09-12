@@ -26,5 +26,9 @@
   {
     "name": "COGS",
     "id": "cogs"
+  },
+  {
+    "name": "seuOJ",
+    "id": "seuoj"
   }
 ]
