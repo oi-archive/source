@@ -196,7 +196,7 @@ int main()
 | return <strong>EXPRESSION</strong> ;
 
 <strong>STATEMENT_IN_FOR</strong> ::=
-| <strong>EXPRESSION</strong>
+| <strong>OPTEXPRESSION</strong>
 | int <strong>DEFINEVAR</strong> <strong>DEFINEVARS</strong>
 
 <strong>OPTEXPRESSION</strong> ::=
