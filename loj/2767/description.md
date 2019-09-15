@@ -3,7 +3,7 @@
 
 **题目译自 [ROI 2017](http://neerc.ifmo.ru/school/archive/2016-2017.html) Day 1 T2.** ***[Иллюзия сортировки](http://neerc.ifmo.ru/school/archive/2016-2017/ru-olymp-roi-2017-day1.pdf)***
 
-给一个数组 $a[1], a[2], \ldots, a[n]$，在数组中选择一个数 $b$，如果 $b$ 满足
+给一个数组 $a[1], a[2], \ldots, a[n]$，选择一个数 $b$，如果 $b$ 满足
 $$(a[1] ⊕ b) ≤ (a[2] ⊕ b) ≤ . . . ≤ (a[n] ⊕ b)$$
 则称 $b$ 是数组 $a$ 的幻数。此处 $⊕$ 表示按位异或。  
 该数组将会被先后修改 $q$ 次，我们每次只修改一个数。  
