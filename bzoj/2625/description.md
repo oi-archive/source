@@ -7,7 +7,7 @@ Your team has to inspect each slope of the ski resort. Ski lifts on this resort 
 
 # Input
 
-<div class="content"><div class="ptx" lang="en-US"><span style="font-size: medium">The first line of the input file contains a single integer number n (2 &lt;= n &lt;= 100) - the number of points in the ski resort. The following n lines of the input file describe each point of the ski resort numbered from 1 to n. Each line starts with a single integer number mi (0 &lt;= mi &lt; n for i from 1 to n) and is followed by mi integer numbers aij separated by spaces. All aij are distinct for each i and each aij (1 &lt;= aij &lt;= n, aij <img alt="\ne" src="source/bzoj/2625/img/aHR0cDovL3Bvai5vcmcvZm9ybXVsYT90ZXg9JTVDbmU=.org/formula" align="absMiddle"/> i) represents a slope going downwards from point i to point aij . Each point in the resort has at least one slope connected to it.</span></div></div>
+<div class="content"><div class="ptx" lang="en-US"><span style="font-size: medium">The first line of the input file contains a single integer number n (2 &lt;= n &lt;= 100) - the number of points in the ski resort. The following n lines of the input file describe each point of the ski resort numbered from 1 to n. Each line starts with a single integer number mi (0 &lt;= mi &lt; n for i from 1 to n) and is followed by mi integer numbers aij separated by spaces. All aij are distinct for each i and each aij (1 &lt;= aij &lt;= n, aij <img alt="\ne" src="source/bzoj/2625/img/aHR0cDovL3Bvai5vcmcvZm9ybXVsYT90ZXg9JTVDbmU=" align="absMiddle"/> i) represents a slope going downwards from point i to point aij . Each point in the resort has at least one slope connected to it.</span></div></div>
 
 # Output
 
