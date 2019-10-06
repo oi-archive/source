@@ -16,6 +16,7 @@ a \sim (b \sim c) &amp; = &amp; (a \sim b) \sim c
 </ul><p>我们记第 $i$ 次操作之后得到的表达式为第 $i$ 个版本。</p>
 <p>在每个操作之后，你需要求出当前表达式的值。</p>
 <p>你只能通过调用一个函数 <samp>F(a,b,op)</samp>  来得到 <samp>a op b</samp> 的结果，且调用这个函数的次数有一定限制。</p>
+
 # 任务描述
 
 
@@ -37,6 +38,7 @@ a \sim (b \sim c) &amp; = &amp; (a \sim b) \sim c
 <ul><li>F(a,b,op)<ul><li>返回将 $a,b$ 两个元素做运算 $\mathrm{op}$（$1 \leq \mathrm{op} \leq k$）之后的值。</li>
 </ul></li>
 </ul><p>请注意：Data 类型中的变量 $x$ 只对交互库有意义，你不需要也不应该访问这个变量。另外请保证传入函数 F 的 $a,b$ 和三种操作函数的返回值为 init、modify_data 或 F 中提供的元素，否则，在使用下发的交互库进行测试时，会发生未知行为（如返回错误的结果，或运行错误等），在最终评测时，该测试点会被判为 0 分。</p>
+
 # 实现细节
 
 
@@ -90,12 +92,14 @@ function reverse(id, l, r : longint) : Data;</code></pre>
     op : longint
 ) : Data;</code></pre>
 <p>你需要在本题目录下使用命令编译得到可执行程序：<samp>fpc grader.pas -o&#34;expr&#34; -O2</samp></p>
+
 # 如何开始答题
 
 
 <p>本题提供了针对每种语言的样例源代码 expr_sample.cpp/c/pas，选择你所需的语言，将其复制为 expr.cpp/c/pas，按照本节前文中提到的方式进行编译，即能通过编译得到可执行程序。</p>
 <p>注意：你只能选择一种语言进行作答，即你本题的试题目录下不能同时存在多个语言的 expr.cpp/c/pas。</p>
 <p>接下来你需要修改这个文件的实现，以达到题目的要求。</p>
+
 # 如何测试你的程序
 
 
@@ -110,6 +114,7 @@ function reverse(id, l, r : longint) : Data;</code></pre>
 </ul><p>读入完成之后，交互库将调用 init 函数。然后再根据数据调用 $m$ 次 modify_data，modify_op 或 reverse 函数。最后交互库将会用某种（选手们不必知道的）方式来计算你的所有函数返回值的校验和，并输出到文件 expr.out 中。交互库还会输出你调用 F 函数的次数。</p>
 <p>如果传入 F 函数的参数非法（op 不在 $1$ 到 $k$ 的范围内，或 $a,b$ 不是由交互库提供的元素），那么交互库会将校验和输出为非法值 $-1$。（因此该测试点得 0 分），然后在下面一行输出错误的详细信息。</p>
 <p>如果要使用自己的输入文件进行测试，请保证输入文件按照以上格式，否则不保证程序能正确运行。</p>
+
 # 评分方法
 
 
@@ -119,6 +124,7 @@ function reverse(id, l, r : longint) : Data;</code></pre>
 <p>若程序正常结束，则会开始检验正确性。如果答案不正确，或 F 函数的调用次数超过了测试点的限制，该测试点得 0 分。否则该测试点得满分。</p>
 <p>题目中所给的时间、空间限制为你的代码和交互库加起来可以使用的时间和空间。我们保证，对于任何合法的数据，任何语言任何版本的交互库（包括下发给选手的和最终评测时用的），正常运行所用的时间不会超过 $0.2\texttt{s}$，正常运行所用的空间不会超过 $64\texttt{MB}$，也就是说，选手实际可用的时间至少为 $0.8\texttt{s}$，实际可用的空间至少为 $960\texttt{MB}$。
  </p>
+
 # 样例一
 
 
@@ -139,6 +145,7 @@ function reverse(id, l, r : longint) : Data;</code></pre>
 
 </pre>
 
+
 # explanation
 
 
@@ -150,11 +157,13 @@ function reverse(id, l, r : longint) : Data;</code></pre>
 <li>第3个版本：$a \times d+c \times f+e$</li>
 <li>第4个版本：$d+c+b \times a+e$</li>
 <li>第5个版本：$a \times b+c+d+e$</li>
-</ul># 样例二
+</ul>
+# 样例二
 
 
 <p>见样例及测评库下载。
  </p>
+
 # 限制与约定
 
 
@@ -166,6 +175,7 @@ function reverse(id, l, r : longint) : Data;</code></pre>
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1\texttt{GB}$</p>
+
 # 下载
 
 

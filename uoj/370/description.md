@@ -5,16 +5,19 @@
 <p>他有 $n$ 个滑稽果，第 $i$ 个滑稽果的大小为 $a_i$。</p>
 <p>他现在想把它们构成一棵任意形态的有根树，每个点的<strong>滑稽度</strong>为它的<strong>大小</strong>和它父亲的<strong>滑稽度</strong>的 $\mathrm{and}$，其中 $\mathrm{and}$ 表示按位与运算，例如 $2\ \mathrm{and}\ 3=2，1\ \mathrm{and}\ 0=0，1\ \mathrm{and}\ 1=1$。特别地，根的滑稽度等于他的大小。</p>
 <p>为了世界的和平，他希望能最小化这棵树上所有滑稽果的滑稽度之和。请问你能帮他解决这个问题吗？</p>
-<p><img src="source/uoj/370/img/a4b56acbe668b2a9bd0c56a65512ae8c.jpg" alt="滑稽树上滑稽果"/></p>
+<p><img src="/source/uoj/370/img/a4b56acbe668b2a9bd0c56a65512ae8c.jpg" alt="滑稽树上滑稽果"/></p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$。</p>
 <p>接下来一行有 $n$ 个正整数 $a_i$，表示 $i$ 个滑稽果的大小。</p>
+
 # 输出格式
 
 
 <p>一行一个整数，表示最小的滑稽度之和。</p>
+
 # 样例一
 
 
@@ -28,6 +31,7 @@
 <pre>10
 
 </pre>
+
 
 # 样例二
 
@@ -43,10 +47,12 @@
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -61,6 +67,7 @@
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

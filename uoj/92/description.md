@@ -2,7 +2,7 @@
 
 <p>wangyisong1996 有一棵小树苗，可惜由于土地沙漠化小树苗枯死了。正当 wangyisong1996 悲痛欲绝的时候，从沙子中长出了一棵仙人掌。</p>
 <p>如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</p>
-<p><img class="img-responsive center-block" src="source/uoj/92/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/92/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
 <p>有一棵 $n$ 个结点的仙人掌，每条边有一个长度 $l$。（不同的边的长度不一定相同）</p>
 <p>有 $q$ 个点集，每个点集可以用两个整数 $u, d$ 来描述（$1 \leq u \leq n$），一个结点 $v$ 在这个点集中当且仅当结点 $v$ 与结点 $u$ 的距离不超过 $d$。两个结点之间的距离为它们之间的最短路径的长度。</p>
 <p>现在要求构造一个有向无环图（DAG），满足：</p>
@@ -10,17 +10,20 @@
 <li>对于每一条边，如果是从 $u$ 连向 $v$ 的，那么 $u &gt; n$ 且 $u \neq v$。</li>
 <li>对于结点编号在第 $i$ 个点集（$1 \leq i \leq q$）的每一个结点 $x$，第 $n+i$ 个结点到第 $x$ 个结点有且仅有一条路径。</li>
 <li>对于结点编号在 $\{ 1, 2, \dots, n\}$ 中但不在第 $i$ 个点集（$1 \leq i \leq q$）的每一个结点 $x$，不存在第 $n+i$ 个结点到第 $x$ 个结点的路径。</li>
-</ol># 输入格式
+</ol>
+# 输入格式
 
 
 <p>第一行三个正整数 $n, m, q$，其中 $n, m$ 表示这棵仙人掌一共有 $n$ 个结点 $m$ 条边。</p>
 <p>接下来 $m$ 行，每行三个整数 $u,v,l$，表示 $u$ 和 $v$ 之间有一条长度为 $l$ 的无向边。保证 $1 \leq u, v \leq n$。</p>
 <p>接下来 $q$ 行，第 $i$ 行表示第 $i$ 个点集，用两个整数 $u, d$ 来描述，保证 $1 \leq u \leq n$。</p>
+
 # 输出格式
 
 
 <p>第一行两个非负整数 $V,E$，表示你构造的 DAG 的点数和边数。</p>
 <p>接下来 $E$ 行，每行两个整数 $u,v$，表示 $u$ 到 $v$ 有一条有向边。你需要保证 $1 \leq u, v \leq V$。</p>
+
 # 样例一
 
 
@@ -67,6 +70,7 @@
 
 </pre>
 
+
 # 限制与约定
 
 
@@ -90,10 +94,12 @@ for i in range(5000, 10001):
 <p><samp>addedge(u, v)</samp> 表示在 $u$ 和 $v$ 间连一条边。（边的长度的生成方式，你以为我会告诉你吗？）</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 来源
 
 
 <p>中国国家集训队互测2015 - By 王逸松</p>
+
 # 下载
 
 

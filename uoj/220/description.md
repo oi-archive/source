@@ -5,18 +5,19 @@
 <p>我们称占据的格子有公共边的两只跳蚤是<strong>相邻</strong>的。</p>
 <p>我们称两只跳蚤是<strong>连通</strong>的，当且仅当这两只跳蚤<strong>相邻</strong>，或存在另一只跳蚤与这两只跳蚤都<strong>连通</strong>。</p>
 <p>现在，蛐蛐国王希望，将某些（0 个，1 个或多个）跳蚤替换成蛐蛐，使得在此之后存在至少两只跳蚤<strong>不连通</strong>。</p>
-<p>例如：我们用图<img src="source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvZmxlYS5wbmc=.png" alt="flea"/>表示一只跳蚤，用图<img src="source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvY3JpY2tldC5wbmc=.png" alt="cricket"/>表示一只蛐蛐，那么图 1 描述了一个 $n=4, m=4, c=2$ 的情况。</p>
+<p>例如：我们用图<img src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvZmxlYS5wbmc=.png" alt="flea"/>表示一只跳蚤，用图<img src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvY3JpY2tldC5wbmc=.png" alt="cricket"/>表示一只蛐蛐，那么图 1 描述了一个 $n=4, m=4, c=2$ 的情况。</p>
 <p>这种情况下蛐蛐国王可以通过将第 2 行第 2 列，和第 3 行第 3 列的两只跳蚤替换为蛐蛐，从而达成他的希望，如图 2 所示。并且，不存在更优的方案，但是可能存在其他替换 2 只跳蚤的方案。</p>
 <div class="row">
 <div class="col-sm-6">
-    <img class="img-responsive center-block" src="source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMS5wbmc=.png" alt="图1"/><div class="text-center">图1</div>
+    <img class="img-responsive center-block" src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMS5wbmc=.png" alt="图1"/><div class="text-center">图1</div>
 </div>
 <div class="col-sm-6">
-    <img class="img-responsive center-block" src="source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMi5wbmc=.png" alt="图2"/><div class="text-center">图2</div>
+    <img class="img-responsive center-block" src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMi5wbmc=.png" alt="图2"/><div class="text-center">图2</div>
 </div>
 </div>
 
 <p>你需要首先判断蛐蛐国王的希望能否被达成。如果能够达成，你还需要最小化被替换的跳蚤的个数。</p>
+
 # 输入格式
 
 
@@ -25,11 +26,13 @@
 <p>接下来依次输入 $T$ 组数据，每组数据的第一行包含三个整数 $n,~m,~c$。保证$1 \le n,m \le 10^9, 0 \le c \le \min(nm,10^5)$。</p>
 <p>接下来 $c$ 行，每行包含两个整数 $x,~y$，表示第 $x$ 行，第 $y$ 列的格子被一个蛐蛐占据（$1 \le x \le n, 1 \le y \le m$）。每一组数据当中，同一个蛐蛐不会被多次描述。</p>
 <p>同一行相邻的整数之间由一个空格隔开。</p>
+
 # 输出格式
 
 
 <p>对于每一组数据依次输出一行答案。</p>
 <p>如果这组数据中，蛐蛐国王的希望不能被达成，输出 $−1$。否则，输出被替换的跳蚤的个数的最小值。</p>
+
 # 样例一
 
 
@@ -60,10 +63,12 @@
 <p>对于第二组数据，可以将第 2 行第 2 列的一只跳蚤替换为蛐蛐，从而使得存在两只跳蚤<strong>不连通</strong>，并且不存在更优的方案。</p>
 <p>对于第三组数据，最初已经存在两只跳蚤<strong>不连通</strong>，故不需要再进行替换。</p>
 <p>对于第四组数据，由于最多只有一只跳蚤，所以无论如何替换都不能存在两只跳蚤<strong>不连通</strong>。</p>
+
 # 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -135,6 +140,7 @@
 
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1\texttt{GB}$</p>
+
 # 下载
 
 

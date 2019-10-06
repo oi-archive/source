@@ -4,6 +4,7 @@
 水平面为 $ y=0 $ 的无穷大的水池当中，水的密度为 $ 1 $ ，求该凸多边形在静止并且势能到达最低点的情况下，
 该凸多边形逆时针旋转了多少？</p>
 <p>势能包括凸多边形本身的重力势能和浮力对其做功产生的浮力势能。</p>
+
 # 输入格式
 
 
@@ -11,12 +12,14 @@
 对于每组数据：
 第一行两个数，整数 $n$ 和 浮点数 $ \rho $, 表示多边形点的个数和多边形的密度。
 接下来 $n$ 行， 每行两个浮点数 $x, y$ 逆时针表示凸包上的所有点。</p>
+
 # 输出格式
 
 
 <p>对于每一组数据输出一行，$\theta$， 表示凸多边形达到势能的最低点的时候，其逆时针旋转的弧度是
 多少，$ 0 \leq \theta &lt; 2\pi $。</p>
 <p>本题包含 Special Judge， 对于你的输出允许 $ 10^{-6} $ 的误差，请输出小数部分位数尽量多的数（但小数位数不要超过 $15$）。</p>
+
 # 样例一
 
 
@@ -56,9 +59,10 @@
 <ul><li>绿色代表静止的多边形能量最低时的形态，</li>
 <li>灰色代表原始多边形，</li>
 <li>蓝色为水面</li>
-</ul><p><img src="source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMC5wbmc=.png" alt="fig0"/></p>
-<p><img src="source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMS5wbmc=.png" alt="fig1"/></p>
-<p><img src="source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMi5wbmc=.png" alt="fig2"/></p>
+</ul><p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMC5wbmc=.png" alt="fig0"/></p>
+<p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMS5wbmc=.png" alt="fig1"/></p>
+<p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMi5wbmc=.png" alt="fig2"/></p>
+
 # 限制与约定
 
 
@@ -73,6 +77,7 @@
 <p>对于 100% 的数据， $n \leq 100000$, $ \sum n \leq 100000 $。</p>
 <p>数据保证能构成凸多边形，且多边形上相邻两点之间的距离不小于 $10^{-10}$，且多边形的面积不小于 $10^{-4}$。</p>
 <p>数据保证唯一解</p>
+
 # 下载
 
 

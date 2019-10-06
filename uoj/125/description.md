@@ -18,17 +18,20 @@
 <li>$P_1 &lt; P_2 \leq G_2 &lt; G_1$</li>
 </ul></li>
 </ol><p>下图是一个 “<samp>N</samp>”，“<samp>O</samp>”，“<samp>I</samp>” 的例子。</p>
-<p><img src="source/uoj/125/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMjUvYS5wbmc=.png" alt="NOI的例子" class="img-responsive center-block"/></p>
+<p><img src="/source/uoj/125/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMjUvYS5wbmc=.png" alt="NOI的例子" class="img-responsive center-block"/></p>
 <p>另外，所有画的图形均不允许超过纸张的边界。现在小 E 想要知道，他能画出的最大幸运度是多少。</p>
+
 # 输入格式
 
 
 <p>第一行包含两个正整数 $n$ 和 $m$，分别表示矩阵的行数和列数。</p>
 <p>接下来 $n$ 行，每行有 $m$ 个整数，第 $i + 1$ 行的第 $j$ 个数表示格子 $(j, n − i + 1)$ 的幸运值。</p>
+
 # 输出格式
 
 
 <p>输出一个整数 $T$，表示小 E 能够获得的最大幸运度。</p>
+
 # 样例一
 
 
@@ -44,6 +47,7 @@
 <pre>24
 
 </pre>
+
 
 # 样例二
 
@@ -61,10 +65,12 @@
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -78,6 +84,7 @@
 <p>对于所有的测试数据，保证 $n \geq 3, m \geq 12$。</p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

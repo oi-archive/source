@@ -4,19 +4,20 @@
 <p>为了描述娃娃是如何运动的，设想有一个<strong>球</strong>放在这些器件之一的上面。这个球在管路中穿行。在穿行的每一步，它从所在器件的一个出口离开该器件，沿着连接该出口的管道，进入管道另一头所连接的器件。</p>
 <p>器件有三种类型：<strong>起点</strong>、 <strong>触发器</strong>和<strong>开关</strong>。总共有恰好一个起点，$M$个触发器和$S$个开关（$S$可以为零）。开关的数量$S$要由你来定。每个器件都有唯一的序列号。</p>
 <p>起点是球最初所在的那个器件。它有一个出口。它的序列号是$0$。</p>
-<p><img class="img-responsive center-block" src="source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlMDhjNy5wbmc=.png" alt="pic1"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlMDhjNy5wbmc=.png" alt="pic1"/></p>
 <p>一旦球进入某个触发器，就会让娃娃做某个特定运动。每个触发器都有一个出口。触发器的序列号是从$1$到$M$。</p>
-<p><img class="img-responsive center-block" src="source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhkZWY1Yy5wbmc=.png" alt="pic2"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhkZWY1Yy5wbmc=.png" alt="pic2"/></p>
 <p>每个开关都有两个出口，被记为“X”和“Y”。开关的<strong>状态</strong>或者为“X”，或者为“Y”。在球进入
 某个开关后，它会从开关的当前状态所对应的出口离开。此后开关将切换为另一状态。最初，所有开
 关的状态都是“X”。开关的序列号是从$-1$到$-S$。</p>
-<p><img class="img-responsive center-block" src="source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhmMTBkZi5wbmc=.png" alt="pic3"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhmMTBkZi5wbmc=.png" alt="pic3"/></p>
 <p>告诉你触发器的数量$M$。再给你一个长度为$N$的序列$A$，序列的每个元素都是某个触发器的序列号。每个触发器会在序列$A$中出现若干次（也可能是零次）。你的任务是设计一个管路，以满足如下条件：</p>
 <ul><li>球在若干步之后返回到起点。</li>
 <li>当球首次返回到起点时，所有开关的状态都是“X”。</li>
 <li>在球首次返回到起点时，此前它进入所有触发器的总次数恰好为 $ N $。这些被进入过的触发器，其序列号按照被球经过的顺序<em>依次</em>为$A_0,A_1,\ldots,A_{N-1}$。</li>
 <li>设 $ P $ 为球首次返回到起点时，球所引起的所有开关状态切换的总次数。$ P $ 不能超过 $ 2 \times 10^7 $。</li>
 </ul><p>同时，你不要用太多的开关。</p>
+
 # 实现细节
 
 
@@ -35,12 +36,13 @@
 <li>必须调用该过程恰好一次。</li>
 <li>由<code>C</code>、<code>X</code>和<code>Y</code>所表示的管路必须满足题面中的限制条件。</li>
 </ul><p>如果上述条件不满足，你的程序将被判为$\texttt{Wrong Answer}$。否则，你的程序将被判为$\texttt{Accepted}$，而你的得分将根据 $ S $ 来计算（参见子任务）。</p>
+
 # 例子
 
 
 <p>假设 $ M = 4 $，$ N = 4 $ 和 $ A = [1, 2, 1, 3] $。评测程序调用<code>create_circuit(4, [1, 2, 1,
 3])</code>。</p>
-<p><img class="img-responsive center-block" src="source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlOWQ1ZS5wbmc=.png" alt="pic4"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlOWQ1ZS5wbmc=.png" alt="pic4"/></p>
 <p>上图展示了函数调用<code>answer([1, -1, -2, 0, 2], [2, -2], [3, 1])</code>所对应的管路图。图中的数字是器件的序列号。</p>
 <p>图中使用了两个开关。所以$ S = 2 $.</p>
 <p>开关 $ -1 $ 和 $ -2 $ 的初始状态都是“X”。</p>
@@ -53,13 +55,15 @@
 <p>球在经过触发器 $ 1, 2, 1, 3 $ 后首次返回到起点。开关 $ -1 $ 和 $ -2 $ 的状态都是“X”。$ P $的值是 。所以，这个管路是满足条件的。</p>
 <p>在压缩附件包中，有一个文件sample-01-in.txt对应于本例。其他输入样例也可以在压缩附件包中找到。</p>
 <p>在样例数据下载中的文件<code>ex_doll1.in</code>对应于本例。其他的输入样例在样例包中还可找到。注意：样例包中的输出没有任何意义。</p>
+
 # 限制条件
 
 
 <ul><li>$ 1 \le M \le 100\ 000 $</li>
 <li>$ 1 \le N \le 200\ 000 $</li>
 <li>$ 1 \le A_k \le M (0 \le k \le N - 1) $</li>
-</ul># 子任务
+</ul>
+# 子任务
 
 
 <p>每个测试样例的分数和限制条件如下：</p>
@@ -75,6 +79,7 @@
 <li>否则，得分为 $ 0 $。</li>
 </ul><p>注意，你在每个子任务上的得分是该子任务中所有测试样例上的最低得分。</p>
 <p><strong>请注意：在测试中，如果你的程序在一个子任务中某个点未获得满分，则可能会得到 $ 0 $ 分。</strong></p>
+
 # 评测程序示例
 
 
@@ -99,6 +104,7 @@
 <li><code>wrong motion</code>：触发运动的触发器和序列$A$所列的不一致。</li>
 </ul></li>
 </ul><p>注意，当你的程序被判为$\texttt{Wrong Answer}$时，评测程序示例可能并不创建<code>out.txt</code>和/或<code>log.txt</code>。</p>
+
 # 约定及限制
 
 
@@ -114,6 +120,7 @@
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$268\texttt{MB}$</p>
+
 # 下载
 
 

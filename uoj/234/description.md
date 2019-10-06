@@ -4,12 +4,13 @@
 <p>哈萨克斯坦的所有定居点通过⼀个双向公路⽹络连接在⼀起。每条公路连接 $2$ 个不同的定居点。每对定居点之间最多有⼀条直接相连的公路。对于任意⼀对定居点 $a$ 和 $b$，只要经过的公路最多只能使⽤⼀次，则有⼀条唯⼀的路径从 $a$ ⾛到 $b$。</p>
 <p>每个⼩城镇只能与另外⼀个定居点直接相连，⽽⼤城市与 $3$ 个或者更多的定居点直接相连。</p>
 <p>下图给出了⼀个由 $11$ 个⼩城镇和 $7$ 个⼤城市组成的⽹络。⼩城镇⽤圆圈表⽰并⽤整数编号，⼤城市⽤⽅形表⽰并⽤字母标识。</p>
-<p><img class="img-responsive center-block" src="source/uoj/234/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMzQvc2FtcGxlLnBuZw==.png" alt="样例" style="width:500px;"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/234/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMzQvc2FtcGxlLnBuZw==.png" alt="样例" style="width:500px;"/></p>
 <p>每条公路的⻓度都是⼀个正整数。两个定居点之间距离是从⼀个定居点⾛到另⼀个定居点所经过的所有公路⻓度之和的最⼩值。</p>
 <p>对于⼤城市 $C$，$r(C)$ 表⽰离 $C$ 最远的⼩城镇到 $C$ 的距离。在所有的⼤城市中 $r(C)$ 值最⼩的⼤城市称为中⼼城市（hub）。离中⼼城市最远的⼩城镇到中⼼城市的距离是 $R$，即 $R$ 是所有 $r(C)$ 的最⼩值。</p>
 <p>在上例中，离⼤城市 $a$ 最远的⼩城镇是城镇 $8$，⼤城市 $a$ 和⼩城镇 $8$ 之间的距离 $r(a) = 1 + 4 + 12 = 17$。对于⼤城市 $g$ 来说，$r(g) = 17$（距离⼤城市 $g$ 最远的⼩城镇之⼀是城 $6$）。上图中唯⼀的中⼼城市是城市 $f$，其 $r(f)=16$，因此上例中 $R$ 是 $16$。</p>
 <p>删除某个中⼼城市后，整个⽹络会分成⼏个连通⼦图，如果每个⼦图中⾄多包含 $\lfloor N / 2 \rfloor$ 个⼩城镇，那么这个删除的中⼼城市就是平衡的（balanced）。注意：计数中不含⼤城市，$\lfloor x \rfloor$ 表⽰不⼤于 $x$ 的最⼤整数。</p>
 <p>在上例中，⼤城市 $f$ 是⼀个中⼼城市，如果删除 $f$，整个⽹络分成 $4$ 个连通⼦图，这 $4$ 个⼦图分别包含下列⼩城镇 ${0, 1, 10}, {2, 3}, {4, 5, 6, 7}$ 和 ${8, 9}$，没有任何⼀个⼦图包含超过 $\lfloor 11 / 2 \rfloor = 5$ 个⼩城镇，所以⼤城市 $f$ 是⼀个平衡的中⼼城市。</p>
+
 # 任务
 
 
@@ -24,6 +25,7 @@
 <li>sub⼤于 $2$ 时，如果存在平衡的中⼼城市，该函数返回 $R$，否则返回 $-R$。</li>
 </ul></li>
 </ul><p>你的 <code>hubDistance</code> 函数可以通过调⽤ grader 函数 <code>getDistance(i, j)</code> ⽽获得关于公路⽹络的信息。函数 <code>getDistance(i, j)</code> 返回⼩城镇 $i$ 与⼩城镇 $j$ 之间的距离。注意：如果 $i$ 和 $j$ 相同的话，函数的返回值将是 $0$，⽽且当参数不合法时，返回值也是 $0$。</p>
+
 # ⼦任务
 
 
@@ -40,11 +42,13 @@
 </tr></thead><tbody><tr><td>1</td><td>13</td><td>$\frac{n(n - 1)}{2}$</td><td>否</td><td>无</td></tr><tr><td>2</td><td>12</td><td>$\lceil \frac{7n}{2}\rceil$</td><td>否</td><td>无</td></tr><tr><td>3</td><td>13</td><td>$\frac{n(n - 1)}{2}$</td><td>是</td><td>无</td></tr><tr><td>4</td><td>10</td><td>$\lceil \frac{7n}{2}\rceil$</td><td>是</td><td>每个大城市都刚好与 $3$ 个定居点连接</td></tr><tr><td>5</td><td>13</td><td>$5n$</td><td>是</td><td>无</td></tr><tr><td>6</td><td>39</td><td>$\lceil \frac{7n}{2}\rceil$</td><td>是</td><td>无</td></tr></tbody></table></div>
 
 <p>注意：$\lceil x \rceil$ 表⽰⼤于或等于 $x$ 的最⼩整数。</p>
+
 # 实现细节
 
 
 <p>你只能提交一个源文件实现如上所述的 <code>hubDistance</code> 函数，并且遵循下面的命名和接口。你需要包含头文件 towns.h。</p>
 <pre><code class="sh_cpp">int hubDistance(int N, int sub);</code></pre>
+
 # 评测方式
 
 
@@ -73,6 +77,7 @@
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1500\texttt{MB}$</p>
+
 # 下载
 
 

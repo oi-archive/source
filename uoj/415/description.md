@@ -7,17 +7,20 @@
 </li>
 <li><p>重复上面两个步骤直到所有的圆都被删除。</p>
 </li>
-</ul><p><img src="source/uoj/415/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjM1ZTNjY2Q3NC5wbmc=.png" width="512" height="512" style="margin:0 auto;" alt="5b0235e3ccd74.png"/></p>
+</ul><p><img src="/source/uoj/415/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjM1ZTNjY2Q3NC5wbmc=.png" width="512" height="512" style="margin:0 auto;" alt="5b0235e3ccd74.png"/></p>
 <p>当 $c_i$ 被删除时，若循环中第1步选择的圆是 $c_j$ ，我们说 $c_i$ 被 $c_j$ 删除。对于每个圆，求出它是被哪一个圆删除的。</p>
+
 # 输入格式
 
 
 <p>第一行包含一个整数 $n$ ，表示开始时平面上圆的数量 ($1 \le n \le 3 \cdot 10^5$)。</p>
 <p>接下来 $n$ 行，每行包含三个整数 $x_i, y_i, r_i$ 依次描述圆 $c_i$ 圆心的x坐标、y坐标和它的半径 ($-10^9 \le x_i, y_i\le 10^9$, $1\le r_i\le 10^9$)。</p>
+
 # 输出格式
 
 
 <p>输出一行，包含 $n$ 个整数 $a_1, a_2, ... a_n$ ，其中 $a_i$ 表示圆 $c_i$ 是被圆 $c_{a_i}$ 删除的。</p>
+
 # 样例一
 
 
@@ -38,6 +41,7 @@
 <pre><code>7 2 7 4 5 6 7 7 4 7 6</code></pre>
 <h4>explanation</h4>
 <p>题目描述中的图片对应了样例一中的情形。</p>
+
 # 限制与约定
 
 

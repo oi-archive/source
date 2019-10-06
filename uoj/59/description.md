@@ -8,6 +8,7 @@
 <p>小Q想，用这些数据也许能求出每项运动的积分。经过推导，小Q发现如果某一个月的记录出错了，很有可能就会出现无解的情况。小Q每个月参加的体育项目很多，记错一两次也是很正常的。</p>
 <p>最后小Q想了一个比较折中的办法：求每项运动的积分，使这个积分能满足尽量多月份的记录。</p>
 <p>由于小Q还要去参加今天的体育运动，所以这个问题和众多的问题一样，要交给学信息学竞赛的你。</p>
+
 # 输入格式
 
 
@@ -16,11 +17,13 @@
 <p>接下来有 $m$ 行，每行有 $n + 2$ 个非负整数，表示一个月的记录。前 $n$ 个数中的第 $i$ 个数表示小Q在该月参加第 $i$ 个体育项目的次数，第 $n + 1$ 个数表示该月兑换一份礼物所需的积分，第 $n + 2$ 个数表示兑换了若干次礼物以后剩余的积分。</p>
 <p>保证输入每个数均不超过 $2^{31} - 1$。</p>
 <p>输入文件的末尾包含 $8$ 行，每行包含一个整数，为参数 $a_3, a_4, \dots, a_{10}$，意义见评分方法。</p>
+
 # 输出格式
 
 
 <p>针对给定的 10 个输入文件 sports1.in ~ sports10.in，你需要分别提交你的输出文件 sports1.out ~ sports10.out。</p>
 <p>每个输出文件输出 $n$ 行，每行包含一个小于 $10^{10m}$（不超过 $10m$ 位）的非负整数。其中第 $i$ 行表示第 $i$ 个体育项目的积分。</p>
+
 # 样例一
 
 
@@ -52,6 +55,7 @@
 <p>第 2 条记录：$0 \times 7 + 2 \times 11 = 22$，兑换 $7$ 次奖品后剩余 $1$ 分；</p>
 <p>第 3 条记录：$5 \times 7 + 7 \times 11 = 112$，兑换 $4$ 次奖品后剩余 $16$ 分；</p>
 <p>第 4 条记录：无论如何设定每个体育项目的得分，都无法满足该条记录。</p>
+
 # 评分方法
 
 
@@ -60,6 +64,7 @@
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>得分</th><th>条件</th><th>得分</th><th>条件</th></tr></thead><tbody><tr><td>10</td><td>$w_s - w_u \leq a_{10}$</td><td>5</td><td>$w_s - w_u \leq a_5$</td></tr><tr><td>9</td><td>$w_s - w_u \leq a_9$</td><td>4</td><td>$w_s - w_u \leq a_4$</td></tr><tr><td>8</td><td>$w_s - w_u \leq a_8$</td><td>3</td><td>$w_s - w_u \leq a_3$</td></tr><tr><td>7</td><td>$w_s - w_u \leq a_7$</td><td>2</td><td>$w_u \geq 0$</td></tr><tr><td>6</td><td>$w_s - w_u \leq a_6$</td><td>1</td><td>$w_u \geq 0$</td></tr></tbody></table></div>
 
 <p>如果有多项满足，则取满足条件中的最高得分。</p>
+
 # 如何测试你的输出
 
 
@@ -73,6 +78,7 @@
 <p>当然我们有对应的linux 32位版本：<code>checker_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x checker_linux64</code>或<code>chmod +x checker_linux32</code>后重试。</p>
 <p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
+
 # 下载
 
 

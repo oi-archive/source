@@ -29,12 +29,14 @@ N=\sum\limits_{i=1}^l A_{x_i,y_i}\times 10^{l-i}
 \end{equation}</p>
 <p>其中$d$为最终方格中非空白格子的数目。</p>
 <p>小Z沉迷于这个有趣的游戏中不能自拔。她想请你帮助, 针对给定的输入参数，给出游戏局面的操作方案。当然，最终得分越大越好。</p>
+
 # 输入格式
 
 
 <p>所有输入数据game1.in ~ game10.in见数据下载。 输入的第1行包含8个用空格分隔的整数$n, m, K, l_{min}, l_{max}, c_1, c_2, F$，含义同题面描述。 </p>
 <p>随后$n$行，每行$m$个整数，表示方格A。数之间用一个空格分隔。</p>
 <p>输入文件中不会包含多余的空行，行末不会存在多余的空格。</p>
+
 # 输出格式
 
 
@@ -42,6 +44,7 @@ N=\sum\limits_{i=1}^l A_{x_i,y_i}\times 10^{l-i}
 <p>输出文件第1行为一个整数$M (0 \leq M \leq K)$，为你的操作次数。</p>
 <p>随后, 输出文件还应包含$M$行，每行描述一次操作。对于每一行，最开始的整数$l$表示这次操作中选定路径的长度。接下来有$2l$个数字，分别为$x_1, y_1, x_2, y_2, \dots, x_l, y_l$。</p>
 <p>输出文件中不应包含多余的空格和空行。一行的多个整数之间使用一个空格分隔。</p>
+
 # 样例一
 
 
@@ -64,6 +67,7 @@ N=\sum\limits_{i=1}^l A_{x_i,y_i}\times 10^{l-i}
 
 <h4>explanation</h4>
 <p>4次消除得到的数与相应的分数分别是：37，得分为2+1=3；41，得分为2+1=3；22，得分为1+2=3；131，得分为3+3=6。总共得分为15。可能存在更优的方案。</p>
+
 # 样例二
 
 
@@ -81,12 +85,14 @@ N=\sum\limits_{i=1}^l A_{x_i,y_i}\times 10^{l-i}
 
 <h4>explanation</h4>
 <p>本方案仅一次消除操作。消除的数为11，本次操作得分为2+2=4。由于F=1，最终得分为每次操作得分之和4除以$2^1 = 2$后下取整，为2。若选择消除路径211，则会得到本局面最佳分数4。</p>
+
 # 评分方式
 
 
 <p>对于每组数据，我们设置了$9$个评分参数$a_{10},a_9, \dots ,a_2$。如果选手的输出不合法，则得零分。否则，在你的方案中，若游戏得分为$w_{user}$，你的分数将会由下表给出：</p>
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>得分</th><th>条件</th><th>得分</th><th>条件</th></tr></thead><tbody><tr><td>10</td><td>$w_{user} \geq a_{10}$</td><td>5</td><td>$w_{user} \geq a_5$</td></tr><tr><td>9</td><td>$w_{user} \geq a_9$</td><td>4</td><td>$w_{user} \geq a_4$</td></tr><tr><td>8</td><td>$w_{user} \geq a_8$</td><td>3</td><td>$w_{user} \geq a_3$</td></tr><tr><td>7</td><td>$w_{user} \geq a_7$</td><td>2</td><td>$w_{user} \geq a_2$</td></tr><tr><td>6</td><td>$w_{user} \geq a_6$</td><td>1</td><td>$w_{user} &gt; 0$</td></tr></tbody></table></div>
+
 
 # 如何测试你的输出
 
@@ -101,6 +107,7 @@ N=\sum\limits_{i=1}^l A_{x_i,y_i}\times 10^{l-i}
 <p>当然我们有对应的linux 32位版本：<code>checker_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x checker_linux64</code>或<code>chmod +x checker_linux32</code>后重试。</p>
 <p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
+
 # 下载
 
 

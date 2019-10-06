@@ -5,6 +5,7 @@
 <p>平面上有 $n$ 个小P的分身。定义一组分身占领的区域为覆盖这组分身的最小凸多边形。小P能力有限，每一时刻都会有若干分身消失。但在下一时刻之前，小P会使用</p>
 <p>&#34;分！身！术！&#34;</p>
 <p>使得这些消失的分身重新出现在原来的位置。小P想知道，每一时刻分身消失后，剩下的分身占领的区域面积是多少？</p>
+
 # 输入格式
 
 
@@ -17,11 +18,13 @@
 <p>$$p_i = [(S + c_i) ~\mathrm{mod}~ n] + 1$$</p>
 <p>特别的，在第一个时刻，我们认为上一个时刻中， $S=-1$ ，即：第一个时刻消失的分身 $p_{1}, p_{2}, \dots, p_{k}$ 的编号为：</p>
 <p>$$p_i = [(-1+c_i) ~\mathrm{mod}~ n] + 1$$</p>
+
 # 输出格式
 
 
 <p>输出到标准输出。</p>
 <p>按给出时刻的顺序依次输出 $m$ 行，每行一个整数，表示该时刻剩余分身所占领区域面积的<strong>两倍</strong>。</p>
+
 # 样例一
 
 
@@ -51,19 +54,23 @@
 $$[(0+3) ~\mathrm{mod}~ 6] + 1 = 4$$ 
 $$[(1+3) ~\mathrm{mod}~ 6] + 1 = 5$$ </p>
 <p>剩余的4个点占领图中实线内部区域。</p>
-<p> <img class="img-responsive center-block" src="source/uoj/319/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zMTkvZXhhbXBsZS5wbmc=.png" alt="样例解释" align="middle"/></p>
+<p> <img class="img-responsive center-block" src="/source/uoj/319/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zMTkvZXhhbXBsZS5wbmc=.png" alt="样例解释" align="middle"/></p>
+
 # 样例二
 
 
 <p>见“样例数据下载”</p>
+
 # 样例三
 
 
 <p>见“样例数据下载”</p>
+
 # 样例四
 
 
 <p>见“样例数据下载” </p>
+
 # 限制与约定
 
 
@@ -80,6 +87,7 @@ $$[(1+3) ~\mathrm{mod}~ 6] + 1 = 5$$ </p>
 <li>定义所有 $n$ 个分身所占据区域的<strong>顶点集合</strong>为 $S$， $|S|\geq 3$。在任意时刻，$S$ 中至少存在两个未消失的分身。 </li>
 </ul><p><strong>时间限制：</strong>$3\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

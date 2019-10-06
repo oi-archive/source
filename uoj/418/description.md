@@ -5,6 +5,7 @@
 <ol><li>从手中取 $w_i$ 个石子放在结点 $i$ 上，进行该操作要求结点 $i$ 的所有孩子 $j$ 上都有 $w_j$ 个石子。</li>
 <li>将结点 $i$ 上的所有石子收回手中。</li>
 </ol><p>Takahashi 想知道对于每个 $i$，为了在结点 $i$ 上放 $w_i$ 个石子，Snuke 至少需要准备多少石子。</p>
+
 # 输入格式
 
 
@@ -13,11 +14,13 @@
 <p>第二行一个正整数 $n$ 。$(n \leq 2 \times 10^5)$</p>
 <p>第三行 $n-1$ 个正整数，第 $i-1$ 个数 $p_i$ 表示 $i$ 的父亲。$(p_i &lt; i)$</p>
 <p>第四行 $n$ 个正整数，第 $i$ 个数为 $w_i$ 。</p>
+
 # 输出格式
 
 
 <p>输出到标准输出。</p>
 <p>输出一行 $n$ 个正整数，第 $i$ 个数为结点 $i$ 的答案。</p>
+
 # 样例一
 
 
@@ -28,6 +31,7 @@
 1 1 1</code></pre>
 <h4>output</h4>
 <pre><code class="sh_plain">2 2 1</code></pre>
+
 # 样例二
 
 
@@ -38,6 +42,7 @@
 1 1 1</code></pre>
 <h4>output</h4>
 <pre><code class="sh_plain">3 1 1</code></pre>
+
 # 限制及约定
 
 
@@ -50,6 +55,7 @@
 
 <p><strong>时间限制</strong>：$3\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+
 # 下载
 
 

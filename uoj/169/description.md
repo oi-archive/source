@@ -11,6 +11,7 @@
 <li>对于所有的 $i \in [l,r]$，询问 $B_i$ 的最小值。</li>
 </ol><p>在每一次操作结束之后，<span class="uoj-username" data-rating="1225">xyz111</span> 都会进行一次更新：对于所有的 $i \in [1,n]$，将 $B_i$ 变成 $\min(B_i,A_i)$。</p>
 <p>然而留给元旦老人的时间已经所剩无几了，情急之下，他决定向你寻求帮助：你能帮他回答 <span class="uoj-username" data-rating="1225">xyz111</span> 的问题吗。</p>
+
 # 输入格式
 
 
@@ -21,10 +22,12 @@
 <p>若 $ t_i = 2 $，则接下来三个整数 $ l_i, r_i, d_i $，表示操作二。</p>
 <p>若 $ t_i = 3 $，则接下来三个整数 $ l_i, r_i$，表示操作三。</p>
 <p>若 $ t_i = 4 $，则接下来一个整数 $ l_i, r_i $，表示操作四。</p>
+
 # 输出格式
 
 
 <p>对于每个询问操作，输出一行表示答案。</p>
+
 # 样例一
 
 
@@ -48,14 +51,17 @@
 
 </pre>
 
+
 # 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -65,10 +71,12 @@
 <p>对于所有数据，保证有 $1 \leq l_i \leq r_i \leq n,-2000 \leq c_i \leq 2000$ 和 $-10^9 \leq A_i,d_i \leq 10^9$</p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$96\texttt{MB}$</p>
+
 # 下载
 
 
 <p><a href="/download.php?type=problem&amp;id=169">样例数据下载</a></p>
+
 # 新年快乐！
 
 

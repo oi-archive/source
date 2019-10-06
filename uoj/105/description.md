@@ -6,15 +6,18 @@
 </ul><p>每条线都有一个长度。游戏结束后，你的最终得分为蓝线长度之和。</p>
 <p>给你连珠线游戏结束后的游戏局面，只告诉了你珠子和链的连接方式以及每条线的长度，没有告诉你每条线分别是什么颜色。</p>
 <p>你需要写一个程序来找出最大可能得分。即，在所有以给出的最终局面结束的连珠线游戏中找出那个得分最大的，然后输出最大可能得分。</p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$，表示珠子的数量。珠子从 $1$ 到 $n$ 编号。</p>
 <p>接下来 $n - 1$ 行每行三个整数 $a_i, b_i, c_i$。保证 $1 \leq a_i &lt; b_i \leq n$。$1 \leq c_i \leq 10000$。表示 $a_i$ 号珠子和 $b_i$ 号珠子间连了长度为 $c_i$ 的线。</p>
+
 # 输出格式
 
 
 <p>输出一个整数，表示最大可能得分。</p>
+
 # 样例一
 
 
@@ -38,7 +41,8 @@
 <li>在 $3$ 和 $5$ 之间插入 $1$。（线长分别为 $40$ 和 $20$）。</li>
 <li>把 $2$ 和 $1$ 用长度为 $10$ 的线连起来。</li>
 <li>把 $4$ 和 $1$ 用长度为 $15$ 的线连起来。</li>
-</ul><p><img class="img-responsive center-block" src="source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMS5wbmc=.png" alt="样例一的解释图"/></p>
+</ul><p><img class="img-responsive center-block" src="/source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMS5wbmc=.png" alt="样例一的解释图"/></p>
+
 # 样例二
 
 
@@ -62,7 +66,8 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMi5wbmc=.png" alt="样例二的解释图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMi5wbmc=.png" alt="样例二的解释图"/></p>
+
 # 限制与约定
 
 
@@ -72,6 +77,7 @@
 <p>第四个子任务共 43 分，满足 $1 \leq n \leq 200000$。</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

@@ -14,17 +14,20 @@ f(t) = \left( \sum_{k = 0}^{n-1}26^{n - k - 1} \times \mathrm{num}(t_k) \right) 
 <p>时光机会把输入的密码 $s$ 旋转 $0, 1, \dots, {n-1}$ 次得到字符串 $a_0, a_1, \dots, a_{n-1}$。所谓旋转就是把原字符串的第一个字符放到字符串最后面去，把原字符串第二个字符作为新的字符串的开始。（你可能需要参照样例解释来更好地理解）</p>
 <p>时光机存储了 $n$ 个值 $h_0, h_1, \dots, h_{n - 1}$，假如对于任意一个 $0 \leq k &lt; n$ 的整数 $k$ 都满足 $f(a_k) = h_k$，那么就算密码正确。</p>
 <p>现在给你 $n, p$ 和 $h_0, \dots, h_{n - 1}$，请你求出密码。</p>
+
 # 输入格式
 
 
 <p>第一行两个正整数 $n, p$，含义如前所述。保证 $p &gt; 26$ 且<strong>是一个素数</strong>。</p>
 <p>接下来 $n$ 行，每行包含一个非负整数依次表示 $h_0, \dots, h_{n - 1}$。保证 $0 \leq h_0, \dots, h_{n - 1} &lt; p$。</p>
+
 # 输出格式
 
 
 <p>输出一个由小写英文字母组成的字符串表示正确密码。</p>
 <p>保证至少存在一个正确的密码。</p>
 <p>如果有多种正确的密码，你只要输出任意一个即可。</p>
+
 # 样例一
 
 
@@ -51,6 +54,7 @@ f(t) = \left( \sum_{k = 0}^{n-1}26^{n - k - 1} \times \mathrm{num}(t_k) \right) 
 <p>$a_4 = \texttt{&#34;ksbvf&#34;}$。（旋转 $4$ 次）</p>
 <p>依次带入 $f$ 求值得 $10, 15, 13, 16, 19$。</p>
 <p>举个例子：$f(\texttt{&#34;sbvfk&#34;}) = \left(26^4 \times 18 + 26^3 \times 1 + 26^2 \times 21 + 26^1 \times 5 + 26^0 \times 10\right) \bmod 31$</p>
+
 # 样例二
 
 
@@ -68,6 +72,7 @@ f(t) = \left( \sum_{k = 0}^{n-1}26^{n - k - 1} \times \mathrm{num}(t_k) \right) 
 
 </pre>
 
+
 # 限制与约定
 
 
@@ -79,6 +84,7 @@ f(t) = \left( \sum_{k = 0}^{n-1}26^{n - k - 1} \times \mathrm{num}(t_k) \right) 
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

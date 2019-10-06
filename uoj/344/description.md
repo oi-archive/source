@@ -1,5 +1,6 @@
 # 题目描述
 
+
 # 题目描述
 
 
@@ -7,7 +8,7 @@
 <p>这天她在一堵墙钉了 $n$ 个钉子，第 $i$ 个钉子的坐标是 $(x_i,y_i)$。接着她又在墙上钉上了 $m$ 根绳子，绳子的一端是点 $s_i(sx_i,sy_i)$，绳子经过点 $t_i(tx_i,ty_i)$，同时绳子的长度是 $L_i$。其中 $s_i$ 点是<strong>粘</strong>在墙上的，而另一个端点是可以移动的。初始情况下绳子是紧绷的一条直线段。</p>
 <p>接着，对每一根绳子可怜都进行了一次游戏。在第 $i$ 次游戏中，可怜会捏着第 $i$ 根绳子的活动端点进行顺时针移动，移动过程中每时每刻绳子都是紧绷的。</p>
 <p>不难发现绳子每时每刻都在以某一个位置为圆心作顺时针的圆周运动。初始情况下圆心是绳子的固定端点 $s$，但是在运动的过程中圆心可能会不断发生变化，如下图所示：</p>
-<p> <img src="source/uoj/344/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWVkZDYzNmJjOS5wbmc=.png" alt="img" align="middle" width="186" height="110"/></p>
+<p> <img src="/source/uoj/344/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWVkZDYzNmJjOS5wbmc=.png" alt="img" align="middle" width="186" height="110"/></p>
 <p>图中左侧红点为钉子所在的点，右侧红点为绳子的固定端点，其他颜色的点为虚拟点，活动端点为紫点；绳子从紫点开始运动，在运行到蓝点时绳子绕上左侧红点的钉子，因此活动端点更换了圆心和半径，继续作顺时针的圆周运动。接着活动端点会运行到绿点，并且接下来活动端点会一直绕左侧钉子不停地做圆周运动。</p>
 <p>不难发现绳子的运动是不会停止的，因此可怜在她感觉累了之后就会停下来。但是作为一个好奇心满满的女孩子，可怜决定对每一根绳子计算一下如果绳子无限的运行下去，那么它的圆心会切换多少次（包括初始的圆心）。不难发现这个数值一定是有限的。</p>
 <p>这里对游戏过程进行一定程度的假设来简化问题：</p>
@@ -16,7 +17,8 @@
 <li>钉子的体积以及绳子的体积可以忽略不计。在游戏的过程中每一段绳子之间不会互相影响。</li>
 <li>初始情况下绳子距离每一个钉子的最近欧几里得距离大于等于 $9 \times 10^{-4}$。</li>
 <li>每一根绳子初始粘着的端点<strong>不会</strong>影响绳子的运动，即<strong>绳子不会绕回到端点上</strong>。</li>
-</ol># 输入格式
+</ol>
+# 输入格式
 
 
 <p>从标准输入读入数据。</p>
@@ -24,12 +26,14 @@
 <p>每组数据第一行为两个整数 $n,m$，表示钉子数和绳子数。</p>
 <p>接下来 $n$ 行，每行两个整数 $x_i,y_i$ 表示钉子的坐标。</p>
 <p>接下来 $m$ 行，每行五个整数 $sx_i,sy_i,tx_i,ty_i,L_i$ 表示一段绳子，含义如上所述。</p>
+
 # 输出格式
 
 
 <p>输出到标准输出。</p>
 <p>对于每组数据的每组询问，输出一行一个整数表示运行的过程中圆心变化了多少次。</p>
 <p>不同数据组数之间<strong>无需</strong>空行隔开。</p>
+
 # 样例一
 
 
@@ -54,6 +58,7 @@
 11
 16
 1000001</code></pre>
+
 # 样例二
 
 
@@ -61,9 +66,10 @@
 <h4>explanation</h4>
 <p>为了选手的身体健康，可怜决定临时加上一个大样例。但是因为是 IOI 赛制，可怜不想让大样例太强。</p>
 <p>大样例如下图所示：</p>
-<p> <img src="source/uoj/344/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWVkZDYzYTIwMC5wbmc=.png" alt="img" align="middle" width="310" height="297"/></p>
+<p> <img src="/source/uoj/344/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWVkZDYzYTIwMC5wbmc=.png" alt="img" align="middle" width="310" height="297"/></p>
 <p>其中两种颜色的”点“分别表示钉子和询问。为什么询问看起来像是一个点呢，因为每一个询问都是长度为 $1$ 的线段，而坐标范围又很大，所以看起来就是一个点啦。</p>
 <p>不难发现每一个询问的答案都是 $1$。</p>
+
 # 限制与约定
 
 
@@ -75,6 +81,7 @@
 <p>对于 $100\%$ 的数据，$0 \leq |x_i|,|y_i|,|sx_i|,|sy_i|,|tx_i|,|ty_i| \leq 10^4$，$1 \leq L_i \leq 10^9$。</p>
 <p><strong>时间限制</strong>：$10\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+
 # 下载
 
 

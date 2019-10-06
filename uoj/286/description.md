@@ -6,6 +6,7 @@
 <p>在同构判定鸡眼里，世界都是离散的图，判定哪个是真的猴腮雷就转化为了判定两个无向图是否同构。对于两个无向图我们称他们同构当且仅当我们可以将其中一个图的结点重新编号，使得这两个图完全一样。</p>
 <p>同构判定鸡掌握了 $6$ 个强有力的图同构判定算法，然而每个算法都存在一定的缺陷。缺陷在于，给定两个同构的图每个算法确实能判定出这两个图是同构，但是给定两个不同构的图该算法也有可能报告说这两个图是同构的。</p>
 <p>然而同构判定鸡现在自信满满并没有意识到自己的错误所在。现在，请你给出两个图，证明他们不同构，并且使得这 $6$ 个算法都误以为他们是同构的。</p>
+
 # 图同构判定算法
 
 
@@ -18,6 +19,7 @@
 </tr><tr><td class="text-center">2</td><td class="text-center">13</td><td>首先仅检查结点数及边数，然后结点数很小时使用暴力，否则视为同构</td></tr><tr><td class="text-center">3</td><td class="text-center">19</td><td>初始每个结点颜色相同，每次对于每个结点结合自身的颜色和周围邻居的颜色编码产生新的颜色，反复迭代直至稳定。将最后每个图所得颜色进行排序，若相同则视为同构</td></tr><tr><td class="text-center">4</td><td class="text-center">21</td><td>与算法 3 类似，只是用结点间最短距离信息初始化结点颜色</td></tr><tr><td class="text-center">5</td><td class="text-center">17</td><td>枚举一个图中的一个固定的结点与另一个图中哪个结点对应，将他们分别染成特殊的颜色，其它结点颜色照常初始化，再用算法 3 中的迭代。若存在一种对应使得最后所得颜色相同，则视为同构</td></tr><tr><td class="text-center">6</td><td class="text-center">23</td><td>一种基于邻接矩阵的整数次幂的迹的哈希算法</td></tr></tbody></table></div>
 
 <p>请参考“测评库下载”中的 grader.cpp 的具体代码来更好地理解算法流程。</p>
+
 # 任务
 
 
@@ -43,6 +45,7 @@
 </ul></li>
 </ul><p><strong>由于本题没有样例，比赛进行期间仅会检查你输出的图是否合法，若合法则得满分，比赛结束后会进行最终评测。</strong></p>
 <p><strong>请勿作出攻击交互库的行为，若被发现将记 $0$ 分处理。</strong></p>
+
 # 实现细节
 
 
@@ -56,6 +59,7 @@
 void hack();
 void propose(graph a, graph b);
 int identify(graph g);</code></pre>
+
 # 限制与约定
 
 
@@ -64,6 +68,7 @@ int identify(graph g);</code></pre>
 <p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

@@ -4,6 +4,7 @@
 <p>魔力之都可以抽象成一个 $n$ 个节点、$m$ 条边的<strong>无向连通图</strong>（节点的编号从 $1$ 至 $n$）。我们依次用 $l,a$ 描述一条边的<strong>长度</strong>、<strong>海拔</strong>。</p>
 <p>作为季风气候的代表城市，魔力之都时常有雨水相伴，因此道路积水总是不可避免的。由于整个城市的排水系统连通，因此<strong>有积水的边一定是海拔相对最低的一些边</strong>。</p>
 <p>我们用<strong>水位线</strong>来描述降雨的程度，它的意义是：所有海拔<strong>不超过</strong>水位线的边都是<strong>有积水</strong>的。</p>
+
 # 题目描述
 
 
@@ -15,6 +16,7 @@
 </ul></li>
 </ul><p>Yazid 非常讨厌在雨天步行，因此他希望在完成回家这一目标的同时，最小化他<strong>步行经过的</strong>边的总长度。请你帮助 Yazid 进行计算。</p>
 <p><em>本题的部分测试点将强制在线，具体细节请见【输入格式】和【子任务】。</em></p>
+
 # 输入格式
 
 
@@ -30,13 +32,15 @@
 <li>在这里，我们保证 $1\leq v_0\leq n$，$0\leq p_0\leq S$。</li>
 </ul></li>
 </ul><p>对于输入中的每一行，如果该行包含多个数，则用单个空格将它们隔开。</p>
+
 # 输出格式
 
 
 <p>输出到标准输出。</p>
 <p>依次输出各组数据的答案。对于每组数据：</p>
 <ul><li>输出 $Q$ 行每行一个整数，依次表示每天的最小步行总路程。</li>
-</ul># 样例一
+</ul>
+# 样例一
 
 
 <h4>input</h4>
@@ -73,6 +77,7 @@
 <p>对于第三天，从 $4$ 号节点出发的唯一一条边是有积水的，车也就变得无用了。Yazid 只能纯靠徒步回家。</p>
 <p>对于第四天，Yazid 可以坐车先到达 $2$ 号节点，再步行回家。</p>
 <p>第五天所有的边都积水了，因此 Yazid 只能纯靠徒步回家。</p>
+
 # 样例二
 
 
@@ -108,18 +113,22 @@
 <p>第一天的答案是 $0$，因此第二天的 $v=\left( 5+0-1\right)\bmod 5+1=5$，$p=\left(2+0\right)\bmod\left(3+1\right)=2$。</p>
 <p>第二天的答案是 $2$，因此第三天的 $v=\left( 2+2-1\right)\bmod 5+1=4$，$p=\left(0+2\right)\bmod\left(3+1\right)=2$。</p>
 <p>第三天的答案是 $3$，因此第四天的 $v=\left( 4+3-1\right)\bmod 5+1=2$，$p=\left(0+3\right)\bmod\left(3+1\right)=3$。</p>
+
 # 样例三
 
 
 <p>见<a href="/download.php?type=problem&amp;id=393">下载目录</a>下的 <em>ex_3.in</em> 与 <em>ex_3.ans</em>。</p>
+
 # 样例四
 
 
 <p>见<a href="/download.php?type=problem&amp;id=393">下载目录</a>下的 <em>ex_4.in</em> 与 <em>ex_4.ans</em>。</p>
+
 # 样例五
 
 
 <p>见<a href="/download.php?type=problem&amp;id=393">下载目录</a>下的 <em>ex_5.in</em> 与 <em>ex_5.ans</em>。</p>
+
 # 子任务
 
 
@@ -148,13 +157,15 @@
 <p><strong>为了优化你的阅读体验，我们在表格中把测试点的编号放在了中间，请注意这一点。</strong></p>
 <p><strong>时间限制：</strong>$4\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 提示
 
 
 <ul><li>样例 3 满足海拔为一种，且<strong>不</strong>强制在线。</li>
 <li>样例 4 满足图形态为一条链，且强制在线。</li>
 <li>样例 5 满足<strong>不</strong>强制在线。</li>
-</ul># 下载
+</ul>
+# 下载
 
 
 <p><a href="/download.php?type=problem&amp;id=393">样例数据下载</a></p>

@@ -3,12 +3,13 @@
 <p>土卫二上一片荒凉，但这不影响基地的建造速度。在伏特跳蚤国王的指挥下，跳蚤们愉快地和从火星抓来的特有生物 “火猩” 一起高速建造基地。</p>
 <p>短短几天，基地便建造完毕，这标志着跳蚤国土卫二外区设立完毕。</p>
 <p>这么大的事怎么能不庆祝呢？于是跳蚤们做了一桌丰盛的蚤餐。蚤餐的话当然少不了跳蚤的最爱 —— 仙人掌蛋糕啦！由于火猩巨大的生产力，这个蛋糕是无限大的。在切下 $n$ 刀之后，蛋糕被分为了很多块。面积有限的蛋糕块准备分给跳蚤吃，面积无限大的蛋糕块则准备分给火猩吃。这时……</p>
-<p><img class="img-responsive center-block" src="source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg" alt="黑恶势力登场"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg" alt="黑恶势力登场"/></p>
 <p>从某个隐蔽的角落射出了一束耀眼的光芒，这束光巧妙避开了所有蛋糕块的顶点，所经过的 $n + 1$ 个蛋糕块都被破坏了。</p>
 <p>“高稳鸡光！”众蚤惊呼了起来。</p>
 <p>没错，这意味有几个黑恶势力的特工混进了火箭中，也随着跳蚤大军来到了土卫二，虽然很快就被伏特跳蚤国王抓住并拿去煲汤了……</p>
 <p>回过头来，伏特跳蚤国王想统计下每个被高稳鸡光破坏了的蛋糕块是准备给跳蚤吃的，还是准备给火猩吃的。</p>
 <p><strong>一句话题意：</strong>平面上有 $n+1$ 条直线，前 $n$ 条直线把平面分成许多块，这些块有些面积有限，有些面积无限，而第 $n+1$ 条直线不经过前 $n$ 条直线的交点，且一定不和前 $n$ 条直线中的任意一条平行，求第 $n+1$ 条直线被前 $n$ 条直线划分成的 $n+1$ 段中哪些在面积有限的块里，哪些在面积无限的块里。</p>
+
 # 输入格式
 
 
@@ -16,11 +17,13 @@
 <p>接下来 $n+1$ 行，第 $i$ 行 $4$ 个整数 $x_1, y_1, x_2, y_2$ 表示第 $i$ 条直线经过 $(x_1,y_1)$ 和 $(x_2,y_2)$ 两点。</p>
 <p>保证第 $n+1$ 条直线不经过前 $n$ 条直线的交点，且一定不和前 $n$ 条直线中的任意一条平行或重合。</p>
 <p>保证第 $n+1$ 条直线不与 $x$ 轴垂直，且对于第 $n + 1$ 条直线有 $x_1 &lt; x_2$。</p>
+
 # 输出格式
 
 
 <p>输出一行长度为 $n+1$ 的 01 串，第 $x$ 个数字如果为 $0$ 则表示第 $x$ 段是在面积无限的块里，如果为 $1$ 则表示第 $x$ 段是在面积有限的块里。</p>
 <p>请注意，段的输出顺序必须是<strong>从左到右</strong>。由于第 $n + 1$ 条直线不与 $x$ 轴垂直，所以从左到右的顺序总是存在的。</p>
+
 # 样例一
 
 
@@ -39,7 +42,8 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMS5wbmc=.png" alt="样例一"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMS5wbmc=.png" alt="样例一"/></p>
+
 # 样例二
 
 
@@ -58,8 +62,9 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMi5wbmc=.png" alt="样例二"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMi5wbmc=.png" alt="样例二"/></p>
 <p>注意数据中前 $n$ 条直线可能出现互相平行的情况。</p>
+
 # 样例三
 
 
@@ -79,11 +84,13 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMy5wbmc=.png" alt="样例三"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMy5wbmc=.png" alt="样例三"/></p>
+
 # 样例四
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -98,6 +105,7 @@
 <p>为了避免精度问题，保证第 $n+1$ 条直线和前 $n$ 条直线的 $n$ 个交点中，两两之间的距离不小于 $0.1$。</p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

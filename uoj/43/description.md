@@ -18,6 +18,7 @@
 <li>Quantifier 的形式为 “<samp>{lower_bound,upper_bound}</samp>”，其中 lower_bound 和 upper_bound 各对应一个不超过 $20$ 的非负整数，并且 $\text{upper_bound} \geq \text{lower_bound}$，Quantifier 对应的区间为闭区间 $[\text{lower_bound}, \text{upper_bound}]$。注意 upper_bound 可以为空（此时中间的逗号还是有的），upper_bound 为空表示上界为无穷大。<samp>{1,3}</samp>, <samp>{0,1}</samp>, <samp>{2,2}</samp>, <samp>{3,}</samp> 均为合法的 Quantifier，但 <samp>{3,2}</samp>, <samp>{,1}</samp> 就不合法。</li>
 <li>Atom 有三种形式：第一种为单个字符，这里字符约定只能是英文字符（包括大写和小写）和数字，这种形式下的 Atom 所能匹配的内容就是该字符。第二种形式为字符区间，具体形式为 “<samp>[lower-upper]</samp>”，这里 lower 和 upper 各为单个字符，满足要么同时为小写英文字母、要么同时为大写字母、要么同时为数字，并且 lower 的ASCII码不小于 upper 的ASCII码，这种情况下的 Atom 所能匹配的内容就是这个区间内的字符（包括 lower 和 upper）。第三种形式是 “<samp>(Regexp)</samp>”，即一个合法的正则表达式套上一对括号，这种情况下该 Atom 能匹配的内容和括号内的正则表达式相同。</li>
 </ol><p>根据以上文法，“<samp>[0-9]{1,3}</samp>” 为合法的正则表达式，它能匹配长度为 $1 \sim 3$ 且由数字组成的字符串。“<samp>([a-z]|[0-9]){3,10}</samp>” 也为合法的正则表达式，它能匹配长度为 $3 \sim 10$ 且由小写英文字母和数字组成的字符串。更复杂的一个例子为 “<samp>01[0-1]{0,}|10[0-1]{0,}</samp>”，它能匹配所有 <samp>01</samp> 或 <samp>10</samp> 开头的 <samp>01</samp> 字符串。</p>
+
 # 输入格式
 
 
@@ -27,6 +28,7 @@
 <p>每段 something 要么为具体的字符串（由大写英文字母、小写英文字母和数字组成且长度在 $[1,50]$ 内），要么为 “<samp>:{regexp_name}</samp>”，其中 regexp_name 由大写和小写英文字母组成且长度不超过 $30$。具体的正则表达式会在之后的输入中给出。描述该 path 的第二行为对应的 action 名称（由大写和小写英文字母组成，长度在 $[1,30]$ 内）。</p>
 <p>下面若干行描述前面 path 中出现的所有正则表达式，每行描述一个正则表达式，每行内包含两个非空字符串（由一个空格隔开），前面的字符串表示 regexp_name，后面的字符串表示对应正则表达式（长度不超过 $50$）。注意同一个 regexp_name 可能在前面给出的 path 中出现多次（一个 path 中出现多次或在不同 path 中出现），这种情况下他们对应的正则表达式是相同的，并且输入中只会描述一次。数据同时保证这里给出的 regexp_name 都至少在一个 path 中出现过。</p>
 <p>下面一行包含一个正整数 $M$，表示有 $M$ 个请求发了过来。下面 $M$ 行，每行描述一个请求的 URL。URL 为 “<samp>/{something_1}/{something_2}/.../{something_k}</samp>” 或 “<samp>/{something_1}/{something_2}/.../{something_k}?{name_1}={value_1}&amp;{name_2}={value_2}&amp;...&amp;{name_n}={value_n}</samp>” 的形式，其中所有 something 和 value 都由大写英文字母、小写英文字母和数字组成且长度在 $[1,50]$ 内，所有 name 都由大写和小写英文字母组成且长度在 $[1,30]$ 内。</p>
+
 # 输出格式
 
 
@@ -36,7 +38,8 @@
 <ul><li>其中 parameter_list 用一个字典的方式输出。例如有三个参数，他们的 name 为 avatar、message 和 page，对应的 value 分别为 true、hello 和 2，那么输出的 parameter_list 为 “<samp>{&#34;avatar&#34;:&#34;true&#34;,&#34;message&#34;:&#34;hello&#34;,&#34;page&#34;:&#34;2&#34;}</samp>”（所有参数按照 name 的字典序排列）。</li>
 <li>注意一个请求中，拥有相同 name 的参数可能出现多次，例如请求的 URL 为 “<samp>/user/me/show?name=you&amp;name=he</samp>”，匹配的 path 为 “<samp>/user/:name/show</samp>”，此时的 parameter_list 为 “<samp>{&#34;name&#34;:[&#34;me&#34;,&#34;you&#34;,&#34;he&#34;]}</samp>”。方括号里面按照参数在请求 URL 中出现的次序给出。</li>
 <li>更多具体的例子请参考样例。数据能够保证一个请求不会被多个 path 匹配。</li>
-</ul># 样例一
+</ul>
+# 样例一
 
 
 <h4>input</h4>
@@ -90,6 +93,7 @@ Request matches action &#34;userShow&#34; with parameters {&#34;handle&#34;:&#34
 
 </pre>
 
+
 # 限制与约定
 
 
@@ -98,10 +102,12 @@ Request matches action &#34;userShow&#34; with parameters {&#34;handle&#34;:&#34
 <p><strong>注意此题数据是良心数据。</strong></p>
 <p><strong>时间限制</strong>：$20\texttt{s}$</p>
 <p><strong>空间限制</strong>：$256\texttt{MB}$</p>
+
 # 来源
 
 
 <p>中国国家队清华集训2014~2015 Day 3 - By 贾志鹏</p>
+
 # 下载
 
 

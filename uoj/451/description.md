@@ -17,16 +17,19 @@
 <p>这样显然不重不漏地定义了两两物种之间的“保护关系”。</p>
 <p>动物中的生物学家们决定探究物种在演变过程中的变化，一个很重要的课题就是每个时期联盟的数量。</p>
 <p>作为动物中的佼佼者，生物学家们希望你能帮助他们求出，对于$i\in[1,n]$，在物种$i$在这个世界上出现之后动物中的联盟的数量。</p>
+
 # 输入格式
 
 
 <p>第一行两个整数$n$和$ty$，表示物种的数量以及是否强制在线（$ty$为$1$表示强制在线，$ty$为$0$表示不强制在线）。</p>
 <p>接下来$n$行，其中第$i$行第一个整数$s_i$，表示区间的数量，接下来同一行$s_i$对整数$L_{i,j},R_{i,j}$，如果$ty=0$，那么$l_{i,j}=L_{i,j},r_{i,j}=R_{i,j}$，否则$l_{i,j}=(L_{i,j}+lastans-1)\mod i+1,r_{i,j}=(R_{i,j}+lastans-1)\mod i+1$，其中$lastans$为物种$i-1$来到这个世界后联盟的数量，特殊地，当$i=1$时，$lastans=0$.</p>
 <p>$l_{i,j},r_{i,j}$的意义请参考题目。</p>
+
 # 输出格式
 
 
 <p>输出一行$n$个整数，其中第$i$个整数，表示物种$i$来到这个世界后联盟的数量。</p>
+
 # 样例一
 
 
@@ -44,6 +47,7 @@
 2 2 2 7 8</code></pre>
 <h4>output</h4>
 <pre><code>1 2 3 4 5 6 7 4 5 1</code></pre>
+
 # 样例二
 
 
@@ -61,6 +65,7 @@
 2 7 7 2 3</code></pre>
 <h4>output</h4>
 <pre><code>1 2 3 4 5 6 7 4 5 1</code></pre>
+
 # 样例三
 
 
@@ -70,11 +75,13 @@
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>子任务编号</th><th>$n\le$</th><th>$S\le$</th><th>$ty \le $</th><th>时间限制</th><th>空间限制</th><th>分值</th></tr></thead><tbody><tr><td>1</td><td>500</td><td>$2\times 10^6​$</td><td>0</td><td>1s</td><td>512MB</td><td>9</td></tr><tr><td>2</td><td>2000</td><td>$2\times 10^6​$</td><td>0</td><td>1s</td><td>512MB</td><td>11</td></tr><tr><td>3</td><td>$10^5$</td><td>$3.5\times 10^5​$</td><td>0</td><td>1s</td><td>512MB</td><td>15</td></tr><tr><td>4</td><td>$10^5$</td><td>$3.5\times 10^5​$</td><td>1</td><td>1s</td><td>512MB</td><td>19</td></tr><tr><td>5</td><td>$2\times 10^5​$</td><td>$2\times 10^6​$</td><td>0</td><td>2s</td><td>512MB</td><td>11</td></tr><tr><td>6</td><td>$2\times 10^5​$</td><td>$2\times 10^6​$</td><td>1</td><td>2s</td><td>512MB</td><td>18</td></tr><tr><td>7</td><td>$2\times 10^5​$</td><td>$2\times 10^6​$</td><td>1</td><td>2s</td><td>16MB</td><td>17</td></tr></tbody></table></div>
 
+
 # 提示
 
 
 <p>输入输出的数据量较大，建议使用读入输出优化。</p>
 <p>样例2即为样例1的加密版本.</p>
+
 # 下载
 
 

@@ -10,16 +10,19 @@
 <p>假设我们在颜色为 <samp>ababa</samp> 的竹竿顶端再捆一根竹子，则可以捆成 <samp>ababaaba</samp>，<samp>abababa</samp> 和 <samp>ababa</samp> 三种不同的情况。</p>
 <p>但是小 C 在这个问题上有不同的看法，他认为小 W 捆不出很多种长度不同的竹竿。小 W 非常不服，于是他找到了你——现在请你求出在竹竿长度不超过 $w$ 的情况下，小 W 可以捆出多少种长度不同的竹竿。其中，竹竿的长度指从底端到顶端的竹子的节的个数。</p>
 <p>注意：如果 $w &lt; n$，则没有合法的长度，此时答案为 $0$。</p>
+
 # 输入格式
 
 
 <p>第一行包含 $1$ 个正整数 $T$，为数据组数。</p>
 <p>每组数据的第一行包含 $2$ 个正整数 $n$ 和 $w$，表示短竹子的长度和竹竿的长度上限。</p>
 <p>每组数据的第二行包含一个长度为 $n$ 的字符串，该字符串仅由小写英文字母构成，表示短竹子从底端到顶端每节的颜色。</p>
+
 # 输出格式
 
 
 <p>输出共 $T$ 行，每行包含一个整数表示捆成竹竿的不同长度种数。</p>
+
 # 样例一
 
 
@@ -44,6 +47,7 @@ bbab
 <li><samp>bbabbabbbab</samp></li>
 <li><samp>bbabbbabbab</samp></li>
 </ol><p>后两种竹竿长度相同,因此不同长度的竹竿共有 $5$ 种。长度分别为：$4, 7, 8, 10, 11$。</p>
+
 # 样例二
 
 
@@ -62,10 +66,12 @@ abaabbabaaabaabbbbbbbbbbbababbbbaaabaabbb
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -80,6 +86,7 @@ abaabbabaaabaabbbbbbbbbbbababbbbaaabaabbb
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

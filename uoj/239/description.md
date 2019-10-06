@@ -19,7 +19,8 @@
 <p>而且，你的程序调用库函数的次数是有限制的，具体的，你的程序可以</p>
 <ul><li>调用 <code>add_element</code> 最多 $w$ 次（$w$ 表示“写”）；</li>
 <li>调用 <code>check_element</code> 最多 $r$ 次（$r$ 表示“读”）。</li>
-</ul># 实现细节
+</ul>
+# 实现细节
 
 
 <p>你应该实现一个函数（方法）：</p>
@@ -28,7 +29,8 @@
 <li>$r$：你的程序调用函数 <code>check_element</code> 的最大次数；</li>
 <li>函数应该返回恢复的排列 $p$。</li>
 </ul></li>
-</ul># 库函数
+</ul>
+# 库函数
 
 
 <p>为了和数据结构进行交互，你的程序应该使用下列三个函数（方法）</p>
@@ -41,6 +43,7 @@
 </ul><p>注意：如果你的程序违反上述的任何一条限制，其评分输出将是 “Wrong Answer”。</p>
 <p>对于所有的字符串，第一个字符都表示所对应整数的最高位。</p>
 <p>评测程序在调用函数 <code>restore_permutation</code> 之前已经确定了排列 $p$。</p>
+
 # 样例
 
 
@@ -63,6 +66,7 @@
 <li><code>check_element(&#34;1100&#34;)</code> <samp>returns</samp> <code>false</code></li>
 </ul><p>只有一个排列和函数 <code>check_element()</code> 返回的值一致：
 排列 $p = [2, 1, 3, 0]$，因此，<code>restore_permutation</code> 应该返回 $[2, 1, 3, 0]$。</p>
+
 # 子任务
 
 
@@ -75,6 +79,7 @@
 <th>其他限制</th>
 </tr></thead><tbody><tr><td>1</td><td>20</td><td>$8$</td><td>$256$</td><td>$256$</td><td>最多有两个下标 $i$ 满足 $p_i \ne i~(0 \le i \le n - 1)$</td></tr><tr><td>2</td><td>18</td><td>$32$</td><td>$320$</td><td>$1024$</td><td rowspan="4">无</td></tr><tr><td>3</td><td>11</td><td>$32$</td><td>$1024$</td><td>$320$</td></tr><tr><td>4</td><td>21</td><td>$128$</td><td>$1792$</td><td>$1792$</td></tr><tr><td>5</td><td>30</td><td>$128$</td><td>$896$</td><td>$896$</td></tr></tbody></table></div>
 
+
 # 评测方式
 
 
@@ -84,6 +89,7 @@
 </ul><p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$2\texttt{GB}$</p>
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
+
 # 下载
 
 

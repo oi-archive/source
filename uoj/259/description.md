@@ -1,17 +1,20 @@
 # 题目描述
 
 <p>给定无向图 $G=(V,E)$，$\lvert V\rvert=n$，$\lvert E\rvert=m$，$V$ 中的点编号为 $1,2,...,n$。求有多少个子集 $V&#39;\subseteq V$ 满足 $\lvert V&#39;\rvert=k$ 且 $\forall (u,v)\in E,u\not\in V&#39;\lor v\not\in V&#39;$。由于答案可能很大，只需输出答案对 $p$ 取模的结果。</p>
+
 # 输入格式
 
 
 <p>本题为提交答案题。所有输入数据 subset1.in ~ subset10.in 见输入数据下载。</p>
 <p>输入第 $1$ 行包含 $4$ 个用空格分隔的正整数 $n, m, k, p$，分别表示 $\lvert V \rvert, \lvert E \rvert$，要求的 $\lvert V&#39; \rvert$ 的大小以及模数。</p>
 <p>随后 $m$ 行，每行包含 $2$ 个用空格分隔的正整数 $a_i$，$b_i$，描述 $G$ 中的边 $(a_i,b_i)\in E$。</p>
+
 # 输出格式
 
 
 <p>针对给定的 $10$ 个输入文件 subset1.in ~ subset10.in，你需要分别提交你的输出文件 subset1.out ~ subset10.out。</p>
 <p>输出文件共 $1$ 行，包含 $1$ 个整数，表示子集 $V&#39;$ 的个数对 $p$ 取模的值。</p>
+
 # 样例一
 
 
@@ -36,6 +39,7 @@
 
 <h4>explanation</h4>
 <p>共有 $6$ 个这样的子集 $V&#39;$，分别是：$\{1,5\}$，$\{1,6\}$，$\{2,3\}$，$\{2,4\}$，$\{2,6\}$，$\{4,5\}$。</p>
+
 # 样例二
 
 
@@ -65,6 +69,7 @@
 
 </pre>
 
+
 # 评分方式
 
 
@@ -93,7 +98,8 @@
         <td style="text-align:center;">$12$</td>
         <td style="text-align:center;">10</td>
         <td style="text-align:center;">$15$</td>
-    </tr></tbody></table># 如何测试你的输出
+    </tr></tbody></table>
+# 如何测试你的输出
 
 
 <p>在终端中先切换到该试题的目录下：（windows用户请使用cmd）</p>
@@ -104,10 +110,12 @@
 <p><code>./checker 3</code></p>
 <p>将测试 subset3.out 是否正确。（windows用户请使用 <code>checker 3</code>）</p>
 <p>在你调用这个程序后，checker 将根据你给出的输出文件给出测试的结果。</p>
+
 # 来源
 
 
 <p>WrongAnswer</p>
+
 # 下载
 
 

@@ -9,6 +9,7 @@
 <li>让<strong>所有</strong>数都变成原来的逆元。（保证这时所有数的逆元都存在）</li>
 </ol><p>在每个指令完成之后，你要回答当前屏幕上<strong>所有</strong>数的和。</p>
 <p>跳蚤国王思索了片刻，发现这个问题奥妙重重，于是他让你——这附近最著名的民间科学家来帮他解决这个难题。</p>
+
 # 输入格式
 
 
@@ -17,10 +18,12 @@
 <p>接下来$m$行，表示 $m$ 条指令，第 $i$ 行第一个数$ t_i $表示第 $i$ 个操作的类型。</p>
 <p>若 $t_i = 1$ 则接下来有一个整数 $x_i$，表示给所有数都加上 $x_i$。</p>
 <p>若 $t_i = 2$ 则表示将所有数都变成原来的逆元。</p>
+
 # 输出格式
 
 
 <p>输出$m$行，第$i$行一个整数表示第$i$条指令之后当前屏幕上每个数的和。</p>
+
 # 样例一
 
 
@@ -51,14 +54,17 @@
 <p>499122178 332748119 748683266 598946613 166374060 </p>
 <p>665496236 249561089 399297742 831870295 142606337 </p>
 <p>499122178 332748119 748683266 598946613 166374060 </p>
+
 # 样例二
 
 
 <p>见样例数据下载。这组数据符合1号测试点的限制与约定。</p>
+
 # 样例三
 
 
 <p>见样例数据下载。这组数据符合3号测试点的限制与约定。</p>
+
 # 限制与约定
 
 
@@ -69,10 +75,12 @@
 <p>保证任何时候每个数的逆元均存在。</p>
 <p><strong>时间限制：</strong>$4\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 
 <p><a href="/download.php?type=problem&amp;id=182">样例数据下载</a></p>
+
 # 后记
 
 
@@ -80,5 +88,5 @@
 <p>“5,4,3,2,1，发射！”然而，就在所有人屏息以待，想要见证它超强的破坏力的时候，预想当中的炮击声并没有出现——炮口上弹出了一大簇鲜花！</p>
 <p>这时从旁边的地（窨）道（井）口（盖）下，跳出来了一个 picks 博士，他手上举着一支鲜花并大喊：“愚人节快乐！”</p>
 <p>P.S. 跳蚤国的愚人节是2月28号！（一本正经的胡说八道ing）</p>
-<p><img src="source/uoj/182/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS8yOWY4ZjVjZDdiODk5ZTUxMTkwMjk1NzQ0NWE3ZDkzM2M5OTUwZGM3LmpwZw==.jpg" alt="嘿嘿嘿"/></p>
+<p><img src="/source/uoj/182/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS8yOWY4ZjVjZDdiODk5ZTUxMTkwMjk1NzQ0NWE3ZDkzM2M5OTUwZGM3LmpwZw==.jpg" alt="嘿嘿嘿"/></p>
 <p>从此跳蚤国王和 picks 博士过上了幸（没）福（羞）快（没）乐（臊）的生活（o(*////▽////*)q 好像剧情往奇怪的方向发展了）</p>

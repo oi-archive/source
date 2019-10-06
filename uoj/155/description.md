@@ -7,6 +7,7 @@
 <p>形式化地讲，可以用3个数描述一条需求：$u, v, w$，表示希望从星球 $u$ 出发，到达星球 $v$，与出发时间相比，中途的时间改变为 $w$（注意这里的 $w$ 也可正可负）。</p>
 <p>现在的问题是，给出轨道的建立过程和过程中所有的需求，问每条需求是否能得到满足。</p>
 <p>具体地，你将依次得到 $m$ 条操作，每条操作为建立一条轨道或一条需求。若为一条需求，你需要回答只使用需求之前的所有轨道，“能”还是“不能”完成这个需求。</p>
+
 # 输入输出格式
 
 
@@ -19,6 +20,7 @@
 <p>将所有轨道视为无向边。若 $t=0$，表示最终所有的轨道构成森林；若 $t=1$，表示最终轨道构成的任何一个连通块中，至多只有一个环；若 $t=2$，表示最终所有轨道构成一片仙人掌林，即每条边至多属于一个简单环；若 $t=3$，则没有特殊约束。</p>
 <p>由于输出为传入的参数 $ans$ 本身，因此我们可以用 <code>maze_sample.cpp</code> 输出样例实际的操作（会从 <code>maze.in</code> 和 <code>maze.ans</code> 读入，输出到 <code>maze.h.in</code>），输出格式为：第一行包含四个整数 $n, m, k, t$，接下来 $m$ 行，每行包含4个整数 $p, u, v, w$。</p>
 <p>如果你希望自己构造测试的输入数据，那么格式为：第一行包含四个整数 $n, m, k, t$，接下来 $m$ 行，每行包含6个整数 $p, u, v, w, x, y$，令 $x=y=0$ 即可。</p>
+
 # 样例一
 
 
@@ -62,13 +64,14 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img src="source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYS5wbmc=.png" alt="graph1"/></p>
+<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYS5wbmc=.png" alt="graph1"/></p>
 <p>对于第 $1$ 个需求，$5$ 到 $2$ 只有一条轨道，时间会 $+8$，无法满足 $+10$ 的需求。</p>
-<p><img src="source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYi5wbmc=.png" alt="graph2"/></p>
+<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYi5wbmc=.png" alt="graph2"/></p>
 <p>对于第 $2$ 个需求，路线从 $4$ 开始，$-9$ 到达 $4$，$+17$ 到达 $1$，$-11$ 到达 $3$，总计为 $-3$。</p>
 <p>对于第 $3$ 个需求，路线从 $3$ 开始，$+11$ 到达 $1$，$+20$ 到达 $4$，$-17$ 到达 $1$，$+20$ 到达 $4$，$-17$ 到达 $1$，总计为 $+17$。</p>
-<p><img src="source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYy5wbmc=.png" alt="graph3"/></p>
+<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYy5wbmc=.png" alt="graph3"/></p>
 <p>对于第 $5$ 个需求，虽然 $1$ 附近的区域轨道很多，但是无论如何都无法做到回到 $1$ 时时间 $+2$。</p>
+
 # 限制与约定
 
 
@@ -76,12 +79,14 @@
 <p>各测试点满足下列限制：</p>
 <table class="table table-bordered"><thead><tr><th>测试点</th><th>$n=$</th><th>$m=$</th><th>$k=$</th><th>$t=$</th><th>$ \left \lvert w \right \rvert \leq$</th></tr></thead><tbody><tr><td>1</td><td>$5$</td><td>$20$</td><td>$3$</td><td>$3$</td><td>$20$</td></tr><tr><td>2</td><td>$50$</td><td>$200$</td><td>$3$</td><td>$3$</td><td>$20$</td></tr><tr><td>3</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$0$</td><td>$10^{12}$</td></tr><tr><td>4</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$0$</td><td>$10^{12}$</td></tr><tr><td>5</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$0$</td><td>$1$</td><td>$10^{12}$</td></tr><tr><td>6</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$1$</td><td>$10^{12}$</td></tr><tr><td>7</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$1$</td><td>$10^{12}$</td></tr><tr><td>8</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$1$</td><td>$10^{12}$</td></tr><tr><td>9</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$0$</td><td>$2$</td><td>$10^{12}$</td></tr><tr><td>10</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$2$</td><td>$10^{12}$</td></tr><tr><td>11</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$2$</td><td>$10^{12}$</td></tr><tr><td>12</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$2$</td><td>$10^{12}$</td></tr><tr><td>13</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$0$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>14</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$0$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>15</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>16</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>17</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$2$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>18</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>19</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$3$</td><td>$10^{12}$</td></tr><tr><td>20</td><td>$10^{5}$</td><td>$10^{6}$</td><td>$3$</td><td>$3$</td><td>$10^{12}$</td></tr></tbody></table><p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1\texttt{GB}$</p>
+
 # 输入输出文件的补充说明
 
 
 <p>不用理解这段话也可以完成这道题目。</p>
 <p>实际的输入输出文件是对输入添加了简单的防离线处理得到的，你可以通过阅读 <code>maze_io.cpp</code> 中的代码得到这个处理方法。你完全可以不使用这段代码进行输入输出，而使用自己的方法（例如你想要使用更快速的输入输出方法或你希望利用防离线处理的漏洞）。我们保证最终数据的格式和样例的格式是相同的，不会有反“反防离线”的处理。</p>
 <p>具体地，各参数（指代码中 <code>scanf</code> 读入的各数）的数据规模为：$1 \leq u, v \leq n$；当 $k=3$时，$0 \leq x, y &lt; 2^{30}$；否则 $x=y=0$。这些数均为整数。其他参数约束同“数据规模及约定”。</p>
+
 # 下载
 
 

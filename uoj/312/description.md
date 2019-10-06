@@ -13,14 +13,17 @@
 <p>Matthew 茫然的看着电脑，这题面似乎就写好了呢？</p>
 <p>那作为正在备战 NOI 的可怜的你，当然得解决 OI 大帝给出的问题啦！</p>
 <p>当然，你只需要输出答案对 $998244353$ 取模的结果即可。</p>
+
 # 输入格式
 
 
 <p>第一行三个整数 $m,b,c$，第二行一个整数 $n$，含义均如前所述。</p>
+
 # 输出格式
 
 
 <p>一行一个整数表示答案对 $998244353$ 取模的结果。</p>
+
 # 样例一
 
 
@@ -36,12 +39,14 @@
 </pre>
 
 
+
 # explanation
 
 
 <p>Explication:</p>
 <p>Les restrictions sont $x_1 \le 1, x_2 \le 3$.</p>
 <p>Les solutions sont $\{0, 0\}, \{0, 1\}, \{0, 2\}, \{1, 0\}, \{1, 1\}$.</p>
+
 # 样例二
 
 
@@ -56,10 +61,12 @@
 
 </pre>
 
+
 # explanation
 
 
 <p>いいえコメントありません</p>
+
 # 样例三
 
 
@@ -74,10 +81,12 @@
 
 </pre>
 
+
 # explanation
 
 
 <p>Bez komentarza</p>
+
 # 限制与约定
 
 
@@ -87,6 +96,7 @@
 <p>对于 $100\%$ 的数据，$c \in \{0, 1\}, 0 \leq n &lt; b ^ {m + 1}, 2 \le b \le 50, 1 \le m \le 50$.</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

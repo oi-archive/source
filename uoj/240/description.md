@@ -12,6 +12,7 @@
 <ul><li>每个包含至少一个兴趣点的小方格必须被至少拍摄到一次，并且</li>
 <li>被拍摄到至少一次的小方格数目必须是最小的。</li>
 </ul><p>你的任务就是去找出被拍摄到的小方格有可能的最小值。</p>
+
 # 实现细节
 
 
@@ -22,7 +23,8 @@
 <li>$r$ 和 $c$：两个长度为 $n$ 的数组，描述网格中包含兴趣点的那些小方格的坐标。对于 $0 \le i \le n - 1$，第 $i$ 个兴趣点位于坐标为 $(r_i, c_i)$ 的小方格，</li>
 <li>这个函数应该返回被至少拍摄一次的小方格的总数的最小值（这些照片必须覆盖所有兴趣点）。</li>
 </ul></li>
-</ul># 样例一
+</ul>
+# 样例一
 
 
 <p><code>take_photos(5, 7, 2, [0, 4, 4, 4, 4], [3, 4, 6, 5, 6])</code></p>
@@ -30,14 +32,16 @@
 <p>能够拍摄到所有 $5$ 个兴趣点的一种方法是拍这样两张照片：一张照片是选取大小为 $6 \times 6$ 的正方形并包含小方格 $(0, 0)$ 和 $(5, 5)$，另一张照片是选取大小为 $3 \times 3$ 的正方形并包含小方格 $(4, 4)$ 和 $(6, 6)$。如果我们拍摄这两张照片的话，卫星将传送 $41$ 个小方格的数据，这个不是最优解。</p>
 <p>在最优解中，一张照片拍摄一个大小为 $4\times 4$ 的正方形并包含小方格 $(0, 0)$ 和 $(3, 3)$，另一张照片则拍摄一个大小为 $3 \times 3$ 的正方形并包含小方格 $(4, 4)$ 和 $(6, 6)$。这样被拍摄到的小方格只有 $25$ 个，它是最优的，因此 <code>take_photos</code> 应该返回 $25$。</p>
 <p>注意：尽管小方格 $(4, 6)$ 上包含 $2$ 个兴趣点，但该小方格进需要被拍摄一次就足够。样例一的拍摄方法如下图所示。左边的图表示这个样例中对应的方格，中间的图表示一个次优解，它总共拍摄了 $41$ 个小方格。而右边的图则表示最优解。</p>
-<p><img class="img-responsive center-block" src="source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMi5wbmc=.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMi5wbmc=.png" alt=""/></p>
+
 # 样例二
 
 
 <p><code>take_photos(2, 6, 2, [1, 4], [4, 1])</code></p>
 <p>在这个样例中有 $2$ 个对称的兴趣点：分别位于小方格 $(1, 4)$ 和小方格 $(4, 1)$。任何一张包含其中一个兴趣点的正确照片也必然包含另一个兴趣点，因此，拍摄一张照片便已经足够。</p>
 <p>下图表示了样例二和它的最优解，在这个解中卫星只拍摄了一张包含 $16$ 个小方格的照片。</p>
-<p><img class="img-responsive center-block" src="source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMS5wbmc=.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMS5wbmc=.png" alt=""/></p>
+
 # 子任务
 
 
@@ -51,6 +55,7 @@
 </tr></thead><tbody><tr><td>1</td><td>4</td><td>$50$</td><td>$100$</td><td>$k=n$</td></tr><tr><td>2</td><td>12</td><td>$500$</td><td>$1000$</td><td>$r_i = c_i$</td></tr><tr><td>3</td><td>9</td><td>$500$</td><td>$1000$</td><td>无</td></tr><tr><td>4</td><td>16</td><td>$4000$</td><td>$1000000$</td><td>无</td></tr><tr><td>5</td><td>19</td><td>$50000$</td><td>$1000000$</td><td>$k \le 100$</td></tr><tr><td>6</td><td>40</td><td>$100000$</td><td>$1000000$</td><td>无</td></tr></tbody></table></div>
 
 
+
 # 评测方式
 
 
@@ -60,6 +65,7 @@
 </ul><p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$2\texttt{GB}$</p>
+
 # 下载
 
 

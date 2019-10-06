@@ -5,6 +5,7 @@
 <p>元旦三侠的激光炮的威力<strong>已经按从小到大的顺序排好序了</strong>，即 $a_{i - 1} \leq a_i$，$b_{i - 1} \leq b_i$，$c_{i - 1} \leq c_i$。</p>
 <p>由于元旦三侠精力有限，他们得废弃掉 $k$ 个激光炮。为了更好地进行战斗，他们决定废弃掉威力前 $k$ 小的激光炮。</p>
 <p>赶快帮助元旦三侠，让激光炮投入战斗吧！你只需要告诉他们威力第 $k$ 小的激光炮威力是多少。</p>
+
 # 任务
 
 
@@ -19,6 +20,7 @@
 <li>get_b(i) 将返回 $b_i$。如果 $i$ 在 $0 \leq i &lt; n_b$ 之外，该函数将返回 $2147483647$。</li>
 <li>get_c(i) 将返回 $c_i$。如果 $i$ 在 $0 \leq i &lt; n_c$ 之外，该函数将返回 $2147483647$。</li>
 </ul><p>在一组测试数据中，query_kth 只会被调用一次。</p>
+
 # 实现细节
 
 
@@ -39,6 +41,7 @@ int get_c(int p);</code></pre>
 function get_b(p : longint) : longint;
 function get_c(p : longint) : longint;</code></pre>
 <p>如果有不清楚的地方，见样例及测评库下载，<strong>内附了样例程序</strong>。</p>
+
 # 评测方式
 
 
@@ -48,6 +51,7 @@ function get_c(p : longint) : longint;</code></pre>
 <li>第 $3$ 行：$n_b$ 个整数，第 $i$ 个整数表示 $b_i$。</li>
 <li>第 $4$ 行：$n_c$ 个整数，第 $i$ 个整数表示 $c_i$。</li>
 </ol><p>在 query_k 返回后，评测系统将输出你的答案以及 get_a, get_b, get_c 三个函数的总调用次数。</p>
+
 # 样例一
 
 
@@ -66,10 +70,12 @@ function get_c(p : longint) : longint;</code></pre>
 
 <h4>explanation</h4>
 <p>所有激光炮从小到大排序后为 $1, 1, 2, 2, 3, 3, 5, 6$，所以第 $5$ 小的数为 $3$。输出的第二个整数 $6$ 为总调用次数，你可以认为这是一个调用了 $6$ 次 get_a, get_b, get_c 函数的程序的输出。</p>
+
 # 样例二
 
 
 <p>见样例及测评库下载。</p>
+
 # 限制与约定
 
 
@@ -84,6 +90,7 @@ function get_c(p : longint) : longint;</code></pre>
 <p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

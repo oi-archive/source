@@ -1,6 +1,7 @@
 # 题目描述
 
 <p>这是一道<strong>交互题</strong> 。</p>
+
 # 题目描述
 
 
@@ -13,6 +14,7 @@
 <p>规则是这样的： $\mathfrak{rehtien}$ 先想一个数 $x$ ，然后 $\mathfrak{airrats}$ 进行猜测，如果猜对了， $\mathfrak{rehtien}$ 就会帮她出题。</p>
 <p>但很快， $\mathfrak{airrats}$ 就意识到了问题：「你都不让我二分，我怎么猜？」因此 $\mathfrak{airrats}$ 规定 $|x|=1$ ，这样她就有 $\frac{1}{2}$ 的概率猜中了。</p>
 <p>因此当下一轮游戏结束后， $\mathfrak{rehtien}$ 告诉她， $x\in \mathbb{C}$ ，而他想的数是 $i$ 时， $\mathfrak{airrats}$ 非常生气。她觉得有必要使用一些玄妙的方法。</p>
+
 # 任务介绍
 
 
@@ -26,6 +28,7 @@
 <p>随后 $a_{i-2^{d_2}}$ 更新为 $a&#39;_{i-2^{d_2}}$ ， $a_{i}$ 更新为 $a&#39;_{i}$  。</p>
 <p> <code>ACR(A)</code> 其中 $A$ 指向一个 $2^n\times 2^n$ 的复数矩阵，满足 $AA^*=I$ 。调用该函数后，令 $a&#39;_i=\sum_{j=0}^{2^n-1} A_{i,j}a_j$ ，随后 $a_i$ 更新为 $a&#39;_i$ 。  如果需要调用该函数，请注意时空复杂度。</p>
 <p> <code>QR()</code>会随机返回一个 $[0,2^n)$ 间的整数，返回 $i$ 的概率为 $\frac{|a_i|^2}{\sum_{j} |a_j|^2}$ 。</p>
+
 # 实现细节
 
 
@@ -39,6 +42,7 @@ void ACR(complex&lt;double&gt; **A);
 int QR();</code></pre>
 <p>详见样例程序 <code>sample.cpp</code> 。关于上述函数的具体实现，详见 <code>grader.cpp</code> 。</p>
 <p>下发的 grader 将从 <code>input.txt</code> 中读入三个整数 $ans,seed,typ$ ，分别为本组数据的答案、随机种子和子任务编号，其中 $ans$ 表示 $x=\omega_{65536}^{ans}$ 。运行结束后，运行结果与错误信息将会被输出至 <code>result.txt</code> 。</p>
+
 # 限制与约定
 
 
@@ -54,6 +58,7 @@ int QR();</code></pre>
 <p><strong>空间限制</strong>：$\texttt{256MB}$</p>
 <p>选手程序与交互库共享本题的时空限制，但由于 <code>ACR</code> 操作的存在，我们不能保证交互库的运行时间。最终评测使用的交互库（只保证）各函数的实现方式与下发的 grader 相同，请自行计算实际运行时间与内存。</p>
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
+
 # 下载
 
 

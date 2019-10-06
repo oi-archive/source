@@ -6,16 +6,19 @@
 <ol><li>如果你选择的两个色块是同色（ $c_a=c_b$ ），你可以把它们变成两种<strong>不同的新颜色</strong>（即 $c_a^{&#39;}\neq c_b^{&#39;},c_a\neq c_a^{&#39;},c_b\neq c_b^{&#39;}$ ），例如，当你选择了 <samp>GG</samp> 后，你可以将它们变为 <samp>RB</samp> 或 <samp>BR</samp>。</li>
 <li>如果你选择的两个色块是异色（ $c_a\neq c_b$ ），你可以把它们变成两种<strong>相同的新颜色</strong>（即 $c_a^{&#39;}=c_b^{&#39;},c_a\neq c_a^{&#39;},c_b\neq c_b^{&#39;}$ ），例如，当你选择了 <samp>RB</samp> 后，你可以将它们变为 <samp>GG</samp> 。</li>
 </ol><p>你的目标是把这串代码从状态 $S$ 变为状态 $T$ ，求最小步数。</p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$ ，表示这串代码的长度。</p>
 <p>第二行一个长度为 $n$ 的字符串 $S$ ，表示这串代码的起始状态。</p>
 <p>第三行一个长度为 $n$ 的字符串 $T$ ，表示这串代码的终止状态。</p>
+
 # 输出格式
 
 
 <p>输出一行一个整数，表示把这串代码从状态 $S$ 变为状态 $T$ 的最小步数。</p>
+
 # 样例一
 
 
@@ -36,6 +39,7 @@ BBB
 <p>第二次操作将 <samp>RR</samp> 改为 <samp>BG</samp> ，操作后的代码为 <samp>BGR</samp> 。</p>
 <p>第三次操作将 <samp>GR</samp> 改为 <samp>BB</samp> ，操作后的代码为 <samp>BBB</samp> 。</p>
 <p>可以证明没有次数更少的操作序列。</p>
+
 # 样例二
 
 
@@ -55,6 +59,7 @@ GRRG
 <p>第一次操作将 <samp>RB</samp> 改为 <samp>GG</samp> ，操作后的代码为 <samp>GBGG</samp> 。</p>
 <p>第二次操作将 <samp>BG</samp> 改为 <samp>RR</samp> ，操作后的代码为 <samp>GRRG</samp> 。</p>
 <p>可以证明没有次数更少的操作序列。</p>
+
 # 样例三
 
 
@@ -71,6 +76,7 @@ RBGRRBRBGBRRGBBBGBGG
 </pre>
 
 
+
 # 限制与约定
 
 
@@ -84,6 +90,7 @@ RBGRRBRBGBRRGBBBGBGG
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
 <p>友情提示：题目难度和题目顺序<strong>没有</strong>关系</p>
+
 # 下载
 
 

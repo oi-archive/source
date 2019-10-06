@@ -7,6 +7,7 @@
 </ol><p>此外,命题委员喜欢较小规模的测试数据，希望测试数据最好能够包含不超过 $T$ 个整数。</p>
 <p>本题中只关心源程序 $A$ 和 $B$ 是否超时，不关心是否结果正确。</p>
 <p>命题委员会选择了单源最短路（SSSP）以及一个被称之为神秘问题（Mystery）的两个图论问题来作为比赛的题目。我们将命题委员会完成的伪代码列在了附录中，而具体的 C、C++ 和 Pascal 源程序见源程序下载。</p>
+
 # 子任务
 
 
@@ -31,10 +32,12 @@
 <li>对源程序 $A$ 运行输入，若发生超时现象，则不得分</li>
 <li>对源程序 $B$ 运行输入，若发生超时现象，则按照前文所述的公式给出该测试点的分数。</li>
 </ol><p>题目提供的所有源代码均会维护一个计数器来统计程序的操作次数。在源程序的运行过程中，当该计数器超过了 $10^6$ 次时，那么我们认为程序运行超时。</p>
+
 # 问题 1：单源最短路(SSSP)
 
 
 <p>给定一个带权有向图 $G$，以及 $G$ 中的两个节点 $s$ 与 $t$，令 $p(s, t)$ 为 $G$ 中从 $s$ 至 $t$ 的最短路长度。如果 $s$ 与 $t$ 不连通，则认为 $p(s, t)=10^9$。在本题中，输入为图 $G$ 以及 $Q$ 个询问 $(s_1, t_1), (s_2, t_2), \dots, (s_Q, t_Q)$。输出则是对这 $Q$ 个询问的相应输出 $p(s_1, t_1), p(s_2 , t_2), \dots, p(s_Q, t_Q)$。</p>
+
 # 问题 1 输入输出格式
 
 
@@ -53,6 +56,7 @@
 <li>$0 \leq s_k &lt; V, 0 \leq t_k &lt; V$</li>
 <li>所有询问中的起点 $s_k$ 都不能达到任何一个负权圈。</li>
 </ol><p>程序将会输出 $Q$ 行，每行一个整数，表示对应的 $p(s_k , t_k)$。而在输出的最后，所有提供的程序都会给出计数器对此输入的数值。</p>
+
 # 问题 1 样例
 
 
@@ -74,10 +78,12 @@ The value of counter is: 5
 
 </pre>
 
+
 # 问题 2：神秘问题
 
 
 <p>给定一个包含 $V$ 个节点 $E$ 条边的无向图 $G$，要求将所有的节点进行编号（编号范围为 $[0, X-1]$），使得所有直接相连的节点均有不同的编号。找出符合题意的最小的 $X$。</p>
+
 # 问题 2 输入输出格式
 
 
@@ -88,6 +94,7 @@ The value of counter is: 5
 <li>对于所有的边 $(a, b)$，有 $a \neq b, 0 \leq a &lt; V, 0 \leq b &lt; V$，不会重复描述一条边。</li>
 </ol><p>程序将在第一行输出 $X$，即最小的编号范围，接下来在第二行中给出 $V$ 个整
 数，依次描述节点 $0$ 至 $V – 1$ 的编号。在输出的最后，所有提供的程序都会给出计数器对此输入的数值。</p>
+
 # 问题 2 样例
 
 
@@ -107,6 +114,7 @@ The value of counter is: 5
 The value of counter is: 18
 
 </pre>
+
 
 # 附录：伪代码
 
@@ -165,6 +173,7 @@ Sets counter = 1000001; // force this to get TLE</code></pre>
 <p>This algorithm tries $X$ from $2$ to $V$ one by one and stops at the first valid $X$.</p>
 <p>For each $X$, the backtracking routine label vertex $0$ with $0$, then for each vertex $u$ that has been assigned a label, the backtracking routine tries to assign the smallest possible label up to label $X-1$ to its neighbor $v$, and backtracks if necessary.</p>
 <p>Please check RecursiveBacktracking.cpp/pas to see the exact lines where the iteration counter is increased by $1$.</p>
+
 # 下载
 
 

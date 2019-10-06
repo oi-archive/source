@@ -7,15 +7,18 @@
 <p>新开发一条道路的代价是：</p>
 <p>这条道路的长度 × 从赞助商帮你打通的宝藏屋到这条道路起点的宝藏屋所经过的宝藏屋的数量（包括赞助商帮你打通的宝藏屋和这条道路起点的宝藏屋）。</p>
 <p>请你编写程序为小明选定由赞助商打通的宝藏屋和之后开凿的道路，使得工程总代价最小，并输出这个最小值。</p>
+
 # 输入格式
 
 
 <p>第一行两个用空格分离的正整数 $n$ 和 $m$，代表宝藏屋的个数和道路数。</p>
 <p>接下来 $m$ 行，每行三个用空格分离的正整数，分别是由一条道路连接的两个宝藏屋的编号（编号为 $1$~$n$），和这条道路的长度 $v$。</p>
+
 # 输出格式
 
 
 <p>输出共一行，一个正整数，表示最小的总代价。</p>
+
 # 样例一
 
 
@@ -35,9 +38,10 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img src="source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvdVpyc25rOHpiYVU0Y1ZnLnBuZw==.png" alt="uZrsnk8zbaU4cVg.png"/></p>
+<p><img src="/source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvdVpyc25rOHpiYVU0Y1ZnLnBuZw==.png" alt="uZrsnk8zbaU4cVg.png"/></p>
 <p>小明选定让赞助商打通了 $1$ 号宝藏屋。小明开发了道路 $1\rightarrow 2$，挖掘了 $2$ 号宝藏。开发了道路 $1\rightarrow 4$，挖掘了 $4$ 号宝藏。还开发了道路 $4\rightarrow 3$，挖掘了 $3$ 号宝藏。工程总代价为：
 $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 1\\ \small{(1\rightarrow 4)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 2\\ \small{(4\rightarrow 3)}\end{array}\begin{array}{c}=4\\ \ \end{array}$$</p>
+
 # 样例二
 
 
@@ -57,13 +61,15 @@ $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c
 </pre>
 
 <h4>explanation</h4>
-<p><img src="source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvTG4ybTQzcDd0TlA1aGNyLnBuZw==.png" alt="Ln2m43p7tNP5hcr.png"/></p>
+<p><img src="/source/uoj/333/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvTG4ybTQzcDd0TlA1aGNyLnBuZw==.png" alt="Ln2m43p7tNP5hcr.png"/></p>
 <p>小明选定让赞助商打通了 $1$ 号宝藏屋。小明开发了道路 $1\rightarrow 2$，挖掘了 $2$ 号宝藏。开发了道路 $1\rightarrow 3$，挖掘了 $3$ 号宝藏。还开发了道路 $1\rightarrow 4$，挖掘了 $4$ 号宝藏。工程总代价为：
 $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}3\times 1\\ \small{(1\rightarrow 3)}\end{array}\begin{array}{c}+\\ \ \end{array}\begin{array}{c}1\times 1\\ \small{(1\rightarrow 4)}\end{array}\begin{array}{c}=5\\ \ \end{array}$$</p>
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -77,6 +83,7 @@ $$\begin{array}{c}1\times 1\\ \small{(1\rightarrow 2)}\end{array}\begin{array}{c
 </ul></li>
 </ul><p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

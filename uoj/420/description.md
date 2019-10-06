@@ -20,6 +20,7 @@ $$
 \right) \bmod p
 $$
 的值。</p>
+
 # 输入格式
 
 
@@ -28,11 +29,13 @@ $$
 <p>第二行输入四个整数 $n, m, h, p$。</p>
 <p>第三行输入三个整数 $a, b, c$。</p>
 <p>第四行输入 $n$ 个整数 $f_1, \ldots, f_n$。</p>
+
 # 输出格式
 
 
 <p>输出到标准输出。</p>
 <p>输出一行，包含一个整数，表示矩阵的哈希值。</p>
+
 # 样例一
 
 
@@ -48,6 +51,7 @@ $$
 $$
 1 \times 2^0 + 2 \times 2^1 + 4 \times 2^2 + 9 \times 2^3 = 93.
 $$</p>
+
 # 样例二
 
 
@@ -58,6 +62,7 @@ $$</p>
 6 5 6 9 3 7 4 5 2</code></pre>
 <h4>output</h4>
 <pre><code class="sh_plain">623270548</code></pre>
+
 # 样例三
 
 
@@ -68,6 +73,7 @@ $$</p>
 6 5 6 9 3 7 4 5 2</code></pre>
 <h4>output</h4>
 <pre><code class="sh_plain">211538270</code></pre>
+
 # 限制及约定
 
 
@@ -81,6 +87,7 @@ $$</p>
 
 <p><strong>时间限制</strong>：$2\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+
 # 下载
 
 

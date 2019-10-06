@@ -42,7 +42,8 @@
 <li>1 年末，他有 $1 \cdot X[1] = 1$ 匹⻢。</li>
 <li>2 年末，他有 $1 \cdot X[2] = 3$ 匹⻢。</li>
 <li>2 年末，他卖掉 3 匹⻢，获益 $3 \cdot Y[2] = 3$，总收益是 $3 + 3 = 6$。</li>
-</ul># 任务
+</ul>
+# 任务
 
 
 <p>给定 $N, X, Y$ 和⼀系列更新操作。第⼀次更新前和每次更新后，计算 Mansur 可以获得的最⼤收益（注意：给出实际最⼤收益模 $10^9 + 7$ 后的结果）。你需要实现函数 init, updateX 和 updateY。</p>
@@ -63,6 +64,7 @@
 </ul></li>
 </ul><p>$X[i]$、$Y[i]$ 的初值以及更新后值范围均为 $[1, 10^9]$。
 调⽤ init 后，grader 会调⽤ updateX 和 updateY 若⼲次，调⽤ updateX 和 updateY 的总次数是 $M$。</p>
+
 # 子任务
 
 
@@ -75,6 +77,7 @@
 </tr></thead><tbody><tr><td>1</td><td>17</td><td>$1 \leq N \leq 10$</td><td>$M = 0$</td><td>$X[i], Y[i] \le 10, X[0] \cdot X[1] \cdot \cdots \cdot X[N - 1] \le 1000$</td></tr><tr><td>2</td><td>17</td><td>$1 \le N \le 1000$</td><td>$0 \le M \le 1000$</td><td>无</td></tr><tr><td>3</td><td>20</td><td>$1 \leq N \leq 500000$</td><td>$0 \le M \le 100000$</td><td>调用 init 时的 $X[i] \ge 2$, 且 updateX 调用时的 $val \ge 2$</td></tr><tr><td>4</td><td>23</td><td>$1 \leq N \leq 500000$</td><td>$0 \le M \le 10000$</td><td>无</td></tr><tr><td>5</td><td>23</td><td>$1 \leq N \leq 500000$</td><td>$0 \leq M \leq 100000$</td><td>无</td></tr></tbody></table></div>
 
 
+
 # 实现细节
 
 
@@ -82,6 +85,7 @@
 <pre><code class="sh_cpp">int init(int N, int X[], int Y[]);
 int updateX(int pos, int val);
 int updateY(int pos, int val);</code></pre>
+
 # 评测方式
 
 
@@ -95,6 +99,7 @@ int updateY(int pos, int val);</code></pre>
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

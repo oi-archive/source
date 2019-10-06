@@ -3,15 +3,18 @@
 <p>在数轴上有 $n$ 个闭区间 $[l_1,r_1],[l_2,r_2],...,[l_n,r_n]$。现在要从中选出 $m$ 个区间，使得这 $m$ 个区间共同包含至少一个位置。换句话说，就是使得存在一个 $x$，使得对于每一个被选中的区间 $[l_i,r_i]$，都有 $l_i \le x \le r_i$。</p>
 <p>对于一个合法的选取方案，它的花费为<strong>被选中的最长区间长度减去被选中的最短区间长度</strong>。区间 $[l_i,r_i]$ 的长度定义为 $r_i-l_i$，即等于它的右端点的值减去左端点的值。</p>
 <p>求所有合法方案中最小的花费。如果不存在合法的方案，输出 $−1$。</p>
+
 # 输入格式
 
 
 <p>第一行包含两个正整数 $n,m$，用空格隔开，意义如上文所述。保证 $1 \le m \le n$。</p>
 <p>接下来 $n$ 行，每行表示一个区间，包含用空格隔开的两个整数 $l_i$ 和 $r_i$ 为该区间的左右端点。</p>
+
 # 输出格式
 
 
 <p>只有一行，包含一个正整数，即最小花费。</p>
+
 # 样例一
 
 
@@ -32,16 +35,19 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="source/uoj/222/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjIvc2VnLnBuZw==.png" alt="样例图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/222/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjIvc2VnLnBuZw==.png" alt="样例图"/></p>
 <p>如图，当 $n=6,~m=3$ 时，花费最小的方案是选取 $[3,5]$、$[3,4]$、$[1,4]$ 这三个区间，他们共同包含了 $4$ 这个位置，所以是合法的。其中最长的区间是 $[1,4]$，最短的区间是 $[3,4]$，所以它的花费是 $(4−1)−(4−3)=2$。</p>
+
 # 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -57,6 +63,7 @@
 
 <p><strong>时间限制：</strong>$3\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

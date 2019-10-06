@@ -13,15 +13,18 @@ $\newcommand\lcm{\mathbin{\mathrm{lcm}}}$
 \end{equation}
 其中 $v \equiv u \pmod{p}$ 表示 $v$ 和 $u$ 除以 $p$ 的余数相等。$\gcd(i, j)$ 表示 $i$ 和 $j$ 的最大公约数，$\lcm(i, j)$ 表示 $i$ 和 $j$ 的最小公倍数。</p>
 <p>有 $q$ 个询问，每次给出 $b_1, \dots, b_n$，请你解出 $x_1, \dots, x_n$ 的值。</p>
+
 # 输入格式
 
 
 <p>第一行四个整数 $n, c, d, q$。保证 $n, q \geq 1$。</p>
 <p>接下来 $q$ 行，每行 $n$ 个整数依次表示 $b_1, \dots, b_n$。保证 $0 \leq b_1, \dots, b_n &lt; p$。</p>
+
 # 输出格式
 
 
 <p>共 $q$ 行，每行对给出的 $b_1, \dots, b_n$，输出对应的 $x_1, \dots, x_n$。如果有多组解输出任意一组即可。如果无解那么这一行只用输出一个整数 $-1$。</p>
+
 # 样例一
 
 
@@ -47,10 +50,12 @@ x_1 + 2x_2 + x_3 &amp; \equiv &amp; 0 &amp; \pmod{p}\\
 x_1 + x_2 + 3x_3 &amp; \equiv &amp; 0 &amp; \pmod{p}
 \end{cases}
 \end{eqnarray}</p>
+
 # 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -64,12 +69,14 @@ x_1 + x_2 + 3x_3 &amp; \equiv &amp; 0 &amp; \pmod{p}
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 后记
 
 
 <p>还没听完题，大力水手就嘶吼着：“太难了我不会我不会！”，飞快地跑掉了。</p>
 <p>禅师看着大力水手消失的背影，叹了口气说：“你们这些人啊，每天就想做些大水题，一碰到难题，跑得不知道比谁都快。”</p>
 <p>后来大力水手把UOJ Round的C题题面贴在了汽车的后挡风玻璃上，人类从此掌握了光速旅行的正确方式。</p>
+
 # 下载
 
 

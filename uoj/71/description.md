@@ -2,17 +2,20 @@
 
 <p>给出一个有向带权网络 $G = (V, E)$，权值函数 $w: E \rightarrow \mathbb{Z^{*}}$（即任意边 $e$ 的权值 $w(e)$ 均为正整数），和点 $s, t \in E$，使得在 $G&#39; = (V, E - S)$ 上不存在 $s$ 到 $t$ 的路径。</p>
 <p>设 $\mathfrak{S}$ 是所有满足条件的边集 $S$ 的全集，按 $w(S)$  从小到大输出 $\mathfrak{S}$ 中前 $k$ 小的边集的边权和。其中 $w(S) = \sum_{e \in S} w(e)$。</p>
+
 # 输入格式
 
 
 <p>第一行包含 $5$ 个正整数 $n, m, s, t, k$，其中 $s, t, k$ 意义如上，$n, m$ 分别表示 $\lvert V \rvert, \lvert E \rvert$（即点数和边数）。规定图中的节点用 $1$ 到 $n$ 的整数表示。保证 $s \neq t$。</p>
 <p>接下来 $m$ 行，每行 $3$ 个整数 $x, y, z$，表示一条边权为 $z$ 的从 $x$ 到 $y$ 的边。可能有重边但保证没有自环。</p>
+
 # 输出格式
 
 
 <p>如果 $\lvert \mathfrak{S} \rvert &lt; k$，先输出 $\lvert \mathfrak{S} \rvert$ 行，每行包含一个整数，表示前 $\lvert \mathfrak{S} \rvert$ 个 $w(S)$；再输出一行一个整数 $-1$。</p>
 <p>如果 $\lvert \mathfrak{S} \rvert \geq k$，则输出 $k$ 行，表示前 $k$ 个 $w(S)$。</p>
 <p>两种情况均需按照 $w(S)$ 从小到大输出。</p>
+
 # 样例一
 
 
@@ -31,6 +34,7 @@
 -1
 
 </pre>
+
 
 # 样例二
 
@@ -62,10 +66,12 @@
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -79,6 +85,7 @@
 
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

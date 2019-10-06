@@ -6,6 +6,7 @@
 <p>”我的鸭嘴兽和沙包又在哪里呢？” Scape这样想到，不禁幻想出Mythological决定给他送 $n$ 份礼物，其中第 $i$ 份的种类是 $a_i$。这些礼物按顺序排成一行。</p>
 <p>她挑选礼物的方式很特别，她每次会选择两份<strong>种类相同</strong>的礼物，并且这对礼物满足它们之间没有<strong>尚未拿走</strong>的礼物，并将这对礼物拿走。</p>
 <p>现在Scape给出了若干次询问，每次询问如果他送给她的是区间 $\left [L_i,R_i\right ]$ 之间的礼物，那么她最多能拿走多少份礼物。</p>
+
 # 任务
 
 
@@ -16,7 +17,8 @@
 <li>query(l, r);<ul><li>表示询问区间 $\left [L ,R\right ]$ 的答案 。</li>
 <li>保证 $L\leq R$。</li>
 </ul></li>
-</ul># 实现细节
+</ul>
+# 实现细节
 
 
 <p>本题只支持 C/C++。</p>
@@ -26,6 +28,7 @@ int query(int l, int r);</code></pre>
 <p>如果有不清楚的地方，见样例及测评库下载，<strong>内附了样例程序</strong>。</p>
 <p>评测库大概需要占用$8\texttt{MB}$的内存和$100\texttt{ms}$的时间。</p>
 <p>因为评测库使用了fread来进行快速读入，所以用命令行输入数据的选手需要在输入数据完毕后用&#34;<samp>Ctrl+D<samp>&#34;来输入EOF。</samp></samp></p>
+
 # 评测方式
 
 
@@ -33,7 +36,8 @@ int query(int l, int r);</code></pre>
 <ol><li>第 $1$ 行：四个整数 $n,m,q,t$，分别是这组测试数据的大小，$a_i$ 的最大可能值，询问个数和子任务编号。</li>
 <li>第 $2$ 行：$n$ 个整数，第 $i$ 个整数表示 $a_i$。</li>
 <li>第 $2+i$ 行（$1\le i\le q$）：两个整数 $L_i,R_i$，表示询问的区间。</li>
-</ol># 样例一
+</ol>
+# 样例一
 
 
 <h4>input</h4>
@@ -51,6 +55,7 @@ int query(int l, int r);</code></pre>
 0
 
 </pre>
+
 
 # 样例二
 
@@ -72,10 +77,12 @@ int query(int l, int r);</code></pre>
 </pre>
 
 
+
 # 样例三
 
 
 <p>见样例及测评库下载。</p>
+
 # 限制与约定
 
 
@@ -131,6 +138,7 @@ $$R_i = \max\left\{F_{2i-1},F_{2i} \right\}$$</p>
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

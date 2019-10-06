@@ -16,7 +16,7 @@
 s(x) = \frac{1}{1 + e^{-x}}
 \end{equation}
 $s(x)$ 的函数图像如下图所示：</p>
-<p><img class="img-responsive center-block" src="source/uoj/224/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjQvdy5wbmc=.png" alt="sigmoid"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/224/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjQvdy5wbmc=.png" alt="sigmoid"/></p>
 <p>上述表格中的操作数 $i, j$ 均要小于当前节点的编号 $t$，这样随着跳蚤国王的一声令下，跳蚤就可以按编号从小到大的顺序，依次获得输入然后计算输出。每个跳蚤的计算能力都是有限的，他们仅可以精确到十进制小数点后 $90$ 位，超过的部分将会被四舍五入。同理，上述表格中的操作数 $c$ 的小数部分也不能超过 $90$ 位。另外，左移节点和右移节点中的操作数 $k$ 必须是非负整数，且不能超过 $10000$。</p>
 <p>把跳蚤排列好后，野心勃勃的跳蚤国王决心测试一下这台由跳蚤组成的计算机的计算能力，于是蝈蝈大臣给跳蚤国王献上了 $10$ 个计算任务。完成每个计算任务均需要从终端获取输入，进行中间计算，再用输出节点将结果输出。具体任务说明如下:</p>
 <div class="table-responsive">
@@ -27,11 +27,13 @@ $s(x)$ 的函数图像如下图所示：</p>
 </tr></thead><tbody><tr><td>1</td><td>$a,b$</td><td><div>$\lvert a \rvert, \lvert b \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>$-2a-2b$</td></tr><tr><td>2</td><td>$a$</td><td><div>$\lvert a \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>$\frac{1}{1+e^{17a}}$</td></tr><tr><td>3</td><td>$a$</td><td><div>$\lvert a \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>\begin{equation}\begin{cases}-1 &amp; a \lt 0 \\ 0 &amp; a = 0 \\ 1 &amp; a \gt 0\end{cases}\end{equation}</td></tr><tr><td>4</td><td>$a$</td><td><div>$\lvert a \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>$\lvert a \rvert$，即 $a$ 的绝对值</td></tr><tr><td>5</td><td>$a_1, \dots, a_{32}$</td><td>$a_1, \dots, a_{32} \in \{0, 1\}$</td><td>把 $a_1, \dots, a_{32}$ 从左到右看成一个二进制整数，高位在左低位在右，输出该整数的值</td></tr><tr><td>6</td><td>$a$</td><td><div>$0 \le a \lt 2^{32}$</div><div>$a$ 为整数</div></td><td>输出 $32$ 个整数，从高位到低位输出 $a$ 的二进制表示（不足 $32$ 位的在高位补 $0$）</td></tr><tr><td>7</td><td>$a,b$</td><td><div>$0 \le a, b \lt 2^{32}$</div><div>$a,b$ 均为整数</div></td><td>$a, b$ 按位异或的结果</td></tr><tr><td>8</td><td>$a$</td><td><div>$\lvert a \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>$\frac{a}{10}$</td></tr><tr><td>9</td><td>$a_1, \dots, a_{16}$</td><td><div>$\lvert a_1 \rvert, \dots, \lvert a_{16} \rvert \le 10^9$</div><div>小数部分不超过 $9$ 位</div></td><td>输出 $16$ 个实数，表示 $a_1, \dots, a_{16}$ 从小到大排序后的结果</td></tr><tr><td>10</td><td>$a,b,m$</td><td><div>$0 \le a, b \lt 2^{32}$</div><div>$1 \le m \lt 2^{32}$</div><div>$a,b,m$ 均为整数</div></td><td>$a \cdot b$ 除以 $m$ 的余数</td></tr></tbody></table></div>
 
 <p>跳蚤国王发现自己没有足够的能力设计这样的计算机。于是他找到了来参加 NOI 的你。请你依次设计每个计算节点的类型及操作数，完成蝈蝈大臣给的这 $10$ 个计算任务，且要求使用的计算节点数尽量少。</p>
+
 # 输入格式
 
 
 <p>所有输入数据 nodes1.in~nodes10.in 见数据下载，分别对应 $10$ 个计算任务。</p>
 <p>每组输入数据仅包含一个整数，表示需要解决的计算任务编号。</p>
+
 # 输出格式
 
 
@@ -39,6 +41,7 @@ $s(x)$ 的函数图像如下图所示：</p>
 <p>对于每组输入数据，你需要依次输出若干行，第 $i$ 行描述第 $i$ 个计算节点。</p>
 <p>描述每个计算节点时，首先一个字符表示该计算节点的类型，接下来若干个数按顺序表示该计算节点的内置参数。字符与数，数与数之间均用空格隔开。</p>
 <p>输出的行数不能超过 $10^4$ 行。</p>
+
 # 样例一
 
 
@@ -63,6 +66,7 @@ O 9
 
 <h4>explanation</h4>
 <p>该样例输出为第一个计算任务一个可能的构造。共用了 $10$ 个计算节点，可获得 $3$ 分。</p>
+
 # 子任务及部分分
 
 
@@ -87,6 +91,7 @@ O 9
 <p>除此之外，使用比较节点、Max 节点和乘法节点的代价是极为昂贵的。因此，这三种节点每使用<strong>一种</strong>，就会从你这个测试点的得分中倒扣 4 分。</p>
 <p>注意这里是按使用节点的种类数计算扣分，与使用次数无关。例如多次使用比较节点，只会扣除 $4$ 分；又如同时使用了比较节点和乘法节点，即使各只使用了一次，也会扣除 8 分。</p>
 <p>一个测试点至多被扣到 $0$ 分，即使分数不够扣除，也不会出现负数。</p>
+
 # 如何测试你的输出
 
 
@@ -104,6 +109,7 @@ O 9
 <p><code>./checker –f &lt;file_name&gt;</code></p>
 <p>来运行 <code>&lt;file_name&gt;</code> 表示的计算机，并通过终端进行交互。</p>
 <p><strong>注意: checker 测试你构造的计算机时，使用的数据跟最终测试时可能不同。</strong></p>
+
 # 下载
 
 

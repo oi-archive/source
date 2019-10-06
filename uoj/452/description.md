@@ -25,14 +25,17 @@ $$
 4.\prod_{i=1}^n\prod_{j=1}^{\lfloor \frac{n}{i}\rfloor}g(j)^{\lfloor\frac{n}{j}\rfloor}\\
 $$
 爱神给出了n和k的值，并要求Y回答前m个式子的值，答案对1000000007取模。</p>
+
 # 输入格式
 
 
 <p>一行3个正整数n,k,m，如题所述。</p>
+
 # 输出格式
 
 
 <p>  输出m行，每行一个整数，第i行的整数表示编号为i的式子的答案。</p>
+
 # 样例一
 
 
@@ -43,6 +46,7 @@ $$
 124162718
 818917434
 181711594</code></pre>
+
 # 样例二
 
 
@@ -51,11 +55,13 @@ $$
 <h4>output</h4>
 <pre><code>734298437
 771861883</code></pre>
+
 # 限制与约定
 
 
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>测试点编号</th><th>$n\le$</th><th>$k\le$</th><th>$m\le$</th><th>时间限制</th><th>空间限制</th><th>分数</th></tr></thead><tbody><tr><td>1</td><td>$10^7$</td><td>$10^9$</td><td>4</td><td>3s</td><td>512MB</td><td>9</td></tr><tr><td>2</td><td>$10^9$</td><td>1</td><td>1</td><td>2s</td><td>512MB</td><td>9</td></tr><tr><td>3</td><td>$10^9$</td><td>1</td><td>2</td><td>2s</td><td>512MB</td><td>11</td></tr><tr><td>4</td><td>$10^9$</td><td>$10^9$</td><td>2</td><td>2s</td><td>512MB</td><td>13</td></tr><tr><td>5</td><td>$10^9$</td><td>$10^9$</td><td>3</td><td>2s</td><td>512MB</td><td>11</td></tr><tr><td>6</td><td>$10^9$</td><td>$10^9$</td><td>4</td><td>4s</td><td>512MB</td><td>13</td></tr><tr><td>7</td><td>$10^9$</td><td>$10^9$</td><td>4</td><td>3s</td><td>512MB</td><td>19</td></tr><tr><td>8</td><td>$10^9$</td><td>$10^9$</td><td>4</td><td>2s</td><td>512MB</td><td>15</td></tr></tbody></table></div>
+
 
 # 下载
 

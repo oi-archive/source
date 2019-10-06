@@ -6,6 +6,7 @@
 <p>在游戏里量子巧克力可以看做一个数组 $a$，长度为 $2^n$，下标从 $0$ 开始到 $2^n-1$ 结束。</p>
 <p>他们俩可以关于这些量子巧克力，向游戏做一些询问，但是不幸有的询问会导致量子破碎，此时游戏会刷新这个数组开始新的一轮....</p>
 <p>即使是在梦中，Scape也想让Mythological开心，请你帮一帮他。</p>
+
 # 任务
 
 
@@ -30,7 +31,8 @@
 <li>arbitary_query(x);<ul><li>询问 a[x] 为多少。</li>
 <li>和 query 不同，不会导致数组清空开始新的一轮。</li>
 </ul></li>
-</ul># 实现细节
+</ul>
+# 实现细节
 
 
 <p>本题只支持 C/C++。</p>
@@ -42,12 +44,14 @@ void manipulate(double A[][2], int i);
 void arbitary_manipulate(double A[][2], int i);
 double arbitary_query(int x);</code></pre>
 <p>如果有不清楚的地方，见样例及测评库下载，<strong>内附了样例程序，样例程序按照样例一的解释调用函数</strong>。</p>
+
 # 评测方式
 
 
 <p>评测系统将读入如下格式的输入数据：</p>
 <p>第一行三个整数 $n$，$seed$，$t$ 分别是这组测试数据的大小、随机种子和子任务编号。</p>
 <p>第二行四个整数 $ok[1], ok[2], ok[3], ok[4]$，$ok[i] = 0$ 表示函数 $i$ 在这个子任务不可使用，$ok[i] = 1$ 表示可以使用。</p>
+
 # 限制与约定
 
 
@@ -61,6 +65,7 @@ double arbitary_query(int x);</code></pre>
 <p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

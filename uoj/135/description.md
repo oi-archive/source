@@ -17,6 +17,7 @@
 <p>在时刻 $i$，NOI出题人可以决定他时刻 $i$ 到时刻 $i + 1$ 这段时间内向哪一个方向移动，也可以选择不动（“<samp>S</samp>”）。可以选择的方向有 $8$ 种：上（“<samp>W</samp>”）、下（“<samp>X</samp>”）、左（“<samp>A</samp>”）、右（“<samp>D</samp>”）、左上（“<samp>Q</samp>”）、左下（“<samp>Z</samp>”）、右上（“<samp>E</samp>”）、右下（“<samp>C</samp>”）（后四种方向夹角均为 $45^{\circ}$）。NOI出题人在一个单位时间内移动的距离为定值 $d$。</p>
 <p>NOI出题人<strong><u>不允许出房间</u></strong>，即NOI出题人的位置要在矩形内。</p>
 <p>奸笑熊说只要NOI出题人获得的分数足够高就放他一马，于是现在NOI出题人想获得尽量高的得分。</p>
+
 # 输入格式
 
 
@@ -27,11 +28,13 @@
 <p>接下来一行有一个非负整数 $k$，表示结算分数的时间区间的数量。</p>
 <p>接下来 $k$ 行，每行有三个数 $t_{s_i}, t_{e_i}, s_i$，分别表示每个时间区间的开始时刻、结束时刻和不中弹得分。</p>
 <p>最后一行有一个数 $T$，表示游戏持续的总时间。</p>
+
 # 输出格式
 
 
 <p>针对给定的 $10$ 个输入文件 <samp>touhou1.in～touhou10.in</samp>，你需要分别给出你的输出文件 <samp>touhou1.out～touhou10.out</samp>。</p>
 <p>对于每组数据，输出文件只有一行 $T$ 个字符，第 $i$ 个字符表示NOI出题人在时刻 $i − 1$ 到时刻 $i$ 的移动方向。</p>
+
 # 样例一
 
 
@@ -61,6 +64,7 @@
 <p>时刻 $3$，在位置 $(4,2)$ 出现了一个子弹，NOI出题人位置 $(5.12132,2.12132)$。此时NOI出题人与子弹距离 $1.12786$，NOI出题人中弹，同时获得擦弹得分 $5$。</p>
 <p>在时刻 $[2,3]$ 内NOI出题人中弹，未能获得不中弹得分。</p>
 <p>总得分为 $20$。</p>
+
 # 评分方式
 
 
@@ -69,6 +73,7 @@
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>得分</th><th>条件</th><th>得分</th><th>条件</th></tr></thead><tbody><tr><td>10</td><td>$w_{user} \geq a_{10}$</td><td>5</td><td>$w_{user} \geq a_5$</td></tr><tr><td>9</td><td>$w_{user} \geq a_9$</td><td>4</td><td>$w_{user} \geq a_4$</td></tr><tr><td>8</td><td>$w_{user} \geq a_8$</td><td>3</td><td>$w_{user} \geq a_3$</td></tr><tr><td>7</td><td>$w_{user} \geq a_7$</td><td>2</td><td>$w_{user} \geq a_2$</td></tr><tr><td>6</td><td>$w_{user} \geq a_6$</td><td>1</td><td>$w_{user} &gt; 0$</td></tr></tbody></table></div>
 
 <p>如果同时满足多个条件，则取最高分作为你的分数。</p>
+
 # 如何测试你的输出
 
 
@@ -94,6 +99,7 @@
 <p>将检查 <samp>touhou3.out</samp> 是否可以接受。如果 <samp>touhou3.out</samp> 可以接受，则在输出得分的同时将每次中弹和擦弹的相关信息输出到 <samp>touhou3.log</samp> 中。</p>
 <p>以上所有信息均按时间顺序输出。</p>
 <p><strong>注意比赛时提交此题显示的成绩就是最终成绩。</strong></p>
+
 # 下载
 
 

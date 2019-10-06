@@ -9,14 +9,17 @@ F_{i,1} &amp; = &amp; c \cdot F_{i - 1,m} + d &amp; i \neq 1
 \end{cases}</p>
 <p>递推式中 $a, b, c, d$ 都是给定的常数。
 现在婷婷想知道 $F_{n,m}$ 的值是多少，请你帮助她。由于最终结果可能很大，你只需要输出 $F_{n,m}$ 除以 $1000000007$ 的余数。</p>
+
 # 输入格式
 
 
 <p>包含一行有六个整数 $n, m, a, b, c, d$。意义如题所述。</p>
+
 # 输出格式
 
 
 <p>表示 $F_{n,m}$ 除以 $1000000007$ 的余数。</p>
+
 # 样例一
 
 
@@ -40,10 +43,12 @@ F_{i,1} &amp; = &amp; c \cdot F_{i - 1,m} + d &amp; i \neq 1
 \end{array}
 \right)
 \end{equation}</p>
+
 # 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -54,6 +59,7 @@ F_{i,1} &amp; = &amp; c \cdot F_{i - 1,m} + d &amp; i \neq 1
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

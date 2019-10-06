@@ -10,15 +10,18 @@
 <p>可怜发现，如果把一条从 $1$ 出发的路径经过的所有边的编号都记录下来，那么能得到一个 (可能有前导 $0$)的 $m$ 进制数;同时对于每一个(可能有前导 $0$)的 $m$ 进制数，都能对应回一条从 $1$ 出发的路径。</p>
 <p>于是可怜选定了一个整数 $K$，她希望这个迷宫满足一条从 $1$ 出发的路径能回到 $1$ 当且仅当这条路径对应的数是 $K$ 的倍数。</p>
 <p>现在可怜已经选定了 $m$ 和 $K$，但是她发现并不是对所有的 $n$，都存在满足上述所有条件的迷宫设计方案。建造迷宫是一件费时费力的事情，于是可怜想要找到一个最小的满足条件的 $n$。 然而可怜对复杂的计算并不感兴趣，因此她想让你来帮她计算一下这个数值。</p>
+
 # 输入格式
 
 
 <p>第一行输入一个整数 $T$ 表示数据组数。</p>
 <p>接下来 $T$ 行每行两个十进制正整数 $m, K$ 表示可怜选定的整数。</p>
+
 # 输出格式
 
 
 <p>对于每组数据，输出一行一个整数表示能够满足所有条件的最小的 $n$。如果不存在这样的 $n$，输出 $−1$。</p>
+
 # 样例一
 
 
@@ -39,11 +42,13 @@
 
 <h4>explanation</h4>
 <p>第一组数据(左)和第二组数据(右)的一种设计方案如下图所示。其中紫色边表示 $0$ 号边，蓝色边表示 $1$ 号边。</p>
-<p><img src="source/uoj/375/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvSml2a1dwUFNkMVFLOWwyLnBuZw==.png" class="center-block" alt="JivkWpPSd1QK9l2.png"/></p>
+<p><img src="/source/uoj/375/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvSml2a1dwUFNkMVFLOWwyLnBuZw==.png" class="center-block" alt="JivkWpPSd1QK9l2.png"/></p>
+
 # 样例二
 
 
 <p>见样例数据下载</p>
+
 # 数据范围与约定
 
 
@@ -111,6 +116,7 @@
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

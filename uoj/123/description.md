@@ -12,6 +12,7 @@
 <p>选择跳转：两个整数。执行到这里时玩家需要在这两个整数中选择一个，之后执行位置将被修改为这个整数。</p>
 <p>条件跳转：两个量和两个整数。执行到这里时，若第一个量小于第二个量，则执行位置将被修改为第一个整数，否则将被修改为第二个整数。</p>
 <p>小 Q 认为，整个游戏是希望一个叫做“成就值”的变量（编号为 $1$）最大。</p>
+
 # 输入格式
 
 
@@ -22,12 +23,14 @@
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>类型</th><th>格式</th><th>例子</th></tr></thead><tbody><tr><td>常数</td><td><samp>c#整数</samp></td><td><samp>c -2</samp></td></tr><tr><td>变量</td><td><samp>v#正整数</samp></td><td><samp>v 5</samp></td></tr><tr><td>普通事件</td><td><div><samp>变量#+#量</samp></div><div><samp>变量#-#量</samp></div></td><td><div><samp>v 1 + c -1</samp></div><div><samp>v 2 - v 2</samp></div></td></tr><tr><td>选择跳转</td><td><samp>s#整数1#整数2</samp></td><td><samp>s 10 20</samp></td></tr><tr><td>条件跳转</td><td><samp>i#量1#量2#整数1#整数2</samp></td><td><samp>i c 99 v 2 0 1</samp></td></tr></tbody></table></div>
 
+
 # 输出格式
 
 
 <p>针对给定的 10 个输入文件 <samp>train1.in ~ train10.in</samp>，你需要分别提交你的输出文件 <samp>train1.out ~ train10.out</samp>。</p>
 <p>每个文件需要输出若干行，每行输出一个字符“1”或“2”，表示执行过程中遇到的每个选择跳转所作的选择。</p>
 <p>输出的行数需要严格等于此次游戏执行过程中遇到的选择跳转的个数。</p>
+
 # 样例一
 
 
@@ -65,6 +68,7 @@ i c 0 c 1 7 0
 <p>事件 $6$ 为无条件跳转到事件 $2$，可以看出这里是一个循环。从事件 $2$ 和事件 $3$ 可以看出，如果变量 $2$ 小于 $3$（资金不足一次购买）或者选择放弃则会跳出循环。</p>
 <p>循环内的事件 $4$ 和事件 $5$ 为花费 $3$ 的资金得到 $13$ 的成就值。</p>
 <p>事件 $7$ 到 $11$ 也是一个类似的循环，只是参数有所不同。为花费 $5$ 的资金得到 $23$ 的成就值。</p>
+
 # 评分方式
 
 
@@ -83,6 +87,7 @@ i c 0 c 1 7 0
 <p>当然我们有对应的linux 32位版本：<code>checker_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x checker_linux64</code>或<code>chmod +x checker_linux32</code>后重试。</p>
 <p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
+
 # 更多功能
 
 
@@ -98,6 +103,7 @@ i c 0 c 1 7 0
 <p><code>./checker_linux64 -w &lt;case_no&gt;</code></p>
 <p>例如</p>
 <p><code>./checker_linux64 -w train3.in train3.out</code></p>
+
 # 下载
 
 

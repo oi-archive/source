@@ -1,5 +1,6 @@
 # 题目描述
 
+
 # 题目描述
 
 
@@ -7,17 +8,20 @@
 <p>可爱的小 Tommy 决定篡改这棵 Trie 树。他先将 Trie 上的一些边上的字符删去，然后填上另一些字符。为了不被发现，Tommy 必须保证修改后的 Trie 仍然满足上述性
 质，即从根到每个叶节点的路径上的边上的字符顺次拼接构成的字符串是一个递增的、由逗号分隔的正整数序列，且每个正整数无<strong>前导零</strong>。</p>
 <p>现在 Tommy 已经删去了一些边上的字符，请你帮他完成“填上字符”的操作。如果有多解，请输出字典序最小的解。</p>
+
 # 输入格式
 
 
 <p>输入文件包含多组数据，整个文件的第一行是一个整数 $T$，表示数据组数。对于每一组数据：</p>
 <p>第一行包含一个长度为 $n$ 的、仅包含 $0$ 到 $9$、<strong>,</strong> 和 <strong>?</strong> 的字符串，第 $i$ 个整数表示连接节点 $i$ 的父亲和节点 $i$ 的边上的字符，<strong>?</strong> 表示这条边上的字符已经被删去；</p>
 <p>第二行包含 $n$ 个整数，第 $i$ 个整数表示节点 $i$ 的父亲节点 $f_i$，保证 $0 \le f_i &lt; i$。</p>
+
 # 输出格式
 
 
 <p>输出 $T$ 行。对于每组数据，输出一个长度为 $n$ 的字符串，表示字典序最小的填写问号的方式中每个点的字符，第 $i$ 个整数表示节点 $i$ 的字符。</p>
 <p>如果不存在任何合法的填写方式，请输出 <code>failed</code>。</p>
+
 # 样例
 
 
@@ -29,7 +33,8 @@
 <pre><code class="sh_plain">2,13,207104420026411</code></pre>
 <h4>样例解释</h4>
 <p>Tommy 填写的 Trie 如下图，红色的节点为所有叶子节点，注意，根节点在左下方。</p>
-<p><img src="source/uoj/403/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTIyOTc4OTM0Zi5wbmc=.png" alt="Trie.png"/></p>
+<p><img src="/source/uoj/403/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTIyOTc4OTM0Zi5wbmc=.png" alt="Trie.png"/></p>
+
 # 数据规模与约定
 
 

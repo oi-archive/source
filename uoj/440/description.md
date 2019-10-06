@@ -8,20 +8,23 @@
 <li>在这条路径中，每次只能从当前的格子移动到右边与它相邻的格子，或者从当前格子移动到下面与它相邻的格子。</li>
 </ol></li>
 </ul><p>例如：在下面这个矩形中，只有两条路径是合法的，它们分别是 $P_1:(0,0)\to (0,1)\to (1,1), \ P_2:(0,0)\to (1,0)\to (1,1)$。</p>
-<p><img src="source/uoj/440/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRhM2UwNDJlZi5wbmc=.png" alt="game.png"/></p>
+<p><img src="/source/uoj/440/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRhM2UwNDJlZi5wbmc=.png" alt="game.png"/></p>
 <p>对于一条合法的路径 $P$，我们可以用一个字符串 $w(P)$ 来表示，该字符串的长度为 $n+m-2$，其中只包含字符 <code>R</code> 或者字符 <code>D</code>，第 $i$ 个字符记录了路径 $P$ 中第 $i$ 步的移动方法，<code>R</code> 表示移动到当前格子右边与它相邻的格子，<code>D</code> 表示移动到当前格子下面与它相邻的格子。例如，上图中对于路径 $P_1$，有 $w(P_1)=``\text{RD}&#34;$；而对于另一条路径 $P_2$，有 $w(P_2)=``\text{DR}&#34;$。</p>
 <p>同时，将每条合法路径 $P$ 经过的每个格子上填入的数字依次连接后，会得到一个长度为 $n+m-1$ 的 $01$ 字符串，记为 $s(P)$。例如，如果我们在格子 $(0,0)$ 和 $(1,0)$ 上填入数字 $0$，在格子 $(0,1)$ 和 $(1,1)$ 上填入数字 $1$（见上图红色数字）。那么对于路径 $P_1$，我们可以得到 $s(P_1)=``011&#34;$，对于路径 $P_2$，有 $s(P_2)=``001&#34;$。</p>
 <p>游戏要求小 D 找到一种填数字 $0,1$ 的方法，使得对于两条路径 $P_1,P_2$，如果 $w(P_1)\gt w(P_2)$，那么必须 $s(P_1)\le s(P_2)$。我们说字符串 $a$ 比字符串 $b$ 小，当且仅当字符串 $a$ 的字典序小于字符串 $b$ 的字典序，字典序的定义详见<a href="https://loj.ac/problem/2953">第一题</a>。但是仅仅是找⼀种方法无法满足小 D 的好奇心，小 D 更想知道这个游戏有多少种玩法，也就是说，有多少种填数字的方法满组游戏的要求？</p>
 <p>小 D 能力有限，希望你帮助他解决这个问题，即有多少种填 $0,1$ 的方法能满足题目要求。由于答案可能很大，你需要输出答案对 $10^9+7$ 取模的结果。</p>
+
 # 输入格式
 
 
 <p>输入文件，包含两个正整数 $n,m$，由一个空格分隔，表示矩形的大小。其中 $n$ 表示矩形表格的行数，$m$ 表示矩形表格的列数。</p>
+
 # 输出格式
 
 
 <p>输出共一行，包含一个正整数，表示有多少种填 $0,1$ 的方法能满足游戏的要求。</p>
 <p>注意：输出答案对 $10^9+7$ 取模的结果。</p>
+
 # 样例一
 
 
@@ -30,8 +33,9 @@
 <h4>output</h4>
 <pre><code>12</code></pre>
 <h4>样例说明 1</h4>
-<p><img src="source/uoj/440/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRiYjkyZDg4NC5wbmc=.png" alt="game2.png"/></p>
+<p><img src="/source/uoj/440/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRiYjkyZDg4NC5wbmc=.png" alt="game2.png"/></p>
 <p>对于 $2\times 2$ 棋盘，有上图所示的 $12$ 种填数方法满足要求。</p>
+
 # 样例二
 
 
@@ -39,6 +43,7 @@
 <pre><code>3 3</code></pre>
 <h4>output</h4>
 <pre><code>112</code></pre>
+
 # 样例三
 
 
@@ -46,6 +51,7 @@
 <pre><code>5 5</code></pre>
 <h4>output</h4>
 <pre><code>7136</code></pre>
+
 # 限制与约定
 
 
@@ -55,6 +61,7 @@
 
 <p><strong>时间限制：$\texttt{1s}$。</strong></p>
 <p><strong>空间限制：$\texttt{512MB}$。</strong></p>
+
 # 下载
 
 

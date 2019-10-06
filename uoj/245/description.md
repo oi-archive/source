@@ -11,11 +11,13 @@
 \lvert c_k - \hat{c}_k \rvert \le 5\% \cdot \hat{c}_k
 \end{equation}
 </strong></p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$，保证 $n \ge 2$。</p>
 <p>第二行 $n$ 个正整数 $a_1, \dots, a_n$，按顺序给出每次进攻时三星 note7 的高度。</p>
+
 # 输出格式
 
 
@@ -24,6 +26,7 @@
 \begin{equation}
 \lvert c_k - \hat{c}_k \rvert \le 5\% \cdot \hat{c}_k
 \end{equation}</strong></p>
+
 # 样例一
 
 
@@ -45,6 +48,7 @@
 <p>当 $k = 3$ 时，最优高度区间为 $[2, 7]$；</p>
 <p>当 $k = 4$ 时，最优高度区间为 $[1, 7]$。</p>
 <p>注意 $k = 2$ 时不能选择高度区间 $[1, 2]$，虽然能够拦截下第 $1$ 次和第 $4$ 次攻击，但这两次攻击并不连续。</p>
+
 # 样例二
 
 
@@ -81,10 +85,12 @@
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -97,10 +103,12 @@
 <p>对于所有数据，保证 $1 \le a_i \le 10^6$。</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 
 <p><a href="/download.php?type=problem&amp;id=245">样例数据下载</a></p>
+
 # 后记
 
 

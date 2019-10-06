@@ -17,15 +17,18 @@ for v = 1, ..., n:
     if v 处于不满状态:
         dfs(v)</code></pre>
 <p>一万万年后，一位考古学家调查了最终每个手机中存储的气泡熊表情的编号，想要复原出朋友关系图 $G$。然而这几乎是不可能的，所以他想知道有多少种可能的 $G$。</p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$。</p>
 <p>第二行包含 $n$ 个整数 $a_1, \dots, a_n$，表示最终第 $i$ 个人的手机上存储的气泡熊表情编号。保证 $a_1, \dots, a_n$ 是一个 $1$ 到 $n$ 的排列。</p>
+
 # 输出格式
 
 
 <p>一行，一个整数表示 $G$ 的数量，你只用输出答案对 $998244353$（$7 \times 17 \times 2^{23} + 1$，一个质数）取模后的结果。</p>
+
 # 样例一
 
 
@@ -42,7 +45,8 @@ for v = 1, ..., n:
 
 <h4>explanation</h4>
 <p>共以下两种：</p>
-<p><img class="img-responsive center-block" src="source/uoj/114/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMTQvc2FtcGxlLnBuZw==.png" alt="样例解释图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/114/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMTQvc2FtcGxlLnBuZw==.png" alt="样例解释图"/></p>
+
 # 样例二
 
 
@@ -57,10 +61,12 @@ for v = 1, ..., n:
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -71,6 +77,7 @@ for v = 1, ..., n:
 
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

@@ -10,7 +10,7 @@
 <hr/><p>作为一个数竞选手，小 $y^\infty$ 一眼就秒了这个题，这大约只要写一棵线段树就好了。</p>
 <p>这里给出了他的详细做法，大概和 UOJ#228. 基础数据结构练习题 的做法差不多？</p>
 <p>线段树是一种二叉树，它的每个节点都代表着一个区间，大约长这样：</p>
-<p><img src="source/uoj/421/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt="http://jiruyi910387714.is-programmer.com/user_files/jiruyi910387714/Image/QQ%E6%88%AA%E5%9B%BE20160715014517_20160715014836.png"/></p>
+<p><img src="/source/uoj/421/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt="http://jiruyi910387714.is-programmer.com/user_files/jiruyi910387714/Image/QQ%E6%88%AA%E5%9B%BE20160715014517_20160715014836.png"/></p>
 
 
 
@@ -29,6 +29,7 @@
 <p>2.在节点 $[1,n]$ 将区间 $[l,r]$ 修改为 $k$。</p>
 <p>3.在节点 $[1,n]$ 对区间 $[l,r]$ 开根号。</p>
 <p>4.询问节点 $[l,r]$ 上的标记。</p>
+
 # 输入格式
 
 
@@ -41,10 +42,12 @@
 <p>若 $opt=2$，则表示执行了一个操作 $2$，接下来三个整数 $l,r,k$。</p>
 <p>若 $opt=3$，则表示执行了一个操作 $3$，接下来两个整数 $l,r$。</p>
 <p>若 $opt=4$，则表示执行了一个操作 $4$，接下来两个整数 $l,r$。</p>
+
 # 输出格式
 
 
 <p>对于每个操作 $4$，输出一行两个整数 $a,b$，表示节点 $[l,r]$ 上的标记是 $(a,b)$。</p>
+
 # 样例一
 
 
@@ -66,6 +69,7 @@
 0 3
 0 3
 0 2</code></pre>
+
 # 限制与约定
 
 
@@ -80,6 +84,7 @@
 <p>$n = q = 10^5$，$A_i \leq 10^8$</p>
 <p>操作 $1$ 保证 $k\leq 10^3$。</p>
 <p>操作 $2$ 保证 $k\leq 10^8$。</p>
+
 # 部分分
 
 

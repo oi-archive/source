@@ -9,6 +9,7 @@
 <p>牛牛所在的大学有 $v$ 个教室，有 $e$ 条道路。每条道路连接两间教室，并且是可以<strong>双向通行</strong>的。由于道路的长度和拥堵程度不同，通过不同的道路耗费的体力可能会有所不同。
 当第 $i$（$1 \leq i \leq n-1$）节课结束后，牛牛就会从这节课的教室出发，选择一条耗费体力最少的<strong>路径</strong>前往下一节课的教室。</p>
 <p>现在牛牛想知道，申请哪几门课程可以使他因在教室间移动耗费的体力值的总和的<strong>期望值</strong>最小，请你帮他求出这个最小值。</p>
+
 # 输入格式
 
 
@@ -21,6 +22,7 @@
 <p>保证 $1 \leq n \leq 2000$，$0 \leq m \leq 2000$，$1 \leq v \leq 300$，$0 \leq e \leq 90000$。</p>
 <p>保证通过学校里的道路，从任何一间教室出发，都能到达其他所有的教室。</p>
 <p>保证输入的实数最多包含 $3$ 位小数。</p>
+
 # 输出格式
 
 
@@ -28,6 +30,7 @@
 <p>输出一行，包含一个实数，四舍五入精确到小数点后<strong>恰好$2$位</strong>，表示答案。你的输出必须和标准输出<strong>完全一样</strong>才算正确。</p>
 <p>测试数据保证四舍五入后的答案和准确答案的差的绝对值不大于 $4 \times 10^{-3}$。
 （如果你不知道什么是浮点误差，这段话可以理解为：对于大多数的算法，你可以正常地使用浮点数类型而不用对它进行特殊的处理）</p>
+
 # 样例一
 
 
@@ -53,6 +56,7 @@
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th rowspan="1">申请更换教室的时间段</th><th rowspan="1">申请通过的时间段</th><th rowspan="1">出现的概率</th><th rowspan="1">耗费的体力值</th><th rowspan="1">耗费的体力值的期望</th></tr></thead><tbody><tr><td rowspan="1">无</td><td rowspan="1">无</td><td rowspan="1">1.0</td><td rowspan="1">8</td><td rowspan="1">8.0</td></tr><tr><td rowspan="2">1</td><td rowspan="1">1</td><td rowspan="1">0.8</td><td rowspan="1">4</td><td rowspan="2">4.8</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.2</td><td rowspan="1">8</td></tr><tr><td rowspan="2">2</td><td rowspan="1">2</td><td rowspan="1">0.2</td><td rowspan="1">0</td><td rowspan="2">6.4</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.8</td><td rowspan="1">8</td></tr><tr><td rowspan="2">3</td><td rowspan="1">3</td><td rowspan="1">0.5</td><td rowspan="1">4</td><td rowspan="2">6.0</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.5</td><td rowspan="1">8</td></tr><tr><td rowspan="4">1、2</td><td rowspan="1">1、2</td><td rowspan="1">0.16</td><td rowspan="1">4</td><td rowspan="4">4.48</td></tr><tr><td rowspan="1">1</td><td rowspan="1">0.64</td><td rowspan="1">4</td></tr><tr><td rowspan="1">2</td><td rowspan="1">0.04</td><td rowspan="1">0</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.16</td><td rowspan="1">8</td></tr><tr><td rowspan="4">1、3</td><td rowspan="1">1、3</td><td rowspan="1">0.4</td><td rowspan="1">0</td><td rowspan="4">2.8</td></tr><tr><td rowspan="1">1</td><td rowspan="1">0.4</td><td rowspan="1">4</td></tr><tr><td rowspan="1">3</td><td rowspan="1">0.1</td><td rowspan="1">4</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.1</td><td rowspan="1">8</td></tr><tr><td rowspan="4">2、3</td><td rowspan="1">2、3</td><td rowspan="1">0.1</td><td rowspan="1">4</td><td rowspan="4">5.2</td></tr><tr><td rowspan="1">2</td><td rowspan="1">0.1</td><td rowspan="1">0</td></tr><tr><td rowspan="1">3</td><td rowspan="1">0.4</td><td rowspan="1">4</td></tr><tr><td rowspan="1">无</td><td rowspan="1">0.4</td><td rowspan="1">8</td></tr></tbody></table></div>
 
+
 # 样例二
 
 
@@ -63,7 +67,8 @@
 <h4>explanation</h4>
 <ol><li>道路中可能会有<strong>多条</strong>双向道路连接相同的两间教室。也有可能有道路两端连接的是<strong>同一间</strong>教室。</li>
 <li>请注意区分 $n,m,v,e$ 的意义，$n$ <strong>不是</strong>教室的数量，$m$ <strong>不是</strong>道路的数量。</li>
-</ol># 限制与约定
+</ol>
+# 限制与约定
 
 
 <div class="table-responsive">
@@ -73,6 +78,7 @@
 <p>特殊性质2：对于所有的 $1 \leq i \leq n, k_i = 1$。</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

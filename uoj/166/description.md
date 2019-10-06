@@ -38,6 +38,7 @@ $\mathrm{B} = (v_{2n-1} \  v_{2n-2} \  \cdots \  v_{n})_2$。
 <p><strong>作为奖励，跳蚤国王打算送你一个UOJ抱枕。
 第一个通过最后一个测试点的选手将获得一个UOJ抱枕。
 如果没有选手通过最后一个测试点，则第一个得到此题最高分的选手将获得一个UOJ抱枕。</strong></p>
+
 # 任务
 
 
@@ -55,6 +56,7 @@ $a_{2n+i-1}, b_{2n+i-1}, f_{2n+i-1}$分别被设置为$a, b, f$，
 你最多能调用$\mathrm{M}$次 <code>add_flea</code>。</p>
 <p>你还需要对每个 $[0, n-1]$ 中的整数 $i$ 调用 <code>set_output</code> 函数（可以按任意顺序调用）。
 <code>set_output(i, id)</code> 表示设置输出的二进制数的第 $i$ 位为编号为 $id$ 的跳蚤的值。</p>
+
 # 子任务
 
 
@@ -64,6 +66,7 @@ $a_{2n+i-1}, b_{2n+i-1}, f_{2n+i-1}$分别被设置为$a, b, f$，
 <p>设 $m$ 为 <code>add_flea</code> 的调用次数，$t$ 为所有跳蚤的值被确定的最晚时刻。</p>
 <div class="table-responsive">
   <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>子任务编号</th><th>分值</th><th>$n$</th><th>$\mathrm{M}$</th><th>$\mathrm{T}$</th><th>备注</th></tr></thead><tbody><tr><td>1 </td><td>1</td><td>1 </td><td>   $1$   </td><td>      $10000$    </td><td>    $10000$ </td><td> </td></tr><tr><td>2 </td><td>1</td><td>2 </td><td>   $2$   </td><td>      $10000$    </td><td>    $10000$  </td><td>  </td></tr><tr><td>3 </td><td>1</td><td>5 </td><td>  $256$  </td><td>      $10000$    </td><td>    $10000$  </td><td>  </td></tr><tr><td>4 </td><td>1</td><td>9 </td><td>$10^5$ </td><td>$5 \times 10^5$   </td><td> $50$  </td><td> 该测试点得分为$\min \left \{ \left \lfloor \frac{5 \times 10^5 - m}{20000} \right \rfloor, 9 \right \}$分  </td></tr><tr><td>5 </td><td>1</td><td>10</td><td> $10^5$</td><td> $1.5 \times 10^6$</td><td>    $30$  </td><td> 该测试点得分为$\min \left \{30-t, 10 \right \}$分  </td></tr><tr><td>6 </td><td>2</td><td>3 </td><td>   $2$   </td><td>      $10000$    </td><td>    $10000$</td><td>      </td></tr><tr><td>7 </td><td>2</td><td>6 </td><td>  $233$  </td><td>      $10000$    </td><td>    $10000$</td><td>      </td></tr><tr><td>8 </td><td>2</td><td>13</td><td>$10^5$ </td><td> $1.2 \times 10^6$</td><td>  $100$ </td><td> 该测试点得分为$\min \left \{ \left \lfloor \frac{1.2 \times 10^6-m}{30000} \right \rfloor, 13 \right \}$分     </td></tr><tr><td>9 </td><td>2</td><td>14</td><td>$10^5$ </td><td>  $5 \times 10^6$ </td><td>  $42$</td><td>该测试点得分为$\min \left \{42-t, 14 \right \}$分          </td></tr><tr><td>10</td><td>3</td><td>4 </td><td>   $2$   </td><td>      $10000$    </td><td>    $10000$ </td><td>      </td></tr><tr><td>11</td><td>3</td><td>7 </td><td>  $233$  </td><td>      $10^6$     </td><td>  $10^6$ </td><td>      </td></tr><tr><td>12</td><td>3</td><td>8 </td><td>  $512$  </td><td>  $3 \times 10^6$ </td><td>  $255$   </td><td>    </td></tr><tr><td>13</td><td>3</td><td>17</td><td>  $1024$ </td><td>  $4 \times 10^6$ </td><td>  $94$    </td><td> 该测试点得分为$\min \left \{ \left \lfloor\frac{94-t}{2} \right \rfloor, 17 \right \}$分   </td></tr><tr><td>14</td><td>3</td><td>1 </td><td>  $1024$ </td><td>    $1920000$    </td><td> $288$   </td><td> <b>第一个通过该测试点的选手将获得一个UOJ抱枕！</b>  </td></tr></tbody></table></div>
+
 
 # 实现细节
 
@@ -75,6 +78,7 @@ $a_{2n+i-1}, b_{2n+i-1}, f_{2n+i-1}$分别被设置为$a, b, f$，
 <p>函数 <code>add_flea</code> 和 <code>set_output</code> 的接口信息如下。</p>
 <pre><code class="sh_cpp">int add_flea(int a, int b, int f);
 void set_output(int i, int id);</code></pre>
+
 # 评测方式
 
 
@@ -93,6 +97,7 @@ void set_output(int i, int id);</code></pre>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
 <p><strong>在任何时候，交互库使用的内存都不会超过$128\texttt{MB}$，即选手至少有$384\texttt{MB}$的可用内存。</strong></p>
+
 # 下载
 
 

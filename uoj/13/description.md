@@ -11,6 +11,7 @@
 </ol><p>上文所说的“创建”在父级目录不存在的时候要一并创建其父级目录。比如，假设文件系统里只有 “$\texttt{/v}$” 这个文件夹，那么现在我创建 “$\texttt{/v/flea/king/qaq}$” 就会在文件系统中新增三个文件夹：“$\texttt{/v/flea}$”, “$\texttt{/v/flea/king}$”, “$\texttt{/v/flea/king/qaq}$”。</p>
 <p>跳蚤国王进行了 $n$ 次这样的操作后，开始不断问他的助手伏特：现在我如果在 $p$ 这个路径处创建一个文件夹（如果已存在则不创建），那么这个文件夹的真实路径是什么？</p>
 <p>于是伏特只好向你求助了，请你帮一帮他吧！<strong>请参照样例来更清晰地理解题意。</strong></p>
+
 # 输入格式
 
 
@@ -18,10 +19,12 @@
 <p>接下来$n$行每行两个用空格隔开的字符串$s, t$，表示跳蚤国王的一次操作。</p>
 <p>接下来 $m$ 行每行一个字符串 $p$ 表示跳蚤国王的一个询问。</p>
 <p>保证所有的 $s, t, p$ 都是合法的文件路径。即，文件夹名一定是由小写英文字母组成的非空字符串，路径名一定形如“$\texttt{/xxx/xxx/xxx/.../xxx}$”这样子。保证当路径不为根目录“$\texttt{/}$”时，路径不以“$\texttt{/}$”结尾。</p>
+
 # 输出格式
 
 
 <p>对于跳蚤国王的每个询问输出真实路径。</p>
+
 # 样例一
 
 
@@ -58,7 +61,8 @@
 <li>$\texttt{/orz/orz/orz} \rightarrow \texttt{/picks}$</li>
 <li>$\texttt{/otl} \rightarrow \texttt{/picks/duliu}$</li>
 <li>$\texttt{/vfleaking/sb} \rightarrow \texttt{/vfleaking}$</li>
-</ul># 样例二
+</ul>
+# 样例二
 
 
 <h4>input</h4>
@@ -78,10 +82,12 @@
 
 </pre>
 
+
 # 样例三
 
 
 <p>见样例数据下载</p>
+
 # 限制与约定
 
 
@@ -104,7 +110,8 @@
 <ul><li>$\texttt{/}$</li>
 <li>$\texttt{/orz/otl/oorrzz/oottll}$</li>
 <li>$\texttt{/a}$</li>
-</ul># 下载
+</ul>
+# 下载
 
 
 <p><a href="/download.php?type=problem&amp;id=13">样例数据下载</a></p>

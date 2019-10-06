@@ -9,7 +9,7 @@
 <p>我微微一笑，合上了日记。“umi，我等着你。”</p>
 <p>给出一棵线段树，这个线段树是广义线段树。在正常的线段树中，对于区间$[l,r]$，我们会取$ m=⌊\frac{l+r}{2}⌋$，然后将这个区间分成 $[l,m]$ 和 $[m+1,r]$ 两个子区间。在广义的线段树中，$m$ 不要求恰好等于区间的中点，但是 $m$ 还是必须 满足 $l≤m&lt; r$ 的。不难发现在广义的线段树中，树的深度可以达到 $O(n)$ 级别。</p>
 <p>如下就是一棵广义线段树：</p>
-<p><img src="source/uoj/431/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt=""/></p>
+<p><img src="/source/uoj/431/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt=""/></p>
 <p>我们使用先序遍历给出该线段树每个节点的分界点，比如下列序列表示的就是该线段树：</p>
 <pre><code>5 1 3 2 4</code></pre>
 <p>表示的是$[1,6]$分界点为$5$,$[1,5]$的分界点为$1$，$[2,5]$的分界点为3等</p>
@@ -19,6 +19,7 @@
 3 l r x 表示将[l,r]的数都和x做异或运算，并更新线段树</code></pre>
 <p>保证$[l,r]$一定是线段树上某个节点代表的区间。</p>
 <pre><code>4 l r 询问从代表[l,r]的节点开始走，设当前节点的值为y，那么如果y在二进制下的表示中有奇数个1（即popcount(y)%2==1），向当前节点的左儿子走；否则向当前节点的右儿子走。走到不能走为止。输出经过的节点值的和</code></pre>
+
 # 输入格式
 
 
@@ -26,10 +27,12 @@
 <p>接下来输入$n$个正整数$a_i$表示这个序列的初始值</p>
 <p>接下来输入这棵线段树</p>
 <p>接下来$q$行，每行输入4个数或3个数，表示操作</p>
+
 # 输出格式
 
 
 <p>对于每个询问，输出答案</p>
+
 # 样例一
 
 
@@ -64,6 +67,7 @@
 4
 3
 4</code></pre>
+
 # 限制与约定
 
 
@@ -74,6 +78,7 @@
 <p>对于所有数据，$a_i,x\leq [0,10^9]$，保证给出的区间一定是线段树上某个节点所代表的。</p>
 <p><strong>时间限制：</strong>$4\mathtt{s}$</p>
 <p><strong>空间限制：</strong>$512\mathtt{MB}$</p>
+
 # 下载
 
 

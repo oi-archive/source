@@ -6,6 +6,7 @@
 <p>这个游戏的目标是：利用至多 $T$ 次探索操作，让所有结点的状态都成为已知的。然而小M还是这个游戏的新手，她希望得到你的帮助。</p>
 <p><strong>为了让游戏过程更加容易，小M给你提供了这个游戏的交互库，具体见【任务描述】和【实现细节】。</strong></p>
 <p><strong>另外，小M也提供了一些游戏的提示，具体见题目的最后一节【提示】。</strong></p>
+
 # 任务介绍
 
 
@@ -21,6 +22,7 @@
 <li>这个函数会返回结点 $x$ 到 $y$ 的最短路径上的第二个结点的编号。</li>
 </ul></li>
 </ul><p>在函数 <code>play</code> 返回之后，交互库会检查游戏的状态：只有当每个结点都是已知的，才算游戏的目标完成。</p>
+
 # 实现方法
 
 
@@ -37,6 +39,7 @@
 <pre><code class="sh_pascal">procedure play(n, T, dataType : longint);</code></pre>
 <p>函数 <code>explore</code> 的接口信息如下：</p>
 <pre><code class="sh_pascal">function explore(x, y : longint) : longint;</code></pre>
+
 # 如何测试你的程序
 
 
@@ -57,12 +60,14 @@
 <p>接下来交互库会判断游戏目标是否完成。如果完成，则会输出 &#34;Correct&#34;，否则会输出相应的错误信息。</p>
 <p>如果传入 <code>explore</code> 函数的参数非法（$x,y$ 不在 $1$ 到 $n$ 的范围内，或 $x$ 不是已知结点，或 $x$ 等于 $y$），那么交互库会输出详细的错误信息，并退出。</p>
 <p>如果要使用自己的输入文件进行测试，请保证输入文件符合以上格式要求，否则不保证程序能正确运行。</p>
+
 # 如何使用样例源代码
 
 
 <p>本题目录下，有针对每种语言的样例源代码 rts_sample.cpp/c/pas。选择你所需的语言，将其复制为 rts.cpp/c/pas，按照上文中提到的方式进行编译，即能通过编译得到可执行程序。 </p>
 <p>对于非正式选手，你只能选择一种语言进行作答，即你本题的试题目录下不能同时存在多个语言的 rts.cpp/c/pas，否则系统将任选一份源代码进行评测并作为最终结果。</p>
 <p>接下来你需要修改这个文件的实现，以达到题目的要求。</p>
+
 # 样例一
 
 
@@ -85,16 +90,19 @@
 <li><code>explore(3, 2)</code>，返回 2</li>
 <li><code>explore(2, 4)</code>，返回 3</li>
 <li><code>explore(3, 4)</code>，返回 4</li>
-</ul># 样例二
+</ul>
+# 样例二
 
 
 <p>见<a href="/download.php?type=problem&amp;id=349">下载目录</a>下的 <em>ex_2.in</em> 与 <em>ex_2.ans</em>。</p>
 <p>该组样例的数据范围同第 5 个测试点。</p>
+
 # 样例三
 
 
 <p>见<a href="/download.php?type=problem&amp;id=349">下载目录</a>下的 <em>ex_3.in</em> 与 <em>ex_3.ans</em>。</p>
 <p>该组样例的数据范围同第 8 个测试点。</p>
+
 # 评分方式
 
 
@@ -102,6 +110,7 @@
 <p>题目首先会受到和非交互式程序题相同的限制。例如编译错误会导致整道题目得 0 分，运行时错误、超过时间限制、超过空间限制等会导致相应测试点得 0 分等。 你只能访问自己定义的和交互库给出的变量及其对应的内存空间，尝试访问其他空间将可能导致编译错误或运行错误。 </p>
 <p>若程序正常结束，则会开始检验正确性。只有当游戏目标完成时，该测试点得满分，其他情况该测试点得 0 分。</p>
 <p>题目中所给的时间、空间限制为你的代码和交互库加起来可以使用的时间和空间。我们保证，对于任何合法的数据及在限制范围内的调用，任何语言任何版本的交互库（包括下发给选手的和最终评测使用的），运行所用的时间不会超过 1s，运行所用的空间不会超过 64MB，也就是说，选手实际可用的时间至少为 2s，实际可用的空间至少为 448MB。</p>
+
 # 提示
 
 
@@ -114,7 +123,8 @@
 <li>两个结点的最短路径，是指连接两个结点的所有可能的路径中，序列长度最小的</li>
 <li>在一棵树中，连接任意两个结点的最短路径，都是唯一的</li>
 <li>通过访问输入输出文件、攻击评测系统或攻击评测库等方式得分属于作弊行为，所得分数无效。</li>
-</ul># 限制与约定
+</ul>
+# 限制与约定
 
 
 <p>一共有 20 个测试点，每个测试点 5 分。</p>
@@ -128,6 +138,7 @@
 </ul><p>对于每个测试点，$n, T, \texttt{dataType}$ 的取值如下表：</p>
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th rowspan="1">测试点编号</th><th rowspan="1">$n$</th><th rowspan="1">$T$</th><th rowspan="1">$\texttt{dataType}$</th></tr></thead><tbody><tr><td rowspan="1">1</td><td rowspan="1">2</td><td rowspan="1">10000</td><td rowspan="4">1</td></tr><tr><td rowspan="1">2</td><td rowspan="1">3</td><td rowspan="1">10000</td></tr><tr><td rowspan="1">3</td><td rowspan="1">10</td><td rowspan="1">10000</td></tr><tr><td rowspan="1">4</td><td rowspan="1">100</td><td rowspan="1">10000</td></tr><tr><td rowspan="1">5</td><td rowspan="1">1000</td><td rowspan="1">10000</td><td rowspan="3">2</td></tr><tr><td rowspan="1">6</td><td rowspan="1">20000</td><td rowspan="1">300000</td></tr><tr><td rowspan="1">7</td><td rowspan="1">250000</td><td rowspan="1">5000000</td></tr><tr><td rowspan="1">8</td><td rowspan="1">1000</td><td rowspan="1">20000</td><td rowspan="6">3</td></tr><tr><td rowspan="1">9</td><td rowspan="1">5000</td><td rowspan="1">15500</td></tr><tr><td rowspan="1">10</td><td rowspan="1">30000</td><td rowspan="1">63000</td></tr><tr><td rowspan="1">11</td><td rowspan="1">150000</td><td rowspan="1">165000</td></tr><tr><td rowspan="1">12</td><td rowspan="1">250000</td><td rowspan="1">250100</td></tr><tr><td rowspan="1">13</td><td rowspan="1">300000</td><td rowspan="1">300020</td></tr><tr><td rowspan="1">14</td><td rowspan="1">1000</td><td rowspan="1">50000</td><td rowspan="7">1</td></tr><tr><td rowspan="1">15</td><td rowspan="1">5000</td><td rowspan="1">200000</td></tr><tr><td rowspan="1">16</td><td rowspan="1">30000</td><td rowspan="1">900000</td></tr><tr><td rowspan="1">17</td><td rowspan="1">150000</td><td rowspan="1">3750000</td></tr><tr><td rowspan="1">18</td><td rowspan="1">200000</td><td rowspan="1">4400000</td></tr><tr><td rowspan="1">19</td><td rowspan="1">250000</td><td rowspan="1">5000000</td></tr><tr><td rowspan="1">20</td><td rowspan="1">300000</td><td rowspan="1">5000000</td></tr></tbody></table></div>
+
 
 # 下载
 

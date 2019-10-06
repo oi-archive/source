@@ -2,7 +2,7 @@
 
 <p>一个密钥是一个长度为 $n = 2k+1$ 的字符串，它包含 $1$ 个字母X、$k$ 个字母 A 和 $k$ 个字母 B。例如 $k=3$ 时，BAXABAB 就是一个密钥。</p>
 <p>如下图所示，可以按顺时针顺序把这 $2k+1$ 个字母排成一个圈：</p>
-<p><img class="img-responsive center-block" src="source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYS5qcGc=.jpg" style="width:200px;" alt="圈"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYS5qcGc=.jpg" style="width:200px;" alt="圈"/></p>
 <p>在 $k$ 个字母 A 中，有一部分可以定义为&#34;<strong>强的</strong>&#34;。</p>
 <p>具体来说，从 X 出发顺时针走到某个 A 时，如果途中 A 的数目<strong>严格多于</strong> B 的数目，则称此字母 A 为强的。</p>
 <p>对于上面的例子来说，顺时针方向从字母 X 数起第 $1$ 个和第 $2$ 个字母 A 是强的，而第 $3$ 个字母 A 不是强的。</p>
@@ -12,13 +12,14 @@
 （注意，满足这样要求的密钥一共有 $k+1$ 个，因为字母 X 还剩下 $k+1$ 个可能的位置。）</p>
 <p>可以证明：所有这$k+1$个可能的密钥的特征值是各不相同的，它们恰好为$0,1,2,…,k$。</p>
 <p>下页的图是一个具体的示例，从左到右的四个子图中分别有3个，2个，1个，0个字母A是强的。</p>
-<p><img class="img-responsive center-block" src="source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYi5qcGc=.jpg" style="width:600px;" alt="圈"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYi5qcGc=.jpg" style="width:600px;" alt="圈"/></p>
 <p>类似地，如果固定 $k$ 个字母 B 的位置，那满足条件的所有 $k+1$ 个密钥的特征值也各不相同，恰好为 $0,1,\cdots,k$。</p>
 <p>现在你需要解决以下三个问题：</p>
 <ol><li>给定密钥中所有 A 的位置，当密钥的特征值为 $0$ 时，请问 X 在哪个位置。</li>
 <li>给定密钥中所有 A 的位置，当密钥的特征值为 $S$ 时，请问 X 在哪个位置。</li>
 <li>给定密钥中所有 B 的位置，当密钥的特征值为 $S$ 时，请问 X 在哪个位置。</li>
 </ol><p>注意：字符串的 $2k+1$ 个字母的位置由 $1$ 到 $2k+1$ 编号。</p>
+
 # 例子一
 
 
@@ -26,6 +27,7 @@
 <p>当 A 的位置是 $\{2,4,6\}$ 且特征值为 $0$ 时，X 的位置在 $7$；</p>
 <p>当 A 的位置是 $\{2,4,6\}$ 且特征值为 $2$ 时，X 的位置在 $3$；</p>
 <p>当 B 的位置是 $\{2,4,6\}$ 且特征值为 $2$ 时，X 的位置在 $5$。</p>
+
 # 例子二
 
 
@@ -33,6 +35,7 @@
 <p>当 A 的位置是 $\{3,4,5,9,10,12,13,16,19\}$ 且特征值为 $0$ 时，X 的位置在 $14$；</p>
 <p>当 A 的位置是 $\{3,4,5,9,10,12,13,16,19\}$ 且特征值为 $7$ 时，X 的位置在 $18$；</p>
 <p>当 B 的位置是 $\{3,4,5,9,10,12,13,16,19\}$ 且特征值为 $7$ 时，X 的位置在 $17$。</p>
+
 # 输入格式
 
 
@@ -42,6 +45,7 @@
 <p>第三行包含一个整数$S$，意义如题所述。</p>
 <p>保证$0\le S \le k \le 10^7$。$1\le seed \le 10000$。</p>
 <p>在下发文件中，包含三个用于生成输入数据的文件<code>cipher.cpp/c/pas</code>。其中读入部分已经完成，在数组 $p[]$ 中，若 $p[i]= 0$，表示 $i$ 不属于集合$P$，否则，$i$ 属于集合 $P$。</p>
+
 # 输出格式
 
 
@@ -50,7 +54,8 @@
 <ol><li>第一个数表示当 $k$ 元集合 $P$ 代表 A 的位置且特征值为 $0$ 时 X 的位置。</li>
 <li>第二个数表示当 $k$ 元集合 $P$ 代表 A 的位置且特征值为 $S$ 时 X 的位置。</li>
 <li>第三个数表示当 $k$ 元集合 $P$ 代表 B 的位置且特征值为 $S$ 时 X 的位置。</li>
-</ol># 样例一
+</ol>
+# 样例一
 
 
 <h4>input</h4>
@@ -69,6 +74,7 @@
 
 <h4>explanation</h4>
 <p>第一个样例中，$P$ 数组为 $1$ 的元素的下标分别为 $5,6,7,8,9$。</p>
+
 # 样例二
 
 
@@ -86,6 +92,7 @@
 
 </pre>
 
+
 # 限制与约定
 
 
@@ -99,6 +106,7 @@
 </ol><p><strong>如果你仅仅知道部分答案，请也务必按此格式要求输出三个数。否则你可能会因格式错误无法得分。</strong></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 下载
 
 

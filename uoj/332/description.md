@@ -5,6 +5,7 @@
 <p>位于奶酪下表面的 Jerry 想知道，在<strong>不破坏奶酪</strong>的情况下，能否利用已有的空洞跑到奶酪的上表面去?</p>
 <p>空间内两点 $P_1(x_1,y_1,z_1)$、$P_2(x_2,y_2,z_2)$ 的距离公式如下：</p>
 <p>$$\mathrm{dist}(P_1,P_2) = \sqrt{(x_1-x_2)^2+(y_1-y_2)^2+(z_1-z_2)^2}$$</p>
+
 # 输入格式
 
 
@@ -13,10 +14,12 @@
 <p>接下来是 $T$ 组数据，每组数据的格式如下：</p>
 <p>第一行包含三个正整数 $n$，$h$ 和 $r$，两个数之间以一个空格分开，分别代表奶酪中空洞的数量，奶酪的高度和空洞的半径。</p>
 <p>接下来的 $n$ 行，每行包含三个整数 $x$、$y$、$z$，两个数之间以一个空格分开，表示空洞球心坐标为 $(x,y,z)$ 。</p>
+
 # 输出格式
 
 
 <p>输出文件包含 $T$ 行，分别对应 $T$ 组数据的答案，如果在第 $i$ 组数据中，Jerry 能从下表面跑到上表面，则输出“<samp>Yes</samp>”，如果不能，则输出“<samp>No</samp>”（均不包含引号）。</p>
+
 # 样例一
 
 
@@ -68,12 +71,14 @@ Yes
 <p>输出 <samp>Yes</samp></p>
 </td>
 <td style="text-align:center;" width="25%">
-<img src="source/uoj/332/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvR0prb2N1WDRtSGdpVEF6LnBuZw==.png" alt="GJkocuX4mHgiTAz.png"/></td>
+<img src="/source/uoj/332/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvR0prb2N1WDRtSGdpVEF6LnBuZw==.png" alt="GJkocuX4mHgiTAz.png"/></td>
 
-</tr></tbody></table># 样例二
+</tr></tbody></table>
+# 样例二
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -83,6 +88,7 @@ Yes
 <p>对于 $100\%$ 的数据，$1 \le n \le 1,000$，$1 \le h , r \le 1,000,000,000$，$T \le 20$，坐标的绝对值不超过 $1,000,000,000$。</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
+
 # 下载
 
 

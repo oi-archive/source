@@ -4,13 +4,14 @@
 <p>许愿树是一棵 $n$ 个节点的<a href="https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/7077855">二叉搜索树</a>，$n$ 个节点的权值为 $1$ 到 $n$ 的排列。</p>
 <p>我们定义一次单旋为：</p>
 <p>假设 $x$ 是其父亲 $p$ 的左孩子。我们对它做下图操作，则称为一次单旋。</p>
-<p><img class="img-responsive center-block" src="source/uoj/456/img/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi8yLzJjL1NwbGF5X3RyZWVfemlnLnN2Zy82NDBweC1TcGxheV90cmVlX3ppZy5zdmcucG5n.png" alt="单旋例图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/456/img/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi8yLzJjL1NwbGF5X3RyZWVfemlnLnN2Zy82NDBweC1TcGxheV90cmVlX3ppZy5zdmcucG5n.png" alt="单旋例图"/></p>
 <p>如果是右孩子，就做其轴对称操作。</p>
 <p>圣诞树支持如下三个操作：</p>
 <ol><li>点 $x$ 连续不断单旋向上，直至它成为点 $y$ 的儿子，<strong>保证 $y$ 是 $x$ 的祖先</strong></li>
 <li>询问点 $x$ 的第 $k$ 级祖先，<strong>保证此时点 $x$ 的第 $k$ 级祖先存在</strong></li>
 <li>询问整棵树<a href="https://baike.baidu.com/item/%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86/6442839">先序遍历</a>中的第 $k$ 个点，<strong>保证此时$1\le k \le n$。</strong></li>
 </ol><p>许愿树不支持这些操作，现在小C希望你能帮助他加上这些功能。</p>
+
 # 输入格式
 
 
@@ -24,10 +25,12 @@
 <p>如果 $opt=1$ ，则之后还跟着两个正整数 $x,y$ ，表示将点 $x$ 连续不断单旋向上，直至它成为点 $y$ 的儿子。</p>
 <p>如果 $opt=2$ ，则之后还跟着两个正整数 $x,k$ ，表示询问询问点 $x$ 的第 $k$ 级祖先。</p>
 <p>如果 $opt=3$ ，表示询问整棵树先序遍历中的第 $k$ 个点。</p>
+
 # 输出格式
 
 
 <p>输出若干行，每行一个整数表示询问的答案。</p>
+
 # 样例一
 
 
@@ -58,10 +61,12 @@
 
 </pre>
 
+
 # 样例二至样例六
 
 
 <p>见样例数据下载。</p>
+
 # 限制与约定
 
 
@@ -78,6 +83,7 @@
 
 <p><strong>时间限制</strong>：$\texttt{1s}$</p>
 <p><strong>空间限制</strong>：$\texttt{512MB}$</p>
+
 # 下载
 
 

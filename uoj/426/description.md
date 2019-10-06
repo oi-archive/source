@@ -11,15 +11,18 @@
 $$
 \left(\sum_{a_1=1}^m\sum_{a_2=1}^m\cdots\sum_{a_n=1}^m{\left(\sigma_0\left(\gcd\left(a_1,a_2,\ldots,a_n\right)^3\right)\right)}^3\prod_{i=1}^k\left[a_{x_i}\leq a_{y_i}\right]\right)\bmod 2^{32}
 $$</p>
+
 # 输入格式
 
 
 <p>第一行有三个整数 $n,m,k$。</p>
 <p>接下来 $k$ 行每行有两个整数：第 $i$ 行的两个整数为 $x_i,y_i$。</p>
+
 # 输出格式
 
 
 <p>一个整数：答案。</p>
+
 # 样例一
 
 
@@ -39,7 +42,8 @@ $$</p>
 <ul><li>$a_1=1,a_2=1,s=1,\sigma_0(s^3)^3=1$。</li>
 <li>$a_1=1,a_2=2,s=1,\sigma_0(s^3)^3=1$。</li>
 <li>$a_1=2,a_2=2,s=2,\sigma_0(s^3)^3=64$。</li>
-</ul># 样例二
+</ul>
+# 样例二
 
 
 <h4>input</h4>
@@ -56,6 +60,7 @@ $$</p>
 
 </pre>
 
+
 # 限制与约定
 
 
@@ -65,6 +70,7 @@ $$</p>
 <p>对于所有数据：$1\leq n\leq 20,1\leq m\leq {10}^{10},0\leq k\leq n(n-1)$，不存在两个相同的诅咒。</p>
 <p><strong>时间限制</strong>：$\texttt{4s}$</p>
 <p><strong>空间限制</strong>：$\texttt{512MB}$</p>
+
 # 下载
 
 

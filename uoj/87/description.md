@@ -1,8 +1,9 @@
 # 题目描述
 
 <p>如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</p>
-<p><img class="img-responsive center-block" src="source/uoj/87/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/87/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
 <p>现给定一棵仙人掌，每条边有一个正整数权值，每次给 $k$ 个点（<strong>可以存在相同点</strong>），问从它们中选出两个点（<strong>可以相同</strong>），它们之间<strong>最短路的最大值</strong>是多少。</p>
+
 # 输入格式
 
 
@@ -11,10 +12,12 @@
 <p>保证输入的图是一棵仙人掌，保证没有自环，但可能有重边。</p>
 <p>接下来一行一个非负整数 $Q$，表示询问个数。</p>
 <p>接下来 $Q$ 行每行第一个数是正整数 $\mathrm{cnt}$ 表示点数，接下来 $\mathrm{cnt}$ 个数表示给定的点。</p>
+
 # 输出格式
 
 
 <p>对每个询问输出一个数，表示该询问对应的最大值。</p>
+
 # 样例一
 
 
@@ -62,6 +65,7 @@
 <p>$4 \rightarrow 8 \rightarrow 9 \rightarrow 7 \rightarrow 1 \rightarrow 6$</p>
 <p>$2 \rightarrow 9 \rightarrow 8 \rightarrow 4$</p>
 <p>最后一个询问的答案显然是$0$。</p>
+
 # 限制与约定
 
 
@@ -75,14 +79,17 @@
 <p>此外为了照顾被卡常数的同学，本题存在过渡数据。</p>
 <p><strong>时间限制：</strong>$5\texttt{s}$</p>
 <p><strong>空间限制：</strong>$512\texttt{MB}$</p>
+
 # 来源
 
 
 <p>matthew99</p>
+
 # 题解
 
 
 <p><a href="http://matthew99.blog.uoj.ac/blog/241">http://matthew99.blog.uoj.ac/blog/241</a></p>
+
 # 下载
 
 

@@ -13,16 +13,19 @@
 \sum_{\text{方格}i\text{为黑色}}{b_i} + \sum_{\text{方格}i\text{为白色}}{w_i} - \sum_{\text{方格}i\text{为奇怪的方格}}{p_i}
 \end{equation}</p>
 <p>现在给你 $n, a, b, w, l, r, p$，问所有染色方案中<strong>最大</strong>的好看度是多少。</p>
+
 # 输入格式
 
 
 <p>第一行一个正整数 $n$。</p>
 <p>接下来 $n$ 行中第 $i$ 行有用空格隔开的 $6$ 个非负整数依次表示 $a_i, b_i, w_i, l_i, r_i, p_i$。</p>
 <p>保证 $l_i \leq r_i$。</p>
+
 # 输出格式
 
 
 <p>一个非负整数表示所有染色方案中最大的好看度。</p>
+
 # 样例一
 
 
@@ -55,6 +58,7 @@
 &amp; = &amp; 7 + 4 + 4 + 9 + 5 + 6 + 6 + 5 + 3 + 7 - 1 \\
 &amp; = &amp; 55
 \end{eqnarray}</p>
+
 # 限制与约定
 
 
@@ -69,10 +73,12 @@
 
 <p><strong>时间限制：</strong>$2\texttt{s}$</p>
 <p><strong>空间限制：</strong>$48\texttt{MB}$</p>
+
 # 来源
 
 
 <p>VFleaKing</p>
+
 # 下载
 
 

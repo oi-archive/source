@@ -5,6 +5,7 @@
 <p>Aizhan 知道 Ermek 并不关⼼对序列 $S$ 排序的事情。Aizhan 还知道 Ermek 将会选择哪些下标。Ermek 打算参加 $M$ 轮交换，将这些轮次从 $0$ 到 $M - 1$ 编号。对于 $0$ 到 $M - 1$ 之间的每个 $i$，Ermek 在第 $i$ 轮将选择下标 $X[i]$ 和 $Y[i]$ 的元素进⾏交换。</p>
 <p>Aizhan 要对序列 $S$ 按升序进⾏排序。在每⼀轮之前，如果 Aizhan 看到当前的序列已经按升序排列，她将结束这个排序过程。给定初始序列 $S$ 以及 Ermek 要选择的下标，请你找出⼀个交换的序列，使得 Aizhan 能完成对序列 $S$ 的排序。此外，在有些⼦任务中，你还要找出尽可能短的交换序列来完成排序任务。题⽬保证通过 $M$ 或更少的轮次能够将序列 $S$ 排好序。</p>
 <p>请注意如果 Aizhan 发现在 Ermek 的交换之后，序列 $S$ 已经排好序，则Aizhan可以选择交换两个相同下标（例如 $0$ 和 $0$）的元素。这样，序列 $S$ 在这⼀轮次之后也完成排序，于是也达到了 Aizhan 的⽬标。另外，如果初始序列 $S$ 就已经排好序，那么所需的最少排序轮数就是 $0$。</p>
+
 # 样例一
 
 
@@ -25,6 +26,7 @@
 </div>
 </div>
 
+
 # 样例二
 
 
@@ -44,6 +46,7 @@
 </div>
 </div>
 
+
 # 任务
 
 
@@ -56,7 +59,8 @@
 <li>P, Q: 整数数组。利⽤这两个数组报告 Aizhan 完成对序列 $S$ 排序的⼀种可能的交换序列，假设这个交换序列的⻓度为 $R$，对于 $0$ 到 $R$ 之间的每个 $R$，Aizhan在轮次 $i$ 选择的下标将被存⼊ $P[i]$ 和 $Q[i]$。 你可以假设数组 $P$ 和 $Q$ 均已分别被分配了 $M$ 个元素。<ul><li>这个函数应返回 $R$ 的值(定义如上)。</li>
 </ul></li>
 </ul></li>
-</ul># 子任务
+</ul>
+# 子任务
 
 
 <div class="table-responsive">
@@ -69,11 +73,13 @@
 </tr></thead><tbody><tr><td>1</td><td>8</td><td>$1 \leq N \leq 5$</td><td>$M = N^2$</td><td>$X[i] = Y[i] = 0$</td><td>$R \le M$</td></tr><tr><td>2</td><td>12</td><td>$1 \le N \le 100$</td><td>$M = 30N$</td><td>$X[i] = Y[i] = 0$</td><td>$R \le M$</td></tr><tr><td>3</td><td>16</td><td>$1 \leq N \leq 100$</td><td>$M = 30N$</td><td>$X[i] = 0, Y[i] = 1$</td><td>$R \le M$</td></tr><tr><td>4</td><td>18</td><td>$1 \leq N \leq 500$</td><td>$M = 30N$</td><td>无</td><td>$R \le M$</td></tr><tr><td>5</td><td>20</td><td>$1 \leq N \leq 2000$</td><td>$M = 3N$</td><td>无</td><td>最小</td></tr><tr><td>6</td><td>26</td><td>$1 \leq N \leq 200000$</td><td>$M = 3N$</td><td>无</td><td>最小</td></tr></tbody></table></div>
 
 <p>数据保证存在⼀个仅需 $M$ 或更少轮次的交换序列来完成排序。</p>
+
 # 实现细节
 
 
 <p>你只能提交一个源文件实现如上所述的 findSwapPairs 函数，并且遵循下面的命名和接口。你需要包含头文件 sorting.h。</p>
 <pre><code class="sh_cpp">int findSwapPairs(int N, int S[], int M, int X[], int Y[], int P[], int Q[]);</code></pre>
+
 # 评测方式
 
 
@@ -88,6 +94,7 @@
 </ul><p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1500\texttt{MB}$</p>
+
 # 下载
 
 
