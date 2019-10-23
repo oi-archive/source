@@ -3,11 +3,11 @@
 
 众所周知，色子共有六面，我们对色子的六个面分别编号为 $1,2,3,4,5,6$，我们用一个平面图来描述一个色子，两个色子对于的平面图还能用一个矩阵来描述，具体转换方式如下图：
 
-<div style="text-align:center">![d1](source/seuoj/218/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxOC90ZXN0ZGF0YS9kb3dubG9hZC9EMS5wbmc=.png)</div>
+<div style="text-align:center">![d1](/source/seuoj/218/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxOC90ZXN0ZGF0YS9kb3dubG9hZC9EMS5wbmc=.png)</div>
 
 我们发现，有一些不同的色子可以通过如下 $6$ 种旋转（旋转均为 $90°$），使得对应的平面图完全相同：
 
-<div style="text-align:center">![d2](source/seuoj/218/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxOC90ZXN0ZGF0YS9kb3dubG9hZC9EMi5wbmc=.png)</div>
+<div style="text-align:center">![d2](/source/seuoj/218/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxOC90ZXN0ZGF0YS9kb3dubG9hZC9EMi5wbmc=.png)</div>
 
 现在我们有很多对色子，我们想知道，每对色子能否通过旋转其中某一个色子，使得两个色子对应的平面图完全相同。
 

@@ -13,7 +13,7 @@
 
 具体如下图所示，相对关系不变，可能有旋转、翻转、移动。
 
-![标记](source/seuoj/215/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxNS90ZXN0ZGF0YS9kb3dubG9hZC9DLmpwZw==.jpg)
+![标记](/source/seuoj/215/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIxNS90ZXN0ZGF0YS9kb3dubG9hZC9DLmpwZw==.jpg)
 
 # 输出格式
 

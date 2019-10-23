@@ -7,7 +7,7 @@ lcl 最近很忙，但是他又必须完成他的老师给他布置的作业，�
 
 <center>
 
-![规则图示](source/seuoj/106/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzEwNi90ZXN0ZGF0YS9kb3dubG9hZC9kZXNjUGljLnBuZw==.png)
+![规则图示](/source/seuoj/106/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzEwNi90ZXN0ZGF0YS9kb3dubG9hZC9kZXNjUGljLnBuZw==.png)
 </center>
 
 上述过程经过了无数年后，没人知道 RandomWalker 所在的具体位置。为了减小搜索面积，Questioner 希望你计算出 RandomWalker 现在所处位置$(x,\ y)$ 在方格右下三角内的概率(即 $x+y\geq n-1$ 的概率)。

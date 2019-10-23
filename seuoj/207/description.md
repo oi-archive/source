@@ -15,7 +15,7 @@
 
 一开始你在矩阵的左上角，数据保证此时你脚下一定是岩石。
 
-![dig](source/seuoj/207/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIwNy90ZXN0ZGF0YS9kb3dubG9hZC9kaWcucG5n.png)
+![dig](/source/seuoj/207/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzIwNy90ZXN0ZGF0YS9kb3dubG9hZC9kaWcucG5n.png)
 
 例如上图，你从 $(1,1)$ （左上角）出发，走到 $(1,4)$（你现在所在的格子为 $(1,4)$，脚下的格子为 $(2,4)$），如果你挖去右下方的岩石 $(2,5)$，`A` 就消失。此时你向右走会下落 $3$ 格到 $(4,5)$，你再消去 $(5,6)$ 并向右走就到了地面。总共消耗的体能是 $2$。
 

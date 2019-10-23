@@ -3,19 +3,19 @@
 
 小西同学最近喜欢上了 iOS 游戏《三重镇 Triple Town》。游戏之余，小西也在思考如何才能在这个游戏中获得更高的分数。 如图 1 所示，游戏在一个 $n*m$ 的地图中进行。游戏给定一个<u>**建造序列**</u>，玩家按照此建造序列依次选择空白位置建造相应的建筑单位。建筑有九个不同的等级，由低到高分别为 `Grass`, `Bush`, `Tree`, `Hut`, …等（为了方便描述，我们称之为 $L_1, L_2, L_3, …, L_9$）。
 
-<center>![图1](source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzEucG5n.png)</center>
+<center>![图1](/source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzEucG5n.png)</center>
 
 <center>图1</center>
 
 当玩家在一个空白位置建造单位之后，有可能<u>**引起反应**</u>。反应的构成条件是：<u>**从这个格子出发，与该建筑单位等级相同的格子所构成的连通块大小大于等于$\underline{3}$**</u>， 则这个连通块将被合并为一个下一等级的建筑，此建筑的位置为最后建造的建筑单位位置，连通块中其他位置将变回空格。这里的连通块是指直接或者间接相邻的位置集合。另外需要注意的是，<u>**$\underline{L_9}$为建筑的最高等级，所以多个 $\underline{L_9}$ 的连通块并不会合并**</u>。例如在图 2 中，当建造了中间的 $L_1$ 之后，与该位置相连的 $L_1$就被合并成了一个 $L_2$。
 
-<center>![图2](source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzIucG5n.png)</center>
+<center>![图2](/source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzIucG5n.png)</center>
 
 <center>图2</center>
 
 注意，在合并的过程中，可能会引起连环反应。如下图所示。
 
-<center>![图3](source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzMucG5n.png)</center>
+<center>![图3](/source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzMucG5n.png)</center>
 
 <center>图3</center>
 
@@ -87,7 +87,7 @@ END
 
 #### 样例解释
 
-![图4](source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzQucG5n.png)
+![图4](/source/seuoj/26/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzI2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzQucG5n.png)
 
 第一步得分为 $4+20+100=124$;
 

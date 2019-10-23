@@ -3,7 +3,7 @@
 
 Flappy Bird 是一款风靡一时的休闲手机游戏。玩家需要不断控制点击手机屏幕的频率来调节小鸟的飞行高度，让小鸟顺利通过画面右方的管道缝隙。如果小鸟一不小心撞到了水管或者掉在地上的话，便宣告失败。
 
-<img src="source/seuoj/183/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzE4My90ZXN0ZGF0YS9kb3dubG9hZC80XzEucG5n.png" alt="Flappy Bird">
+<img src="/source/seuoj/183/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzE4My90ZXN0ZGF0YS9kb3dubG9hZC80XzEucG5n.png" alt="Flappy Bird">
   
 为了简化问题，我们对游戏规则进行了简化和改编：
 
@@ -55,7 +55,7 @@ kimoyami 想知道他通关至少要按多少次按钮(包括修改管道按下�
 
 如图，没有修改管道，游戏时第一个按钮按了4次。
 
-<img src="source/seuoj/183/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzE4My90ZXN0ZGF0YS9kb3dubG9hZC80LTIucG5n.png" alt="样例说明">
+<img src="/source/seuoj/183/img/aHR0cHM6Ly9vai5zZXVjcGMuY2x1Yi9wcm9ibGVtLzE4My90ZXN0ZGF0YS9kb3dubG9hZC80LTIucG5n.png" alt="样例说明">
 
 # 数据范围与提示
 
