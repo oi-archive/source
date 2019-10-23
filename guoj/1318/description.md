@@ -64,5 +64,5 @@ Yes
 
 # 数据范围与提示
 
-![mYaYr9.png](source/guoj/1318/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzIwL21ZYVlyOS5wbmc=.png)
+![mYaYr9.png](/source/guoj/1318/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzIwL21ZYVlyOS5wbmc=.png)
 

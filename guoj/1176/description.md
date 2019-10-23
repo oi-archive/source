@@ -42,11 +42,11 @@ $$
 ```
 
 #### 样例 1 解释
-![](source/guoj/1176/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjJiNzlkMjE4NjQxNDU5LnBuZw==.png)
+![](/source/guoj/1176/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjJiNzlkMjE4NjQxNDU5LnBuZw==.png)
 
 样例 $1$ 的网格形成的图如上
 
-![](source/guoj/1176/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjJiNzllOWI4ZTkyMTk0LnBuZw==.png)
+![](/source/guoj/1176/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjJiNzllOWI4ZTkyMTk0LnBuZw==.png)
 
 对于这个网格图的每一个生成树，我们把答案标记在了它的图案下方
 

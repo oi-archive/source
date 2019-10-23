@@ -67,6 +67,6 @@ ABA
 
 # 数据范围与提示
 
-![Screen Shot 2018-03-12 at 23.17.17.png](source/guoj/1057/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMTIvNWFhNjU0MDQyNzBjZC5wbmc=.png)
+![Screen Shot 2018-03-12 at 23.17.17.png](/source/guoj/1057/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMTIvNWFhNjU0MDQyNzBjZC5wbmc=.png)
 
 

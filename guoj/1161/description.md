@@ -77,7 +77,7 @@ void gen() {
 ```
 #### 样例说明
 
-![worldmap.png](source/guoj/1161/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xMy81Y2Q5OGQyZjY2NjAyLnBuZw==.png)
+![worldmap.png](/source/guoj/1161/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xMy81Y2Q5OGQyZjY2NjAyLnBuZw==.png)
 
 # 数据范围与提示
 

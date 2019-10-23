@@ -3,7 +3,7 @@
 
 孤独者的唯一救赎就是绝对而永恒的孤独。
 
-![](source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTY4NmU1NDc3MzA3LnBuZw==.png)
+![](/source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTY4NmU1NDc3MzA3LnBuZw==.png)
 
 北斗是一个喜欢玩游戏的女孩子。
 
@@ -15,8 +15,8 @@
 
 北斗可以执行如下两种操作。
 
-1. 选择一个章节并向前挪到任意位置。这一步需要消耗时间 $b$。![](source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTQ4MzM5OTEwNDQ2LnBuZw==.png)
-2. 选择一个章节并向后挪到任意位置。这一步需要消耗时间 $a$。![](source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTQ5OTg5NDM0MDMzLnBuZw==.png)
+1. 选择一个章节并向前挪到任意位置。这一步需要消耗时间 $b$。![](/source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTQ4MzM5OTEwNDQ2LnBuZw==.png)
+2. 选择一个章节并向后挪到任意位置。这一步需要消耗时间 $a$。![](/source/guoj/1198/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTQ5OTg5NDM0MDMzLnBuZw==.png)
 
 北斗的目标是把这些章节按照升序排好。
 

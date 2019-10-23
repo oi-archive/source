@@ -63,7 +63,7 @@ $$
 $$
 
 剩余的 $4$ 个点占领图中实线内部区域。
-![TIM图片20170721203208.png](source/guoj/1059/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDcvMjEvNTk3MWY0ODlkY2ZiOS5wbmc=.png)
+![TIM图片20170721203208.png](/source/guoj/1059/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDcvMjEvNTk3MWY0ODlkY2ZiOS5wbmc=.png)
 
 # 数据范围与提示
 

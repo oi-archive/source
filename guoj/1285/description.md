@@ -7,7 +7,7 @@
 东西向街道和南北向街道相交形成路口，规定编号为 $ x $ 的南北向街道和编号为 $ y $ 的东西向街道形成的路口的坐标是 $ (x, y) $。在某些路口存在一定数量的公共场所。  
 由于政府财政问题，只能安装一个大型无线网络发射器。该无线网络发射器的传播范围是一个以该点为中心，边长为 $ 2d $ 的正方形。传播范围包括正方形边界。  
 例如下图是一个 $d = 1$ 的无线网络发射器的覆盖范围示意图。  
-![http://media.openjudge.cn/images/upload/1464878979.png](source/guoj/1285/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvdXBsb2FkLzE0NjQ4Nzg5NzkucG5n.png)  
+![http://media.openjudge.cn/images/upload/1464878979.png](/source/guoj/1285/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvdXBsb2FkLzE0NjQ4Nzg5NzkucG5n.png)  
 现在政府有关部门准备安装一个传播参数为 $ d $ 的无线网络发射器，希望你帮助他们在城市内找出合适的路口作为安装地点，使得覆盖的公共场所最多。
 
 # 输入格式

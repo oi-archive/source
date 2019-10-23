@@ -66,7 +66,7 @@ $\text{depth}(x)$ 表示节点 $x$ 的深度，根节点的深度为 $1$。
 #### 样例解释
 输入的树：
 
-![oldword.png](source/guoj/1152/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0OGEyMmEyZTZjLnBuZw==.png)
+![oldword.png](/source/guoj/1152/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0OGEyMmEyZTZjLnBuZw==.png)
 
 每个点的深度分别为 $1,2,3,2,3$。
 

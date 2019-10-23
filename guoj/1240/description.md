@@ -5,13 +5,13 @@
 
 小 Y 高中毕业了，等待着他的是四年未知的大学生活，小 Y 不禁感到既紧张又兴奋。他现在真恨不得马上就开始他的大学生活，但是，在上学之前还是有很多事情要做的，其中很重要的一件事就是收拾行李。
 
-![](source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzliZmI5OTVlNzU3MTgzLnBuZw==.png)
+![](/source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzliZmI5OTVlNzU3MTgzLnBuZw==.png)
 
 小 Y 有一套钟爱的玩具，这套玩具由很多小的基块组成，每个基块都是由若干厚度一定的单位小正方形块拼成的连通图形，图 1 就是 3 个基块的平面图。
 
 由于小 Y 非常喜欢这套玩具，他决定把它带到大学去。“我可以制作一个矩形的有一定厚度的箱子，然后把我的所有玩具都摆放到这个箱子里。”小 Y 自言自语道。由于箱子的厚度有限，在摆放的时候基块之间不能重叠。但是可以将基块旋转 $0$ 度，$90$ 度，$180$ 度或者 $270$ 度后再进行摆放，图 2 就是一种可能的摆放方式。
 
-![](source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzljM2I1ZjcxODI2MzQwLnBuZw==.png)
+![](/source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzljM2I1ZjcxODI2MzQwLnBuZw==.png)
 
 由于要带走的行李实在是太多了，小 Y 必须尽量缩小这套玩具所占的体积。“由于箱子的厚度是一定的，我只要适当的摆放这些基块，使得包含它们的矩形面积最小就可以了。”小 Y 想。但这并不是一个容易的问题，小 Y 试了很长时间都没有成功，你能帮帮他吗？
 
@@ -64,7 +64,7 @@
 #### 样例说明
 基块的摆放方法如图 3 所示
 
-![](source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzlkMjQyZjkwNTM4MjgzLnBuZw==.png)
+![](/source/guoj/1240/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzlkMjQyZjkwNTM4MjgzLnBuZw==.png)
 
 # 数据范围与提示
 

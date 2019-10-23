@@ -5,7 +5,7 @@
 
 一个阶为$n$的扇是一个以$0,1,…,n$为顶点且有$2n-1$条边所定义的图：其中$0$和$1 2,…,n$相连，$k$和$k-1$相连$(k∈[n])$. （阶为$4$的扇如图所示）
 
-![扇图.png](source/guoj/1329/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjIvMm9yZ3Z6UzNaa2F3RE1DLnBuZw==.png)
+![扇图.png](/source/guoj/1329/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjIvMm9yZ3Z6UzNaa2F3RE1DLnBuZw==.png)
 
 现在请你回答阶为$n$的扇的生成树个数（答案 mod$1e9+9$输出）
 

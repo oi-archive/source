@@ -63,7 +63,7 @@ $$
 
 钢琴的滑行路线：
 
-![](source/guoj/1241/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZDc0NzYxYjQ5YjM1MzM5LnBuZw==.png)
+![](/source/guoj/1241/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZDc0NzYxYjQ5YjM1MzM5LnBuZw==.png)
 
 钢琴在“$\times$”位置上时天使使用一次魔法，因此滑动总长度为 $6$。
 

@@ -5,7 +5,7 @@
 
 MY 市 NS 中学就有着这样一个教育网络。网络中的用户一共有 $2^N$ 个，编号依次为 $1, 2, 3, \ldots, 2^N$。这些用户之间是用路由点和网线组成的。用户、路由点与网线共同构成一个满二叉树结构。树中的每一个叶子结点都是一个用户，每一个非叶子结点（灰色）都是一个路由点，而每一条边都是一条网线（见下图，用户结点中的数字为其编号）。
 
-![](source/guoj/1247/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTc1Mi5wbmc=.png)
+![](/source/guoj/1247/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTc1Mi5wbmc=.png)
 
 MY 网络公司的网络收费方式比较奇特，称为“ 配对收费 ”。即对于每两个用户 $i,j(1≤\leqslant i<j\leqslant 2^N)$ 进行收费。由于用户可以自行选择两种付费方式 A、B 中的一种，所以网络公司向学校收取的费用与每一位用户的付费方式有关。该费用等于每两位不同用户配对产生费用之和。
 

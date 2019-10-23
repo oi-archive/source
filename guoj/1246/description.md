@@ -9,7 +9,7 @@
 
 李哲将整棵柠檬树分成了 $n$ 层，由下向上依次将层编号为 $1,2,\ldots,n$。从第 $1$ 到 $n-1$ 层，每层都是一个圆台型，第 $n$ 层(最上面一层)是圆锥型。对于圆台型，其上下底面都是水平的圆。对于相邻的两个圆台，上层的下底面和下层的上底面重合。第 $n$ 层(最上面一层)圆锥的底面就是第 $n-1$ 层圆台的上底面。所有的底面的圆心(包括树顶)处在同一条与地面垂直的直线上。李哲知道每一层的高度为 $h_1,h_2,\ldots,h_n$，第 $1$ 层圆台的下底面距地面的高度为 $h_0$，以及每层的下底面的圆的半径 $r_1,r_2,\ldots,r_n$。李哲用熟知的方法测出了月亮的光线与地面的夹角为 $alpha$。
 
-![](source/guoj/1246/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTczNS5wbmc=.png)
+![](/source/guoj/1246/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTczNS5wbmc=.png)
 
 为了便于计算，假设月亮的光线是平行光，且地面是水平的，在计算时忽略树干所产生的影子。李哲当然会算了，但是他希望你也来练练手。
 

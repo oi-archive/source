@@ -3,7 +3,7 @@
 
 克里特岛以野人群居而著称。岛上有排列成环行的 $M$ 个山洞。这些山洞顺时针编号为 $1,2,\ldots,M$。岛上住着 $N$ 个野人，一开始依次住在山洞 $C_1,C_2,\ldots,C_N$ 中，以后每年，第 $i$ 个野人会沿顺时针向前走 $P_i$ 个洞住下来。每个野人 $i$ 有一个寿命值 $L_i$，即生存的年数。下面四幅图描述了一个有 $6$ 个山洞，住有三个野人的岛上前四年的情况。三个野人初始的洞穴编号依次为 $1$，$2$，$3$；每年要走过的洞穴数依次为 $3$，$7$，$2$；寿命值依次为 $4$，$3$，$1$。
 
-![](source/guoj/1226/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWYyZDNhNDY5YjI3OTcwLnBuZw==.png)
+![](/source/guoj/1226/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWYyZDNhNDY5YjI3OTcwLnBuZw==.png)
 
 奇怪的是，虽然野人有很多，<u><i>但没有任何两个野人在有生之年处在同一个山洞中</i></u>，使得小岛一直保持和平与宁静，这让科学家们很是惊奇。他们想知道，至少有多少个山洞，才能维持岛上的和平呢？
 

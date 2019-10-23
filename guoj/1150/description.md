@@ -37,7 +37,7 @@ ITX351 由此产生了一个邪恶的想法：他想要在这条路上故意把�
 #### 样例解释
 样例中 $N = 4$ 的所有方案如下图。
 
-![](source/guoj/1150/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0MTI3MTZjMjNjLnBuZw==.png)
+![](/source/guoj/1150/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0MTI3MTZjMjNjLnBuZw==.png)
 
 # 数据范围与提示
 

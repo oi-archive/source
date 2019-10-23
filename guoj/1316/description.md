@@ -128,7 +128,7 @@
 
 那么这个图所表示的是
 
-![mlwGlR.png](source/guoj/1316/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzE5L21sd0dsUi5wbmc=.png)
+![mlwGlR.png](/source/guoj/1316/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzE5L21sd0dsUi5wbmc=.png)
 
 但困难的是，小牛自己不会割草，他要请割草工来帮忙他割草。一共有$m-1$个割草工，编号为$2~m$，每两两之间有道路相连接。
 

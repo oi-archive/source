@@ -3,7 +3,7 @@
 
 这是一个很古老的游戏。用木棒在桌上拼出一个不成立的等式，移动且只移动一根木棒使得等式成立。现在轮到你了。
 
-![](source/guoj/1229/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjAyM2E3OWM3OTQ4ODIyLnBuZw==.png)
+![](/source/guoj/1229/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjAyM2E3OWM3OTQ4ODIyLnBuZw==.png)
 
 从文件读入一个式子。
 
@@ -61,5 +61,5 @@ No
 3. 你只能移动用来构成数字的木棒，不能移动构成运算符（`+-=`）的木棒，所以加号、减号、等号是不会改变的。移动前后，木棒构成的数字必须严格与图 $2$ 中的 $0\sim 9$ 相符。
 4. 修改前的等式中的数不会以 $0$ 开头，但允许修改后的等式中的数以数字 $0$ 开头。
 
-![](source/guoj/1229/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjAzNTQzODI4OTIzMDIwLnBuZw==.png)
+![](/source/guoj/1229/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjAzNTQzODI4OTIzMDIwLnBuZw==.png)
 

@@ -80,7 +80,7 @@ YZYYYZZZYZ
 Ⅱ.本题已开启Special Judge，答案仅需输出一组可行解即可
 
 #数据范围：\
-![](source/guoj/1317/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzE5L20zNnZkQS5wbmc=.png)\
+![](/source/guoj/1317/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA4LzE5L20zNnZkQS5wbmc=.png)\
 
 #样例解释：\
 -> #1：\

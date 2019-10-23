@@ -5,7 +5,7 @@
 
 在最初的计划中，这 $n$ 架飞机首先会飞行到起点 $x = x_{st}$ 处，其中第 $i$ 架飞机在起点处的高度为 $y_{i,0}$。它们的目标是终点 $x = x_{ed}$ 处，其中第 $i$ 架飞机在终点处的高度应为 $y_{i,1}$。因此，每架飞机可以看作坐标系中的一个点，它的航线是从 $(x_{st},y_{i,0})$ 出发、到 $(x_{ed},y_{i,1})$ 结束的一条线段，如下图所示。
 
-![](source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTJkNmE4ZGM5LnBuZw==.png)
+![](/source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTJkNmE4ZGM5LnBuZw==.png)
 
 这 $n$ 架飞机同时出发且始终保持一定的对地速度。因此，对于任意两条交叉的航线（线段），对应的两架飞机必然会同时到达交点处——这就是它们进行特技表演的时刻。它们将会偏转机翼，展现以极近的距离「擦身而过」特技，然后**继续保持各自的航线**。
 
@@ -13,7 +13,7 @@
 
 我们不必关心特技动作在物理上究竟是如何实现的，飞机仍然看作一个点，在两种特技动作下，航线的变化如下图所示（$y_{i,1}'$ 表示交换航线后第 $i$ 架飞机在终点的新高度）。容易发现，「对向交换」会使它们的航线变为折线，并**保持它们在纵坐标上的相对顺序**；而「擦身而过」会**改变它们在纵坐标上的相对顺序**。
 
-![](source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTM4OWI2YmI4LnBuZw==.png)
+![](/source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTM4OWI2YmI4LnBuZw==.png)
 
 现在，观看表演的嘉宾团提出了一个苛刻的要求——在终点 $x = x_{ed}$ 处，按照高度排序，$n$ 架飞机的相对顺序必须与 $x = x_{st}$ 处的相对顺序一致。嘉宾团还给「对向交换」特技和「擦身而过」特技分别评定了难度系数 $a$ 和 $b$，每次「对向交换」特技可以获得 $a$ 的分数，每次「擦身而过」特技可以获得 $b$ 的分数。
 
@@ -23,7 +23,7 @@
 
 下图是对本题第一幅图 $4$ 条航线 $4$ 个交点的一种满足要求的安排，包括 $2$ 次「对向交换」、$2$ 次「擦身而过」，$3$ 项特技被观测到，得分 $2a + 2b + 3c$。为了方便观察，图中展现「对向交换」特技的交点稍稍有些分离。
 
-![](source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTViMmM3YjRjLnBuZw==.png)
+![](/source/guoj/1149/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyYTViMmM3YjRjLnBuZw==.png)
 
 在这次的剧情里，你成为了 Z 市航空基地的规划员，你可以决定在每个交点处是执行「对向交换」还是「擦身而过」。你被要求在保证嘉宾团要求的前提下，计算整个特技表演的可能得到的最低和最高分数。
 

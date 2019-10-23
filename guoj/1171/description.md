@@ -11,9 +11,9 @@
 
 简单来讲，从妖怪之山流到雾之湖有 $m$ 个点（包括妖怪之山和雾之湖），每两个相邻节点之间都有 $n$ 条边，这 $n$ 条边在任意两个相邻节点之间都是相同的，两个相邻节点之间的边如图所示，边上的数字代表边的序号（$i\in[1,m)$）：
 
-<!-- ![](source/guoj/1171/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjZmM2E0MTI2MTg2MTczLnBuZw==.png) -->
+<!-- ![](/source/guoj/1171/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjZmM2E0MTI2MTg2MTczLnBuZw==.png) -->
 
-![](source/guoj/1171/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTMvNWQwMjQyMjY5ZWIyMTI3MDI0LnBuZw==.png)
+![](/source/guoj/1171/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTMvNWQwMjQyMjY5ZWIyMTI3MDI0LnBuZw==.png)
 
 在输入中对于每两个相邻节点之间的溪流，我们将它们依次排成一个序列，序列中第 $i$ 条边的流量为 $c_i$。将这个序列分割成 $p$ 个**互不相交的**连续区间。
 

@@ -3,7 +3,7 @@
 
 盖欧路易斯决定从地下监狱脱身。
 
-![](source/guoj/1199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTU4YmZkMTMxNDQxLnBuZw==.png)
+![](/source/guoj/1199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTYvNWQwNWUwMTU4YmZkMTMxNDQxLnBuZw==.png)
 
 ---
 

@@ -42,7 +42,7 @@ $$
 #### 样例说明
 原有物流系统如左图所示，$4$ 个物流基站的可靠性依次为 $22.8571$，$21.4286$，$25.7143$，$10$。
 
-![](source/guoj/1262/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDMzNzQzYWJmNzIwMzcyLnBuZw==.png)
+![](/source/guoj/1262/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDMzNzQzYWJmNzIwMzcyLnBuZw==.png)
 
 最优方案为将 $2$ 号基站的后继基站改为 $1$ 号，如右图所示。此时 $4$ 个基站的可靠性依次为 $30$，$25$，$15$，$10$。
 

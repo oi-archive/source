@@ -3,7 +3,7 @@
 
 M 国是个多雨的国家，尤其是 P 城，频繁的降雨给人们的出行带来了不少麻烦。为了方便行人雨天过马路，有关部门在每处人行横道的上空都安装了一种名为“自动伞”的装置。（如图 1 所示）
 
-![](source/guoj/1238/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzY4NmZkM2EwMjI4OTAzLnBuZw==.png)
+![](/source/guoj/1238/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzY4NmZkM2EwMjI4OTAzLnBuZw==.png)
 
 每把自动伞都可以近似地看作一块长方形的板，厚度不计。这种伞有相当出色的吸水能力，落到上面的雨水都会完全被伞顶的小孔吸入，并通过管道运走。不下雨时，这些伞闲置着。一旦下雨，它们便立刻开始作匀速率直线往返运动：从马路的一边以固定的速率移动到另一边，再从另一边以相同的速率返回，如此往复，直到雨停为止。任何时刻自动伞都不会越过马路的边界。有了自动伞，下雨天没带伞的行人只要躲在伞下行走，就不会被雨淋着了。
 
@@ -18,7 +18,7 @@ M 国是个多雨的国家，尤其是 P 城，频繁的降雨给人们的出行
 
 为了描述方便，我们画出了一个如图 2 所示的天空中五把伞的剖面图，取马路左边界为原点，取向右为 $x$ 轴正方向，取向上为 $y$ 轴正方向，建立平面直角坐标系。这样，每把自动伞都可以看作平面上的一条线段。
 
-![](source/guoj/1238/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzY5NmQ3OTBkYTI1OTEyLnBuZw==.png)
+![](/source/guoj/1238/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzY5NmQ3OTBkYTI1OTEyLnBuZw==.png)
 
 接下来的 $N$ 行，每行用三个整数描述一把自动伞。第一个数 $x$ 是伞的初始位置，用它左端点的横坐标表示。第二个数 $l$ 是伞的长度，即 $x$ 方向上的尺寸。第三个数 $v$ 是伞的速度，$v$ 的大小表示移动的速率。如果 $v>0$，表示开始时伞向右移动；如果 $v<0$，表示开始时伞向左移动；如果 $v=0$，表示伞不动。
 

@@ -3,7 +3,7 @@
 
 九条可怜是一个热爱打麻将的女孩子。因此她出了一道和麻将相关的题目，希望这题不会让你对麻将的热爱消失殆尽。 
 
-![110](source/guoj/1024/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvQ0ZaVFpaSEY0QkRUUUIucG5n.png)
+![110](/source/guoj/1024/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvQ0ZaVFpaSEY0QkRUUUIucG5n.png)
 
 今天，可怜想要打麻将，但是她的朋友们都去下自走棋了，因此可怜只能自己一个人打。可怜找了一套特殊的麻将，它有 $n(n\ge 5)$ 种不同的牌，大小分别为 $1$ 到 $n$，每种牌都有 $4$ 张。
 

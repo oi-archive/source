@@ -14,7 +14,7 @@ Chris 居住的城市由 $N$ 个居住点和若干条连接居住点的双向街
 
 显然， Chris 的老师知道 Chris 的父母在寻找 Chris 的过程中会遵守以上两条规则，但由于他并不知道 $A$，$B$，$C$ 的具体位置，所以现在他希望你告诉他，最坏情况下 Chris 的父母要耗费多长时间才能找到 Chris？
 
-![](source/guoj/1232/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjg2YjA3NmRiNTIxMjA5LnBuZw==.png)
+![](/source/guoj/1232/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjg2YjA3NmRiNTIxMjA5LnBuZw==.png)
 
 例如上图，这座城市由 $4$ 个居住点和 $3$ 条街道组成，经过每条街道均需花费 $1$ 分钟时间。假设 Chris 住在点 $C$，Shermie 住在点 $A$， Yashiro 住在点 $B$，因为 $C$ 到 $B$ 的距离小于 $C$ 到 $A$ 的距离，所以 Chiris 的父母会先去 Yashiro 家寻找 Chris，一旦找不到，再去 Shermie 家寻找。这样，最坏情况下 Chris 的父母需要花费 $4$ 分钟的时间才能找到 Chris。
 

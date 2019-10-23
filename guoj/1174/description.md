@@ -75,7 +75,7 @@
 
 #### 样例 1 解释
 
-![](source/guoj/1174/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjNiNDMzZGQxYTc1MTMyLnBuZw==.png)
+![](/source/guoj/1174/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMDQvNWNmNjNiNDMzZGQxYTc1MTMyLnBuZw==.png)
 格子上的数字代表方案数
 
 当 $t=0$ 时，方案数为 $0+4=4$。

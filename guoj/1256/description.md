@@ -7,7 +7,7 @@ T 公司是一家专门生产彩色珠子项链的公司，其生产的项链设
 
 一条项链包含 $N$ 个珠子，每个珠子的颜色是 $1, 2, \ldots, c$ 中的一种。项链被固定在一个平板上，平板的某个位置被标记位置 $1$，按顺时针方向其他位置被记为 $2,3,\ldots,N$。
 
-![](source/guoj/1256/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDBmMTUzMDM5MDgzMTgzLnBuZw==.png)
+![](/source/guoj/1256/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDBmMTUzMDM5MDgzMTgzLnBuZw==.png)
 
 你将要编写的软件系统应支持如下命令：
 

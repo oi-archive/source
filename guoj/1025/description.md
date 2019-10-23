@@ -75,7 +75,7 @@ $$
 
 $[1,5]$ 上的线段树如下图所示：
 
-![2.6](source/guoj/1025/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvMi42LnBuZw==.png)
+![2.6](/source/guoj/1025/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvMi42LnBuZw==.png)
 
 在第一次询问时，可怜手上有一棵线段树，它所有点上都没有标记，因此答案为 $0$。
 

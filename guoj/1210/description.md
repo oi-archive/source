@@ -67,7 +67,7 @@ Nauuo 是一个喜欢二叉树的女孩子。
 
 样例 1 的二叉树形态如下。
 
-![](source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTQ5OTQwNDk0Njc1LnBuZw==.png)
+![](/source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTQ5OTQwNDk0Njc1LnBuZw==.png)
 
 在第一次询问中，$1$ 号节点和 $2$ 号节点之间的距离是 $1$（$1\to 2$）。
 
@@ -94,7 +94,7 @@ Nauuo 是一个喜欢二叉树的女孩子。
 
 样例 2 的二叉树形态如下。
 
-![](source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTcwMDBmYTk0OTk0LnBuZw==.png)
+![](/source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTcwMDBmYTk0OTk0LnBuZw==.png)
 
 
 # 数据范围与提示
@@ -179,7 +179,7 @@ For hacks, you have to guarantee that the given parents can form a tree.
 
 The binary tree is as follows.
 
-![](source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTQ5OTQwNDk0Njc1LnBuZw==.png)
+![](/source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTQ5OTQwNDk0Njc1LnBuZw==.png)
 
 In the first query, the distance between $1$ and $2$ is $1$ ($1\rightarrow2$).
 
@@ -207,6 +207,6 @@ In the third query, the distance between $3$ and $4$ is $3$ ($3\rightarrow2\righ
 
 The binary tree is as follows.
 
-![](source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTcwMDBmYTk0OTk0LnBuZw==.png)
+![](/source/guoj/1210/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzk4ZTcwMDBmYTk0OTk0LnBuZw==.png)
 
 

@@ -10,7 +10,7 @@
 
 一天，小栋和同学聚会，大家围坐在一张大圆桌周围。小栋看了看，马上想到了生成树问题。如果把每个同学看成一个结点，邻座（结点间距离为 $1$）的同学间连一条边，就变成了一个环。可是，小栋对环的计数已经十分娴熟且不再感兴趣。于是，小栋又把图变了一下：不仅把邻座的同学之间连一条边，还把相隔一个座位（结点间距离为 $2$）的同学之间也连一条边，将结点间有边直接相连的这两种情况统称为有边相连，如图 $1$ 所示。
 
-![](source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDExNWYzZWM1ZDQ2MjM3LnBuZw==.png)
+![](/source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDExNWYzZWM1ZDQ2MjM3LnBuZw==.png)
 
 小栋以前没有计算过这类图的生成树个数，但是，他想起了老师讲过的计算任意图的生成树个数的一种通用方法：构造一个 $n\times n$ 的矩阵 $A=\{a_{ij}\}$。
 
@@ -52,7 +52,7 @@ $$
 
 所以生成树的个数为 $|B|=3528$ 。小栋发现利用通用方法，因计算过于复杂而很难算出来，而且用其他方法也难以找到更简便的公式进行计算。于是，他将图做了简化，从一个地方将圆桌断开，这样所有的同学形成了一条链，连接距离为 $1$ 和距离为 $2$ 的点。例如八个点的情形如下：
 
-![](source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDEzNDc0NDg2MjY0NjM5LnBuZw==.png)
+![](/source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDEzNDc0NDg2MjY0NjM5LnBuZw==.png)
 
 这样生成树的总数就减少了很多。小栋不停的思考，一直到聚会结束，终于找到了一种快捷的方法计算出这个图的生成树个数。可是，如果把距离为 $3$ 的点也连起来，小栋就不知道如何快捷计算了。现在，请你帮助小栋计算这类图的生成树的数目。
 
@@ -79,7 +79,7 @@ $$
 
 样例对应的图如下：
 
-![](source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDEzZGYyZjM5ZTUxMTYyLnBuZw==.png)
+![](/source/guoj/1257/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDEzZGYyZjM5ZTUxMTYyLnBuZw==.png)
 
 $$
 A=\begin{bmatrix}

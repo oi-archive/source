@@ -126,7 +126,7 @@ namespace Mker
 
 ### 子任务  
 
-![png](source/guoj/1324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDQvMTkvNWNiOWJiMmM2YzFkNi5wbmc=.png)  
+![png](/source/guoj/1324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDQvMTkvNWNiOWJiMmM2YzFkNi5wbmc=.png)  
 
 ### 题目来源
 
@@ -140,5 +140,5 @@ namespace Mker
 
 来自$\mathsf N \color{red} {\mathsf{aCly~Fish}}$的评价
 
-![fish](source/guoj/1324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMTkvMXI4WFNvRHZoUm5iNDkzLnBuZw==.png)
+![fish](/source/guoj/1324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMTkvMXI4WFNvRHZoUm5iNDkzLnBuZw==.png)
 

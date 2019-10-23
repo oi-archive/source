@@ -62,7 +62,7 @@
 
 为了帮助你们更直观地了解洗牌的过程，我们在下面画出了结果是 $\{1, 4, 2, 3\}$ 的过程：
 
-![landlords.png](source/guoj/1312/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xOC81ZDJmYzk2NmFhOTg3LnBuZw==.png)
+![landlords.png](/source/guoj/1312/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xOC81ZDJmYzk2NmFhOTg3LnBuZw==.png)
 
 #### 样例 2
 见附加文件中的 `landlords/landlords2.in` 与 `landlords/landlords2.ans`。

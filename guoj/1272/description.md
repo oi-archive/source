@@ -74,7 +74,7 @@ X 国经历了一场前所未有的大地震，人们伤痕累累，整个国家
 
 #### 样例 2 说明
 
-![](source/guoj/1272/img/aHR0cHM6Ly9jZG4ubHVvZ3Uub3JnL3VwbG9hZC9waWMvNjA3MTEucG5n.png)
+![](/source/guoj/1272/img/aHR0cHM6Ly9jZG4ubHVvZ3Uub3JnL3VwbG9hZC9waWMvNjA3MTEucG5n.png)
 
 显然，在 $5$ 个点中任意选 $4$ 个点，都满足核心城市的条件，因此方案数最大为 $5$。
 

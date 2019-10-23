@@ -31,7 +31,7 @@
 ```
 
 #### 样例解释
-![](source/guoj/1239/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzhhZDEwZmVhNDMyNjU2LmpwZw==.jpg)
+![](/source/guoj/1239/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzhhZDEwZmVhNDMyNjU2LmpwZw==.jpg)
 
 
 

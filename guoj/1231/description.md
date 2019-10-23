@@ -49,7 +49,7 @@ void ret_vertex(int x, int y);
 
 #### 数据说明
 
-![](source/guoj/1231/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjMzMTc2NmVlMTg5NzIyLnBuZw==.png)
+![](/source/guoj/1231/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjMzMTc2NmVlMTg5NzIyLnBuZw==.png)
 
 如果凸多边形的坐标如图所示，那么一种可能得满分的调用方案如下：
 

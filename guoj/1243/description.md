@@ -3,45 +3,45 @@
 
 智慧珠游戏拼盘由一个三角形盘件和 $12$ 个形态各异的零件组成。拼盘的盘件如图 $1$ 所示：
 
-![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAxLnBuZw==.png)
+![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAxLnBuZw==.png)
 
 $12$ 个零件按珠子数分 $3$ 大类：
 
 第 $1$ 大类，有三个珠子，只有一种形状。
 
-符号为 **`A`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAyLnBuZw==.png)
+符号为 **`A`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAyLnBuZw==.png)
 
 第 $2$ 大类，有 $4$ 个珠子，有 $3$ 种形状。
 
-符号为 **`B`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAzLnBuZw==.png)
+符号为 **`B`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAzLnBuZw==.png)
 
-符号为 **`C`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA0LnBuZw==.png)
+符号为 **`C`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA0LnBuZw==.png)
 
-符号为 **`D`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA1LnBuZw==.png)
+符号为 **`D`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA1LnBuZw==.png)
 
 第 $3$ 大类，有 $5$ 个珠子，有 $8$ 种形状。
 
-符号为 **`E`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA2LnBuZw==.png)
+符号为 **`E`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA2LnBuZw==.png)
 
-符号为 **`F`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA3LnBuZw==.png)
+符号为 **`F`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA3LnBuZw==.png)
 
-符号为 **`G`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA4LnBuZw==.png)
+符号为 **`G`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA4LnBuZw==.png)
 
-符号为 **`H`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA5LnBuZw==.png)
+符号为 **`H`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzA5LnBuZw==.png)
 
-符号为 **`I`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEwLnBuZw==.png)
+符号为 **`I`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEwLnBuZw==.png)
 
-符号为 **`J`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzExLnBuZw==.png)
+符号为 **`J`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzExLnBuZw==.png)
 
-符号为 **`K`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEyLnBuZw==.png)
+符号为 **`K`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEyLnBuZw==.png)
 
-符号为 **`L`**，形状为![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEzLnBuZw==.png)
+符号为 **`L`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEzLnBuZw==.png)
 
-![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzE0LnBuZw==.png)
+![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzE0LnBuZw==.png)
 
 图 $2$ 示出了一种拼盘方案。为便于描述可将图 $2$ 抽象为图 $3$，就可以用一个数据为字符的二维数组来表示了。
 
-![](source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzE1LnBuZw==.png)
+![](/source/guoj/1243/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzE1LnBuZw==.png)
 
 对于由珠子构成的零件，可以放到盘件的任一位置，条件是能有地方放，且尺寸合适，所有的零件都允许旋转($0^\circ$、$90^\circ$、$180^\circ$、$270^\circ$)和翻转(水平、竖直)。
 

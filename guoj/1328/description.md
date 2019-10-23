@@ -5,7 +5,7 @@
 
 二阶魔方是一个正方体，正方体有$6$个面，每个面有$4$个小面。但我们的二阶魔方有一点小故障，它最多只有一个方向是可以旋转的（如图所示），具体情形请见数据范围的解释。
 
-![cube.png](source/guoj/1328/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjEvVUczRElwY3ZZNHlNUndkLnBuZw==.png)
+![cube.png](/source/guoj/1328/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjEvVUczRElwY3ZZNHlNUndkLnBuZw==.png)
 
 我们现在要对这$24$个面染色，颜色可有$c$种选择，现在问本质不同的染色方案数。（两种染色方案本质相同当且仅当通过不同的视角来看，或经过所允许方向的旋转，两种染色方案一样）
 

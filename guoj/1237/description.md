@@ -6,7 +6,7 @@ P 城是 M 国的著名旅游城市。在市长 G 先生的治理下，人民安
 P 城有 $m$ 条横向街道和 $n$ 条纵向街道，横向街道横贯东西，纵向街道纵穿南北，构成了 P 城整齐的交通网络（如图1所示）。
 
 
-![](source/guoj/1237/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzUxYjE3ZjczMDEyMTUzLnBuZw==.png)
+![](/source/guoj/1237/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzUxYjE3ZjczMDEyMTUzLnBuZw==.png)
 
 由于街道狭窄，每条街道都只允许单向行驶，单向行驶的方向是事先设定好了的。一条横向街道的行驶方向只能是向东或者向西，一条纵向街道的行驶方向只能是向南或者向北，逆向行驶是绝对禁止的。
 

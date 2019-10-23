@@ -21,7 +21,7 @@
 
 用一个 $\text{P}\times \text{Q}$ 网格表示登陆舱与传送器之间的位置。登陆舱的位置在 $(X_1,Y_1)$ 处，传送器 的位置在 $(X_P,Y_Q)$ 处。 给定每个位置的状态，计算探测车的最优移动方案，使到达传送器的探测车的数量最多， 而且探测车采集到的岩石标本的数量最多。
 
-![233](source/guoj/1050/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwNTAvaHR0cHM6Ly93d3cub2ouc3d1c3QuZWR1LmNuL3VwbG9hZC9pbWFnZS9wcm9ibGVtLzE3NTgucG5n.png)
+![233](/source/guoj/1050/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwNTAvaHR0cHM6Ly93d3cub2ouc3d1c3QuZWR1LmNuL3VwbG9hZC9pbWFnZS9wcm9ibGVtLzE3NTgucG5n.png)
 
 # 输入格式
 

@@ -14,7 +14,7 @@
 
 例如：当 $N = 5$ 时，若测量的结果如下（因为 $1001$ 太大，这儿只画出网格最下面三行的信息，其他部分都是危险的）。      
 
-<img src="source/guoj/1056/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDcvMjIvNTk3MmRhOTE4YWEzYy5wbmc=.png" alt="Screen Shot 2017-07-22 at 4.54.14 PM.png"  align = "center" style="display: block; margin: 0 auto;">
+<img src="/source/guoj/1056/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDcvMjIvNTk3MmRhOTE4YWEzYy5wbmc=.png" alt="Screen Shot 2017-07-22 at 4.54.14 PM.png"  align = "center" style="display: block; margin: 0 auto;">
 
 那么她可以选取最下面一行的 $1\times4$ 的子海域，也可以选择第三列的 $3\times1$ 的子海域。注意她不能选取最上面一行的 $1\times5$ 的子海域，因为它没有与海滩相邻。
 

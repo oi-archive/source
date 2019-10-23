@@ -9,7 +9,7 @@
 
 圆圆玩腻了传统的“俄罗斯方块” 游戏，发明了一种新的玩法：游戏在一个无限高的 $N$ 列棋盘中进行，棋盘的各列从左到右依次编号为 $1,2,\ldots,N$。在游戏中，游戏者可以使用如图 $1$ 所示的 $19$ 种形状的基块，无论哪一种基块都是由四个小方块连接起来的。图上标有基块形状编号 $T(1\le T\le 19)$：
 
-![](source/guoj/1227/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWY2YjllZmVjMjMwNDU4LnBuZw==.png)
+![](/source/guoj/1227/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWY2YjllZmVjMjMwNDU4LnBuZw==.png)
 
 图 $1$ 俄罗斯方块的 $19$ 种形状
 
@@ -21,7 +21,7 @@
 4. 游戏规定在放每一个基块时都不允许越出棋盘边界。比如图 $2$，$N=4$，指令 $(18, 4)$ 会越界。
 5. 游戏还规定不允许出现“悬空”的小方块。“悬空”的含意是，在同一列上，所有小方块没有连在一起。比如图 $5$ 属于这种情况。在图 $2$ 的棋局下，指令 $(2, 1)$，$(17, 2)$，$(10, 3)$ 是非法的。
 
-![](source/guoj/1227/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWY3ODBlYWFhNTIyNjI4LnBuZw==.png)
+![](/source/guoj/1227/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWY3ODBlYWFhNTIyNjI4LnBuZw==.png)
 
 虽然任意选择形状会让游戏容易许多，可要把方块弄得一块也不剩仍然是件很头疼的事情。你愿意试试吗？现在把“新俄罗斯方块”这个游戏程序交给你。该程序可以读入你的 $(T,C)$ 指令，告诉你指令完成后的棋局状态。
 

@@ -58,7 +58,7 @@
 #### 样例 1 解释
 绿线表示当前询问的汽车可以通过的桥梁。绿色顶点代表这辆车可以到达的岛屿。箭头指向汽车最初所在的岛屿。
 
-![](source/guoj/1268/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMzAvNWQxODAzNDMxMzE2YjM1OTgyLnBuZw==.png)
+![](/source/guoj/1268/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMzAvNWQxODAzNDMxMzE2YjM1OTgyLnBuZw==.png)
 
 #### 样例 2 输入
 ```plain
@@ -98,7 +98,7 @@
 ```
 
 #### 样例 2 解释
-![](source/guoj/1268/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMzAvNWQxODAzYzlkNzNlODU1MDEwLnBuZw==.png)
+![](/source/guoj/1268/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMzAvNWQxODAzYzlkNzNlODU1MDEwLnBuZw==.png)
 
 # 数据范围与提示
 

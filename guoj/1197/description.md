@@ -4,7 +4,7 @@
 >$\texttt{Welcome!! Time line travel on The game.}$  
 $\texttt{Welcome!! Heroes hacking to The gate.}$
 
-![Picture](source/guoj/1197/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA2LzE1L1ZvWW1vRi5wbmc=.png)  
+![Picture](/source/guoj/1197/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzA2LzE1L1ZvWW1vRi5wbmc=.png)  
 
 <br/><br/>
 <center><b><font color="red" size="1000px" face="仿宋">本题是一道交互题！</font></b></center><br/><br/><br/>

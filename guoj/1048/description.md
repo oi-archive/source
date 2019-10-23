@@ -19,7 +19,7 @@
 
 设计一个算法，求出汽车从起点出发到达终点的一条所付费用最少的行驶路线。
 
-![233](source/guoj/1048/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwNDgvaHR0cHM6Ly93d3cub2ouc3d1c3QuZWR1LmNuL3VwbG9hZC9pbWFnZS9wcm9ibGVtLzE3NTAucG5n.png)
+![233](/source/guoj/1048/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwNDgvaHR0cHM6Ly93d3cub2ouc3d1c3QuZWR1LmNuL3VwbG9hZC9pbWFnZS9wcm9ibGVtLzE3NTAucG5n.png)
 
 # 输入格式
 

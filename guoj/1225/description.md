@@ -15,7 +15,7 @@
 例如图 1 所示的例子中，果树包含 $8$ 个果子，$7$ 段树枝，各段树枝的“难受值”标记在了树枝的旁边。九头龙有两个脑袋，大头需要吃掉 $4$ 个果子，其中必
 须包含最大的果子。即 $N=8$，$M=2$，$K=4$：
 
-![](source/guoj/1225/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWYxNGI3NTNjNzY0OTMyLnBuZw==.png)
+![](/source/guoj/1225/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYWYxNGI3NTNjNzY0OTMyLnBuZw==.png)
 
 图一描述了果树的形态，图二描述了最优策略。
 
