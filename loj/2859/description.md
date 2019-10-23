@@ -11,7 +11,7 @@ Stockholm 城中的地铁由几条线路组成。在这个题目中，我们特�
 
 由于信号故障，现在地铁沿着线路随机分布。作为交通调度员，你的任务是尽快还原地铁为均匀分布。写一个程序，对于给定的地铁的位置，问何时能还原。你可以使地铁在任意地点暂停或是改变方向（两项可以同时执行）。如果一列地铁改变了方向，他将切换到另一条铁路。
 
-![](source/loj/2859/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMjUvNWI4MTJkNTUxYTRkMi5wbmc=.png)
+![](/source/loj/2859/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMjUvNWI4MTJkNTUxYTRkMi5wbmc=.png)
 
 图 1：两条铁轨的长度都是 $100$。上例中，地铁分别位于 $5$（朝右）$,35$（左）$,46$（左）$,75$（左）及 $85$（右）。一个可行的方案是：待位于 $46$ 的地铁向左移动一个单位后，使它改变方向。这用了一个单位的时间。然而，这并不是最优解，详见样例 1。
 

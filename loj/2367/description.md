@@ -47,7 +47,7 @@ Byteland 国的地图是一个大小为 $n\times m$ 的网格（$n$ 是垂直方
 ```
 
 #### 样例解释  
-<img src="source/loj/2367/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMjgvNWMyNWE5OWU0MDRhOS5wbmc=.png" alt="p.png" title="p.png" width="256"/>
+<img src="/source/loj/2367/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMjgvNWMyNWE5OWU0MDRhOS5wbmc=.png" alt="p.png" title="p.png" width="256"/>
 
 第二条和第四条平行线，第四条子午线把整个国家分为六个矩形，计算时间为 $21, 13, 27, 27, 17, 31$，所以完成预报的计算时间为 $31$
 

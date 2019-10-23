@@ -43,7 +43,7 @@
 ```
 
 #### 样例解释
-![](source/loj/2659/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9nYXouZ2lm.gif)
+![](/source/loj/2659/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9nYXouZ2lm.gif)
 
 # 数据范围与提示
 

@@ -20,7 +20,7 @@ Stanko 的工作是某 996 建筑公司的苦逼工程师。
 Stanko 想要制定一张偏差值最小的平面图。  
 请您帮助他写一个程序来确定可能的最小偏差。
 
-![](source/loj/3017/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8yMC81ZDBiMWJmNDhjZmJkLnBuZw==.png)
+![](/source/loj/3017/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8yMC81ZDBiMWJmNDhjZmJkLnBuZw==.png)
 
 左图为对应第一个样例的一个合法划分；  
 右图为一个无效的划分，因为有些公寓的尺寸非整数且有一个公寓没有靠着边缘。

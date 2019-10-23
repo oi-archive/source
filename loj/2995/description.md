@@ -39,7 +39,7 @@ IJOI
 #### 样例说明 1
 字符形成的环如下图所示：
 
-![logo1.png](source/loj/2995/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xNC81ZDJhYTZiMzhjMGE1LnBuZw==.png)
+![logo1.png](/source/loj/2995/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xNC81ZDJhYTZiMzhjMGE1LnBuZw==.png)
 
 以 `J` 为起点顺时针读取一周，形成的字符串为 `JOII`，这是一个级别为 $1$ 的 JOI 列。K 理事长没必要替换字符，所以输出 $0$。
 
@@ -55,7 +55,7 @@ JJOIJJOJOIOJOOOI
 #### 样例说明 2
 字符形成的环如下图所示：
 
-![logo2.png](source/loj/2995/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xNC81ZDJhYTZiM2Q4YTA1LnBuZw==.png)
+![logo2.png](/source/loj/2995/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8xNC81ZDJhYTZiM2Q4YTA1LnBuZw==.png)
 
 这里需要替换 $7$ 个字符。
 

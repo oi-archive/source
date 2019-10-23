@@ -39,5 +39,5 @@ $$
 
 $1 \le n,m,x \le 2^{30}$
 
-![256.png](source/loj/6668/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xNy81ZDA3OGZmNDRmMmY4LnBuZw==.png)
+![256.png](https://loj-img.upyun.menci.memset0.cn/2019/06/17/5d078ff44f2f8.png)
 

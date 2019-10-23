@@ -40,7 +40,7 @@ Access Globe 有若干个**递增**的正整数序列。他把这些正整数序
 ### 样例解释
 Tommy 填写的 Trie 如下图，红色的节点为所有叶子节点，注意，根节点在左下方。
 
-![Trie.png](source/loj/2556/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTIyOTc4OTM0Zi5wbmc=.png)
+![Trie.png](/source/loj/2556/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTIyOTc4OTM0Zi5wbmc=.png)
 
 ### 样例 2
 见附加文件中的 `trie2.in` 与 `trie2.ans`。

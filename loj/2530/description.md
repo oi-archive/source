@@ -56,7 +56,7 @@
 #### 样例解释
 这儿画出可怜出现在 $(1,0)$ 时的情况，如下图所示，$1,2,4$ 号保镖的位置保持不变，分别为 $P_1,P_2,P_4$，$3$ 号保镖从 $P_3$ 变到了 $P'_3$，坐标为 $(\frac{1}{2},\frac{1}{2})$。
 
-![无标题.png](source/loj/2530/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNWMxMjA5MmE4ZC5wbmc=.png)
+![无标题.png](/source/loj/2530/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNWMxMjA5MmE4ZC5wbmc=.png)
 
 这时四个保镖的位置 $P_1,P_2,P'_3,P_4$ 的凸包为三角形 $P_1,P_4,P_2$，因此可怜的安全度为 $3$。注意这时 $P'_3$ 正好落在边 $P_1P_4$ 上，但是根据凸包的定义，它不是顶点。
 

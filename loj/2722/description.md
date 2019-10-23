@@ -74,7 +74,7 @@ F
 #### 样例解释
 这个样例中包含两组数据。这两组数据的城市相同，只是在情报的价值和情报机构的方案上有所不同。城市地图如下：
 
-![](source/loj/2722/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjAvNWI1MTllZjYwYzE5OC5wbmc=.png)
+![](/source/loj/2722/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjAvNWI1MTllZjYwYzE5OC5wbmc=.png)
 
 * 对于第一组数据，方案一中的节点 $1$ 到节点 $4$ 的最短路径为 $1 \rightarrow 2 \rightarrow 3 \rightarrow 4$，方案二中的节点 $3$ 到节点 $5$ 的最短路径为 $3 \rightarrow 2 \rightarrow 1 \rightarrow 5$。选择这两种方案需要花费 $5 + 8 = 13$ 的代价，并且每一条边的情报都被收集从而得到 $1 + 3 + 2 + 8 = 14$ 的收益，因此总收益减去总代价为 $14 − 13 = 1$。
 * 对于第二组数据，方案一中的节点 $1$ 到节点 $5$ 的最短路径为 $1 \rightarrow 5$，方案二中的节点 $2$ 到节点 $3$ 的最短路径为 $2 \rightarrow 3$。这两种方案收集情报的范围没有公共的
@@ -86,7 +86,7 @@ F
 
 这组数据的城市地图如下，其中***加粗***的边表示被情报中心收集情报的边，<font color="red">红色</font>的边表示只被第 $2$ 种方案的情报中心收集情报的边，<font color="blue">蓝色</font>的边表示只被第 $3$ 种方案的情报中心收集情报的边，<font color="purple">紫色</font>的边表示同时被两个情报中心收集情报的边。
 
-![](source/loj/2722/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjAvNWI1MWExNzMyNWFlZC5wbmc=.png)
+![](/source/loj/2722/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjAvNWI1MWExNzMyNWFlZC5wbmc=.png)
 
 #### 样例 3
 见附加文件中的 `center3.in` 与 `center3.ans`。

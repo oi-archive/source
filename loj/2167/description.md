@@ -54,7 +54,7 @@ the correct result is:
 -1
 ```
 
-![](source/loj/2167/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjcxZTdiMzc1OTEuZ2lm.gif)
+![](/source/loj/2167/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjcxZTdiMzc1OTEuZ2lm.gif)
 
 The figure illustrates the railway network as specified in the example. It is possible to inspect all the stations only for $ S = 2 $. One optimal order of inspection is: $ 7, 4, 8, 6, 1, 5, 3, 9 $. It results in $ 23 $ hours of travel.
 

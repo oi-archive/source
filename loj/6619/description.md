@@ -11,7 +11,7 @@
 
 鸭棋发明者鸭子德规定一局鸭棋由红方执先手，并设计了初始棋盘布局如下：
 
-![initial_board.png](source/loj/6619/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNC81Y2RhMGE2ZTU4ZDlkLnBuZw==.png)
+![initial_board.png](/source/loj/6619/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNC81Y2RhMGE2ZTU4ZDlkLnBuZw==.png)
 
 ##### 棋子类型与走子规则
 

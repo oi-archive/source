@@ -7,7 +7,7 @@ JOIOI 塔是一种单人游戏。
 
 这个游戏要用到一些写有 `J`, `O`, `I` 中任一文字的圆盘。这些圆盘的直径互不相同。游戏开始时，这些圆盘按照直径大的在下面的规则堆叠。你需要用这些圆盘做尽量多的迷你 JOIOI 塔。迷你 JOIOI 塔由 $ 3 $ 个圆盘构成，从直径较小的圆盘开始分别为 `J`, `O`, `I` 或分别为 `I`, `O`, `I` 。不过，每个圆盘最多只能使用一次。
 
-![3ab6e7ae407ceb0dbca914b199af6144.png](source/loj/2764/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xNC8zYWI2ZTdhZTQwN2NlYjBkYmNhOTE0YjE5OWFmNjE0NC5wbmc=.png)
+![3ab6e7ae407ceb0dbca914b199af6144.png](/source/loj/2764/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xNC8zYWI2ZTdhZTQwN2NlYjBkYmNhOTE0YjE5OWFmNjE0NC5wbmc=.png)
 
 #### 任务
 给出长为 $ N $ 的字符串 $ S $ ，表示直径从小到大的圆盘上的文字。请编写程序求出使用这些圆盘能够做出的迷你 JOIOI 塔个数的最大值。

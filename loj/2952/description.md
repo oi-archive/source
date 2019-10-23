@@ -41,7 +41,7 @@ C 城一共有 $n$ 个路口，这些路口编号为 $1,2, \cdots , n$，有 $n 
 #### 样例解释 1
 所有路口及适合于修建赛道的道路如下图所示：
 
-![track1.png](source/loj/2952/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI2ZjgwMy5wbmc=.png)
+![track1.png](/source/loj/2952/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI2ZjgwMy5wbmc=.png)
 
 道路旁括号内的数字表示道路的编号，非括号内的数字表示道路长度。
 
@@ -68,7 +68,7 @@ C 城一共有 $n$ 个路口，这些路口编号为 $1,2, \cdots , n$，有 $n 
 #### 样例解释 2
 所有路口及适合于修建赛道的道路如下图所示：
 
-![track2.png](source/loj/2952/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI4MmY4MC5wbmc=.png)
+![track2.png](/source/loj/2952/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI4MmY4MC5wbmc=.png)
 
 需要修建 $3$ 条赛道。可以修建如下 $3$ 条赛道：
 1. 经过第 $1,6$ 条道路的赛道（从路口 $1$ 到路口 $7$），长度为 $6 + 9 = 15$；

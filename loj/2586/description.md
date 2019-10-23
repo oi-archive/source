@@ -7,7 +7,7 @@
 2. 删除 $c_i$ 及与其有交集的所有圆。两个圆有交集当且仅当平面上存在一个点，这个点同时在这两个圆的圆周上或圆内。（原文直译：如果平面上存在一个点被这两个圆所包含，我们称这两个圆有交集。一个点被一个圆包含，当且仅当它位于圆内或圆周上。）  
 3. 重复上面两个步骤直到所有的圆都被删除。
 
-<img src="source/loj/2586/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjM1ZTNjY2Q3NC5wbmc=.png" width=512 height=512 />
+<img src="/source/loj/2586/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjM1ZTNjY2Q3NC5wbmc=.png" width=512 height=512 />
 
 当 $c_i$ 被删除时，若循环中第一步选择的圆是 $c_j$ ，我们说 $c_i$ 被 $c_j$ 删除。对于每个圆，求出它是被哪一个圆删除的。
 

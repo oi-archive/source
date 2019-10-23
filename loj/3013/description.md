@@ -47,7 +47,7 @@ JOI 先生有 $2N$ 枚硬币。初始时，第 $i$ 枚 $(1 \le i \le 2N)$ 硬币
 
 ##### 样例说明 1
 
-<img src="source/loj/3013/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNmExODljMGQ2LnBuZw==.png" width="30%">
+<img src="/source/loj/3013/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNmExODljMGQ2LnBuZw==.png" width="30%">
 
 一种合法的移动方案是：
 * 一号硬币： $(0, 0) \rightarrow (1, 0) \rightarrow (1, 1) \rightarrow (1, 2)​$

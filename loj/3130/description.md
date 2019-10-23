@@ -42,11 +42,11 @@
 
 这是修改前的图
 
-![page9image15200.jpg](source/loj/3130/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMi81Y2U1M2VkNGYwYzI4LmpwZw==.jpg)
+![page9image15200.jpg](/source/loj/3130/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMi81Y2U1M2VkNGYwYzI4LmpwZw==.jpg)
 
 这是修改后的图
 
-![page9image15368.jpg](source/loj/3130/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMi81Y2U1M2VkNWM0MDE0LmpwZw==.jpg)
+![page9image15368.jpg](/source/loj/3130/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMi81Y2U1M2VkNWM0MDE0LmpwZw==.jpg)
 
 #### 样例输入 2
 

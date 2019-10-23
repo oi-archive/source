@@ -38,7 +38,7 @@ JOI 公司的某个实验室中有着复杂的电路。电路由 $N$ 个节点�
 #### 样例说明 1
 只能使第三根电阻中没有电流流过。做法：将结点 $1$ 和 $4$ 设置为高电平，结点 $2$ 和 $3$ 设置为低电平。
 
-<img src="source/loj/2881/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTcvNWJjNzIxMDk0N2VmZS5wbmc=.png" alt="Snipaste_2018-10-17_19-44-01.png" title="Snipaste_2018-10-17_19-44-01.png" width="25%"/>
+<img src="/source/loj/2881/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTcvNWJjNzIxMDk0N2VmZS5wbmc=.png" alt="Snipaste_2018-10-17_19-44-01.png" title="Snipaste_2018-10-17_19-44-01.png" width="25%"/>
 
 #### 样例输入 2
 ```plain
@@ -57,7 +57,7 @@ JOI 公司的某个实验室中有着复杂的电路。电路由 $N$ 个节点�
 #### 样例说明 2
 可以选择第一根电阻或第四根电阻。
 
-<img src="source/loj/2881/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTcvNWJjNzIxMDg2N2EwZC5wbmc=.png" alt="Snipaste_2018-10-17_19-43-17.png" title="Snipaste_2018-10-17_19-43-17.png" width="61%"/>
+<img src="/source/loj/2881/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTcvNWJjNzIxMDg2N2EwZC5wbmc=.png" alt="Snipaste_2018-10-17_19-43-17.png" title="Snipaste_2018-10-17_19-43-17.png" width="61%"/>
 
 
 #### 样例输入 3

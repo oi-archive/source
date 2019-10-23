@@ -43,7 +43,7 @@
 
 以上行动可以用下图表示。图中向右为东，向上为北。图中的 $ × $ 图案表示你所在的位置， $ ○ $ 图案表示开关的位置。
 
-![TIM20180812165656.png](source/loj/2763/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xMi9USU0yMDE4MDgxMjE2NTY1Ni5wbmc=.png)
+![TIM20180812165656.png](/source/loj/2763/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xMi9USU0yMDE4MDgxMjE2NTY1Ni5wbmc=.png)
 
 #### 输入样例 2
 ```plain
@@ -83,7 +83,7 @@
 #### 样例说明 3
 初始状态：
 
-![TIM20180812200833.png](source/loj/2763/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xMi9USU0yMDE4MDgxMjIwMDgzMy5wbmc=.png)
+![TIM20180812200833.png](/source/loj/2763/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8xMi9USU0yMDE4MDgxMjIwMDgzMy5wbmc=.png)
 
 请注意：房间 $ (1,1) $ 和房间 $ (M,N) $ 中也可能存在开关。
 

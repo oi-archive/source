@@ -53,13 +53,13 @@ IOI 王国为了庆祝 JOI 公主的生日，举行了舞会。
 #### 样例解释 1
 开始时有 $ 3 $ 个人的位置是确定的。
 
-![64f21fcfcd875ef5162872c7ed1e5bdf.png](source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy82NGYyMWZjZmNkODc1ZWY1MTYyODcyYzdlZDFlNWJkZi5wbmc=.png)
+![64f21fcfcd875ef5162872c7ed1e5bdf.png](/source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy82NGYyMWZjZmNkODc1ZWY1MTYyODcyYzdlZDFlNWJkZi5wbmc=.png)
 
 括号内的数字表示舞蹈的熟练度，左端是队列的开始。
 
 举例来说，考虑从队首开始的贵族的序号分别为$5,1,4,6,2,3,7$时：
 
-![23e8501749ededa25.png](source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8yM2U4NTAxNzQ5ZWRlZGEyNS5wbmc=.png)
+![23e8501749ededa25.png](/source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8yM2U4NTAxNzQ5ZWRlZGEyNS5wbmc=.png)
 
 这时队列会依次发生以下变化：
 - 队列最前面的 $ 3 $ 个贵族（贵族 $ 5 $ ，贵族 $ 1 $ ，贵族 $ 4 $ ） 中，舞蹈熟练度最大的人（贵族 $ 4 $ ）和舞蹈熟练度最小的人（贵族 $ 5 $ ）组队，剩下的贵族 $ 1 $ 移动到队尾。
@@ -69,7 +69,7 @@ IOI 王国为了庆祝 JOI 公主的生日，举行了舞会。
 
 贵族 $ 6 $ 的舞蹈熟练度为 $ 8 $ ，这就是和 JOI 公主一组的贵族舞蹈熟练度最大值。
 
-![3a8912cb0aea9bf7d.png](source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8zYTg5MTJjYjBhZWE5YmY3ZC5wbmc=.png)
+![3a8912cb0aea9bf7d.png](/source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8zYTg5MTJjYjBhZWE5YmY3ZC5wbmc=.png)
 
 #### 输入样例 2
 ```plain

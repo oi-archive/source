@@ -3,7 +3,7 @@
 
 IOI 的比赛开始了。Jsp 和 Rlc 坐在一个角落，这时他们听到了一个异样的声音 ……
 
-![黑恶势力登场](source/loj/522/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg)
+![黑恶势力登场](/source/loj/522/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg)
 
 接着他们发现自己收到了一封电子邮件：  
 
@@ -84,7 +84,7 @@ Rlc 设计了一个衡量监测器安装方案的安全程度的方法：
 以 $5$ 结尾的最优监测器安装序列：$3,4,5$  
 以 $6$ 结尾的最优监测器安装序列：$3,6$  
 
-![](source/loj/522/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIyLzU5NGIxY2U4NGFkMDQucG5n.png)
+![](/source/loj/522/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIyLzU5NGIxY2U4NGFkMDQucG5n.png)
 
 # 数据范围与提示
 

@@ -3,7 +3,7 @@
 
 applese 是一个沉迷麻将的男 ♂ 孩子，同时他也特别喜欢数图。
 
-![1.png](source/loj/6610/img/aHR0cHM6Ly9pbWcubW9lZ2lybC5vcmcvY29tbW9uLzkvOTQvJUU1JThEJTgzJUU3JUJCJTg3JUU4JUExJUE4JUU2JTgzJTg1NC5wbmc=.png)
+![1.png](https://img.moegirl.org/common/9/94/%E5%8D%83%E7%BB%87%E8%A1%A8%E6%83%854.png)
 
 现在他想知道有多少张无自环、无重边的 $n$ 个点带标号无向连通图，它的生成树个数 $\leqslant k$。
 

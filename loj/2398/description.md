@@ -126,7 +126,7 @@ JOI 岛有 $N$ 个广场和若干条道路。广场从 $0$ 至 $N - 1$ 编号。
 
 本样例中，JOI 岛的结构如下图所示。
 
-<img src="source/loj/2398/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDUvNWI2NmQzZDE2NjllYy5wbmc=.png" alt="img" style="display: block; margin: 0 auto;width: 38.2%;">
+<img src="/source/loj/2398/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDUvNWI2NmQzZDE2NjllYy5wbmc=.png" alt="img" style="display: block; margin: 0 auto;width: 38.2%;">
 <div style='text-align: center; color: #999'>JOI 岛的结构。写有数字的圆表示广场及其编号，线段表示道路。</div>
 
 * 第 $1$ 次调用函数 $\texttt{Ask}$ 时，允许经过广场 $2, 3, 4, 5$，询问从广场 $3$ 是否可以到达广场 $5$。由于可以到达，函数 $\texttt{Ask}$ 返回 $1$。

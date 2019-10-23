@@ -46,7 +46,7 @@ DA
 
 #### 样例解释 1
 
-![suncanje.jpg](source/loj/3128/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xOS81Y2UxMTNlZDhmOGNmLmpwZw==.jpg)
+![suncanje.jpg](/source/loj/3128/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xOS81Y2UxMTNlZDhmOGNmLmpwZw==.jpg)
 
 如图所示，第一个和第三个长方形有部分被覆盖了，因此不能去夏威夷。
 

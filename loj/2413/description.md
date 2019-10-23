@@ -33,7 +33,7 @@
 ```
 
 #### 样例解释 1
-<img src="source/loj/2413/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy9KT0ktT3Blbi0xNy1UMi5wbmc=.png" alt="JOI-Open-17-T2.png" border="0" width="40%"/>
+<img src="/source/loj/2413/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy9KT0ktT3Blbi0xNy1UMi5wbmc=.png" alt="JOI-Open-17-T2.png" border="0" width="40%"/>
 
 选择点 $2, 3, 4, 5$。
 

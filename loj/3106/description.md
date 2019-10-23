@@ -11,7 +11,7 @@
 两个学生队伍被认为是不同的，当且仅当两个队伍中至少有一个位置上的学生的喜好不同。  
 由于合法的队伍可能会有很多种，种类数对 $998244353$ 取模。
 
-<center><img src="source/loj/3106/img/aHR0cHM6Ly9hbHBoYTEwMjIuaW1nLmloY3IudG9wL2N4ay5qcGc=.jpg" width="25%"></center>
+<center><img src="/source/loj/3106/img/aHR0cHM6Ly9hbHBoYTEwMjIuaW1nLmloY3IudG9wL2N4ay5qcGc=.jpg" width="25%"></center>
 
 # 输入格式
 

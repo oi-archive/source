@@ -51,7 +51,7 @@
 ```
 
 #### 样例解释
-![](source/loj/2651/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vRVRBcm9ydnFRVnFSVUpSYTRreDAyZjhEL3NpdGUvaW1hZ2VzL09JMTQvb3NpaW1nLnBuZw==.png)
+![](/source/loj/2651/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vRVRBcm9ydnFRVnFSVUpSYTRreDAyZjhEL3NpdGUvaW1hZ2VzL09JMTQvb3NpaW1nLnBuZw==.png)
 
 # 数据范围与提示
 

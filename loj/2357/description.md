@@ -6,7 +6,7 @@
  Magic Land 由 $N$ 个城市组成，并且这 $N$ 个城市又由恰好 $N-1$ 条公路彼此连接起来，使得任意两个城市间都可以通过若干条公路互达。从数据结构的角度我们也可以说，这 $N$ 个城市和 $N-1$ 条公路形成了一棵树。
 例如，下图就是 Magic Land 的一个可能格局（ $4$ 个城市用数字编号， $3$ 条公路用字母编号）：
 
-![捕获.JPG](source/loj/2357/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTUxYTUzOWM4Zi5qcGc=.jpg)
+![捕获.JPG](/source/loj/2357/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTUxYTUzOWM4Zi5qcGc=.jpg)
 
 大盗 Frank 能够在公路上以任意速度移动。
 比方说，对于上图给出的格局，在 $0.00001$ 秒钟内（或者任意短的一段时间内）， Frank 就可以从城市 $1$ 经过城市 $2$ 到达城市 $4$ ，中间经过了两条公路。

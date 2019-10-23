@@ -36,7 +36,7 @@ min_total_length([1, 2, 3, 7], [0, 4, 5, 9, 10])
 
 以下的图表述了样例中的数据。
 
-![QQ截图20190509124135.png](source/loj/3117/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8wOS81Y2QzYjJlMWRiMWUwLnBuZw==.png)
+![QQ截图20190509124135.png](/source/loj/3117/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8wOS81Y2QzYjJlMWRiMWUwLnBuZw==.png)
 
 - 图中以水平的方式表示出相关的通讯塔。
 - 图中有 $4$ 个红色的连接点，其位置分别为 $1, 2, 3$ 及 $7$。

@@ -59,9 +59,9 @@ Byteland 国警方收到了一条匿名举报，其中说当地黑帮老大正�
 ```
 
 #### 样例解释  
-![example.gif](source/loj/2368/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWYyYzJlZjhkNy5naWY=.gif)
+![example.gif](/source/loj/2368/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWYyYzJlZjhkNy5naWY=.gif)
 
-![p.png](source/loj/2368/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMjgvNWMyNTkwY2JlZDg2My5wbmc=.png)
+![p.png](/source/loj/2368/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMjgvNWMyNTkwY2JlZDg2My5wbmc=.png)
 
 这张图片显示了高速公路网中收费站的编号（在左上角）和控制费用。$1$ 号和 $4$ 号收费站组成了最小控制集，总控制费用为 $5$。
 

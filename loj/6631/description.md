@@ -54,7 +54,7 @@
 
 下图给出了样例 $1$ 中每种列数 $m$ 对应的站点图，并标记了最小花费方案：删除蓝边并保留橙边。
 
-![merge.png](source/loj/6631/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wNC81ZDFkZjZmMjdhNjlhLnBuZw==.png)
+![merge.png](/source/loj/6631/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wNC81ZDFkZjZmMjdhNjlhLnBuZw==.png)
 
 #### 样例输入 2
 ```plain

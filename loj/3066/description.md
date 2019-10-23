@@ -66,7 +66,7 @@
 ```
 
 #### 样例说明 3
-![roi16G.png](source/loj/3066/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMi81ZDAwZjkzNGVhN2Q2LnBuZw==.png)
+![roi16G.png](/source/loj/3066/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMi81ZDAwZjkzNGVhN2Q2LnBuZw==.png)
 
 #### 样例输入 4
 ```plain

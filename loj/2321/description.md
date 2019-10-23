@@ -5,8 +5,8 @@
 
 游戏在一个 $n \times m$ 的网格状棋盘上进行，其中有些小方格中会有水管，水管可能在方格某些方向的边界的中点有接口，所有水管的粗细都相同，所以如果两个相邻方格的公共边界的中点都有接头，那么可以看作这两个接头互相连接。水管有以下 $15$ 种形状：
 
-<img width = 39% src="source/loj/2321/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMDQvNWEyNTIwNDVkYzU3Zi5wbmc=.png" alt="Screen Shot 2017-12-04 at 18.13.48.png" title="Screen Shot 2017-12-04 at 18.13.48.png" />
-<img width = 40% src="source/loj/2321/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMDQvNWEyNTIwNDYzODQ3Ni5wbmc=.png" alt="Screen Shot 2017-12-04 at 18.13.55.png" title="Screen Shot 2017-12-04 at 18.13.55.png" />
+<img width = 39% src="/source/loj/2321/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMDQvNWEyNTIwNDVkYzU3Zi5wbmc=.png" alt="Screen Shot 2017-12-04 at 18.13.48.png" title="Screen Shot 2017-12-04 at 18.13.48.png" />
+<img width = 40% src="/source/loj/2321/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMDQvNWEyNTIwNDYzODQ3Ni5wbmc=.png" alt="Screen Shot 2017-12-04 at 18.13.55.png" title="Screen Shot 2017-12-04 at 18.13.55.png" />
 
 游戏开始时，棋盘中水管可能存在漏水的地方。  
 

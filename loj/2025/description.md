@@ -35,7 +35,7 @@
 #### 样例解释 1
 如图所示，我们删掉了其中的四个格点，那么剩下的唯一的正方形便是最大的 $2 \times 2$ 的正方形了。
 
-![square-sample1.png](source/loj/2025/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjZhZDRjZjMxMzMucG5n.png)
+![square-sample1.png](/source/loj/2025/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjZhZDRjZjMxMzMucG5n.png)
 
 #### 样例输入 2
 ```plain

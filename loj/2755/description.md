@@ -7,11 +7,11 @@
 
 举个例子：
 
-![aa](source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a2NLcy5wbmc=.png)
+![aa](/source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a2NLcy5wbmc=.png)
 
 将第二列向下移动 $1$ 个单位（或向上移动 $3$ 个单位），二维数组将会变成这样：
 
-![a](source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a3l2ai5wbmc=.png)
+![a](/source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a3l2ai5wbmc=.png)
 
 一次移动 $K$ 个单位的**左移**操作等价于移动 $N-K$ 个单位的**右移**操作。在列上的变换同样。
 
@@ -53,7 +53,7 @@
 #### 样例解释 1
 经过如下变换：
 
-![](source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzEwL1A2VTkwSS5wbmc=.png)
+![](/source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzEwL1A2VTkwSS5wbmc=.png)
 
 #### 样例输入 2
 ```plain
@@ -77,7 +77,7 @@
 #### 样例解释 2
 经过如下变换：
 
-![](source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a3I4Zy5wbmc=.png)
+![](/source/loj/2755/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA4L1B5a3I4Zy5wbmc=.png)
 
 # 数据范围与提示
 

@@ -45,13 +45,13 @@ A
 #### 样例解释  
 对于第一组数据：  
 
-![gridgame1.gif](source/loj/2364/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWI0YTE3ZTI0Ny5naWY=.gif)
+![gridgame1.gif](/source/loj/2364/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWI0YTE3ZTI0Ny5naWY=.gif)
 
 如果 $\text{A}$ 在前三次移动中移动到方格最右边，$\text{B}$ 将在前三次移动中向上移动。因此，在第三次移动中玩家 $\text{B}$ 将会到达 $\text{A}$ 的方块所在方格，并且给 $\text{B}$ 一次额外的移动机会。因此，$\text{B}$ 会首先到达 $\text{A}$ 的起点并且赢得游戏。   
 
 对于第二组数据：  
 
-![gridgame2.gif](source/loj/2364/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWI0YTE3ZTEzMi5naWY=.gif)
+![gridgame2.gif](/source/loj/2364/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWI0YTE3ZTEzMi5naWY=.gif)
 
 $\text{A}$ 可以先向右移动一次，再向下移动一次。然后，$\text{A}$ 可以由 $\text{B}$ 的前两次移动决定他向下或向右移动来回避 $\text{B}$。这样的话 $\text{A}$ 会首先到达 $\text{B}$ 的起点，因此赢得比赛。事实上我们已经证明了 $\text{A}$ 有必胜策略。
 

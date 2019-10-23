@@ -37,7 +37,7 @@
 
 #### 样例解释
 
-![](source/loj/2086/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjIvc2VnLnBuZw==.png)
+![](/source/loj/2086/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjIvc2VnLnBuZw==.png)
 
 如图，当 $n=6,m=3$ 时，花费最小的方案是选取 $[3,5]$、$[3,4]$、$[1,4]$ 这三个区间，他们共同包含了 $4$ 这个位置，所以是合法的。其中最长的区间是 $[1,4]$，最短的区间是 $[3,4]$，所以它的花费是 $(4−1)−(4−3)=2$。
 

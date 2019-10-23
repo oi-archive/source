@@ -7,7 +7,7 @@
 1. 如图 (a) 所示，将一个棋子斜着移动到一个没有棋子的相邻区域，这种移动称作「简单移动」。但是，如果这个棋子的形态是普通人，它只能沿着两种方向移动（黑棋只能向下移动，白棋只能向上移动）；如果这个棋子的形态是皇后，则它可以沿着四种方向移动。
 2. 沿斜线方向跳过对方的棋子，然后到达一个没有棋子的格子，然后吃掉所跳过的那颗棋子。如果这个棋子的形态是普通人，它只能沿着上述两种方向移动；如果这个棋子的形态是皇后，则它可以沿着四种方向移动。只要还能继续按本方法进行移动，玩家在一个回合内可以多次执行这个操作。一次或多次执行本移动操作的操作序列叫做「跳跃移动」。图 (b) 展示了一个由三次移动组成的跳跃移动。
 
-![Figure C.1](source/loj/6579/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMS81Y2JjMmVkZjk3NTI2LnBuZw==.png)
+![Figure C.1](/source/loj/6579/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMS81Y2JjMmVkZjk3NTI2LnBuZw==.png)
 
 <div style='text-align: center; color: #999'>
     图 (a), (b) 展示了样例输入 1 中的两次移动，较小的棋子是普通人形态的棋子，较大的棋子是皇后。黑棋玩家在最上面，白棋玩家在最下面。

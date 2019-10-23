@@ -13,7 +13,7 @@ IOI 国正在建造一条新的铁路。IOI 国的火车都由若干车厢组成
 
 由于 IOI 国乘坐火车的人特别多，所以需要组装尽量长的火车。
 
-![da3b8e25befac8c56883f98d32a9fca8.png](source/loj/2762/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wOC9kYTNiOGUyNWJlZmFjOGM1Njg4M2Y5OGQzMmE5ZmNhOC5wbmc=.png)
+![da3b8e25befac8c56883f98d32a9fca8.png](/source/loj/2762/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wOC9kYTNiOGUyNWJlZmFjOGM1Njg4M2Y5OGQzMmE5ZmNhOC5wbmc=.png)
 
 图：在组装火车的过程中，不能从车库向备用铁路运送车厢。此图对应输入输出样例 $ 1 $ 。
 

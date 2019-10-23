@@ -13,11 +13,11 @@
 
 例如下面是三个游戏的例子。
 
-![](source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2MGIwZC5wbmc=.png)
+![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2MGIwZC5wbmc=.png)
 
-![](source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2ODg2YS5wbmc=.png)
+![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2ODg2YS5wbmc=.png)
 
-![](source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ3ZjNiOS5wbmc=.png)
+![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ3ZjNiOS5wbmc=.png)
 
 最近兔兔总是输掉游戏，而且蛋蛋格外嚣张，于是兔兔想请她的好朋友——你——来帮助她。她带来了一局输给蛋蛋的游戏的实录，请你指出这一局游戏中所有她“犯错误”的地方。
 

@@ -13,11 +13,11 @@
 
 下面给出一个实例。假设模板树如下图：
 
-<img src="source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3OWZkYjkucG5n.png">
+<img src="/source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3OWZkYjkucG5n.png">
 
 根据第 (1) 步，初始的大树与模板树是相同的。在 (2.1) 步，假设选择了 $a=4$，$b=3$。运行 (2.2) 和 (2.3) 后，得到新的大树如下图所示
 
-<img src="source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3YmUzMmEucG5n.png">
+<img src="/source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3YmUzMmEucG5n.png">
 
 现在他想问你，树中一些结点对的距离是多少。
 
@@ -58,7 +58,7 @@
 #### 样例解释
 经过两次操作后，大树变成了下图所示的形状：
 
-<img src="source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3YzA2ZTYucG5n.png">
+<img src="/source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3YzA2ZTYucG5n.png">
 
 结点 $ 6 $ 到 $ 9 $ 之间经过了 $ 6 $ 条边，所以距离为 $ 6 $；类似地，结点 $ 1 $ 到 $ 8 $ 之间经过了 $ 3 $ 条边；结点 $ 5 $ 到 $ 3 $ 之间也经过了 $ 3 $ 条边。
 

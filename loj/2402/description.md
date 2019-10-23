@@ -5,7 +5,7 @@
 
 小 C 现在知道了游戏中 $n$ 块木板位置，以及知道了 $m$ 个子弹射击位置。现在问你每个子弹射出去以后，有多少木板会碎掉？
 
-![1.png](source/loj/2402/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTAvNWM1ZmU1MDllMDZlNy5wbmc=.png)
+![1.png](/source/loj/2402/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTAvNWM1ZmU1MDllMDZlNy5wbmc=.png)
 
 # 输入格式
 

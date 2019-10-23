@@ -5,7 +5,7 @@
 
 你的任务是对于 $q$ 个询问，计算出一个给定子矩阵所有数字的和对 $(10^9+7)$ 取余的结果。比如以下 $n=2$ 的矩阵，灰色区域的数字之和为 $74$：
 
-![](source/loj/2782/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTEvNWI2ZTNlYWQyNDE3NS5wbmc=.png)
+![](/source/loj/2782/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTEvNWI2ZTNlYWQyNDE3NS5wbmc=.png)
 
 # 输入格式
 

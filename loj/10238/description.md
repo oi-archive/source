@@ -5,7 +5,7 @@
 
 某城市的街道呈网格状，左下角坐标为 $A(0, 0)$，右上角坐标为 $B(n, m)$，其中 $n \ge m$。现在从 $A(0, 0)$ 点出发，只能沿着街道向正右方或者正上方行走，且不能经过图示中直线左上方的点，即任何途径的点 $(x, y)$ 都要满足 $x \ge y$，请问在这些前提下，到达 $B(n, m)$ 有多少种走法。
 
-![gird.png](source/loj/10238/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDU2NDI2MTUzLnBuZw==.png)
+![gird.png](/source/loj/10238/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDU2NDI2MTUzLnBuZw==.png)
 
 # 输入格式
 

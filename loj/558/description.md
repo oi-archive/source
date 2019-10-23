@@ -1,7 +1,7 @@
 
 # 题目描述
 
-![攻击](source/loj/558/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ1MS8wOEQ1NzYwNDhCMzE3RjM5MDAwMDAwMDAwMDAwMDA4Ni5wbmc=.png)
+![攻击](/source/loj/558/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ1MS8wOEQ1NzYwNDhCMzE3RjM5MDAwMDAwMDAwMDAwMDA4Ni5wbmc=.png)
 
 给你一个有 $n$ 个点的森林，点有黑白两种颜色，初始时所有点都是白色，森林的每条边有边权，初始时这个森林有 $m$ 条边。  
 对这个森林进行 $k$ 次操作，操作有三种：

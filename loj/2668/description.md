@@ -26,7 +26,7 @@
 4. $P_1 < P_2 \le G_2 < G_1$
 
 下图是一个 `N`，`O`，`I` 的例子。
-![](source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YyY2QwNTc3NS5wbmc=.png)
+![](/source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YyY2QwNTc3NS5wbmc=.png)
 
 另外，所有画的图形均不允许超过纸张的边界。现在小 E 想要知道，他能画出的最大幸运度是多少。
 
@@ -56,7 +56,7 @@
 ```
 
 #### 样例解释 1
-![](source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YzNGVlY2FiZS5wbmc=.png)
+![](/source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YzNGVlY2FiZS5wbmc=.png)
 
 #### 样例输入 2
 ```plain
@@ -73,7 +73,7 @@
 
 #### 样例解释 2
 下面是一个最优解，还存在着其它的最优解。
-![](source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YzOGNhZWE2Yy5wbmc=.png)
+![](/source/loj/2668/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2YzOGNhZWE2Yy5wbmc=.png)
 
 #### 样例输入输出 3
 见附加文件中的 `penman.in` 与 `penman.ans`.

@@ -39,11 +39,11 @@ Shone 希望能够得到一个由 $n$ 个魔力珠串成的环。不过他对普
 #### 样例解释 1
 由 $6$ 个魔力珠串成，满足其中恰好有 $3$ 个黑色魔力珠与 $3$ 个白色魔力珠，且不存在长度超过 $2$ 的连续的黑色魔力珠的不同的环共有 $3$ 种，如下图所示。
 
-![QQ20181002002120.png](source/loj/6519/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzEwLzAyL1FRMjAxODEwMDIwMDIxMjAucG5n.png)
+![QQ20181002002120.png](/source/loj/6519/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzEwLzAyL1FRMjAxODEwMDIwMDIxMjAucG5n.png)
 
 下图所示的环不满足 Shone 提出的要求，因为在这个环中，存在一段连续的黑色魔力珠，长度超过了 $2$。
 
-![QQ20181002002148.png](source/loj/6519/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzEwLzAyL1FRMjAxODEwMDIwMDIxNDgucG5n.png)
+![QQ20181002002148.png](/source/loj/6519/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzEwLzAyL1FRMjAxODEwMDIwMDIxNDgucG5n.png)
 
 #### 样例输入 2
 ```plain

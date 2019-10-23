@@ -44,7 +44,7 @@
 
 #### 样例说明1
 
-![](source/loj/2318/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE4L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcDEucG5n.png)
+![](/source/loj/2318/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE4L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcDEucG5n.png)
 
 #### 样例输入2
 ```plain
@@ -63,7 +63,7 @@
 
 #### 样例说明2
 
-![](source/loj/2318/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE4L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcDIucG5n.png)
+![](/source/loj/2318/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE4L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcDIucG5n.png)
 
 # 数据范围与提示
 

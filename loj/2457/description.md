@@ -31,7 +31,7 @@ $$|{p_a:|p_a-p_i|\le|p_j-p_i|}| \gt k$$
 
 #### 样例解释
 下图显示了从每个岩石开始经过一次跳跃到达的岩石。
-[![zab.gif](source/loj/2457/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2NmMmNlMWUzZS5naWY=.gif)](https://i.loli.net/2018/03/29/5abccf2ce1e3e.gif)
+[![zab.gif](/source/loj/2457/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2NmMmNlMWUzZS5naWY=.gif)](https://i.loli.net/2018/03/29/5abccf2ce1e3e.gif)
 
 # 数据范围与提示
 

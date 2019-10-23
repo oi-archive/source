@@ -5,7 +5,7 @@
 
 你的任务是设计这个新型网络，在确保每对节点间恰有一条路径的情况下，最小化与原图中连接数不同的节点的数量。下图为样例 1 代表的原始网络和对应的解。
 
-![figure.png](source/loj/6413/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwMzYzZDkzMzE5NC5wbmc=.png)
+![figure.png](/source/loj/6413/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwMzYzZDkzMzE5NC5wbmc=.png)
 
 # 输入格式
 

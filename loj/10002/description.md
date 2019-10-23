@@ -7,7 +7,7 @@
 
 请问：如果要同时浇灌整块草坪，最少需要打开多少个喷头？
 
-![Picture1](source/loj/10002/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDMvYWFhZjJmNWQucG5n.png)
+![Picture1](/source/loj/10002/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDMvYWFhZjJmNWQucG5n.png)
 
 # 输入格式
 

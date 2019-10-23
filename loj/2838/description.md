@@ -3,7 +3,7 @@
 
 **译自 [JOISC 2018](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/index.html) Day3 T2「[ビ太郎のパーティー](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/day3/bitaro.pdf) / [Bitaro’s Party](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/day3/bitaro-en.pdf)」**
 
-<img src="source/loj/2838/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjc0MWEzYWQyOS5wbmc=.png" width="18%">
+<img src="/source/loj/2838/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjc0MWEzYWQyOS5wbmc=.png" width="18%">
 
 河狸们有 $N$ 个城镇，这些城镇按照海拔从高到低依次编号为 $1\ldots N$（保证海拔互不相同）。有 $M$ 条运河，$i$ 号运河从城镇 $S_i$ 流向 $E_i$。河狸们不能沿着运河逆流而上，即：河狸不能从城镇 $E_i$ 通过 $i$ 号运河前往城镇 $S_i$。
 

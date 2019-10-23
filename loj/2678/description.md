@@ -7,7 +7,7 @@
 
 例如，考虑下图左侧所示的电路板。只需要一层电路板就可以连接 A 与 B 以及 D 与 C，方案如中间所示。但是连接 A 与 C 以及 D 与 B 就不能用一层电路板完成，如右图所示。
 
-![](source/loj/2678/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDMvNWIxMzY1ODYzMmQzZC5wbmc=.png)
+![](/source/loj/2678/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDMvNWIxMzY1ODYzMmQzZC5wbmc=.png)
 
 编写一个程序，给定 $W \times H$ 电路板上 $N$ 个导体端点的位置，计算制造电路板所需的最小层数。
 

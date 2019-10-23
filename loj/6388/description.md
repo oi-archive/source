@@ -45,11 +45,11 @@ dwdaa
 
 #### 样例解释
 
-<img src="source/loj/6388/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOThlYmNkNzlkZi5wbmc=.png" alt="path.png" title="path.png" />
+<img src="/source/loj/6388/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOThlYmNkNzlkZi5wbmc=.png" alt="path.png" title="path.png" />
 
 上图显示了路径序列可视化之后的结果，下图用蓝色标出了此时对方赛艇可能的位置。
 
-<img src="source/loj/6388/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOThlZDM5YTYwMi5wbmc=.png" alt="location.png" title="location.png" />
+<img src="/source/loj/6388/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOThlZDM5YTYwMi5wbmc=.png" alt="location.png" title="location.png" />
 
 # 数据范围与提示
 

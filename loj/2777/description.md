@@ -38,7 +38,7 @@
 00101
 ```
 #### 样例 1 解释
-<img src="source/loj/2777/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL2FsdGVybmF0aW5nZmlnLnBkZi5zdmc=.svg" width = 30%>
+<img src="/source/loj/2777/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL2FsdGVybmF0aW5nZmlnLnBkZi5zdmc=.svg" width = 30%>
 
 上图为样例 1 的一组解。注意可以将所有的箭头反向得到另一组合法解 ``11010``。
 #### 样例 2 输入

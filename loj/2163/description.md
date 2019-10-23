@@ -20,7 +20,7 @@ Byteasar the gardener is growing a rare tree called Rotatus Informatikus. It has
 
 Byteasar is from the old town of Byteburg and, like all true Byteburgers, praises neatness and order. He wonders how neat can his tree become thanks to appropriate rotations. The neatness of a tree is measured by the number of inversions in its corona, i.e. the number of pairs $ (i, j) $, such that $ a_i \gt a_j $ in the corona $ a_i, a_2, \ldots, a_n $.
 
-![rys-crop.gif](source/loj/2163/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0NWRjMTkyNjguZ2lm.gif)
+![rys-crop.gif](/source/loj/2163/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0NWRjMTkyNjguZ2lm.gif)
 
 The original tree (on the left) with corona $ 3, 1, 2 $ has two inversions. A single rotation gives a tree (on the right) with corona $ 1, 3, 2 $, which has only one inversion. Each of these two trees has $ 5 $ branches.
 

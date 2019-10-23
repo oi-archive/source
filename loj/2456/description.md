@@ -43,7 +43,7 @@ Byteasar 住在建筑物 B 里，有 $n$ 个窗户。灯在这个建筑物最下
 ```
 
 ### 样例解释
-![lat.gif](source/loj/2456/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2QzZjQ4YTgzMS5naWY=.gif)
+![lat.gif](/source/loj/2456/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2QzZjQ4YTgzMS5naWY=.gif)
 
 一条光线经过 C 建筑的第一个窗口反射后会照射到 B 建筑的第一个窗口（例如光线可能在 $(0, 1.5)$ 位置照射 C 建筑后被反射到 B 建筑的 $(0, 3)$ 位置）。要照射到 B 建筑的第二个窗口，这条光线至少要被反射三次。例如，该光线会从 B 建筑反射到 C 建筑的 $(0, 4.5)$ 位置处（在 C 建筑的第二个窗口内），并照射在 B 建筑的 $(0, 6)$ 位置处。没有光线会照到 B 建筑的第三个窗口。事实上，C 建筑的每个窗口都被光线照射过，但上图只画出了照射过某个 B 建筑窗口的光线。
 

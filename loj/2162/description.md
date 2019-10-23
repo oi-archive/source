@@ -72,7 +72,7 @@ If there is no set of routes for the garbage truck to execute Byteasar's plan, t
 5 6 0 1
 4 6 0 1
 ```
-![smizad1.gif](source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk3ZWZiOTUuZ2lm.gif)
+![smizad1.gif](/source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk3ZWZiOTUuZ2lm.gif)
 
 #### 样例输出 1
 ```plain
@@ -93,7 +93,7 @@ If there is no set of routes for the garbage truck to execute Byteasar's plan, t
 5 6 0 1
 4 6 0 0
 ```
-![smizad2.gif](source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk4ZDViZGIuZ2lm.gif)
+![smizad2.gif](/source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk4ZDViZGIuZ2lm.gif)
 
 #### 样例输出 2
 ```plain
@@ -115,7 +115,7 @@ For the input data
 5 6 0 1
 4 6 0 1
 ```
-![smizad1.gif](source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk3ZWZiOTUuZ2lm.gif)
+![smizad1.gif](/source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk3ZWZiOTUuZ2lm.gif)
 
 one of correct results is:
 ```plain
@@ -135,7 +135,7 @@ whereas for the following input data:
 5 6 0 1
 4 6 0 0
 ```
-![smizad2.gif](source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk4ZDViZGIuZ2lm.gif)
+![smizad2.gif](/source/loj/2162/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0Mjk4ZDViZGIuZ2lm.gif)
 
 the correct result is:
 ```plain

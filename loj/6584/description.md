@@ -13,7 +13,7 @@ Hobson 同样也只提供一种车票，允许乘客一次旅行的距离不超�
 
 请帮助 Hobson 先生确定：对于每个站点 $A$，能够在最多 $k$ 趟的旅程中到达 $A$ 的站点个数（包含 $A$ 本身）。
 
-![](source/loj/6584/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZGZlNWU2NDkwLnBuZw==.png)
+![](/source/loj/6584/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZGZlNWU2NDkwLnBuZw==.png)
 
 上图为样例输入 1 对应的示意图。每个圆圈代表了一个站点，圆圈旁边的数字为当 $k=2$ 时需要编入读票机的站点编号。
 

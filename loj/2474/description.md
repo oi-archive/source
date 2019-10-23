@@ -108,7 +108,7 @@ LCA 沉默了。他和神犇一同望向树消失的地方，持续片刻。
 #### 样例解释 1
 最终的树 $T$ 和 $G(T)$ 如下：
 
-![sample1.png](source/loj/2474/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODM0MmY1ZWRhZi5wbmc=.png)
+![sample1.png](/source/loj/2474/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODM0MmY1ZWRhZi5wbmc=.png)
 
 第一次询问的路径：$1 \rightarrow 2 \rightarrow 3 \rightarrow 5 \rightarrow 6$；
 

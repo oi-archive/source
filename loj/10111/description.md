@@ -9,11 +9,11 @@
 
 为了打发时间，T 君每次实验做完后都在焊接一些诡异的东西，这就是他的杰作：
 
-![1.jpg](source/loj/10111/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTUwZDg4OTczZi5qcGc=.jpg)
+![1.jpg](/source/loj/10111/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTUwZDg4OTczZi5qcGc=.jpg)
 
 T 君不满足于焊接奇形怪状的作品，强烈的破坏欲驱使他拆掉这个作品，然后将之焊接成规整的形状。这会儿，T 君正要把这个怪物改造成一个环形，当作自己的相框，步骤如下：
 
-![2.jpg](source/loj/10111/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTUwZDg5OTllNi5qcGc=.jpg)
+![2.jpg](/source/loj/10111/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTUwZDg5OTllNi5qcGc=.jpg)
 
 T 君约定了两种操作：
 

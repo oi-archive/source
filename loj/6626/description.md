@@ -65,5 +65,5 @@ jinitaimei
 
 对于全部数据，$1\leq n\leq 2\times 10^5$，$1\leq q\leq 2\times 10^5$，$1\leq l_1\leq r_1\leq n$，$1\leq l_2\leq r_2\leq n$。
 
-<center><img src="source/loj/6626/img/aHR0cHM6Ly9hbHBoYTEwMjIuaW1nLmloY3IudG9wL2N4ay5qcGc=.jpg" width="25%"></center>
+<center><img src="/source/loj/6626/img/aHR0cHM6Ly9hbHBoYTEwMjIuaW1nLmloY3IudG9wL2N4ay5qcGc=.jpg" width="25%"></center>
 

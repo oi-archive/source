@@ -50,7 +50,7 @@
 ```
 
 #### 样例解释
-![](source/loj/2648/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9hdHJ6YWQxLmdpZg==.gif)
+![](/source/loj/2648/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9hdHJ6YWQxLmdpZg==.gif)
 
 上图为与样例对应的图。要求在 $2,3,4,5$ 四个节点停留，且 $2$ 号点需要在 $3$ 号点之前停留，$4$ 号点和 $5$ 号点需要在 $3$ 号点之后停留。最短的从 $1$ 到 $n$ 的路径为 $1, 2, 4, 3, 4, 5, 8$ 且长度为 $19$。注意可以经过 $2,3,4,5$ 号点而不停留，这样就不会违反限制。
 

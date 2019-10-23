@@ -43,7 +43,7 @@
 #### 样例说明
 样例输入如下图：
 
-![bic.png](source/loj/10083/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDRkZTU2OGUwLnBuZw==.png)
+![bic.png](/source/loj/10083/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDRkZTU2OGUwLnBuZw==.png)
 
 从 $1$ 到 $4$ 有 $4$ 条路径。为 $1\to 2\to 4$（费用为 $4$，时间为 $5$），$1\to 3\to 4$（费用为 $4$，时间为 $5$），$1\to 2\to 3\to 4$（费用为 $6$，时间为 $4$），$1\to 3\to 2\to 4$（费用为 $4$，时间为 $10$）。
 

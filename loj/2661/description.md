@@ -3,7 +3,7 @@
 
 Byteotian 驾驶考试所在的区域有 $n$ 条互相平行的自南向北的道路，每条道路长为 $m$ 米，且在同一条水平线上开始、结束。另有 $p$ 条自东向西或自西向东的道路，连接两条相邻的自南向北的道路。注意可能有两条自东向西的道路和自西向东的道路重合，相当于一条双向道路。
 
-![](source/loj/2661/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9lZ3p6YWQyLmdpZg==.gif)
+![](/source/loj/2661/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9lZ3p6YWQyLmdpZg==.gif)
 
 上图为 $n=4,m=3,p=5$ 的例子。
 
@@ -39,7 +39,7 @@ Byteotian 驾驶考试所在的区域有 $n$ 条互相平行的自南向北的�
 ```
 
 #### 样例解释 1
-![](source/loj/2661/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9lZ3p6YWQxLmdpZg==.gif)
+![](/source/loj/2661/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9lZ3p6YWQxLmdpZg==.gif)
 
 # 数据范围与提示
 

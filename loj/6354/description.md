@@ -105,7 +105,7 @@
 
 活泼可爱的出题人给大家留下了下面这张图。
 
-![whatisthis.jpg](source/loj/6354/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjMzM2MyMi5qcGc=.jpg)
+![whatisthis.jpg](/source/loj/6354/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjMzM2MyMi5qcGc=.jpg)
 
 <hr style='color: #ddd; margin-bottom: 1em'>
 

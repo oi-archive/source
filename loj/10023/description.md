@@ -5,7 +5,7 @@
 
 CE 数码公司开发了一种名为自动涂色机（APM）的产品。它能用预定的颜色给一块由不同尺寸且互不覆盖的矩形构成的平板涂色。
 
-![](source/loj/10023/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzY2FjOTViOWI3MS5wbmc=.png)
+![](/source/loj/10023/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzY2FjOTViOWI3MS5wbmc=.png)
 
 为了涂色，APM 需要使用一组刷子。每个刷子蘸了颜色 $C$ 。APM 拿起一把蘸有颜色 $C$ 的刷子，并给所有颜色为 $C$ 的矩形涂色。请注意，涂色有顺序要求：为了避免颜料渗漏使颜色混合，一个矩形只能在所有紧靠它上方的矩形涂色后，才能涂色。例如图中矩形 $F$ 必须在 $C$ 和 $D$ 涂色后才能涂色。注意，每一个矩形必须立刻涂满，不能只涂一部分。
 

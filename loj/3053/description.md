@@ -97,7 +97,7 @@
 #### 样例说明 4
 这个测试点的图如下图所示：
 
-![sample4.png](source/loj/3053/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNy81Y2E5OTNhMGQ2M2RhLnBuZw==.png)
+![sample4.png](/source/loj/3053/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNy81Y2E5OTNhMGQ2M2RhLnBuZw==.png)
 
 #### 样例 5
 见附加文件中 `5.in` 与 `5.ans`。

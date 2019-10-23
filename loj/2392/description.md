@@ -3,7 +3,7 @@
 
 **题目译自 [JOISC 2017](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/index.html) Day1 T3「[手持ち花火](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1.pdf) / [Sparklers](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1-en.pdf)」**
 
-![JOISC17D1T3.md.png](source/loj/2392/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE5L0pPSVNDMTdEMVQzLm1kLnBuZw==.png)
+![JOISC17D1T3.md.png](/source/loj/2392/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE5L0pPSVNDMTdEMVQzLm1kLnBuZw==.png)
 
 有 $N$ 人站在一条数轴上。他们人手一个烟花，每人手中的烟花都恰好能燃烧 $T$ 秒。每个烟花只能被点燃一次。  
 $1$ 号站在原点，$i$ 号 $(1\le i\le N)$ 到 $1$ 号的距离为 $X_i$。保证 $X_1=0,$ $X_1, X_2, \dots, X_N$ **单调**递增（可能有人位置重叠）。  

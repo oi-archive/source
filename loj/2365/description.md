@@ -8,7 +8,7 @@
 你的老板已经给你分配了任务：分隔两个蓄水池。你手上的操作指南告诉了你如下信息：  
 这两个蓄水池之间有一些管道连通，每个管道有两个阀门。当两个阀门同时开启时，这个管道就处于开启状态，反之处于关闭状态。阀门用开关控制。同一个开关会控制一些阀门，但是每一个阀门都只被一个开关控制。有可能一个管道上的两个阀门被同一个开关控制，也可能有开关不控制任何阀门。 
  
-![gates.png](source/loj/2365/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWM4NjIyMWM0Yi5wbmc=.png)
+![gates.png](/source/loj/2365/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWM4NjIyMWM0Yi5wbmc=.png)
 <div style='text-align: center; color: #999'>一个三个管道，两个开关的例子</div> 
 
 开关以以下两种方式控制阀门：  

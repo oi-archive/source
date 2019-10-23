@@ -38,7 +38,7 @@ W 2
 A 1 2
 A 1 3
 ```
-![](source/loj/2656/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vYmlnMk5VRXpoZENxZ0dqMHdHQmpidzE0L3NpdGUvaW1hZ2VzL09JMTQvbWVnemFkMS5naWY=.gif)
+![](/source/loj/2656/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vYmlnMk5VRXpoZENxZ0dqMHdHQmpidzE0L3NpdGUvaW1hZ2VzL09JMTQvbWVnemFkMS5naWY=.gif)
 
 #### 样例输出
 ```plain

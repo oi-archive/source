@@ -73,5 +73,5 @@ u=rnd()%n+1,v=rnd()%n+1;
 
 # 数据范围与提示
 
-![对于 $100\%$ 的数据，$n\leq 70000$，$m\leq 100000$，$q\leq 10^7$。](source/loj/6021/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJlMGNkZGEyNGYuYm1w.bmp)
+![对于 $100\%$ 的数据，$n\leq 70000$，$m\leq 100000$，$q\leq 10^7$。](/source/loj/6021/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJlMGNkZGEyNGYuYm1w.bmp)
 

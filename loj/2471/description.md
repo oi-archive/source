@@ -44,7 +44,7 @@
 
 #### 样例解释
 
-![Explanation 1](source/loj/2471/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QxRXhwbGFpbjEucG5n.png)
+![Explanation 1](/source/loj/2471/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QxRXhwbGFpbjEucG5n.png)
 
 棋盘如图所示，双方都采用最优策略时，棋局如下：
 
@@ -56,7 +56,7 @@
 + 牛牛下在第 $2$ 行第 $3$ 列（这是这一步时唯一可以落子的格子）；
 + 填满棋盘，游戏结束，盘面如下。
 
-![Explanation 2](source/loj/2471/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QxRXhwbGFpbjIucG5n.png)
+![Explanation 2](/source/loj/2471/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL1QxRXhwbGFpbjIucG5n.png)
 
 菲菲的得分为：$2 + 9 + 1 = 12$；牛牛的得分为：$7 + 2 + 1 = 10$。
 

@@ -109,7 +109,7 @@ int add_xor(int[] Ns)
 
 假设 $H = 2,W = 3,K = 3$。在此情况下，两个黑色像素之间的距离为 $3$ 的图像只有两种。
 
-![Sample](source/loj/3179/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNjczZmU1YTljLnBuZw==.png)
+![Sample](/source/loj/3179/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNjczZmU1YTljLnBuZw==.png)
 
 - 情况一：黑色像素是 $0$ 和 $5$。
 - 情况二：黑色像素是 $2$ 和 $3$。

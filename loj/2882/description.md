@@ -10,7 +10,7 @@ JOI 酱和 IOI 酱想要设立一个叫做「JOIOI 座」的星座。首先。�
 两人将满足以下条件的一对（两个，无序）好三角形作为「JOIOI 座的候补」：
 * 两个三角形没有公共点（包括内部和边界）。换言之，两个三角形之间既不相交，也不存在某个三角形包含另一个三角形。
 
-![](source/loj/2882/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMC01OS0wMy4ucG5n.png)
+![](/source/loj/2882/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMC01OS0wMy4ucG5n.png)
 
 JOI 酱和 IOI 酱想知道构成 JOIOI 座的候补一共有多少种方案。  
 注意，如果构成三角形的 $6$ 个点一样，但是构成三角形的方式不同，算作不同的方案。  
@@ -47,11 +47,11 @@ JOI 酱和 IOI 酱想知道构成 JOIOI 座的候补一共有多少种方案。
 #### 样例说明 1
 星星的位置如下图。红星 -> 圆，蓝星 -> 菱形，黄星 -> 三角形。
 
-<img src="source/loj/2882/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMS0wMy0yOS5wbmc=.png" width="30%" />
+<img src="/source/loj/2882/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMS0wMy0yOS5wbmc=.png" width="30%" />
 
 有四种 JOIOI 座的候补：
 
-<img src="source/loj/2882/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTgvNWJjN2M1MzAzYjZjMS5wbmc=.png" alt="Snipaste_2018-10-17_22-35-19.png" title="Snipaste_2018-10-17_22-35-19.png" />
+<img src="/source/loj/2882/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTgvNWJjN2M1MzAzYjZjMS5wbmc=.png" alt="Snipaste_2018-10-17_22-35-19.png" title="Snipaste_2018-10-17_22-35-19.png" />
 
 #### 样例输入 2
 ```plain

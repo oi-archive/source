@@ -1,7 +1,7 @@
 
 # 题目描述
 
-![299.png.jpg](source/loj/2595/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiNTY1NTBhMy5qcGc=.jpg)
+![299.png.jpg](/source/loj/2595/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiNTY1NTBhMy5qcGc=.jpg)
 
 在一个遥远的国度，一侧是风景秀美的湖泊，另一侧则是漫无边际的沙漠。该国的行政区划十分特殊，刚好构成一个 $N$ 行 $M$ 列的矩形，如上图所示，其中每个格子都代表一座城市，每座城市都有一个海拔高度。
 
@@ -60,7 +60,7 @@
 
 #### 样例说明 2
 
-![300.png.jpg](source/loj/2595/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiNTY1NjcyOC5qcGc=.jpg)
+![300.png.jpg](/source/loj/2595/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiNTY1NjcyOC5qcGc=.jpg)
 
 上图中，在 $3$ 个粗线框出的城市中建造蓄水厂，可以满足要求。以这 $3$ 个蓄水厂为源头在干旱区中建造的输水站分别用 $3$ 种颜色标出。当然，建造方法可能不唯一。 
 

@@ -8,13 +8,13 @@
 
 对于一个圆的集合，定义其**异或面积**为平面上被该集合中奇数个圆覆盖的图形面积。
 
-![Figure 1](source/loj/6093/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMDcvNTgvMDc1ODUwOGNlYzQzZDkxYzQ3ODBkZWI4ZmUzMTNjNjQ3ZGIxMzY3MS5wbmc=.png)
+![Figure 1](/source/loj/6093/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMDcvNTgvMDc1ODUwOGNlYzQzZDkxYzQ3ODBkZWI4ZmUzMTNjNjQ3ZGIxMzY3MS5wbmc=.png)
 <div style='text-align: center; color: #999'>对于这个集合，浅蓝色部分图形的面积被计入异或面积内。</div>
 
 <br>
 现在需要将这 $n$ 个圆划分为两个集合，每个圆恰好在两个集合中的一个内。
 
-![Figure 2](source/loj/6093/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvNGYvMTgvNGYxODE2Y2EyOWM4ZmMzNzU2YTAxYWY1NWU1OGRkMGI2OWNhNmUzMS5wbmc=.png)
+![Figure 2](/source/loj/6093/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvNGYvMTgvNGYxODE2Y2EyOWM4ZmMzNzU2YTAxYWY1NWU1OGRkMGI2OWNhNmUzMS5wbmc=.png)
 <div style='text-align: center; color: #999'>一种划分的方案，两个集合的异或面积如图所示。</div>
 
 <br>

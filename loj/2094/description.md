@@ -15,7 +15,7 @@
 
 4. 由若干个两个点一条边的二端图经过一系列串并联变化之后形成的图称为二端串并联图。
 
-<img src="source/loj/2094/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzMwLzU5MDRlY2MzZWUzZTEucG5n.png">
+<img src="/source/loj/2094/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzMwLzU5MDRlY2MzZWUzZTEucG5n.png">
 
 集合 $S$ 的导出子图点集为 $S$，边集由原图中两个端点都在 $S$ 中的边构成。
 

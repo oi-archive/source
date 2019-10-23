@@ -5,7 +5,7 @@
 
 已知一棵包含 $n$ 个元素的有根树 $T^1$。定义 $T^m$ 为一棵树，生成方式是在 $T^{m-1}$ 的每个叶结点下面连一棵 $T^1$ 而得。
 
-![Snipaste_2019-03-20_12-58-47.png](source/loj/3028/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8yMC81YzkxYzhiNWYwMGFkLnBuZw==.png)
+![Snipaste_2019-03-20_12-58-47.png](/source/loj/3028/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8yMC81YzkxYzhiNWYwMGFkLnBuZw==.png)
 
 试求 $T^m$ 的直径的长度（这里的长度指的是直径上的点数）。
 
@@ -32,7 +32,7 @@
 ```
 
 #### 样例解释
-![Snipaste_2019-03-20_13-22-50.png](source/loj/3028/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8yMC81YzkxY2Y0N2Q5YjQ1LnBuZw==.png)
+![Snipaste_2019-03-20_13-22-50.png](/source/loj/3028/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8yMC81YzkxY2Y0N2Q5YjQ1LnBuZw==.png)
 
 # 数据范围与提示
 

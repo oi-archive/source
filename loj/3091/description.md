@@ -71,7 +71,7 @@
 
 #### 样例解释 1
 
-![img](source/loj/3091/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JlZmVmYWE4MWNiLnBuZw==.png)
+![img](/source/loj/3091/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JlZmVmYWE4MWNiLnBuZw==.png)
 
 上图是样例输入中第一次询问的法珞的行走方案，在行走过程中法珞的左手必须贴住墙。
 

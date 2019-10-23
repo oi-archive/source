@@ -5,7 +5,7 @@
 
 靶形数独的方格同普通数独一样，在 $9$ 格宽 $\times$ $9$ 格高 的大九宫格中有 $9$ 个 $3$ 格宽 $\times$ $3$ 格高 的小九宫格（用粗黑色线隔开的）。在这个大九宫格中，有一些数字是已知的，根据这些数字，利用逻辑推理，在其他的空格上填入 $1$ 到 $9$ 的数字。每个数字在每个小九宫格内不能 重复出现，每个数字在每行、每列也不能重复出现。但靶形数独有一点和普通数独不同，即 每一个方格都有一个分值，而且如同一个靶子一样，离中心越近则分值越高。（如图） 
 
-![28.png](source/loj/2591/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2QyOTg4YTQ0YS5wbmc=.png)
+![28.png](/source/loj/2591/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2QyOTg4YTQ0YS5wbmc=.png)
 
 上图具体的分值分布是：里面一格（黄色区域）为 $10$ 分，黄色区域外面的一圈（红色区域）每个格子为 $9$ 分，再外面一圈（蓝色区域）每个格子为 $8$ 分，蓝色区域外面一圈（棕色区域）每个格子为 $7$ 分，外面一圈（白色区域）每个格子为 $6$ 分，如上图所示。
 
@@ -13,7 +13,7 @@
 
 如图，在以下的这个已经填完数字的靶形数独游戏中，总分数为 $2829$ 。游戏规定，将以总分数的高低决出胜负。 
  
-![29.png](source/loj/2591/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2QyOTg5YWE0Ni5wbmc=.png)
+![29.png](/source/loj/2591/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2QyOTg5YWE0Ni5wbmc=.png)
 
 由于求胜心切，小城找到了善于编程的你，让你帮他求出，对于给定的靶形数独，能够得到的高分数。 
 

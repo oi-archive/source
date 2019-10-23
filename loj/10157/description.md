@@ -9,7 +9,7 @@
 
 帮助陆小凤布置侍卫，在看守全部宫殿的前提下，使得花费的经费最少。
 
-![Picture1](source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhYWJiYTIucG5n.png)
+![Picture1](/source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhYWJiYTIucG5n.png)
 
 
 # 输入格式
@@ -50,8 +50,8 @@
 
 总费用：$16+5+4=25$
 
-![Picture2](source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhMmMxNTA0LnBuZw==.png)
-![Picture3](source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhM2Y2NGRkLnBuZw==.png)
+![Picture2](/source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhMmMxNTA0LnBuZw==.png)
+![Picture3](/source/loj/10157/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDkvYWFhM2Y2NGRkLnBuZw==.png)
 
 # 数据范围与提示
 

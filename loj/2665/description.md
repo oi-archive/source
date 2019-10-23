@@ -3,7 +3,7 @@
 
 我们知道一棵有根树可以进行深度优先遍历（DFS）以及广度优先遍历（BFS）来生成这棵树的 DFS 序以及 BFS 序。两棵不同的树的 DFS 序有可能相同，并且它们的 BFS 序也有可能相同，例如下面两棵树的 DFS 序都是 `1 2 4 5 3`，BFS 序都是 `1 2 3 4 5`。
 
-![](source/loj/2665/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2U4YzY1MjFjNC5wbmc=.png)
+![](/source/loj/2665/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxY2U4YzY1MjFjNC5wbmc=.png)
 
 现给定一个 DFS 序和 BFS 序，我们想要知道，符合条件的有根树中，树的高度的平均值。即，假如共有 $K$ 棵不同的有根树具有这组 DFS 序和 BFS 序，且他们的高度分别是 $h_1, h_2, \ldots, h_K$，那么请你输出：
 $$

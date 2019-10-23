@@ -39,7 +39,7 @@ EENWSEEESWWS
 
 #### 样例解释 1
 
-<img src="source/loj/2345/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE2L0pPSTIwMTZUNC5wbmc=.png" alt="JOI2016T4.png" border="0" width="90%" margin="auto"/>
+<img src="/source/loj/2345/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE2L0pPSTIwMTZUNC5wbmc=.png" alt="JOI2016T4.png" border="0" width="90%" margin="auto"/>
 
 > 图中的字是之前完整题面的，懒得改了。「市政厅」表示 $(0, 0)$，「散步路径」表示移动路线。  
 > 图我没有仔细 PS 过，可能对不齐、不对称，强迫症的同学们麻烦忍一忍
@@ -59,7 +59,7 @@ EENWSEEESWWS
 #### 样例解释 2
 样例 2 与样例 1 的不同在于在样例 2 中 JOI 君走了两天。
 
-<img src="source/loj/2345/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE2L0pPSTIwMTZUNC0xLnBuZw==.png" alt="JOI2016T4-1.png" border="0" width="40%" margin="auto"/>
+<img src="/source/loj/2345/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzE2L0pPSTIwMTZUNC0xLnBuZw==.png" alt="JOI2016T4-1.png" border="0" width="40%" margin="auto"/>
 
 #### 输入样例 3
 ```plain

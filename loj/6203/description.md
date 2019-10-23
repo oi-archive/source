@@ -1,7 +1,7 @@
 
 # 题目描述
 
-<center><img src="source/loj/6203/img/aHR0cHM6Ly9jZG4uYXd3bmkubWUvcm5uZi5wbmc=.png" width="237" height="300"></center>
+<center><img src="/source/loj/6203/img/aHR0cHM6Ly9jZG4uYXd3bmkubWUvcm5uZi5wbmc=.png" width="237" height="300"></center>
 
 - - -
 

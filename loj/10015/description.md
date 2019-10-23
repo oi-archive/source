@@ -5,7 +5,7 @@
 
 给定平面上的 $n$ 个点，问最早什么时候它们形成一个连通块。
 
-<img src="source/loj/10015/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDMvNWIzYWMyNmI3YTZhNC5qcGc=.jpg" width="70%"/>
+<img src="/source/loj/10015/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDMvNWIzYWMyNmI3YTZhNC5qcGc=.jpg" width="70%"/>
 
 # 输入格式
 

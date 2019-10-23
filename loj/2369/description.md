@@ -6,7 +6,7 @@
 知名的魔法石 $\text{Xi-n-k}$ 只能在 Wonderland 中找到，这样的石头只是一种碑文只有字母 `X` 和 `I` 的花岗岩板。每个石板包含 $n$ 个字母。每个石板上有不超过 $k$ 个位置 `X` 和 `I` 相邻。  
 石板的顶部和底部不是固定的，所以石头可以旋转，变为倒立状态。例如下面这两个图片描述的是一样的石头。  
 
-![Magic stone.png](source/loj/2369/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjAvNWE4YmEwYWQ3MzFmMi5wbmc=.png)
+![Magic stone.png](/source/loj/2369/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjAvNWE4YmEwYWQ3MzFmMi5wbmc=.png)
 
 <div style='text-align: center; color: #999'>看同样石头的两种方式。这种石头的种类是 $\text{Xi-8-3}$，也是 $\text{Xi-8-4}$（当然也可以是 $\text{Xi-8-}k$，$k \ge 3$）。</div>  
 

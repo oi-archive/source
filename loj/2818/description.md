@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**本题译自 [eJOI2018](http://ejoi2018.org/) Problem F「Cycle Sort」**
+**本题译自 [eJOI2018](http://ejoi2018.org/) Problem F.** ***Cycle Sort***
 
 给定一个长为 $n$ 的数列 $\{a_i\}$ ，你可以多次进行如下操作：  
 选定 $k$ 个不同的下标 $i_1, i_2, \cdots, i_k$（其中 $1 \le i_j \le n$），然后将 $a_{i_1}$ 移动到下标 $i_2$ 处，将 $a_{i_2}$ 移动到下标 $i_3$ 处，……，将 $a_{i_{k-1}}$ 移动到下标 $i_{k}$ 处，将 $a_{i_k}$ 移动到下标 $i_1$ 处。

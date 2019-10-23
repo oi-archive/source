@@ -3,7 +3,7 @@
 
 **译自 [ROI 2018](http://neerc.ifmo.ru/school/archive/2017-2018.html) Day2 T4.** ***[Сложение без переносов](http://neerc.ifmo.ru/school/archive/2017-2018/ru-olymp-roi-2018-day2.pdf) ([Addition without carry](http://codeforces.com/gym/102154/problem/A))***
 
-对于一个只含自然数的集合，如果集合中所有数之和 = 集合中所有数的 $\mathtt{OR}$ 和，那么我们称之为“美丽的集合”。
+对于一个只含自然数的集合，如果集合中所有数之和 = 集合中所有数的 $\mathtt{OR}$ 和，那么我们称之为「美丽的集合」。
 
 给出 $a_1\ldots a_n,$ 存在一个数列 $b_1\ldots b_n$ 满足：
 * $\forall i=1\ldots n,$ $b_i\geq a_i,$ 且

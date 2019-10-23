@@ -37,7 +37,7 @@
 ```
 
 #### 样例解释 1
-![](source/loj/2669/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxZDA3YzRkYzZhNC5wbmc=.png)
+![](/source/loj/2669/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxZDA3YzRkYzZhNC5wbmc=.png)
 
 如图所示，最优选址为建筑 $1$。到达 $4$ 个建筑的距离分别为 $0,1,2,2$。
 
@@ -57,7 +57,7 @@
 ```
 
 #### 样例解释 2
-![](source/loj/2669/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxZDA4MTg0Mzc3MC5wbmc=.png)
+![](/source/loj/2669/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxZDA4MTg0Mzc3MC5wbmc=.png)
 
 #### 样例输入输出 3
 见附加文件中的 `foodshop.in` 与 `foodshop.ans`.

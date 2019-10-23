@@ -51,7 +51,7 @@ NO
 #### 样例说明
 让我们把符号链接命名为 `LL`，文件夹命名为 `a` 和 `bbbbb`，并且文件名分别为 `ccccccccccccc`，`dddddddddd`，`eee` 和 `fffffff`。根目录包含一个文件夹 `a` 和文件 `fffffff`，文件夹 `a` 中包含文件夹 `bbbbb` 和文件 `eeee`，最后文件夹 `bbbbb` 包含两个文件 `ccccccccccccc` 和 `dddddddddd`。
 
-![fil1.png](source/loj/2708/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzYzg2MjgwZWI0YS5wbmc=.png)
+![fil1.png](/source/loj/2708/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzYzg2MjgwZWI0YS5wbmc=.png)
 
 对于第一个文件，绝对路径 `/a/bbbbb/ccccccccccccc` 的长度已经达到了目标长度，所以我们甚至不用符号链接就能达到要求。对于第二个文件，我们可以引入指向 `/a` 的符号链接 `/a/LL`，那么 `/a/LL/bbbbb/dddddddddd` 是符合要求的。对于第三个文件，我们需要引入指向 `/` 的符号链接 `/a/LL`，那么 `/a/LL/a/LL/a/LL/a/eeee` 是符合要求的。对于第四个文件我们无论加入指向哪里的符号链接都不能达到要求。
 

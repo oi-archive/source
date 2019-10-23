@@ -3,7 +3,7 @@
 
 你家乡的议会决定对一些道路标志的安置进行改进，特别是一些断头路。他们给了你一个地图，你必须确定在哪里贴上「此路不通」标志，他们希望你使用的标志尽可能少。
 
-![sign.png](source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4NzdlZDJkNTBiLnBuZw==.png)
+![sign.png](/source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4NzdlZDJkNTBiLnBuZw==.png)
 
 地图是由双向街道连接一些地点而形成的集合。以下规则描述了在一个街道 $ S $ 的入口 $ x $ 安放一个「此路不通」标志的条件：如果在从 $ x $ 点进入街道 $ S $ 后，只能通过掉头的方式回到 $ x $，就应该安装一个「此路不通」标志。定义一个「掉头」操作为做一个 $180$ 度的转弯，即立刻反转行车的方向。
 
@@ -47,7 +47,7 @@
 #### 样例解释 1
 本样例对应下图：
 
-![sample1.png](source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4N2QxNWRhNTNjLnBuZw==.png)
+![sample1.png](/source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4N2QxNWRhNTNjLnBuZw==.png)
 
 #### 样例输入 2
 ```plain
@@ -73,7 +73,7 @@
 #### 样例解释 2
 本样例对应下图：
 
-![sample2.png](source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4N2U1YTYzODlhLnBuZw==.png)
+![sample2.png](/source/loj/6581/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4N2U1YTYzODlhLnBuZw==.png)
 
 # 数据范围与提示
 

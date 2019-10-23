@@ -52,7 +52,7 @@ $$ \textbf{A}=\begin{matrix} 4 & -1 & -1 & 0 & 0 & 0 & -1 & -1 \\ -1 & 4 & -1 & 
 
 样例对应的图如下：
 
-![捕获.JPG](source/loj/2356/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTRkOTI0N2M2My5qcGc=.jpg)
+![捕获.JPG](/source/loj/2356/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTRkOTI0N2M2My5qcGc=.jpg)
 
 $$ \textbf{A}= \begin{matrix} 3 & -1 & -1 & -1 & 0 \\ -1 & 4 & -1 & -1 & -1 \\ -1 & -1 & 4 & -1 & -1 \\ -1 & -1 & -1 & 4 & -1 \\ 0 & -1 & -1 & -1 & 3 \end{matrix} \quad \textbf{B}= \begin{matrix} 3 & -1 & -1 & -1 \\ -1 & 4 & -1 & -1 \\ -1 & -1 & 4 & -1 \\ -1 & -1 & -1 & 4 \end{matrix} \quad |B|=75 $$
 
@@ -83,5 +83,5 @@ $$ \textbf{A}= \begin{matrix} 3 & -1 & -1 & -1 & 0 \\ -1 & 4 & -1 & -1 & -1 \\ -
 
 #### 提示
 
-![1494_5.jpg.gif](source/loj/2356/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTUwYzE0N2Y2NS5naWY=.gif)
+![1494_5.jpg.gif](/source/loj/2356/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTUwYzE0N2Y2NS5naWY=.gif)
 

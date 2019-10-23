@@ -5,7 +5,7 @@
 
 举例来说，下图为第一个样例输入所描述的公园。注意到半径为 $35$ 不足以覆盖整个公园，而 $50$ 的是最少的覆盖整个公园需要的半径。
 
-![sample.png](source/loj/6409/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTNlMGIzYmU3Zi5wbmc=.png)
+![sample.png](/source/loj/6409/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTNlMGIzYmU3Zi5wbmc=.png)
 
 # 输入格式
 

@@ -41,7 +41,7 @@
 
 # 数据范围与提示
 
-<img src="source/loj/2252/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3NWViYWE3MDgucG5n.png">
+<img src="/source/loj/2252/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3NWViYWE3MDgucG5n.png">
 
 
 对于$100\%$ 的数据，保证 $1\leq T\leq 5$，$1\leq L\leq R \leq nm + 1$。

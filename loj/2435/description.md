@@ -50,7 +50,7 @@
 
 ### 样例解释
 第一组数据（左）和第二组数据（右）的一种设计方案如下图所示。其中紫色边表示 $0$ 号边，蓝色边表示 $1$ 号边。
-![explain.png](source/loj/2435/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTcvNWM0MDM0NGMxOTJlMi5wbmc=.png)
+![explain.png](/source/loj/2435/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTcvNWM0MDM0NGMxOTJlMi5wbmc=.png)
 
 # 数据范围与提示
 

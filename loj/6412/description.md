@@ -5,7 +5,7 @@
 
 但你有一台电脑，还懂得编程！所以你需要解决一个更难的问题：棋盘大小为 $m \times n$ 且骑士的路径不能自交。如果把骑士路径上的格子中心点相连的话，这些点必须形成一个简单多边形；也就是说除了相邻的线段在顶点上接触以外，没有任何两个线段相交或接触。这个限制条件啊导致不重复地经过每个格子变得不可能，所以你只要最大化骑士经过的格子数量。我们仍然要求骑士必须回到出发点。下图显示了第一个样例输入（$6 \times 6$ 棋盘）对应的最优解。
 
-![chess.png](source/loj/6412/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwMzVkMWNhYjAzMy5wbmc=.png)
+![chess.png](/source/loj/6412/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwMzVkMWNhYjAzMy5wbmc=.png)
 
 # 输入格式
 

@@ -1,14 +1,14 @@
 
 # 题目描述
 
-**本题译自 [eJOI2018](http://ejoi2018.org/) Problem D「Chemical table」**
+**本题译自 [eJOI2018](http://ejoi2018.org/) Problem D.** ***Chemical table***
 
 Innopolis 大学的教授正努力研究元素周期表。他们知道，有 $n \times m$ 种元素，形成了一个 $n$ 行 $m$ 列的矩阵。
 
 研究表明，如果元素周期表上有一个元素 A，且元素 B 与它在同一列（A 与 B 不能在同一周期），元素 C 在同一周期（A 与 C 不能在同一列），那么，科学家就可以用这三种元素通过核聚变合成第四种元素 D 的样品，D 与 B 在同一周期，与 C 在同一列。  
 简而言之，如果有在元素周期表中位置为 $(r_1, c_1), (r_1, c_2), (r_2, c_1)$ （其中 $r_1 \neq r_2, c_1 \neq c_2$）的三种元素的样品，就可以生成位置为 $(r_2, c_2)$ 的样品。如图所示：
 
-![](source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvOTUvMjIvOTUyMjM2MjBhMzIzZWM1OTQ3MDcxOGIzNDk1OGM3ZjI5NTY5OGZmMS5wbmc=.png)
+![](/source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvOTUvMjIvOTUyMjM2MjBhMzIzZWM1OTQ3MDcxOGIzNDk1OGM3ZjI5NTY5OGZmMS5wbmc=.png)
 
 **注意：在核聚变中被使用的样品并不会消失，它们可以参与之后的反应；反应得到的样品也可以参与反应。**
 
@@ -47,7 +47,7 @@ Innopolis 大学的教授正努力研究元素周期表。他们知道，有 $n 
 
 通过给定的三种元素，可以得到第四种元素的样品。
 
-![](source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvZWUvNDQvZWU0NDQ5NGMzZjdmZjAyMTM4ZDE2YzNlZTIxMTlhNGE1MjhjODkzYS5wbmc=.png)
+![](/source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvZWUvNDQvZWU0NDQ5NGMzZjdmZjAyMTM4ZDE2YzNlZTIxMTlhNGE1MjhjODkzYS5wbmc=.png)
 
 #### 样例输入 2
 ```plain
@@ -66,7 +66,7 @@ Innopolis 大学的教授正努力研究元素周期表。他们知道，有 $n 
 
 由于给定的元素只有一行，无法使用核聚变，只能购买剩余的两种元素的样品。
 
-![](source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvZGIvYjQvZGJiNGM4YzY4M2IwZTIzYTM1YzIwNGI1MDA2OTVjMGVmYjU5ZTU4Ny5wbmc=.png)
+![](/source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvZGIvYjQvZGJiNGM4YzY4M2IwZTIzYTM1YzIwNGI1MDA2OTVjMGVmYjU5ZTU4Ny5wbmc=.png)
 
 #### 样例输入 3
 ```plain
@@ -88,7 +88,7 @@ Innopolis 大学的教授正努力研究元素周期表。他们知道，有 $n 
 
 集齐所有元素的方法不唯一，以下是一种方法。其中，元素 $(4, 2)$ 只有在购买元素 $(4, 1)$ 的样品，和反应得到元素 $(1, 1)$的样品后才能得到。
 
-![](source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMGMvZDgvMGNkODEzZmY0MWIwNTkxNGZjZWIwZTFmMjVjMjkwN2JjYjAyMDk1OS5wbmc=.png)
+![](/source/loj/2816/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMGMvZDgvMGNkODEzZmY0MWIwNTkxNGZjZWIwZTFmMjVjMjkwN2JjYjAyMDk1OS5wbmc=.png)
 
 # 数据范围与提示
 

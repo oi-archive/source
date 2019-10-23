@@ -5,13 +5,13 @@
 
 立方填词是一种特殊的填词游戏。填词之前，你需要选择立方体的边长 $a$，然后你就可以建立一个有 $a^3$ 个单位立方体的立方体了。这个大立方体有 $12$ 条边。然后，你去掉所有没有接触大立方体边的单位立方体。下图展示了当 $a=6$ 时建立的最终立方体。
 
-![cubeword1.png](source/loj/3164/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNC81ZDQ2YzYzMmI4ZTc1LnBuZw==.png)
+![cubeword1.png](/source/loj/3164/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNC81ZDQ2YzYzMmI4ZTc1LnBuZw==.png)
 
 最后，你需要给剩下的每个单位立方体填上一个字母。对于这个立方体，填词之后，每条边上的单词都应该是有意义的。每条边都可以双向阅读，只要从一个方向读起来有意义即可。
 
 下图展示了当 $a=6$ 时的一个立方体。一些单位立方体已经填上了字母。你已经可以沿这个大立方体的三条边读到 `SUBMIT`，`ACCEPT` 和 `TURING` 三个单词了。
 
-![cubeword2.png](source/loj/3164/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNC81ZDQ2YzYzMzhiYWY5LnBuZw==.png)
+![cubeword2.png](/source/loj/3164/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNC81ZDQ2YzYzMzhiYWY5LnBuZw==.png)
 
 给定一系列有意义的单词，每个单词可以在合法的立方体的任意一条边上出现。求可以构造多少种不同的立方体对 $998244353$ 取模。
 

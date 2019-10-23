@@ -7,7 +7,7 @@
 
 你的家乡建在一个正方形网格上，每个街区的大小是 $w \times w$ 米。每个街区有一个建筑物。建筑物可能有不同的高度（见图）。为了从一个建筑物跳到另一个建筑物（不一定相邻），Robin 会从第一个建筑物的中心跳到第二个建筑物的中心。Robin 无法在空中改变运动方向，但可以选择起跳的角度。
 
-![Figure](source/loj/6407/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMGY5Y2E2MzMxOC5wbmc=.png)
+![Figure](/source/loj/6407/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMGY5Y2E2MzMxOC5wbmc=.png)
 
 当然，Robin 希望跳跃时不碰撞到任何建筑物。这种碰撞对于超级英雄来说确实不算什么，但如果有人碰碎玻璃的话，建筑物的主任显然会很不高兴。你向 Robin 解释了跳跃的物理原理：“你的所有跳跃都有相同的初始速度 $v$，可以分成朝向目标建筑物的水平速度 $v_d$ 及竖直向上的竖直速度 $v_h$，所以 $v_d^2 + v_h^2 = v^2$. 在移动过程中，你的水平速度保持不变 $(v_d(t) = v_d)$，但你的竖直速度会受到重力影响 $(v_h(t)=v_h-t \cdot g)$，在你的家乡，$g = 9.80665$ m/s. 你的盔甲让你能够忽略空气阻力带来的影响（？）。这使得你能够确定你的飞行路径并...“ 此时你突然发现 Robin 已经打起了瞌睡。
 

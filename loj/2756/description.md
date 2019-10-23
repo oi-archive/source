@@ -5,11 +5,11 @@
 
 日本信息学奥赛委员会为了应援将要去台湾参加 IOI 的选手们，打算制作一面新的 **JOI 旗帜**。JOI 旗帜为由 $ M $ 行 $ N $ 列的 $ M\times N $ 个正方形组成的图形，每个正方形里写有 J,O,I 中任一字母。
 
-![4e1fb24a3b910a7ec7aeeea54107aa41.png](source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy80ZTFmYjI0YTNiOTEwYTdlYzdhZWVlYTU0MTA3YWE0MS5wbmc=.png)
+![4e1fb24a3b910a7ec7aeeea54107aa41.png](/source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy80ZTFmYjI0YTNiOTEwYTdlYzdhZWVlYTU0MTA3YWE0MS5wbmc=.png)
 
 日本信息学奥赛委员会还决定制作 **JOI 徽章** 。JOI 徽章为由 $ 2 $ 行 $ 2 $ 列的 $ 4 $ 个正方形组成的图形，每个正方形里写有 J,O,I 中任一字母。
 
-![1abe2afec333ee4b1.png](source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy8xYWJlMmFmZWMzMzNlZTRiMS5wbmc=.png)
+![1abe2afec333ee4b1.png](/source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy8xYWJlMmFmZWMzMzNlZTRiMS5wbmc=.png)
 
 JOI 旗帜中所含 JOI 徽章的个数的意思是，与 JOI 徽章相同（不允许翻转或旋转）的 JOI 旗帜中的 $ 2\times 2 $ 区域的个数。
 
@@ -53,11 +53,11 @@ IJ
 #### 样例说明 1
 旧的 JOI 旗帜和 JOI 徽章和题目描述中的例子一样。从上面起第 $ 2 $ 行中，从左起第 $ 4 $ 列的正方形中的字符用白纸覆盖从而变为 'J' 。
 
-![32905b8b3d90b3ddc.png](source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy8zMjkwNWI4YjNkOTBiM2RkYy5wbmc=.png)
+![32905b8b3d90b3ddc.png](/source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy8zMjkwNWI4YjNkOTBiM2RkYy5wbmc=.png)
 
 像这样变化后的 JOI 旗帜含 $ 3 $ 个 JOI 徽章。
 
-![472c0134893a30488.png](source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy80NzJjMDEzNDg5M2EzMDQ4OC5wbmc=.png)
+![472c0134893a30488.png](/source/loj/2756/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy80NzJjMDEzNDg5M2EzMDQ4OC5wbmc=.png)
 
 不存在能够包含 $ 4 $ 个 JOI 徽章的新的 JOI 旗帜。所以新的 JOI 旗帜所含的 JOI 徽章的个数的最大值为 $ 3 $ 。
 

@@ -34,7 +34,7 @@
 
 # 样例
 
-![program.png](source/loj/2766/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTIvNWM2MmRiZTY2ODhmNi5wbmc=.png)
+![program.png](/source/loj/2766/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTIvNWM2MmRiZTY2ODhmNi5wbmc=.png)
 
 注：给出的例子中为了按步表示交互器的输出和你的输出，因此添加了多余的空白行，但是你的程序并不需要输出这些空白行。
 

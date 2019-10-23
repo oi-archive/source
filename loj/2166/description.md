@@ -40,7 +40,7 @@ the correct result is:
 Explanation of the example:  
 Byteasar's friends numbered $ 1, 3, 4, 5 $ know one another. However, any pair of Byteasar's friends who know each other, like $ 2 $ and $ 4 $ for instance, constitutes a correct solution, i.e., such a pair needs not be part of aforementioned quadruple.
 
-![](source/loj/2166/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjcxYWZjYmYyNDMuZ2lm.gif)
+![](/source/loj/2166/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjcxYWZjYmYyNDMuZ2lm.gif)
 
 # 数据范围与提示
 

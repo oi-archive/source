@@ -40,7 +40,7 @@
 
 #### 样例解释 1
 
-![img](source/loj/3093/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMS81Y2JjNzRhYmU2YWY1LnBuZw==.png)
+![img](/source/loj/3093/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMS81Y2JjNzRhYmU2YWY1LnBuZw==.png)
 
 如图，光线从左上角打进来，有 $0.5$ 单位的光穿过第 $1$ 层玻璃，有 $0.2$ 单位的光被反射回去。这 $0.5$ 单位的光有 $0.4$ 单位穿过第 $2$ 层玻璃，有 $0.025$ 单位的光被反射回去。这 $0.025$ 单位的光有 $0.0125$ 单位穿过第 $1$ 层玻璃，有 $0.005$ 单位的光被反射回去。这 $0.005$ 单位的光有 $0.004$ 单位穿过第 $2$ 层玻璃……于是，穿过两层玻璃的光一共有 $0.40404... = \frac{40}{99}$ 单位。在模 $10^9+7$ 意义下等于 $858585865$。
 

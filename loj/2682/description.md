@@ -5,11 +5,11 @@
 
 从根放入一个球，只要下方有空位，球会沿着树滚下。如果同时有多个点可以走，那么会选择编号最小的节点所在路径的方向。比如依次在树根 $4$ 放 $2$ 个球，第一个球会落到 $1$，第二个会落到 $3$：
 
-![](source/loj/2682/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDIvNWIxMjYzODkxYzExNy5qcGc=.jpg)
+![](/source/loj/2682/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDIvNWIxMjYzODkxYzExNy5qcGc=.jpg)
 
 从某个位置拿走一个球，那么它上方的球会落下来。比如依次拿走 $5, 7, 8$ 三个球：
 
-![](source/loj/2682/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDIvNWIxMjYzODkxYzExNy5qcGc=.jpg)
+![](/source/loj/2682/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDIvNWIxMjYzODkxYzExNy5qcGc=.jpg)
 
 # 输入格式
 

@@ -45,7 +45,7 @@ Fatima 想要找到这样的集合划分 $A,B$ 和 $C$，使得这三个集合�
 
 #### 样例说明 1
 
-![split1.png](source/loj/3176/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE1NjFkMWFhLnBuZw==.png)
+![split1.png](/source/loj/3176/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE1NjFkMWFhLnBuZw==.png)
 
 一个可能的正确解为 $[1,1,3,1,2,2,3,1,3]$。这个解刻画了这样的划分：$A=\{0,1,3,7\},B=\{4,5\}$ 和 $C=\{2,6,8\}$。集合 $A$ 和 $B$ 是连通的。
 
@@ -67,7 +67,7 @@ Fatima 想要找到这样的集合划分 $A,B$ 和 $C$，使得这三个集合�
 
 #### 样例说明 2
 
-![split2.png](source/loj/3176/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE1NjU4YWQ2LnBuZw==.png)
+![split2.png](/source/loj/3176/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE1NjU4YWQ2LnBuZw==.png)
 
 合法的划分不存在。因此，唯一的正确答案是 $[0,0,0,0,0,0]$。
 

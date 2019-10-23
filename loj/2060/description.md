@@ -3,7 +3,7 @@
 
 如图所示为某生态系统的食物网示意图，据图回答此题。
 
-<img src="source/loj/2060/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIzZGIyYTdhYzQuanBn.jpg">
+<img src="/source/loj/2060/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIzZGIyYTdhYzQuanBn.jpg">
 
 现在给你 $ n $ 个物种和 $ m $ 条能量流动关系，求其中的食物链条数。
 

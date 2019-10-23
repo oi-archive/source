@@ -5,7 +5,7 @@
 
 有一天，这些玩具小人把小南的眼镜藏了起来。小南发现玩具小人们围成了一个圈，它们有的面朝圈内，有的面朝圈外，如下图：
 
-![](source/loj/2358/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xMy81Y2Q5NzAyNDk5ODMxLnBuZw==.png)
+![](/source/loj/2358/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xMy81Y2Q5NzAyNDk5ODMxLnBuZw==.png)
 
 这时 `singer` 告诉小南一个谜题：「眼镜藏在我左数第 $ 3 $ 个玩具小人的右数第 $ 1 $ 个玩具小人的左数第 $ 2 $ 个玩具小人那里。」
 

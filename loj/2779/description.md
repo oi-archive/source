@@ -36,7 +36,7 @@
 10
 ```
 #### 样例 1 解释
-<img src="source/loj/2779/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3BhdGhzZmlnLnBkZi5zdmc=.svg" width = 25%>
+<img src="/source/loj/2779/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3BhdGhzZmlnLnBkZi5zdmc=.svg" width = 25%>
 
 样例 1 中表达的图如上图所示。每个点的底色分别为白色（颜色 $1$）、灰色（颜色 $2$）或黑色（颜色 $3$）。共有 $10$ 条路径满足路径上的所有点的颜色都不同。它们是：``1-2``, ``2-1``, ``2-3``, ``3-2``, ``2-4``, ``4-2``, ``1-2-4``, ``4-2-1``, ``3-2-4`` 和 ``4-2-3``。
 

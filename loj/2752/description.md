@@ -79,7 +79,7 @@ Vera 将会染 $N$ 次，第 $i$ 次染色可以用三个整数 $x_i,\, y_i,\, v
  - $(10,\, 7)$ 被染成了橙色，所以它的颜色为 $4$；
  - $(4,\, 5)$ 被染成了绿色，所以它的颜色为 $3$。
 
-![](source/loj/2752/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDgvNWI2YWY4MDE3NDE4Ni5wbmc=.png)
+![](/source/loj/2752/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDgvNWI2YWY4MDE3NDE4Ni5wbmc=.png)
 
 
 # 数据范围与提示

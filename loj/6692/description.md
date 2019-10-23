@@ -159,6 +159,6 @@ namespace Mker
 
 来自 $\mathsf N \color{red} {\mathsf{aCly~Fish}}$ 的评价
 
-![fish](source/loj/6692/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8yOS81ZDY3ZWIwOWI4OWE0LnBuZw==.png)
+![fish](/source/loj/6692/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8yOS81ZDY3ZWIwOWI4OWE0LnBuZw==.png)
 
 

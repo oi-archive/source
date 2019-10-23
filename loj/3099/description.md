@@ -10,7 +10,7 @@
 
 如图所示（被移动的积木颜色较浅）：
 
-![blocks.png](source/loj/3099/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNy81Y2M0Njk5NmI1M2ZmLnBuZw==.png)
+![blocks.png](/source/loj/3099/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNy81Y2M0Njk5NmI1M2ZmLnBuZw==.png)
 
 请你用以上两种操作将给定的网格板变换为指定的状态。
 

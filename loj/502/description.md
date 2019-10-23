@@ -9,11 +9,11 @@ ZQC 对屏幕上不断滚动的嵌套截图消息十分感兴趣，他想让你�
 
 例如，这条消息（最开始的装弱消息）可以表示为 $ (A,\mathrm{NIL}) $：
 
-![1.png](source/loj/502/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzE0LzU5NDBkMTc4NTk2ZmIucG5n.png)
+![1.png](/source/loj/502/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzE0LzU5NDBkMTc4NTk2ZmIucG5n.png)
 
 而这条消息可以表示为 $ (B,(A,\mathrm{NIL})) $：
 
-![2.png](source/loj/502/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzE0LzU5NDBkMTc4N2QwZjIucG5n.png)
+![2.png](/source/loj/502/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzE0LzU5NDBkMTc4N2QwZjIucG5n.png)
 
 如果设第一条消息为 $ S=(A,\mathrm{NIL}) $，第二条消息也可以表示为 $ (B,S) $。
 

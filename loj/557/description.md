@@ -1,7 +1,7 @@
 
 # 题目描述
 
-![衣服](source/loj/557/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ0RC8wOEQ1NzMxRjcyQ0QwM0JDMDAwMDAwMDAwMDAwMDA3RS5wbmc=.png)
+![衣服](/source/loj/557/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ0RC8wOEQ1NzMxRjcyQ0QwM0JDMDAwMDAwMDAwMDAwMDA3RS5wbmc=.png)
 
 给你一个长为 $n$ 的序列，然后对序列进行 $m$ 次操作，操作有两种： 
 - `M l r v`：把区间 $[l,r]$ 的所有数都改成 $v$。  

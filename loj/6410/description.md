@@ -9,7 +9,7 @@ ICPC 公司准备在门的四条边上安装感应器，每对感应器之间用
 
 但这个系统有一个设计缺陷。攻击者可以在开门前切断电线。为了评估该系统的安全性，你需要计算切割所有电线所需要的最少线段数。如图为两种不同的在门上放置电线的方式，以及切割所有电线所需要的切割数最少的方案。
 
-![figure.png](source/loj/6410/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2VjZGM4MzFmZC5wbmc=.png)
+![figure.png](/source/loj/6410/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2VjZGM4MzFmZC5wbmc=.png)
 
 # 输入格式
 

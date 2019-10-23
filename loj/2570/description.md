@@ -7,7 +7,7 @@
 
 例如下面这棵树，就是一棵广义的线段树：
 
-![Segment tree](source/loj/2570/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png)
+![Segment tree](/source/loj/2570/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png)
 
 为了方便，我们按照先序遍历给线段树上所有的节点标号，例如在上图中，$[2, 3]$ 的标号是 $5$，$[4, 4]$ 的标号是 $9$，不难发现在 $[1, n]$ 上建立的广义线段树，它共有着 $2n − 1$ 个节点。
 

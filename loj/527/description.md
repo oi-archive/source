@@ -37,7 +37,7 @@
 #### 样例解释
 剩余框架为
 
-![a.png](source/loj/527/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDgvMjAvNTk5OTRkODE3ODEzNC5wbmc=.png)
+![a.png](/source/loj/527/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMDgvMjAvNTk5OTRkODE3ODEzNC5wbmc=.png)
 
 # 数据范围与提示
 

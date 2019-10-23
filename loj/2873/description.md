@@ -41,11 +41,11 @@ IOI 草非常昂贵，为了不让 IOI 草枯萎，JOI 君需要调换 IOI 草�
 #### 样例说明 1
 初始情况：
 
-![JOISC.2014.D1T2.1.png](source/loj/2873/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMjhmMTFkZjNlYy5wbmc=.png)
+![JOISC.2014.D1T2.1.png](/source/loj/2873/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMjhmMTFkZjNlYy5wbmc=.png)
 
 操作方式：
 
-![JOISC.2014.D1T2.2..png](source/loj/2873/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMjhmMTU1ZDYyYS5wbmc=.png)
+![JOISC.2014.D1T2.2..png](/source/loj/2873/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMjhmMTU1ZDYyYS5wbmc=.png)
 
 #### 样例输入 2
 ```plain

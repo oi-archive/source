@@ -9,7 +9,7 @@
 
 不难发现绳子每时每刻都在以某一个位置为圆心作顺时针的圆周运动。初始情况下圆心是绳子的固定端点 $s$，但是在运动的过程中圆心可能会不断发生变化，如下图所示：
 
-![candle.png](source/loj/2329/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMi81Y2EzNjFhNGNjNGRmLnBuZw==.png)
+![candle.png](/source/loj/2329/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMi81Y2EzNjFhNGNjNGRmLnBuZw==.png)
 
 图中左侧红点为钉子所在的点，右侧红点为绳子的固定端点，其他颜色的点为虚拟点，活动端点为紫点；绳子从紫点开始运动，在运行到蓝点时绳子绕上左侧红点的钉子，因此活动端点更换了圆心和半径，继续作顺时针的圆周运动。接着活动端点会运行到绿点，并且接下来活动端点会一直绕左侧钉子不停地做圆周运动。
 
@@ -91,7 +91,7 @@
 
 大样例如下图所示：
 
- <img src="source/loj/2329/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjY3MTY0NzczOC5wbmc=.png" alt="img"align="middle"width="50.0%"/> 
+ <img src="/source/loj/2329/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjY3MTY0NzczOC5wbmc=.png" alt="img"align="middle"width="50.0%"/> 
 
 其中两种颜色的”点“分别表示钉子和询问。为什么询问看起来像是一个点呢，因为每一个询问都是长度为 $1$ 的线段，而坐标范围又很大，所以看起来就是一个点啦。
 

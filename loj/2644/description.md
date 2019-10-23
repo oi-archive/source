@@ -11,7 +11,7 @@ W 教授在 T 大学计算机系里开了一门「数字逻辑」课，主要讲
 
 一个门电路元件的特性由其输入/输出功能表唯一给出，所谓功能表，就是输入信号电平与输出信号电平之间的关系表。比如，「与门」的符号和功能表如下图所示：
 
-![digilog_1.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhYjdiMy5wbmc=.png)
+![digilog_1.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhYjdiMy5wbmc=.png)
 
 |X|Y|S|
 |:-:|:-:|:-:|
@@ -26,20 +26,20 @@ W 教授在 T 大学计算机系里开了一门「数字逻辑」课，主要讲
 
 在连接电路的过程中，一个门电路的输出端可以将信号送到其他多个元件的输入端；而门电路的一个输入端则只能接收来自一个输出端的信号。如下图所示：
 
-![digilog_2.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhZDMwMS5wbmc=.png)
-![digilog_3.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhZWZkMi5wbmc=.png)
-![digilog_4.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiMWRkOS5wbmc=.png)
+![digilog_2.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhZDMwMS5wbmc=.png)
+![digilog_3.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRhZWZkMi5wbmc=.png)
+![digilog_4.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiMWRkOS5wbmc=.png)
 
 其中，前两个连接方式是允许的，最后一个是不允许的。
 
 另外，规定信号必须单向传输，即一个门电路的输出不能直接或间接通过其他门电路回到同一门电路的输入端。如下图所示即为两种不允许的连接方式：
 
-![digilog_5.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiMDc1MS5wbmc=.png)
-![digilog_6.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiM2RkMS5wbmc=.png)
+![digilog_5.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiMDc1MS5wbmc=.png)
+![digilog_6.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiM2RkMS5wbmc=.png)
 
 要求你设计的译码电路是一个有四个输入端和四个输出端的逻辑电路，该译码电路的输入和输出关系通过功能表给出，即给出每种输入组合下的四个输出端的情况。显然，一共有 $2^4=16$ 种输入组合。比如，一个由前述「与门」构成的 $2$ 输入，$2$ 输出的简单译码电路如下图所示（其中，A1, A2 是输入端，Y1, Y2 是输出端）
 
-![digilog_7.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiNzIwOC5wbmc=.png)
+![digilog_7.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiNzIwOC5wbmc=.png)
 
 |A1|A2|Y1|Y2|
 |:-:|:-:|:-:|:-:|
@@ -104,7 +104,7 @@ Yes
 ##### 样例说明
 样例对应的电路连接方式如下图所示：
 
-![digilog_8.png](source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiNTg1NS5wbmc=.png)
+![digilog_8.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiNTg1NS5wbmc=.png)
 
 # 数据范围与提示
 

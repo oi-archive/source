@@ -58,7 +58,7 @@ find_best(8)
 
 在这个例子中, 钻石放在 $3$ 号盒子里。所以函数 `find_best` 应该返回 $3$。
 
-![IOI2017-prize-desc.png](source/loj/3172/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yNy81ZDNjNWY2ZWU4ZDNjLnBuZw==.png)
+![IOI2017-prize-desc.png](/source/loj/3172/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yNy81ZDNjNWY2ZWU4ZDNjLnBuZw==.png)
 
 上图阐释了这个例子。图中上半部分给出了每个盒子中奖品的类型。图中的下半部分阐释了询问 `ask(2)`。做了标记（打$\surd$）的盒子中装有比 $2$ 号盒子的奖品价值更高的奖品。
 

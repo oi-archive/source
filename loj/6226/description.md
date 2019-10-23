@@ -3,7 +3,7 @@
 
 在一个 $n \times n$ 个方格的国际象棋棋盘上，马（骑士）可以攻击的棋盘方格如图所示。棋盘上某些方格设置了障碍，骑士不得进入。
 
-![knight.jpg](source/loj/6226/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8yNS81ZDYxNjBhMWVjZDIyLmpwZw==.jpg)
+![knight.jpg](/source/loj/6226/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8yNS81ZDYxNjBhMWVjZDIyLmpwZw==.jpg)
 
 对于给定的 $n \times n$ 个方格的国际象棋棋盘和障碍标志，计算棋盘上最多可以放置多少个骑士，使得它们彼此互不攻击。
 

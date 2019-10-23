@@ -45,7 +45,7 @@ NWESSWEWS
 #### 样例说明
 样例中染色方案如下图所示。
 
-![rainbow.png](source/loj/2310/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTFiYmM0MmVkNy5wbmc=.png)
+![rainbow.png](/source/loj/2310/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTFiYmM0MmVkNy5wbmc=.png)
 
 # 数据范围与提示
 

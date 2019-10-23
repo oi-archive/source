@@ -60,7 +60,7 @@ T 城是一个旅游城市，具有 $n$ 个景点和 $m$ 条道路，所有景�
 
 T 城的景区和道路如下图所示：
 
-![](source/loj/539/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTEvMDMvNTlmYmMwYTQxY2U1Mi5wbmc=.png)
+![](/source/loj/539/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTEvMDMvNTlmYmMwYTQxY2U1Mi5wbmc=.png)
 
 由图可知，从景点 $1$ 出发，路程为 $3$ 的路线有两条：$1\rightarrow 2\rightarrow 4\rightarrow 6$ 和 $1\rightarrow 3\rightarrow 5\rightarrow 6$。
 

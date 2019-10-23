@@ -4,7 +4,7 @@
  lxhgww 的小名叫 "小 L " ，这是因为他总是很喜欢 L 型的东西。小 L 家的客厅是一个 $R \times C$ 的矩形，现在他想用 $L$ 型的地板来铺满整个客厅，客厅里有些位置有柱子，不能铺地板。现在小 L 想知道，用 L 型的地板铺满整个客厅有多少种不同的方案？      
 需要注意的是，如下图所示， L 型地板的两端长度可以任意变化，但不能长度为 $0$ 。铺设完成后，客厅里面所有没有柱子的地方都必须铺上地板，但同一个地方不能被铺多次。     
 
-![22.jpg.gif](source/loj/2437/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjUvNWFiNjdlNjViMzNjMS5naWY=.gif)
+![22.jpg.gif](/source/loj/2437/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjUvNWFiNjdlNjViMzNjMS5naWY=.gif)
 
 # 输入格式
 

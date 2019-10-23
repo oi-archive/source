@@ -53,31 +53,31 @@
 #### 样例说明 1
 开始：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YmU0ODE0Yi5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YmU0ODE0Yi5wbmc=.png" width="80%" />
 
 时刻 1：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YmVlYmRmZS5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YmVlYmRmZS5wbmc=.png" width="80%" />
 
 时刻 2：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzAxMjUzNi5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzAxMjUzNi5wbmc=.png" width="80%" />
 
 时刻 3：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzAxNjE0NC5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzAxNjE0NC5wbmc=.png" width="80%" />
 
 时刻 4：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzA2MTE2NS5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzA2MTE2NS5wbmc=.png" width="80%" />
 
 时刻 5：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzA2MDQxNi5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzA2MDQxNi5wbmc=.png" width="80%" />
 
 时刻 6：
 
-<img src="source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzIxZjE2MC5wbmc=.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzIxZjE2MC5wbmc=.png" width="80%" />
 
 #### 样例输入 2
 ```plain

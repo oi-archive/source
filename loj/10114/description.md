@@ -5,7 +5,7 @@
 
 天空中有一些星星，这些星星都在不同的位置，每个星星有个坐标。如果一个星星的左下方（包含正左和正下）有 $k$ 颗星星，就说这颗星星是 $k$ 级的。  
 
-![stars1.png](source/loj/10114/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDMvNWIzYjM1ZDE0MmY1Yy5wbmc=.png)
+![stars1.png](/source/loj/10114/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDMvNWIzYjM1ZDE0MmY1Yy5wbmc=.png)
 
 例如，上图中星星 $5$ 是 $3$ 级的（$1,2,4$ 在它左下），星星 $2,4$ 是 $1$ 级的。例图中有 $1$ 个 $0$ 级，$2$ 个 $1$ 级，$1$ 个 $2$ 级，$1$ 个 $3$ 级的星星。
 

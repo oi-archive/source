@@ -9,7 +9,7 @@
 - 被斜线分开的方格中，右上角的数字等于其右侧邻接之连续方格中数字之和，左下角的数字等于其下方邻接之连续方格中数字之和。
 - 无论是横向还是纵向，连续方格中的数字不能重复。
 
-![冬令营I试_2_1.png](source/loj/3141/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMy81Y2U2MjBhZmMwNjQ4LnBuZw==.png)![冬令营I试_2_2.png](source/loj/3141/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMy81Y2U2MjBiMDY1N2MyLnBuZw==.png)
+![冬令营I试_2_1.png](/source/loj/3141/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMy81Y2U2MjBhZmMwNjQ4LnBuZw==.png)![冬令营I试_2_2.png](/source/loj/3141/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8yMy81Y2U2MjBiMDY1N2MyLnBuZw==.png)
 
 左边为一个 Kakuro 游戏，右边为这个游戏的唯一解。
 

@@ -5,7 +5,7 @@
 
 线段树的核心是懒标记，下面是一个带懒标记的线段树的伪代码，其中 `tag` 数组为懒标记：
 
-<img width="800px" src="source/loj/3043/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2EyMTNiZDBhNDllLnBuZw==.png">
+<img width="800px" src="/source/loj/3043/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2EyMTNiZDBhNDllLnBuZw==.png">
 
 其中函数 $\texttt{Lson}(\text{Node})$ 表示 $\text{Node}$ 的左儿子，$\texttt{Rson}(\text{Node})$ 表示 $\text{Node}$ 的右儿子。
 
@@ -43,7 +43,7 @@
 #### 样例说明
 $[1, 5]$ 上的线段树如下图所示：
 
-<center><img width="600px" src="source/loj/3043/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2EyMTNiMjE0N2I4LnBuZw==.png"></center>
+<center><img width="600px" src="/source/loj/3043/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2EyMTNiMjE0N2I4LnBuZw==.png"></center>
 
 在第一次询问时，可怜手上有一棵线段树，它所有点上都没有标记，因此答案为 $0$。
 

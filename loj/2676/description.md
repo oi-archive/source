@@ -40,7 +40,7 @@ Wolf 希望使 BEAR 离蜂蜜仓库越远越好。你需要求出最大的距离
 ```
 
 #### 样例解释
-![](source/loj/2676/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDMvNWIxMzVlYzUzZDAzOS5wbmc=.png)
+![](/source/loj/2676/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDMvNWIxMzVlYzUzZDAzOS5wbmc=.png)
 
 # 数据范围与提示
 

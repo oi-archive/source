@@ -11,7 +11,7 @@
 我们知道每条管道的流量 $X_i$，即从父亲结点经过这条管道流到儿子结点的液体百分比。  
 让我们来研究一下这个例子：
 
-![Example](source/loj/3015/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8wMy81YzdiNDA2YmI1ODU3LnBuZw==.png)
+![Example](/source/loj/3015/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMy8wMy81YzdiNDA2YmI1ODU3LnBuZw==.png)
 
 图中，结点 $1$ 有着 $12$ 升液体和两条管道连接。其中一条管道 $X_i = 30$，另一条 $X_i = 70$。  
 那么，结点 $2$ 将会获得 $3.6$ 升液体，结点 $3$ 将会获得 $8.4$ 升液体。  

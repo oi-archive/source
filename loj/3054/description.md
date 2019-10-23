@@ -5,7 +5,7 @@
 
 下图就是一个合法的鱼的例子：
 
-![fish.png](source/loj/3054/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4NzQ1ZGE2MWE0LnBuZw==.png)
+![fish.png](/source/loj/3054/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4NzQ1ZGE2MWE0LnBuZw==.png)
 
 其中点的组成相同，但顺序不同的鱼视为不同的鱼，即 $\langle A,B,C,D,E,F\rangle$ 和 $\langle A,C,B,D,E,F\rangle$ 视为不同的两条鱼（毕竟鱼也有背和肚子的两面），同理 $\langle A,B,C,D,E,F\rangle$ 和 $\langle A,B,C,D,F,E\rangle$ 也可以视为不同的两条鱼（假设鱼尾巴可以打结）。
 

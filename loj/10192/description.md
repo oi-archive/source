@@ -39,7 +39,7 @@
 #### 样例说明
 下图展示了对于样例输入的最佳伐木场设置位置，树木用一个圆表示，伐木场用黑色标出。结果为：
 
-![](source/loj/10192/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvdHdvLnBuZw==.png)
+![](/source/loj/10192/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvdHdvLnBuZw==.png)
 
 # 数据范围与提示
 

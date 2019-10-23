@@ -7,7 +7,7 @@
 
 安娜周边有 $N$ 个路口，编号为 $1\ldots N$，还有 $M$ 条单向道路连接它们。已知每条路上的商店会卖哪些材料，保证每条路上的商店至少会卖（上述四种材料中）的一种。
 
-<center><img src="source/loj/2965/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGQ3N2NiOWJhMS5wbmc=.png" width="200px"/></center>
+<center><img src="/source/loj/2965/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGQ3N2NiOWJhMS5wbmc=.png" width="200px"/></center>
 
 安娜穿过一条道路时，如果她进入了这条路上的商店（不一定买东西，她可能只是去比比价格），则她通过这条路耗时 $2$ 分钟，否则耗时 $1$ 分钟。
 

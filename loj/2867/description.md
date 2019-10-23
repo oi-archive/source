@@ -66,7 +66,7 @@ int64 ask(int[] w)
 
 评测程序调用 `find_pair(4, [0, 0, 0, 1], [1, 2, 3, 2], 1, 3)`。
 
-![highway.png](source/loj/2867/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmVmNjQ4YzVlMC5wbmc=.png)
+![highway.png](/source/loj/2867/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmVmNjQ4YzVlMC5wbmc=.png)
 
 上图中，编号为 $i$ 的边对应高速公路 $i$。其中一些对 `ask` 的可能调用和对应的返回值如下表所示：
 

@@ -3,7 +3,7 @@
 
 小强要在 $N$ 个孤立的星球上建立起一套通信系统。这套通信系统就是连接 $N$ 个点的一个树。这个树的边是一条一条添加上去的。在某个时刻，一条边的负载就是它所在的当前能够联通的树上路过它的简单路径的数量。
 
-<img src="source/loj/2230/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkxMTcwNTMzYjEucG5n.png">
+<img src="/source/loj/2230/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkxMTcwNTMzYjEucG5n.png">
 
 例如，在上图中，现在一共有五条边。其中，$(3,8)$ 这条边的负载是 $6$，因为有六条简单路径 $2-3-8,\ 2-3-8-7,\ 3-8,\ 3-8-7,\ 4-3-8,\ 4-3-8-7$ 路过了 $(3,8)$。
 

@@ -10,7 +10,7 @@
 
 请你作为玩家回答这些问题。下图是一个例子，灰色节点表示出现了异象石，加粗的边表示被选为连通异象石的边集。
 
-![stone.png](source/loj/10132/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDkvNWI0MmQ5MWU5ZjAwZi5wbmc=.png)
+![stone.png](/source/loj/10132/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDkvNWI0MmQ5MWU5ZjAwZi5wbmc=.png)
 
 # 输入格式
 

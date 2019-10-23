@@ -19,7 +19,7 @@ IOI 铁路是由 $N+2$ 个站点构成的直线线路。这条线路的车站从
 
 邮戳拉力赛的选手在 $0$ 号车站与 $N+1$ 号车站都只能停留一次。$1\dots N$ 号车站都可以访问任意多次。
  
-<img src="source/loj/2878/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTUvNWJjNDYzODUyYWNlOC5wbmc=.png" width="35%" />
+<img src="/source/loj/2878/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTUvNWJjNDYzODUyYWNlOC5wbmc=.png" width="35%" />
 
 现在给出有邮戳台的车站个数、乘坐电车移动一站的时间、在每个车站的上行电车站台、邮戳台、下行电车站台之间移动所消耗的时间，请你求出完成邮戳拉力赛的最短时间。
 这个时间包括从 $0$ 号车站出发，按下 $N$ 个邮戳后到达 $N+1$ 号车站的时间。无视等车的时间和按邮戳的时间。

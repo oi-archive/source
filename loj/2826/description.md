@@ -58,7 +58,7 @@ S...
 
 #### 样例解释 1
 
-![Fig1](source/loj/2826/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3BvcnRhbHMtZXhhbXBsZS5zdmc=.svg)
+![Fig1](/source/loj/2826/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3BvcnRhbHMtZXhhbXBsZS5zdmc=.svg)
 
 最快速的移动顺序如下：
 

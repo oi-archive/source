@@ -1,7 +1,7 @@
 
 # 题目描述
 
-<img src="source/loj/6477/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YmI1MDFiMC5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
+<img src="/source/loj/6477/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YmI1MDFiMC5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
 <div style="text-align: center">图片来自 John Fowler, Carol Highsmith, Richard Woodland</div>
 
 <br>

@@ -5,7 +5,7 @@
 
 你需要画出 $d$ 条路径以连接这 $d$ 对格子，每条路径由若干个竖直或水平的线段组成，路径不能走出网格，第 $i$ 条路径必须从数字 $i$ 所在的一个格子开始，并在另一个写着数字 $i$ 的格子结束，路径可以在某格的中心前进、左右转，但路径不能多次穿过同一个格子，两条不同的路径不能有公共点。格子允许不被经过。
 
-![number_link.png](source/loj/6382/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTg2OWUzNDFmMi5wbmc=.png)
+![number_link.png](/source/loj/6382/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTg2OWUzNDFmMi5wbmc=.png)
 
 给定这个网格，你需要构造一个合法的方案。如果不能，请输出 ```Impossible``` 。
 

@@ -42,7 +42,7 @@
 
 #### 样例解释
 
-![618.png](source/loj/2311/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTEvNWFjZGRhMDE0OTgwYi5wbmc=.png)
+![618.png](/source/loj/2311/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTEvNWFjZGRhMDE0OTgwYi5wbmc=.png)
 
 上图依次表示第 $1$ 至第 $5$ 天的情况，阴影表示不可用的码头。
 

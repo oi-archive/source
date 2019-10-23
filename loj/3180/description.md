@@ -55,7 +55,7 @@ Kenan 想要找出从第 $s$ 栋建筑的底部到第 $g$ 栋建筑的底部的�
 ```
 
 #### 样例解释 1
-![Description](source/loj/3180/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE5MGE5ODJhLnBuZw==.png)
+![Description](/source/loj/3180/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNWE5MGE5ODJhLnBuZw==.png)
 
 #### 样例输入 2
 ```plain

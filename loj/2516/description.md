@@ -77,7 +77,7 @@
 ```
 
 #### 样例解释 2
-![pic.png](source/loj/2516/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTgvNWFkNzI1MzI2ZGY2Zi5wbmc=.png)
+![pic.png](/source/loj/2516/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTgvNWFkNzI1MzI2ZGY2Zi5wbmc=.png)
 
 # 数据范围与提示
 

@@ -13,7 +13,7 @@
 
 以下给出一些**一定不是**小Q设计的公园线路图的例子：
 
-|<img width="200px" src="source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZTM0NTc5LnBuZw==.png" alt="graph1.png" title="graph1.png" />|<img width="200px" src="source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZGE2MWE4LnBuZw==.png" alt="graph2.png" title="graph2.png" />
+|<img width="200px" src="/source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZTM0NTc5LnBuZw==.png" alt="graph1.png" title="graph1.png" />|<img width="200px" src="/source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZGE2MWE4LnBuZw==.png" alt="graph2.png" title="graph2.png" />
 |:-:|:-:|
 |从 $1$ 号节点出发不能到达 $3$ 号节点|对于第 $1,4,5,6$ 号景点，存在六条两两没有公共边的路径：<br/>$1\rightarrow4$，$4\rightarrow5$，$5\rightarrow6$，$6\rightarrow1$，$4\rightarrow3\rightarrow6$，$1\rightarrow2\rightarrow5$ 连接这四个景点的每一对景点|
 
@@ -62,7 +62,7 @@
 
 公园的线路图如图所示。
 
-<center><img width="200px" src="source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZGU4YzI4LnBuZw==.png" alt="graph3.png" title="graph3.png" /></center>
+<center><img width="200px" src="/source/loj/3076/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZTZjZGU4YzI4LnBuZw==.png" alt="graph3.png" title="graph3.png" /></center>
 
 修改之前，最优方案为 $1$ 号景点使用西部主题，$2$ 号景点使用科幻主题，美观度之和为 $2+7+7=16$ 。
 

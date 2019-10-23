@@ -52,11 +52,11 @@
 
 移动过程如下：
 
-![若图片失效请下载附加文件](source/loj/2613/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjEzL3Rlc3RkYXRhL2Rvd25sb2FkL3B1enpsZTEucG5n.png)
+![若图片失效请下载附加文件](/source/loj/2613/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjEzL3Rlc3RkYXRhL2Rvd25sb2FkL3B1enpsZTEucG5n.png)
 
 第二次游戏，空白格子的初始位置是 $(1,2)$ （图中空白所示），游戏的目标是将初始位置在 $(2,2)$ 上的棋子（图中绿色圆圈所示）移动到目标位置  $(3,2)$ 上。
 
-![若图片失效请下载附加文件](source/loj/2613/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjEzL3Rlc3RkYXRhL2Rvd25sb2FkL3B1enpsZTIucG5n.png)
+![若图片失效请下载附加文件](/source/loj/2613/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjEzL3Rlc3RkYXRhL2Rvd25sb2FkL3B1enpsZTIucG5n.png)
 
 要将指定块移入目标位置，必须先将空白块移入目标位置，空白块要移动到目标位置，必然是从位置 $(2,2)$ 上与当前图中目标位置上的棋子交换位置，之后能与空白块交换位置的只有当前图中目标位置上的那个棋子，因此目标棋子永远无法走到它的目标位置，游戏无法完成。
 

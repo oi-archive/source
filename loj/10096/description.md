@@ -11,7 +11,7 @@ Banditji 计划实施 Siruseri 有史以来最惊天动地的 ATM 抢劫。他�
 
 例如，假设该城中有 $6$ 个路口，道路的连接情况如下图所示：
 
-![11.jpg](source/loj/10096/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTZiYjZiM2Y3YS5qcGc=.jpg)
+![11.jpg](/source/loj/10096/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTZiYjZiM2Y3YS5qcGc=.jpg)
 
 市中心在路口 $1$，由一个入口符号 $→$ 来标识，那些有酒吧的路口用双圈来表示。每个 ATM 机中可取的钱数标在了路口的上方。在这个例子中，Banditji 能抢劫的现金总数为 $47$，实施的抢劫路线是：$1-2-4-1-2-3-5$。
 

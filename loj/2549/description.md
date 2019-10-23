@@ -55,15 +55,15 @@
 #### 样例解释 1
 下图为第一组方案中两个部落的私人领地，点 $(0,0)$ 同时属于两个部落，因此会发生战争。
 
-<img width="200" src="source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyNjM4YmFiMS5wbmc=.png" alt="pic1" title="pic1" />
+<img width="200" src="/source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyNjM4YmFiMS5wbmc=.png" alt="pic1" title="pic1" />
 
 下图为第二组方案中两个部落的私人领地，没有点同时属于两个部落，因此不会发生战争。
 
-<img width="200" src="source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyOTNjZTZjYS5wbmc=.png" alt="pic2" title="pic2" />
+<img width="200" src="/source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyOTNjZTZjYS5wbmc=.png" alt="pic2" title="pic2" />
 
 下图为第三组方案中两个部落的私人领地，点 $(0,0)$ 同时属于两个部落，因此会发生战争。
 
-<img width="200" src="source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyYTRlMzU0NS5wbmc=.png" alt="pic3" title="pic3" />
+<img width="200" src="/source/loj/2549/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDEyYTRlMzU0NS5wbmc=.png" alt="pic3" title="pic3" />
 
 #### 样例 2
 见下发文件。

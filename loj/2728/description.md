@@ -42,7 +42,7 @@ JOI 教授为了进一步研究，想要知道城墙有多少种可能的情况�
 #### 样例说明 1
 在样例 $1$ 的情况下，城墙有以下 $4$ 种情况。画 $\times$ 的格子表示已知不存在城墙的格子。
 
-![09a21403b6ad516667cf908bd6d5dbb2.png](source/loj/2728/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8wOWEyMTQwM2I2YWQ1MTY2NjdjZjkwOGJkNmQ1ZGJiMi5wbmc=.png)
+![09a21403b6ad516667cf908bd6d5dbb2.png](/source/loj/2728/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy8wOWEyMTQwM2I2YWQ1MTY2NjdjZjkwOGJkNmQ1ZGJiMi5wbmc=.png)
 
 #### 输入样例 2
 ```plain

@@ -68,7 +68,7 @@ $n,m,t$（$t$ 的含义会在下面告诉你）
 6 7 2
 ```
 #### 样例说明 2
-![kxhEVg.png](source/loj/3026/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzAzLzA3L2t4aEVWZy5wbmc=.png)
+![kxhEVg.png](/source/loj/3026/img/aHR0cHM6Ly9zMi5heDF4LmNvbS8yMDE5LzAzLzA3L2t4aEVWZy5wbmc=.png)
 
 # 数据范围与提示
 

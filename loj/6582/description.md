@@ -43,11 +43,11 @@ ICPC 希望通过刺破防水布来解决他们的问题，以便雨水流入下
 #### 样例解释 1
 样例输入对应下图（其中绿色的线代表葡萄园的位置，黑色的细线代表防水布的位置）：
 
-![sample1.png](source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5Y2EyYmI2OGZhLnBuZw==.png)
+![sample1.png](/source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5Y2EyYmI2OGZhLnBuZw==.png)
 
 样例对应的一种最优解如下图（红色点代表刺穿的洞，蓝线代表雨的一条下落轨迹）：
 
-![sample2.png](source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5Y2EyZGEzMDMzLnBuZw==.png)
+![sample2.png](/source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5Y2EyZGEzMDMzLnBuZw==.png)
 
 #### 样例输入 2
 ```plain
@@ -64,11 +64,11 @@ ICPC 希望通过刺破防水布来解决他们的问题，以便雨水流入下
 #### 样例解释 2
 样例输入对应下图：
 
-![sample-2.png](source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZDVjNTExODAzLnBuZw==.png)
+![sample-2.png](/source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZDVjNTExODAzLnBuZw==.png)
 
 样例对应的一种最优解如下图（**请注意，虽然按照红线可以不用打任何洞，但它违反了至少有一些落入葡萄园的雨来自这个葡萄园的正上方这一原则，绿线的轨迹则是符合要求的**）：
 
-![sample2-explanation.png](source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZDVjNjExNDc2LnBuZw==.png)
+![sample2-explanation.png](/source/loj/6582/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOS81Y2I5ZDVjNjExNDc2LnBuZw==.png)
 
 # 数据范围与提示
 

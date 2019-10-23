@@ -38,7 +38,7 @@ Adnan 可以通过 $4$ 次对调而得到一个合法的排列。
 
 例如，他可以先对调 $1$ 和 $-1$，再对调 $1$ 和 $-2$，再对调 $-1$ 和 $-2$。最后对调 $-2$ 和 $2$。随后他就可以得到合法的排列 $[-2,2,-1,1]$。无法用少于 $4$ 次对调就得到合法的排列，因此输出 $4$。
 
-![shoes.png](source/loj/3175/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNGI1NzhmOTM0LnBuZw==.png)
+![shoes.png](/source/loj/3175/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wOS81ZDRkNGI1NzhmOTM0LnBuZw==.png)
 
 #### 样例输入 2
 ```plain

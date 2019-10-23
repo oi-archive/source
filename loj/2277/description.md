@@ -5,9 +5,9 @@
 
 考虑现在有一个无限大的空间，现在你在 $ (0, 0, 0) $，有三种位移操作。
 
-1. $ (x, y, z) \to (ax, y, z) $ 当且仅当 $ x \subseteq ax $；
-2. $ (x, y, z) \to (x, ay, z) $ 当且仅当 $ y \subseteq ay $；
-3. $ (x, y, z) \to (x, y, az) $ 当且仅当 $ z \subseteq az $。
+1. $ (x, y, z) \to (x', y, z) $ 当且仅当 $ x \subseteq x' $；
+2. $ (x, y, z) \to (x, y', z) $ 当且仅当 $ y \subseteq y' $；
+3. $ (x, y, z) \to (x, y, z') $ 当且仅当 $ z \subseteq z' $。
 
 由于来自东方的神秘力量，有些点被屏蔽了，也就是不能经过了。现在问你到某个点 $ (n, m, r) $ 的方案数，答案对 $ 998244353 $ 取模。
 

@@ -39,7 +39,7 @@ The only line of output must contain a decimal number: the total length of grid 
 ```
 
 #### 样例解释 1
-<img src="source/loj/2636/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjM2L3Rlc3RkYXRhL2Rvd25sb2FkLzEuUE5H.PNG" width="50%">
+<img src="/source/loj/2636/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjM2L3Rlc3RkYXRhL2Rvd25sb2FkLzEuUE5H.PNG" width="50%">
 
 符合要求的竖线之长为 $\frac{4}{3} + \frac{8}{3} =4$，横线之长为 $3+2+1=6$。总长 $4+6=10$。
 
@@ -62,7 +62,7 @@ The total length is 4 + 6 = 10.
 ```
 
 #### 样例解释 2
-<img src="source/loj/2636/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjM2L3Rlc3RkYXRhL2Rvd25sb2FkLzIuUE5H.PNG" width="50%">
+<img src="/source/loj/2636/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjM2L3Rlc3RkYXRhL2Rvd25sb2FkLzIuUE5H.PNG" width="50%">
 
 符合要求的竖线之长为 $1+2+4=7$，横线之长为 $\frac{9}{4}+\frac{3}{2}+\frac{7}{4}=5.5$。总长 $7+5.5=12.5$。
 

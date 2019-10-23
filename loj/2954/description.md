@@ -13,7 +13,7 @@
 
 例如：在下面这个矩形中，只有两条路径是合法的，它们分别是 $P_1:(0,0)\to (0,1)\to (1,1), \ P_2:(0,0)\to (1,0)\to (1,1)$。
 
-![game.png](source/loj/2954/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRhM2UwNDJlZi5wbmc=.png)
+![game.png](/source/loj/2954/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRhM2UwNDJlZi5wbmc=.png)
 
 对于一条合法的路径 $P$，我们可以用一个字符串 $w(P)$ 来表示，该字符串的长度为 $n+m-2$，其中只包含字符 `R` 或者字符 `D`，第 $i$ 个字符记录了路径 $P$ 中第 $i$ 步的移动方法，`R` 表示移动到当前格子右边与它相邻的格子，`D` 表示移动到当前格子下面与它相邻的格子。例如，上图中对于路径 $P_1$，有 $w(P_1)=\texttt{RD}$；而对于另一条路径 $P_2$，有 $w(P_2)=\texttt{DR}$。
 
@@ -48,7 +48,7 @@
 
 #### 样例说明 1
 
-![game2.png](source/loj/2954/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRiYjkyZDg4NC5wbmc=.png)
+![game2.png](/source/loj/2954/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTRiYjkyZDg4NC5wbmc=.png)
 
 对于 $2\times 2$ 棋盘，有上图所示的 $12$ 种填数方法满足要求。
 

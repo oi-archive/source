@@ -47,7 +47,7 @@ int count_common_roads(int[] r)
 find_roads(4, [0, 0, 0, 1, 1, 2], [1, 2, 3, 2, 3, 3])
 ```
 
-![IOI2017-simurgh-desc.png](source/loj/3173/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yOS81ZDNlZDI3NjljN2VjLnBuZw==.png)
+![IOI2017-simurgh-desc.png](/source/loj/3173/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yOS81ZDNlZDI3NjljN2VjLnBuZw==.png)
 
 这个例子中有 $4$ 个城市和 $6$ 条道路。我们将连接城市 $a$ 和 $b$ 的道路表示为 $(a, b)$。这些道路按照下面的顺序被标为从 $0$ 到 $5$：$(0, 1)$，$(0, 2)$，$(0, 3)$，$(1, 2)$，$(1, 3)$ 和 $(2, 3)$。每个黄金集合包含 $n-1=3$ 条道路。
 

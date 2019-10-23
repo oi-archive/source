@@ -64,10 +64,10 @@ DX3906 星系黑域纪元公元 3333 年，万有引力号找到了一个十分�
 
 按照样例中的顺序，可视化结果如下所示
 
-![01.png](source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjcxZjJjMC5wbmc=.png)
-![02.png](source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjczOTcyYS5wbmc=.png)
-![03.png](source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjczYjQzMy5wbmc=.png)
-![04.png](source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjc1MmJlNC5wbmc=.png)
+![01.png](/source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjcxZjJjMC5wbmc=.png)
+![02.png](/source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjczOTcyYS5wbmc=.png)
+![03.png](/source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjczYjQzMy5wbmc=.png)
+![04.png](/source/loj/2982/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjNiNjc1MmJlNC5wbmc=.png)
 
 对于第 $4$ 组数据，由于篇幅原因，$8$ 种方案无法一一呈现到此处；
 

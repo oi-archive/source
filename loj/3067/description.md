@@ -3,7 +3,7 @@
 
 **译自 [ROI 2016](http://neerc.ifmo.ru/school/archive/2015-2016.html) Day2 T4.** ***[Тренажёр «10<sub>2</sub>-пальцевый набор»](http://neerc.ifmo.ru/school/archive/2015-2016/ru-olymp-roi-2016-day2.pdf)***
 
-<center><img src="source/loj/3067/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNS81Y2RjMjA3ZjljYWMzLmpwZw==.jpg" width="40%">
+<center><img src="/source/loj/3067/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNS81Y2RjMjA3ZjljYWMzLmpwZw==.jpg" width="40%">
 </center>
 
 未来的机器人码农一定学过二指禅。为了帮助码农们精通二指禅，某打字软件推出了一种新的练习方法。

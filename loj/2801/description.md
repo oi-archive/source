@@ -51,7 +51,7 @@ RMT 正在以志愿者对他们的系统进行负载测试。测试从每一站�
 ### 样例解释 1
 地铁系统如下图所示，地铁站编号为 $1$ 到 $5$，由编号为 $1$ 或 $2$ 的线路连接：
 
-![](source/loj/2801/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTYvNWI3NGU0MTkxNjM0MS5wbmc=.png)
+![](/source/loj/2801/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTYvNWI3NGU0MTkxNjM0MS5wbmc=.png)
 
 开始时，每个地铁站的志愿者人数为 $\{1,2,3,4,5\}$。
 
@@ -89,7 +89,7 @@ RMT 正在以志愿者对他们的系统进行负载测试。测试从每一站�
 #### 样例解释 2
 地铁系统如下图所示，地铁站编号为 $1$ 到 $3$，只有线路 $1$ 连接：
 
-![](source/loj/2801/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTYvNWI3NGU1NjYxN2FkMC5wbmc=.png)
+![](/source/loj/2801/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTYvNWI3NGU1NjYxN2FkMC5wbmc=.png)
 
 第一次询问之前，每个地铁站的志愿者人数为 $\{114,101,109\}$。
 

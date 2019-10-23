@@ -43,7 +43,7 @@
 
 如下图，1 号地毯用实线表示，2 号地毯用虚线表示，3 号用双实线表示，覆盖点（2， 2）的最上面一张地毯是 3 号地毯。 
 
-![若图片失效请下载附加文件](source/loj/2596/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTk2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzEucG5n.png)
+![若图片失效请下载附加文件](/source/loj/2596/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTk2L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzEucG5n.png)
 
 #### 样例输入 2
 ```plain

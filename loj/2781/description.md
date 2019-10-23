@@ -46,7 +46,7 @@
 
 下图展示了每个游客的入口和可能的路线：
 
-![](source/loj/2781/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTEvNWI2ZTMwYzRiNWEzNS5wbmc=.png)
+![](/source/loj/2781/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTEvNWI2ZTMwYzRiNWEzNS5wbmc=.png)
 
 对于每个子任务，$4k \leq w,h \leq 10^9$，$k$表示最大的游客半径。
 

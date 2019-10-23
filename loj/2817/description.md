@@ -1,18 +1,18 @@
 
 # 题目描述
 
-**本题译自 [eJOI2018](http://ejoi2018.org/) Problem E「Prime Tree」**
+**本题译自 [eJOI2018](http://ejoi2018.org/) Problem E.** ***Prime Tree***
 
 设有一棵有 $n$ 个结点的树，其结点编号为 $1$ 到 $n$ 。  
 对于其中的任意一条边 $(u, v)$ ，如果存在一个正整数 $d>1$ 满足 $ d \mid u, d\mid v$ ，我们称它为一条**坏的边**。  
 下图中的树有三条坏的边—— $(6, 4)$（都被 $2$ 整除）， $(2, 6)$（都被 $2$ 整除）， $(3, 6)$（都被 $3$ 整除）。
 
-![](source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjMzYTRjZWIzOC5wbmc=.png)
+![](/source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjMzYTRjZWIzOC5wbmc=.png)
 
 你的任务是将结点重新编号，使得图中坏的边的数量尽量少。  
 对于上图中的树，按照下图中的方式将结点重新编号，会只剩一条坏的边 $(3, 6)$ 。
 
-![](source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjMzYTRjZmViZi5wbmc=.png)
+![](/source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjMzYTRjZmViZi5wbmc=.png)
 
 重新编号后，坏的边越少，你的得分越高。
 
@@ -91,12 +91,12 @@
 
 **对于所有的测试点，保证存在 $X=0$ 的输出。**
 
-**注意，由于LOJ计分方式特殊，各个测试点显示的得分为实际得分的 $10$ 倍。**
+**注意，由于 LOJ 计分方式特殊，各个测试点显示的得分为实际得分的 $10$ 倍。**
 
 #### 数据限制
 - 对于测试点 1 （输入 `01`），$T=3, n=7$，三棵树分别如下所示：
 
-![](source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjVlZGYzMDY0Ny5wbmc=.png)
+![](/source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjVlZGYzMDY0Ny5wbmc=.png)
 
 - 对于测试点 4 至 8 （输入 `04` 至 `08`），输入数据有特殊性质（如叶子结点较多，是二叉树等），且这些具有特殊性质的树在各个测试点中输入数据均匀分布。
 

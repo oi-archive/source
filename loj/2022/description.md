@@ -35,7 +35,7 @@
 ```
 
 #### 样例解释一
-<img src="source/loj/2022/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE3LzU4ZjQxYTEyODllMDEuanBn.jpg" width="800px"/>
+<img src="/source/loj/2022/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE3LzU4ZjQxYTEyODllMDEuanBn.jpg" width="800px"/>
 
 
 #### 样例输入二
@@ -56,7 +56,7 @@
 ```
 
 #### 样例解释二
-<img src="source/loj/2022/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE3LzU4ZjQxYTEyYmExZGQuanBn.jpg" width="800px"/>
+<img src="/source/loj/2022/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE3LzU4ZjQxYTEyYmExZGQuanBn.jpg" width="800px"/>
 
 
 # 数据范围与提示

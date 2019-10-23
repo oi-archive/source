@@ -5,7 +5,7 @@
 
 我们用一根树枝两端连接的节点编号描述一根树枝的位置。一棵有四根树枝的苹果树，因为树枝太多了，需要剪枝。但是一些树枝上长有苹果，给定需要保留的树枝数量，求最多能留住多少苹果。
 
-![tree.png](source/loj/10153/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDEvNWI2MTcyNTE4NWZkMi5wbmc=.png)
+![tree.png](/source/loj/10153/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDEvNWI2MTcyNTE4NWZkMi5wbmc=.png)
 
 
 # 输入格式

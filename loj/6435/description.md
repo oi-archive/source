@@ -48,7 +48,7 @@
 
 #### 样例解释
 
-样例对应的无向图如下：<img src="source/loj/6435/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDUvNWIxNjNkYzQ3MGY1OS5wbmc=.png" width=768 height=256 />
+样例对应的无向图如下：<img src="/source/loj/6435/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDUvNWIxNjNkYzQ3MGY1OS5wbmc=.png" width=768 height=256 />
 
 # 数据范围与提示
 

@@ -40,7 +40,7 @@
 #### 样例解释
 
 
-![example](source/loj/2751/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA2L1ByZ0J3US5wbmc=.png)
+![example](/source/loj/2751/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA2L1ByZ0J3US5wbmc=.png)
 
 # 数据范围与提示
 

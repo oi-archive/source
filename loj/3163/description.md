@@ -47,7 +47,7 @@
 
 #### 样例解释 1
 这组样例如下图所示：
-![](source/loj/3163/img/aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9wcmVkb3dubG9hZGVkL2ZjL2MwL2ZjYzA2MTlkOTAzN2ZiOGFkYmQ5NzliMTE3MDhmZjg4ZmQ0YzMyNTcucG5n.png)
+![](/source/loj/3163/img/aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9wcmVkb3dubG9hZGVkL2ZjL2MwL2ZjYzA2MTlkOTAzN2ZiOGFkYmQ5NzliMTE3MDhmZjg4ZmQ0YzMyNTcucG5n.png)
 
 最左端图片是这棵树的初始状态，接下来的每张图表示在更新之后的情况。更改后的边权用绿色标记，直径用红色标记。
 

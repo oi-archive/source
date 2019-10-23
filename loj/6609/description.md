@@ -13,7 +13,7 @@
 
 于是恋恋给你打了个电话打算让你满足她的好奇心。
 
-![少女打call中...](source/loj/6609/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yOC81Y2M1NjhhOTliMmYxLmpwZw==.jpg)
+![少女打call中...](https://loj-img.upyun.menci.memset0.cn/2019/04/28/5cc568a99b2f1.jpg)
 
 # 输入格式
 

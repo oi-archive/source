@@ -42,7 +42,7 @@ karl sofia
 ```
 #### 样例 1 解释
 
-<img src="source/loj/2774/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL2dnLnN2Zw==.svg" width = 50%>
+<img src="/source/loj/2774/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL2dnLnN2Zw==.svg" width = 50%>
 
 唯一的最优解如上图所示，图的上半部分为原图，底色为粉色的三个点为需要修改的边的起点；图的下半部分表示修改后的情况。
 

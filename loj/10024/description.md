@@ -5,7 +5,7 @@
 
 质数方阵是一个 $5\times 5$ 的方阵，每行、每列、两条对角线上的数字可以看作是五位的素数。方格中的行按照从左到右的顺序组成一个素数，而列按照从上到下的顺序。两条对角线也是按照从左到右的顺序来组成。这些素数每一位上的数之和必须相等。 左上角的数字是预先定好的。 一个素数可能在方阵中重复多次。不计含有前导 $0$ 的五位素数，如 $00003$ 不是五位素数。  
 
-![](source/loj/10024/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzY2FiOGEwMTBjMi5wbmc=.png)
+![](/source/loj/10024/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDQvNWIzY2FiOGEwMTBjMi5wbmc=.png)
 
 给出每一位上的数之和，以及左上角的数字，请输出方阵所有可能的填数方案。  
 如果不只有一个解，将它们全部输出（按照这 $25$ 个数字组成的 $25$ 位数的大小排序）。 

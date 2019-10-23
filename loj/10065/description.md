@@ -11,7 +11,7 @@
 
 例如，对于下面三座村庄：
 
-![Picture1](source/loj/10065/img/aHR0cHM6Ly9taWFvLnN1L2ltYWdlcy8yMDE4LzA3LzMwLzEwMDY1NmFjMjgucG5n.png)
+![Picture1](/source/loj/10065/img/aHR0cHM6Ly9taWFvLnN1L2ltYWdlcy8yMDE4LzA3LzMwLzEwMDY1NmFjMjgucG5n.png)
 
 其中 $|AB|= 10, |BC|= 20, |AC|= 10\sqrt{5}≈22.36$
 

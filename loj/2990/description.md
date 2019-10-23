@@ -9,7 +9,7 @@
 
 举例来说： 下图中 $v_2 \to v_4 \to v_1 \to v_2$ 是一条单调上升路径，因为每条边的权值依次为 $1,2,4$。这条路径的长度为 $3$。更进一步的，你可以验证下图中所有的单调上升路径的长度都不超过 $3$。
 
-![daydayup1.png](source/loj/2990/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTAvNWM2MDE0NzFkOGEwNS5wbmc=.png)
+![daydayup1.png](/source/loj/2990/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTAvNWM2MDE0NzFkOGEwNS5wbmc=.png)
 
 下面的结论指出在某些图中总会存在一个比较长的单调上升路径：
 

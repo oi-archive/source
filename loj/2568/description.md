@@ -3,14 +3,14 @@
 
 烟花表演是最引人注目的节日活动之一。在表演中，所有的烟花必须同时爆炸。为了确保安全，烟花被安置在远离开关的位置上，通过一些导火索与开关相连。导火索的连接方式形成一棵树，烟花是树叶，如**图 1**所示。火花从开关出发，沿导火索移动。每当火花抵达一个分叉点时，它会扩散到与之相连的所有导火索，继续燃烧。导火索燃烧的速度是一个固定常数。**图 1**展示了六枚烟花 $\{E_1, E_2, \ldots, E_6 \}$ 的连线布局，以及每根导火索的长度。图中还标注了当在时刻 $0$ 从开关点燃火花时，每一发烟花的爆炸时间。
 
-![图 1](source/loj/2568/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTYvNWFmYzI4NjQ5Y2VhZS5qcGc=.jpg)
+![图 1](/source/loj/2568/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTYvNWFmYzI4NjQ5Y2VhZS5qcGc=.jpg)
 
 <center>图 1</center>
 <br>
 
 Hyunmin 为烟花表演设计了导火索的连线布局。不幸的是，在他设计的布局中，烟花不一定同时爆炸。我们希望修改一些导火索的长度，让所有烟花在同一时刻爆炸。例如，为了让**图 1**中的所有烟花在时刻 $13$ 爆炸，我们可以像**图 2**中左边那样调整导火索长度。类似地，为了让**图 1**中的所有烟花在时刻 $14$ 爆炸，我们可以像**图 2**中右边那样调整长度。
 
-![图 2](source/loj/2568/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTYvNWFmYzI4NjQ5Y2YwMC5qcGc=.jpg)
+![图 2](/source/loj/2568/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTYvNWFmYzI4NjQ5Y2YwMC5qcGc=.jpg)
 
 <center>图 2</center>
 <br>

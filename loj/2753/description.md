@@ -9,25 +9,25 @@ Lucy 想要接住一些雨滴，但她只有有限的工具。她有一套不同
 
 举个例子，如果 Lucy 有高度分别为 $(1, 5, 2, 1, 4)$ 的五根柱子，她可以这样排列柱子。
 
-![e](source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM1VvUS5wbmc=.png)
+![e](/source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM1VvUS5wbmc=.png)
 
 这样会接住 $5R$ 雨滴（$R$ 代表 $1$ 个单位的雨滴）。
 
 **为了方便表述，我们定义 $R$ 为雨滴的单位。**
 
-![e](source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM3dKcy5wbmc=.png)
+![e](/source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM3dKcy5wbmc=.png)
 
 当然了，她也可以这样摆放柱子，这样可以接住 $6R$ 雨滴。
 
-![e](source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM05kZy5wbmc=.png)
+![e](/source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM05kZy5wbmc=.png)
 
 再举一个例子，如果柱子的高度分别为 $(5,1,5,1,5)$，Lucy 可以接住 $8R$ 雨滴。
 
-![e](source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM2Rpai5wbmc=.png)
+![e](/source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM2Rpai5wbmc=.png)
 
 最后一个例子，如果柱子的高度分别为 $(5,1,4,1,5)$，她可以接住 $9R$ 雨滴。
 
-![e](source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM3RlUy5wbmc=.png)
+![e](/source/loj/2753/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzA3L1BzM3RlUy5wbmc=.png)
 
 Lucy 有 $N$ 个高度为 $h_1,h_2,...h_N$ 的柱子。她想知道，在所有可能的摆放方案中，所有可能的雨滴量（以 $R$ 为单位）是多少。（具体可看样例解释）
 

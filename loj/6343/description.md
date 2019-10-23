@@ -45,7 +45,7 @@ $ n $ 为地砖上的圆点数，$ m $ 为连接圆点的边的数量，$ q $ �
 82
 ```
 #### 样例解释
-![sally.png](source/loj/6343/img/aHR0cHM6Ly9lbmtlcmV3cG8uZ2l0aHViLmlvL2ltYWdlcy9zYWxseS5wbmc=.png)
+![sally.png](/source/loj/6343/img/aHR0cHM6Ly9lbmtlcmV3cG8uZ2l0aHViLmlvL2ltYWdlcy9zYWxseS5wbmc=.png)
 
 __询问 $1$__ ：
 

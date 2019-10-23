@@ -1,7 +1,7 @@
 
 # 题目描述
 
-<img src="source/loj/6475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjkxZjdhNi5qcGc=.jpg" alt="" style="width: 1000px; display: block; margin: 0 auto;">
+<img src="/source/loj/6475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjkxZjdhNi5qcGc=.jpg" alt="" style="width: 1000px; display: block; margin: 0 auto;">
 
 数字图像的像素可以用三个在 $0$ 到 $255$ 之间的整数表示，它们分别表示红色、绿色和蓝色的强度。为了压缩图片或是为了产生艺术效果，许多图像编辑工具收录了如下所述的“色调分离”操作。每个颜色通道会分别考虑，本题只考虑红色通道的情况。不同于在红色通道使用 $0$ 到 $255$ 之间全部的整数，一张色调分离后的图片只会使用这些数字里至多 $k$ 种整数。每个像素原来的红色强度会被替换成最相近的可用强度。图像编辑工具会选择 $k$ 个整数来最小化替换过程引起的平方误差之和。假设原图有 $n$ 个像素，它们的红色取值是 $r_1$, $\cdots$, $r_n$，而 $k$ 种可用整数为 $v_1$, $\cdots$, $v_k$ ，那么平方误差之和被定义为
 

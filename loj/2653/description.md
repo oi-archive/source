@@ -1,7 +1,7 @@
 
 # 题目描述
 
-给定一个 $n \times n$ 的网格状地图，每个方格 $(i,j)$有一个高度 $w_{ij}$。如果两个方格有公共顶点，则它们是相邻的。
+给定一个 $n \times n$ 的网格状地图，每个方格 $(i,j)$ 有一个高度 $w_{ij}$。如果两个方格有公共顶点，则它们是相邻的。
 
 定义山峰和山谷如下：
 * 均由地图上的一个连通块组成；
@@ -38,7 +38,7 @@
 ```
 
 #### 样例解释 1
-![](source/loj/2653/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vcmQ2SDA1RG04TUU3OXNPM1U5X2ZfZ2FfL3NpdGUvaW1hZ2VzL09JMTQvZ3J6emFkMS5naWY=.gif)
+![](/source/loj/2653/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vcmQ2SDA1RG04TUU3OXNPM1U5X2ZfZ2FfL3NpdGUvaW1hZ2VzL09JMTQvZ3J6emFkMS5naWY=.gif)
 
 #### 样例输入 2
 ```plain
@@ -56,7 +56,7 @@
 ```
 
 #### 样例解释 2
-![](source/loj/2653/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vcmQ2SDA1RG04TUU3OXNPM1U5X2ZfZ2FfL3NpdGUvaW1hZ2VzL09JMTQvZ3J6emFkMi5naWY=.gif)
+![](/source/loj/2653/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vcmQ2SDA1RG04TUU3OXNPM1U5X2ZfZ2FfL3NpdGUvaW1hZ2VzL09JMTQvZ3J6emFkMi5naWY=.gif)
 
 # 数据范围与提示
 

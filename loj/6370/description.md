@@ -33,7 +33,7 @@
 #### 样例解释 1
 样例 1 的一个最优情况如下所示。
 
-![Sample 1](source/loj/6370/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMDYvMDcvMDYwNzY0MmZhOTk1OWE2NDA4OTIwYmFhM2MzY2QwZWMzOWI4NWI0OS5wbmc=.png)
+![Sample 1](/source/loj/6370/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMDYvMDcvMDYwNzY0MmZhOTk1OWE2NDA4OTIwYmFhM2MzY2QwZWMzOWI4NWI0OS5wbmc=.png)
 
 在第 $3$ 天必须有一个新的标记是因为若不然，第 $4$ 天不能有 $3$ 个水面上的标记。水面以下的标记数目之和为 $0 + 0 + 2 + 0 + 3 + 1 = 6$。
 
@@ -49,7 +49,7 @@
 #### 样例解释 2
 样例 2 的一个最优情况如下所示。
 
-![Sample 2](source/loj/6370/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMjIvYjUvMjJiNTkwZDBhMDZlNDJlMjgxMjBiYzg4YjI5MTI4ZWU2ZmM2NjBhZS5wbmc=.png)
+![Sample 2](/source/loj/6370/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvMjIvYjUvMjJiNTkwZDBhMDZlNDJlMjgxMjBiYzg4YjI5MTI4ZWU2ZmM2NjBhZS5wbmc=.png)
 
 #### 样例输入 3
 ```plain

@@ -12,23 +12,23 @@ JOI 高中的学生们很喜欢彩灯的交替列（亮的彩灯和不亮的彩�
 #### 例子
 例如，彩灯从西向东依次为：
 
-![TIM20180807230724.png](source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDcyNC5wbmc=.png)
+![TIM20180807230724.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDcyNC5wbmc=.png)
 
 （$ ○ $ 表示亮的彩灯， $ ● $ 表示不亮的彩灯）。此时，对从第 $ 4 $ 个彩灯到第 $ 7 $ 个彩灯进行操作。
 
-![TIM20180807230736.png](source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDczNi5wbmc=.png)
+![TIM20180807230736.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDczNi5wbmc=.png)
 
 这样，第 $ 2 $ 个彩灯到第 $ 8 $ 个彩灯之间的彩灯组成了长为 $ 7 $ 的交替列。
 
-![TIM20180807230748.png](source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDc0OC5wbmc=.png)
+![TIM20180807230748.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDc0OC5wbmc=.png)
 
 另外，可以对第 $ 8 $ 个彩灯进行操作。
 
-![TIM20180807230754.png](source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDc1NC5wbmc=.png)
+![TIM20180807230754.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDc1NC5wbmc=.png)
 
 这样，第 $ 4 $ 个彩灯到第 $ 10 $ 个彩灯之间的彩灯组成了长为 $ 7 $ 的交替列。
 
-![TIM20180807230804.png](source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDgwNC5wbmc=.png)
+![TIM20180807230804.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDgwNC5wbmc=.png)
 
 使用一次此机器不可能有长度为 $ 8 $ 或以上的交替列。
 

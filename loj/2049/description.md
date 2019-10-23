@@ -95,7 +95,7 @@
 #### 样例解释
 样例给出的树如下所示：
 
-![C5noxf.png](source/loj/2049/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA1LzI5L0M1bm94Zi5wbmc=.png)
+![C5noxf.png](/source/loj/2049/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA1LzI5L0M1bm94Zi5wbmc=.png)
 
 解释其中的部分询问；下面的解释中用 $ (a, b ; t, v) $ 表示在 $ t $ 时刻出现的服务器 $ a $ 和 $ b $ 之间的重要度为 $ v $ 的请求：  
 对于第一个询问（在时刻 $ 1 $），此时没有任何请求，输出 $ -1 $。  

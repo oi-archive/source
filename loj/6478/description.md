@@ -1,7 +1,7 @@
 
 # 题目描述
 
-<img src="source/loj/6478/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjkxZjgyYy5qcGc=.jpg" alt="" style="width: 300px; display: block; margin: 0 auto;">
+<img src="/source/loj/6478/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjkxZjgyYy5qcGc=.jpg" alt="" style="width: 300px; display: block; margin: 0 auto;">
 
 你现在可能已经听说过 Rushmore 山上有一个壮观的石雕刻画了四位著名的美国总统。然而，很少有人知道这个纪念雕刻暗藏一个秘密的房间。这听起来像是一部好莱坞电影的情节，但是这个房间是真实存在的。它藏在 Abraham Lincoln 的头后面，它被设计成一个档案库，用来存放美国历史上重要的文件与文物。历史学家声称这个档案库的建造在 1939 年被中断，直到 20 世纪 90 年代末才能被访问，但这不是全部的真相。
 

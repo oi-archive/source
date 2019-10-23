@@ -3,11 +3,11 @@
 
 在字体排印学中，“川流”是由单词之间的间隙组成的连续几列的空格。如图所示为几个用红色高亮标出的“川流”（文本被有意模糊处理来凸显川流）：
 
-![流](source/loj/6408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTM1NzVhM2VlNC5wbmc=.png)
+![流](/source/loj/6408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTM1NzVhM2VlNC5wbmc=.png)
 
 知名川流机构 Flo Ng 希望他在新的关于世界河流的书上出现尽可能长的川流。他会使用一种单一字宽的字体（每个字母和空格都具有相同的宽度）且左对齐，单词之间恰用一个空格分隔。对 Flo 来说，一条“川流”指的是连续几行里的空格，且相邻空格在行里出现的位置的距离不超过 $1$。川流不能包含末尾的空格。每行的单词都必须尽可能地紧凑，但不能有单词被拆到两行里。行宽至少不能短于文本中最长的一个单词。下图是同一个文本使用不同行宽的一个例子。
 
-![2018-05-20 16-55-13 的屏幕截图.png](source/loj/6408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTM4MDNkMWNmZS5wbmc=.png)
+![2018-05-20 16-55-13 的屏幕截图.png](/source/loj/6408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjAvNWIwMTM4MDNkMWNmZS5wbmc=.png)
 
 给定文本，你需要求出一个行宽使得该文本最长的川流尽可能长。
 

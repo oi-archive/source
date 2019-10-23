@@ -58,7 +58,7 @@
 #### 样例说明
 样例数据如下图所示，盒子是一个正方体的形状，激光从右边照射过来，照射到右侧面上，并透射过右侧面照射到左侧面上，将左右两侧面上的两个三角形区域的细菌杀死。在照射到左右侧面后激光都会发生反射，但由于 $k=1$， 反射光线已不能将细菌杀死，所以不用考虑。
 
-![box.png](source/loj/2749/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDUzYWM1NWFlLnBuZw==.png)
+![box.png](/source/loj/2749/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDUzYWM1NWFlLnBuZw==.png)
 
 # 数据范围与提示
 

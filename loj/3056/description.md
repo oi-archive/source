@@ -53,11 +53,11 @@
 #### 样例说明 1
 以 $S_0$ 为初始状态，最少「旋转」次数为 $3$，有 $2$ 种方案，如下：
 
-![poly1.png](source/loj/3056/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4N2MzZTViZmU0LnBuZw==.png)
+![poly1.png](/source/loj/3056/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4N2MzZTViZmU0LnBuZw==.png)
 
 以 $S_1$ 为初始状态，最少「旋转」次数为 $3$，有 $1$ 种方案，如下：
 
-![poly2.png](source/loj/3056/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4N2MzZWVkNmUyLnBuZw==.png)
+![poly2.png](/source/loj/3056/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wNi81Y2E4N2MzZWVkNmUyLnBuZw==.png)
 
 #### 样例输入 2
 ```plain

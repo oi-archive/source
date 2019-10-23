@@ -52,7 +52,7 @@
 #### 样例说明 1
 绿线表示当前询问的汽车可以通过的桥梁。绿色顶点代表这辆车可以到达的岛屿。箭头指向汽车最初所在的岛屿。
 
-![bridge1.png](source/loj/3145/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMS81Y2ZmMzdjMDBiYmRmLnBuZw==.png)
+![bridge1.png](/source/loj/3145/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMS81Y2ZmMzdjMDBiYmRmLnBuZw==.png)
 
 #### 样例输入 2
 ```plain
@@ -90,7 +90,7 @@
 4
 ```
 #### 样例说明 2
-![bridge2.png](source/loj/3145/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMS81Y2ZmMzdjMDg2ZDJiLnBuZw==.png)
+![bridge2.png](/source/loj/3145/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNi8xMS81Y2ZmMzdjMDg2ZDJiLnBuZw==.png)
 
 # 数据范围与提示
 

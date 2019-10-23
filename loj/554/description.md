@@ -93,7 +93,7 @@ Output contains $q+1$ lines in total. The first one should contain a positive in
 
 下图描述 $G(p)$ 及一种染色方案：
 
-![sampleexp.png](source/loj/554/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjIvNWE4ZTMxZTJkNzE3OS5wbmc=.png)
+![sampleexp.png](/source/loj/554/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjIvNWE4ZTMxZTJkNzE3OS5wbmc=.png)
 
 <div class="lang-divider"></div>
 
@@ -123,7 +123,7 @@ Output contains $q+1$ lines in total. The first one should contain a positive in
 
 The following picture describes $G(p)$ and a way of coloring:
 
-![sampleexp.png](source/loj/554/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjIvNWE4ZTMxZTJkNzE3OS5wbmc=.png)
+![sampleexp.png](/source/loj/554/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMjIvNWE4ZTMxZTJkNzE3OS5wbmc=.png)
 
 # 数据范围与提示
 

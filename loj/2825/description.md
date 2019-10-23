@@ -57,7 +57,7 @@ Biteon 和 Byteon 希望使用一条在多边形上的直线，把整个图形�
 
 注意，$3\ 2\ 1\ 2$ 也是一种合法的方案。
 
-<img src="source/loj/2825/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3JlcDEucGRmLnN2Zw==.svg" height = 300px>
+<img src="/source/loj/2825/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3JlcDEucGRmLnN2Zw==.svg" height = 300px>
 
 #### 样例输入 2
 ```plain
@@ -80,7 +80,7 @@ NO
 
 这种情况下，找不到一组合法的解。
 
-<img src="source/loj/2825/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3JlcDIucGRmLnN2Zw==.svg" height = 125px>
+<img src="/source/loj/2825/img/aHR0cHM6Ly9naXRlZS5jb20vbWluZ3FpaHVhbmcvcGljcy9yYXcvbWFzdGVyL3JlcDIucGRmLnN2Zw==.svg" height = 125px>
 
 
 # 数据范围与提示

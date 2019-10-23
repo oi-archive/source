@@ -9,7 +9,7 @@
 
 如填满 $2×4$ 的网格有 $5$ 种不同的方案，填满 $3×2$ 的网格有 $3$ 种不同的方案。
 
-![img](source/loj/3090/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JlZjM2ODE4MjUyLnBuZw==.png)
+![img](/source/loj/3090/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JlZjM2ODE4MjUyLnBuZw==.png)
 
 如果奥术宝石的 $k$ 个核心的填充方式互不相同，它们就会组合出强大的咒术。黑袍想知道对于某个宝石一共有多少种不同的咒术（对于两种咒术组合，如果第一种咒术中每个核心 $a$ 的填充方式都可以找到第二种咒术的某个核心 $b$，使得 $a$ 和 $b$ 的填充方式完全相同，则认为这两种咒术组合相同）。
 

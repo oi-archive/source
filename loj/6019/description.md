@@ -29,7 +29,7 @@
 
 # 数据范围与提示
 
-<img src="source/loj/6019/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJkNzczNzQ3MmQuYm1w.bmp">
+<img src="/source/loj/6019/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJkNzczNzQ3MmQuYm1w.bmp">
 
 **UPD：2018.2.2 新加数据 3 组，已重测。**
 

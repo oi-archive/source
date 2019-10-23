@@ -39,7 +39,7 @@ e1 e1 s1 e2 s1 s2 e42 e1 s1
 
 方案如图所示。
 
-![img](source/loj/6580/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4NWNlNDY5MTFlLnBuZw==.png)
+![img](/source/loj/6580/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xOC81Y2I4NWNlNDY5MTFlLnBuZw==.png)
 
 #### 样例输入 2
 

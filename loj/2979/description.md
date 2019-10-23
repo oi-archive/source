@@ -13,7 +13,7 @@
 
 详情如下图：
 
-![1.png](source/loj/2979/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjJmMDFlMDMzNi5wbmc=.png)
+![1.png](/source/loj/2979/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjJmMDFlMDMzNi5wbmc=.png)
 
 现在，给定每个客人的限制（即每个人的新座位所在的区间），需要你设计一个方案，使得**所有客人消耗的体力和最小；本题中假设客人在移动的时候互不影响。**
 
@@ -62,7 +62,7 @@ for i <- 0 to n-1
 ```
 
 #### 样例说明 1
-![2.png](source/loj/2979/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjJmMDFkOTFhZS5wbmc=.png)
+![2.png](/source/loj/2979/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDEvMTYvNWMzZjJmMDFkOTFhZS5wbmc=.png)
 
 第 $0$ 桌的 $0$ 和 $3$ 号，以及第 $1$ 桌的 $0$ 号和 $2$ 号都被限制为只能坐在他们原来的桌子（可以不是原来的座位），其他人分别需要换到第 $1$ 桌和第 $0$ 桌；
 

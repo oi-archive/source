@@ -5,7 +5,7 @@
 
 旅途中一共有 $n$ 个城市，编号为 $1$ 到 $n$，城市之间有一些道路相连。其道路结构可以抽象为一棵仙人掌。如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。
 
-![what-is-cactus.png](source/loj/2475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODM4MWMyZDJkZC5wbmc=.png)
+![what-is-cactus.png](/source/loj/2475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODM4MWMyZDJkZC5wbmc=.png)
 
 白云对这些城市间的每条道路都有一个喜爱度。一条路径的喜爱度是其上所有道路的喜爱度的乘积。
 

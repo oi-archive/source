@@ -7,7 +7,7 @@ JOI 君马上要和妹妹 JOI 子和 JOI 美一起吃小吃。今天的小吃是
 
 年轮蛋糕是像下图一样呈圆筒形的蛋糕。为了把蛋糕分给三个人，JOI 君必须沿着半径方向切 $3$ 刀，从而把蛋糕分成三块。然而，由于年轮蛋糕硬得像实木一样，要让刀切进去并不简单。因此，这个年轮蛋糕上事先准备了 $N$ 个切口，而 JOI 君只能在有切口的位置下刀。切口按顺时针顺序编号为 $1$ 到 $N$，对于 $1\le i\le N-1$，第 $i$ 个切口和第 $i+1$ 个切口之间部分的大小是 $A_{i}$。第 $N$ 个切口和第 $1$ 个切口之间部分的大小是 $A_{N}$。
 
-![Baumkuchen1.png](source/loj/2758/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDQxM2IyZWQxLnBuZw==.png)
+![Baumkuchen1.png](/source/loj/2758/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDQxM2IyZWQxLnBuZw==.png)
 <div style='text-align: center; color: #999'> 图 1：一个年轮蛋糕的例子，$N=6,A_{1}=1,A_{2}=5,A_{3}=4,A_{4}=5,A_{5}=2,A_{6}=4$ </div> 
 
 妹控的 JOI 君在把蛋糕切成 $3$ 块之后，自己选走最小的一块吃掉，把剩下两块分给两个妹妹。而另一方面，JOI 君太喜欢年轮蛋糕了，只要能吃到的时候就会想吃很多很多。试求：JOI 君吃掉的蛋糕的大小至多不超过多少。
@@ -43,7 +43,7 @@ JOI 君马上要和妹妹 JOI 子和 JOI 美一起吃小吃。今天的小吃是
 
 #### 样例说明 1
 
-![Baumkuchen2.png](source/loj/2758/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDQxNzBlOGI5LnBuZw==.png)
+![Baumkuchen2.png](/source/loj/2758/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wMi8yNC81YzcyNDQxNzBlOGI5LnBuZw==.png)
 <div style='text-align: center; color: #999'> 图 2：从第 $1,3,5$ 个切口下刀时是最优解（即图中粗实线位置）。</div> 
 
 #### 输入样例 2

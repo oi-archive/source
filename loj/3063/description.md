@@ -5,7 +5,7 @@
 
 > ~~基于[斯特鲁伽茨基兄弟](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)的小说《[人烟之岛](https://en.wikipedia.org/wiki/Prisoners_of_Power)》。~~ 译者没时间翻译完整题面了，泥萌先甭看故事了
 
-<center><img src="source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNy81Y2I2Y2FiN2JiMTZlLnBuZw==.png" alt="roi16D1.sans.png" title="roi16D1.sans.png" width="33.3%" /></center>
+<center><img src="/source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNy81Y2I2Y2FiN2JiMTZlLnBuZw==.png" alt="roi16D1.sans.png" title="roi16D1.sans.png" width="33.3%" /></center>
 
 某地地形可用 $n$ 段折线来表示（下文称之为多段线），这 $n$ 段折线连接了 $n+1$ 个拐点，且保证没有垂直线。我们将拐点从左到右依次编为 $0\ldots n$ 号。我们将最左侧的点（即 $0$ 号点）设为原点，然后给出每一段的射影长度（即该线段的两个端点的横坐标之差）和斜率。保证 $n$ 号点的纵坐标为 $0.$
 
@@ -44,7 +44,7 @@
 ```
 
 #### 样例说明 1
-<center><img src="source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMjA3NDRjLnBuZw==.png" alt="sample1.png" title="sample1.png" width="60%"/></center>
+<center><img src="/source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMjA3NDRjLnBuZw==.png" alt="sample1.png" title="sample1.png" width="60%"/></center>
 
 #### 样例输入 2
 ```plain
@@ -67,7 +67,7 @@
 ```
 
 #### 样例说明 2
-<center><img src="source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMWJhZTEwLnBuZw==.png" alt="sample2.png" title="sample2.png" width="60%"/></center>
+<center><img src="/source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMWJhZTEwLnBuZw==.png" alt="sample2.png" title="sample2.png" width="60%"/></center>
 
 #### 样例输入 3
 ```plain
@@ -93,7 +93,7 @@
 ```
 
 #### 样例说明 3
-<center><img src="source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMjRiN2M0LnBuZw==.png" alt="sample3.png" title="sample3.png" width="60%"/></center>
+<center><img src="/source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMjRiN2M0LnBuZw==.png" alt="sample3.png" title="sample3.png" width="60%"/></center>
 
 #### 样例输入 4
 ```plain
@@ -121,7 +121,7 @@
 ```
 
 #### 样例说明 4
-<center><img src="source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMTcyOTJjLnBuZw==.png" alt="sample4.png" title="sample4.png" width="60%"/></center>
+<center><img src="/source/loj/3063/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yNC81Y2JmZGRiMTcyOTJjLnBuZw==.png" alt="sample4.png" title="sample4.png" width="60%"/></center>
 
 # 数据范围与提示
 

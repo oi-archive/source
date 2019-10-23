@@ -5,11 +5,11 @@
 
 激光发生器从正上方看是一个无穷大的平面，里面由一个定向激光发射装置和若干个激光偏转装置组成。一个激光发生器的示例如图所示，细箭头表示定向激光发射装置，粗线段表示激光偏转装置。
 
-![laser_desc_1.png](source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGEzZWI3ZTEucG5n.png)
+![laser_desc_1.png](/source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGEzZWI3ZTEucG5n.png)
 
 由定向激光发射装置发射出的激光可以看成是一条射线，如果遇到激光偏转装置就会发生偏转。奇特的是，SHTSC 所使用的激光偏转装置并非像传统的镜子那样遵循反射定律，而是对于每个激光偏转装置，有一个固定的偏转系数 $\lambda$，其出射角 $\beta$ 与入射角 $\alpha$ 的关系为 $\beta = \lambda \alpha$，并且能在这一过程中增强激光的能量。
 
-![laser_desc_2.png](source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGEzZWRhMjcucG5n.png)
+![laser_desc_2.png](/source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGEzZWRhMjcucG5n.png)
 
 注意：
 1. 入射角是入射光线和反射平面**法向量**的夹角。
@@ -48,7 +48,7 @@
 #### 样例解释
 如图所示，激光依次被 $1$ 号和 $2$ 号偏转装置偏转。
 
-![laser_sample_1.png](source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGE0MDg4ZjAucG5n.png)
+![laser_sample_1.png](/source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGE0MDg4ZjAucG5n.png)
 
 # 数据范围与提示
 

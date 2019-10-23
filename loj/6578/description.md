@@ -8,7 +8,7 @@
 
 由 ABC 建造的桥梁通常有间隔不同间距的柱子。出于美学原因，ABC 的桥梁总是有如图所示的半圆形拱门。然而，虽然桥拱可以接触地面，但它不能延伸到地面以下。这使得一些柱子的放置方案不可能实现。
 
-![](source/loj/6578/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0NjFiZTg5OTMzLnBuZw==.png)
+![](/source/loj/6578/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNS81Y2I0NjFiZTg5OTMzLnBuZw==.png)
 
 给定地形剖面图和期望的桥高 $h$，通常有许多方法来建造拱桥。  
 我们将地面剖面模型化为由 $n$ 个关键点 $(x_1, y_1), (x_2, y_2), \ldots, (x_n, y_n)$ 描述的分段线性函数，其中点的 $x$ 坐标是位置，$y$ 坐标是该位置的海拔高度。  

@@ -7,7 +7,7 @@
 
 每条分道的起始点有一个发令喇叭，不过不是播声音的。裁判皮了一下，把有些分道上的发令喇叭关掉了。
 
-<center><img src="source/loj/2849/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8wNi81Y2QwM2YyNmYzM2ZjLmpwZw==.jpg" alt="16A68F47291454A0D46AF2C75AC595D5.jpg" title="16A68F47291454A0D46AF2C75AC595D5.jpg" width="20%"/>
+<center><img src="https://loj-img.upyun.menci.memset0.cn/2019/05/06/5cd03f26f33fc.jpg" alt="16A68F47291454A0D46AF2C75AC595D5.jpg" title="16A68F47291454A0D46AF2C75AC595D5.jpg" width="20%"/>
 </center>
 <p style="text-align:center;color:grey">在田径运动中，选手身后的棱台就是发令喇叭</p>
 

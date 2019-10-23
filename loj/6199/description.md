@@ -13,21 +13,21 @@
 >把信拿去吧，你可以使假戏成真。  
 >我本来是无病呻吟，漫无目的的吐露爱情——现在这些漂泊不定的鸟儿有地方栖息了，你可以从信里看出来。  
 >拿去吧——由于不是出自真心，话就说得格外动听，拿去吧，就这么办吧……  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA4ZTlhZGI0OC5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA4ZTlhZGI0OC5qcGc=.jpg)  
 >果然……好女人要有的是，烟、楼顶……还有轻飘飘的衣服呀……  
 >某一天，水上由岐看见天上掉下了个布制玩偶。  
 >为了被天空接受而投掷出的她的布偶，不知在天空飞舞了多少次，已经遍体鳞伤。  
 >“被天空接受”那是为了寻找不知何时开始在这个城市流传的“回归天空之路”的行为。  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDFmMmYwYS5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDFmMmYwYS5qcGc=.jpg)  
 >为了被天空接受而被扔出去的木偶，在空中飞舞并最终坠落。  
 >那是为了将其本身即为世界的少女送予天空的少女的行为。  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDIyNzNmNS5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDIyNzNmNS5qcGc=.jpg)  
 >横跨银河，被称作 Vega 与 Altair，或是织女星与牛郎星的两颗星星，再加上北十字星之顶的天鹅座构成了夏之大三角。  
 >它被称作譬如三位一体的神圣的图形。  
 >只有神圣的图形在天空闪耀之时，世界才与天空相遇。  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDI0YzQ3Zi5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDI0YzQ3Zi5qcGc=.jpg)  
 >我想试一试，第一次，也是最后一次的恶作剧。  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDI2MDkyNS5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5MDI2MDkyNS5qcGc=.jpg)  
 >那是……什么？  
 >什么事也没有哦，只是，间宫君他自己主动跳下去了而已哦~  
 >怎么回事？  
@@ -41,7 +41,7 @@
 >我确实听到了头盖骨破碎的声音。  
 >但是那个，并非是外面的世界。  
 >而是总自己的里面传来的。  
->![](source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5ZGMwMzRkNi5qcGc=.jpg)  
+>![](/source/loj/6199/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjkvNWFlNTA5ZGMwMzRkNi5qcGc=.jpg)  
 >水上同学……我偶尔会思考这种事情……  
 >世界的极限到底在哪里呢……  
 >世界的……世界的尽头的更尽头……  

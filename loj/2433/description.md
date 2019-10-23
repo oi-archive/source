@@ -12,7 +12,7 @@
 
 下图是一个简单的例子，左图是原图，右图是它对应的线图。其中点 $1$ 对应原图的边 $(1, 2)$，点 $2$ 对应 $(1, 4)$，点 $3$ 对应 $(1, 3)$，点 $4$ 对应 $(3, 4)$。
 
-![line1](source/loj/2433/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjMvNWJmNzRmNzI4ZTI2Ni5wbmc=.png)
+![line1](/source/loj/2433/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjMvNWJmNzRmNzI4ZTI2Ni5wbmc=.png)
 
 经过一些初步的摸索，可怜发现线图的性质要比补图复杂很多，其中突出的一点就是补图的补图会变回原图，而 $L(L(G))$ 在绝大部分情况下不等于 $G$，甚至在大多数情况下它的点数和边数会以很快的速度增长。
 
@@ -47,7 +47,7 @@
 #### 样例解释
 如下图所示，左图为原树，中图为 $L(G)$，右图为 $L^2(G)$。这儿并未画出 $L^3(G)$，但是由于$L^2(G)$ 有 $5$ 条边，因此 $L^3(G)$ 中有 $5$ 个点。
 
-![line2](source/loj/2433/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjMvNWJmNzRmNzI5YzM1NC5wbmc=.png)
+![line2](/source/loj/2433/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjMvNWJmNzRmNzI5YzM1NC5wbmc=.png)
 
 
 

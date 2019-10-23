@@ -12,7 +12,7 @@ JOHNKRAM 设计了这样一个递归定义的网络：
 
 一个 $ 3 $ 阶的网络如下图所示：
 
-<img src="source/loj/6136/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA3LzA1LzU5NWM3MGY4MzYyYTkucG5n.png" width="150">
+<img src="/source/loj/6136/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA3LzA1LzU5NWM3MGY4MzYyYTkucG5n.png" width="150">
 
 JOHNKRAM 通过开关交换器来调整网络。现在他对一个 $ n $ 阶网络的 $ 2 ^ n $ 个输入端分别输入了一个数，第 $ i(0 < i < 2 ^ n) $ 个输入端输入的是 $ i $。然后他给出了一个长度为 $ 2 ^ n $ 的排列 $ p $。他希望你给出一种网络的状态，使得第 $ i(0 < i < 2 ^ n) $ 个输出端输出的是 $ p_i $。
 

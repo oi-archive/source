@@ -56,7 +56,7 @@
 ```
 
 #### 样例解释
-![样例图](source/loj/2231/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzI3LzU5MjkxNjg5MjdjYmQucG5n.png)  
+![样例图](/source/loj/2231/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzI3LzU5MjkxNjg5MjdjYmQucG5n.png)  
 一共有十条路径，构成的表达式依次是
 ```plain
 101

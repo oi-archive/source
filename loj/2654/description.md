@@ -34,7 +34,7 @@
 ```
 
 #### 样例解释 1
-![](source/loj/2654/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vVnV0emNSMWlQdkd1WVJHWmd2TmtzbVYxL3NpdGUvaW1hZ2VzL09JMTQvcG93emFkMS5naWY=.gif)
+![](/source/loj/2654/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vVnV0emNSMWlQdkd1WVJHWmd2TmtzbVYxL3NpdGUvaW1hZ2VzL09JMTQvcG93emFkMS5naWY=.gif)
 
 # 数据范围与提示
 

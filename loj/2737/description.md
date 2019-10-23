@@ -34,7 +34,7 @@
 
 #### 样例解释 1
 
-<img src="source/loj/2737/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMTAvNWMwZGZiOTczMDg1OS5wbmc=.png" width="30%" />
+<img src="/source/loj/2737/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMTAvNWMwZGZiOTczMDg1OS5wbmc=.png" width="30%" />
 
 很显然，把 $2 \rightarrow 1$ 的这条边改成 $2 \rightarrow 4$（花费 4）的情况下构成强连通分量花费最小。
 

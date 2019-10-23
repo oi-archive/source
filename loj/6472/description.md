@@ -9,10 +9,10 @@
 
 一旦 Patrick 进去了，他会确定每堆箱子的高度并且发给你。图 1 显示了一种网格可能的放置，以及每台相机会得到的视图。
 
-<img src="source/loj/6472/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVlM2RiOS5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
+<img src="/source/loj/6472/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVlM2RiOS5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
 <div style="text-align: center"><strong>图 1.</strong> 网格的高度值与对应的相机视图。</div>
 <br>
-<img src="source/loj/6472/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjU2ODIyMC5wbmc=.png" alt="" style="width: 150px; display: block; margin: 0 auto;">
+<img src="/source/loj/6472/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjU2ODIyMC5wbmc=.png" alt="" style="width: 150px; display: block; margin: 0 auto;">
 <div style="text-align: center"><strong>图 2.</strong> 洗劫后网格可能的高度值。</div>
 
 Patrick 想尽可能多偷走一些箱子。由于他不能弄坏安保系统，他准备重新安排剩余每堆箱子的放置，使得下一次相机取像时会得到相同的照片，从而骗过安保系统。在上面的例子中，他可以偷走九个箱子。图 2 显示了一种可能的剩余箱子的安置方案能使得安保系统认为与原安置情况相同。

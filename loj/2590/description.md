@@ -11,7 +11,7 @@ C 国幅员辽阔，各地的资源分布情况各不相同，这就导致了同
 
 假设 C 国有 $5$ 个大城市，城市的编号和道路连接情况如下图，单向箭头表示这条道路为单向通行，双向箭头表示这条道路为双向通行。
 
-![27.png](source/loj/2590/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RhNjQyMmRmZS5wbmc=.png)
+![27.png](/source/loj/2590/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RhNjQyMmRmZS5wbmc=.png)
 
 假设 $1$ ~ $n$ 号城市的水晶球价格分别为 $4,3,5,6,1$ 。
 

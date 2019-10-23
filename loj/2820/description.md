@@ -52,7 +52,7 @@
 #### 样例解释 1
 王国如下图所示，每条路只标注了长度。
 
-![CCO2014D1T2Pic1](source/loj/2820/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTcvYWFhNTE4MDkucG5n.png)
+![CCO2014D1T2Pic1](/source/loj/2820/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTcvYWFhNTE4MDkucG5n.png)
 
 如果 $D=8$，第一、三条路需要被关闭，他们都是从城市 $1$ 到 城市 $3$ 的长为 $7$ 的路径的一部分，总花费 $1+15=16$。
 
@@ -77,7 +77,7 @@
 #### 样例解释 2
 王国如下图所示
 
-![CCOD2T2Pic2](source/loj/2820/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTcvYWFhODFhZGYucG5n.png)
+![CCOD2T2Pic2](/source/loj/2820/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTcvYWFhODFhZGYucG5n.png)
 
 就像你所看到的一样，狐狸已经有麻烦了，因为这里根本没有从城市 $1$ 到城市 $2$ 的路径，因此对于任何 $D$ 格鲁夫国王都不需要关闭任何道路。
 

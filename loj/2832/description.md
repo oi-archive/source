@@ -43,7 +43,7 @@ JOI 君可以随意建栅栏。要求栅栏既不在牧场内，也不在 JOI �
 已经建好的栅栏见左图，点线为牧场的边界。
 
 一种修栅栏的方法见右图。如果你输出 $29$ 或 $28.999$ 也对。
-![PIC](source/loj/2832/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzIxL1A0c1kzRi5wbmc=.png)
+![PIC](/source/loj/2832/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA4LzIxL1A0c1kzRi5wbmc=.png)
 #### 输入样例 2
 ```plain
 1 2

@@ -37,7 +37,7 @@ $s$ 是初始阶段 Aryan 所在桌子的编号，同时也是重排好所有古
 minimum_walk([0, 2, 3, 1], 0)
 ```
 
-![IOI2017-books-desc.png](source/loj/3174/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yOS81ZDNmMTJiOTYyMTRlLnBuZw==.png)
+![IOI2017-books-desc.png](/source/loj/3174/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8yOS81ZDNmMTJiOTYyMTRlLnBuZw==.png)
 
 在这个例子中，$n=4$，在初始阶段Aryan位于桌子 $0$ 处。他按照如下步骤进行重排：
 

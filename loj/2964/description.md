@@ -33,8 +33,8 @@ Luka 在实验室里发现了一条奇怪的胶带。胶带分为 $N$ 段，从�
 ```
 #### 样例说明 1
 
-![p1.png](source/loj/2964/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGM3NjFlZTNhMy5wbmc=.png)
-![p2.png](source/loj/2964/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGM3NjFlNDhjMC5wbmc=.png)
+![p1.png](/source/loj/2964/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGM3NjFlZTNhMy5wbmc=.png)
+![p2.png](/source/loj/2964/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyOGM3NjFlNDhjMC5wbmc=.png)
 
 #### 样例输入 2
 ```plain

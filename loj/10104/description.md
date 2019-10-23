@@ -25,7 +25,7 @@ Byteotia 城市有 $n$ 个城镇，$m$ 条双向道路。每条道路连接两�
 3 4
 4 5
 ```
-![](source/loj/10104/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9pbWFnZXMvT0kxNS9ibG96YWQxLmdpZg==.gif)
+![](/source/loj/10104/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9pbWFnZXMvT0kxNS9ibG96YWQxLmdpZg==.gif)
 
 #### 样例输出
 ```plain

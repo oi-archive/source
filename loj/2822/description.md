@@ -85,7 +85,7 @@ int nextMove(int R);
 
 如图所示，在这个例子中从任意一个街角开始追捕对于警察来说都是好事。如果他从街角 $0$ 开始，在第一次移动中他可以待在原地等待强盗自投罗网。如果他从其他街角开始，他也可以一直等待直到强盗跑向街角 $0$，然后前往街角 $0$ 逮捕他。
 
-![](source/loj/2822/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTgvNWI3N2JhYjE4MTRlYS5wbmc=.png)
+![](/source/loj/2822/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTgvNWI3N2JhYjE4MTRlYS5wbmc=.png)
 
 以下是示例会话（引入 `grader.h` 后将会自动调用）：
 
@@ -105,7 +105,7 @@ int nextMove(int R);
 |2|14|$1 \le N \le 500$|街角与小巷形成的网络为网格形结构。网格至少有两行且街角的编号情况如下图所示。|
 |3|30|$2 \le N \le 100$|无|
 |4|40|$2 \le N \le 500$|无|
-![](source/loj/2822/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTgvNWI3N2M3MjQ2MTA2Yi5wbmc=.png)
+![](/source/loj/2822/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTgvNWI3N2M3MjQ2MTA2Yi5wbmc=.png)
 
 你的函数实现须满足下述要求：
 

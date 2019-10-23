@@ -3,7 +3,7 @@
 
 蒜头是一个热爱学习的好孩子。同时，他也是一名国家队选手。
 
-<img src="source/loj/2476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODRhNzYwODU0MC5qcGc=.jpg" alt="pic.jpg" title="pic.jpg" />
+<img src="/source/loj/2476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDcvNWFjODRhNzYwODU0MC5qcGc=.jpg" alt="pic.jpg" title="pic.jpg" />
 
 作为新时代的社会主义优秀青年，每年冬天，蒜头都会和他的小伙伴们一起参加志愿者活动。今年的活动地点在步行街附近，于是蘑菇头提出，志愿者活动结束后去步行街逛一逛。
 

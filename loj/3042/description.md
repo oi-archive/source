@@ -3,7 +3,7 @@
 
 九条可怜是一个热爱打麻将的女孩子。因此她出了一道和麻将相关的题目，希望这题不会让你对麻将的热爱消失殆尽。
 
-![1.png](source/loj/3042/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2ExZTg0MzA0OGEzLnBuZw==.png)
+![1.png](/source/loj/3042/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2ExZTg0MzA0OGEzLnBuZw==.png)
 
 今天，可怜想要打麻将，但是她的朋友们都去下自走棋了，因此可怜只能自己一个人打。可怜找了一套特殊的麻将，它有 $n(n \ge 5)$ 种不同的牌，大小分别为 $1$ 到 $n$，每种牌都有 $4$ 张。
 
@@ -35,7 +35,7 @@
 
 Kujo Karen loves playing Majsoul, so she makes out a problem about Majsoul. Wish you won't no longer love Majsoul because of this problem.
 
-![1.png](source/loj/3042/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2ExZTg0MzA0OGEzLnBuZw==.png)
+![1.png](/source/loj/3042/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMS81Y2ExZTg0MzA0OGEzLnBuZw==.png)
 
 Today Karen decides to play Majsoul, but all her friends have gone to play Dota AutoChess and Karen have to play Majsoul alone. She finds a special mahjong set. The mahjong set consists of $n(n \ge 5)$ ranks of tiles (ranked from $1$ to $n$), and each rank of tiles include 4 tiles (numbered from 1 to 4). In this problem, we DO NOT consider their suits.
 

@@ -46,7 +46,7 @@ $$c_i \cdot (ai + x) \cdot (bi + y)$$
 ```
 
 #### 样例解释 1
-![样例.png](source/loj/2510/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTYvNWFkNDNmZDgyNjQwNS5wbmc=.png)
+![样例.png](/source/loj/2510/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTYvNWFkNDNmZDgyNjQwNS5wbmc=.png)
 
 如图所示，我们分别用蓝色、黄色节点表示城市、乡村；用绿色、红色箭头分别表示公路、铁路；用加粗箭头表示翻修的道路。
 

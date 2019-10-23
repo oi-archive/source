@@ -3,7 +3,7 @@
 
 明明做作业的时候遇到了 $n$ 个二次函数 $S_i(x)= ax^2 + bx + c$，他突发奇想设计了一个新的函数 $F(x) = \max\{S_i(x)\}, i = 1\ldots n$。
 
- ![](source/loj/10013/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDIvNWIzOWE4MDAwZTYxNS5qcGc=.jpg)
+ ![](/source/loj/10013/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDIvNWIzOWE4MDAwZTYxNS5qcGc=.jpg)
  
  明明现在想求这个函数在 $[0,1000]$ 的最小值，要求精确到小数点后四位，四舍五入。
 

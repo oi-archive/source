@@ -1,7 +1,7 @@
 
 # 题目描述
 
-<img src="source/loj/6474/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjcxOWI3OS5wbmc=.png" alt="" style="width: 200px; display: block; margin: 0 auto;">
+<img src="/source/loj/6474/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjcxOWI3OS5wbmc=.png" alt="" style="width: 200px; display: block; margin: 0 auto;">
 
 Sheila 是一名学生，她开着一辆经典的学生车：一辆又老，又慢，又锈，还老是崩坏的车。最近，时速表盘的指针还掉了。她把指针粘了回去，但是她可能没有粘对角度。因此，当表盘读数为 $s$ 时，她真实的速度可能是 $s + c$，其中 $c$ 为未知常数（可能是负的）。
 

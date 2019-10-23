@@ -5,7 +5,7 @@
 
 每条道路的修建都要付出一定的费用，这个费用等于道路长度乘以道路两端的国家个数之差的绝对值。例如,在下图中,虚线所示道路两端分别有 $2$ 个、$4$ 个国家，如果该道路长度为 $1$，则费用为 $1 \times \lvert 2 – 4 \rvert =2$。图中圆圈里的数字表示国家的编号。
 
-![](source/loj/2445/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZGZiMWU2OWMwMi5wbmc=.png)
+![](/source/loj/2445/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZGZiMWU2OWMwMi5wbmc=.png)
 
 由于国家的数量十分庞大，道路的建造方案有很多种，同时每种方案的修建费用难以用人工计算，国王们决定找人设计一个软件，对于给定的建造方案，计算出所需要的费用。请你帮助国王们设计一个这样的软件。
 

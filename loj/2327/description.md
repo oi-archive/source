@@ -7,13 +7,13 @@
 
 游戏在一个**5**个格子的棋盘上进行。在游戏的一开始，最左边的两个格子上各有一个向右的青蛙，最右边的两个格子上各有一个向左的青蛙。
 
-![](source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwOGVhOS5wbmc=.png)<!-- <img src="source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwOGVhOS5wbmc=.png" alt="img"align="middle"width="50.0%"/>-->
+![](/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwOGVhOS5wbmc=.png)<!-- <img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwOGVhOS5wbmc=.png" alt="img"align="middle"width="50.0%"/>-->
 
 每次移动可以选取一个青蛙，向这只青蛙的前方移动一格到空格子中或跳过前方的**一个不同朝向**的青蛙并移动到空格子中。
 
- ![](source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png)<!--<img src="source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
+ ![](/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png)<!--<img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
 
-![](source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png) <!--<img src="source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
+![](/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png) <!--<img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
 
 为了使你更好地理解这个游戏，我们下发了一个游戏demo作为参考（**注意**：这个demo中的棋盘大小和题目中并不相同）。
 

@@ -40,7 +40,7 @@ int[] who_wins(int[] a, int[] r, int[] u, int[] v)
 who_wins([0, 1], [1, 0], [0, 0, 1, 1], [0, 1, 0, 1])
 ~~~
 
-![QQ截图20190509135110.png](source/loj/3118/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8wOS81Y2QzYmZkZTA0ZWI2LnBuZw==.png)
+![QQ截图20190509135110.png](/source/loj/3118/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8wOS81Y2QzYmZkZTA0ZWI2LnBuZw==.png)
 
 - 这里有 $2$ 个车站。Borzou 拥有充电车站 $0$。Arezou拥有车站 $1$，但是它不是充电车站。
 - 这里有 $4$ 段轨道 $(0,0),(0,1),(1,0)$ 和 $(1,1)$，其中 $(i,j)$ 表示一个以车站 $i$ 为起点、车站 $j$ 为终点的单向轨道。

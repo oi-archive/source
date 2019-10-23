@@ -5,7 +5,7 @@
 
 > 22.如图，已知两圆相交，作过两圆圆心的直线与两圆依次交于点 $W,X,Y,Z$，过 $X$ 作直线 $XK$ 垂直于 $WZ$ 交圆 $WKY$ 于点 $K$，过 $Y$ 作直线 $YL$ 垂直于 $WZ$ 交圆 $XLZ$ 于点 $L$，且 $K$ 和 $L$ 在直线的异侧。以 $KL$ 为一边作正方形 $KLCD$。
 >
-> ![D.png](source/loj/509/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzI3LzU5NTIzYWVmYTdkZWEucG5n.png)
+> ![D.png](/source/loj/509/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzI3LzU5NTIzYWVmYTdkZWEucG5n.png)
 >
 > (1).已知 $XY=1$，$S_{KLCD}$ 为整数；设 $WX=a,YZ=b$，若 $a,b$ 都是整数且 $a\in[1,N],b\in[1,M]$，则有序数对 $(a,b)$ 共有多少种可能的取值？
 

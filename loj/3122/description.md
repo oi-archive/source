@@ -42,10 +42,10 @@ No longer were you broken or in pain
 #### 样例输入 2
 ```plain
 4
--1 7 0 7
+-2 7 -1 7
 0 0 0 1
 2 -3 5 5
-2 2 6 -1
+1 0 6 -1
 ```
 #### 样例输出 2
 ```plain
@@ -54,7 +54,7 @@ No longer were you broken or in pain
 
 #### 样例解释 2
 下图为输入的线段，注意线段可以相交：
-![](source/loj/3122/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNC81Y2RhYjcyZDI5ODY5LnBuZw==.png)
+<img src="/source/loj/3122/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMC8wNS81ZDk4MTUxMWRhNjljLnBuZw==.png" alt="" title="ctsc19fields2" width="60%" />
 
 我们以通过无限「逼近」这些红色的曲线来构造任意总长度大于答案的方案。注意通过样例 1，我们很容易知道左上角的红色线段被算了两遍。
 
@@ -74,7 +74,7 @@ No longer were you broken or in pain
 答案为 $8+4\sqrt 2$。
 
 解释如图：
-![](source/loj/3122/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNC81Y2RhYjcyY2QzNDZkLnBuZw==.png)
+![](/source/loj/3122/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNS8xNC81Y2RhYjcyY2QzNDZkLnBuZw==.png)
 
 我们可以通过无限「逼近」这些红色的曲线来构造任意总长度大于 $8+4\sqrt 2$ 的方案。
 
@@ -96,4 +96,8 @@ No longer were you broken or in pain
 对于 $100\%$ 的数据，保证 $1\le n\le 250$，$0\le |a_i|,|b_i|,|c_i|,|d_i|\le 10^9$。
 
 保证两个端点不重合，不同的线段不会涉及到相同的点。保证任意三点不共线。
+
+### UPD 2019.10.5
+
+更新了测试数据 ```fields17.in```（```.out``` 不变）和样例 2。已重测。
 

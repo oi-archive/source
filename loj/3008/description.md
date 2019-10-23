@@ -8,7 +8,7 @@
 
 下图中节点内的数字为权值，节点外的 $id$ 表示节点编号。
 
-![](source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODQ4ODUyOTc4X0UwOUZCOEJBQzc5OUI3OEYyQkE0RkE4MDlGNEYyNURF)
+![](/source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODQ4ODUyOTc4X0UwOUZCOEJBQzc5OUI3OEYyQkE0RkE4MDlGNEYyNURF)
 
 现在给出一棵二叉树，希望你找出它的一棵子树，**该子树为对称二叉树，且节点数最多**。请输出这棵子树的节点数。
 
@@ -47,7 +47,7 @@
 
 #### 样例解释 1
 
-<img src="source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWVhY2JmOS5wbmc=.png" width = 200, height = 180 />
+<img src="/source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWVhY2JmOS5wbmc=.png" width = 200, height = 180 />
 
 最大的对称二叉子树为以节点 $2$ 为树根的子树，节点数为 $1$。
 
@@ -76,7 +76,7 @@
 
 #### 样例解释 2
 
-<img src="source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWZhMGU3Mi5wbmc=.png" width = 261 height = 300 />
+<img src="/source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWZhMGU3Mi5wbmc=.png" width = 261 height = 300 />
 
 最大的对称二叉子树为以节点 $7$ 为树根的子树，节点数为 $3$。
 
@@ -103,9 +103,9 @@ $v_i \le 1000$。
 
 **满二叉树**：设二叉树的深度为 $h$，且二叉树有 $2^h - 1$ 个节点，这就是满二叉树。
 
-![](source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODU5MDMwMDg3X0I2NjNCMjQ0QTQ4QUFEMENFODFEQ0M1MEU3OEUxMzg2)
+![](/source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODU5MDMwMDg3X0I2NjNCMjQ0QTQ4QUFEMENFODFEQ0M1MEU3OEUxMzg2)
 
 **完全二叉树**：设二叉树的深度为 $h$，除第 $h$ 层外，其它各层的结点数都达到最大个数，第 $h$ 层所有的结点都连续集中在最左边，这就是完全二叉树。
 
-![](source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODU5MDU2NDQ4XzA4RTE0RTc3MTIxQjVDMENEREI3QTQ1OEVGNERDNEMz)
+![](/source/loj/3008/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgxMTEwLzMwNjYwNF8xNTQxODU5MDU2NDQ4XzA4RTE0RTc3MTIxQjVDMENEREI3QTQ1OEVGNERDNEMz)
 

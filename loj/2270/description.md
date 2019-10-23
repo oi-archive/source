@@ -57,7 +57,7 @@ SD0062 号选手小 Q 同学为了偷到 SDOI7012 的试题，利用高超的黑
 
 对于样例，从 $1$ 到 $3$ 的一条可行路径是 $1 \rightarrow 2 \rightarrow 3$，所需时间是 $(2 + lcp(“”, “1112”)) + (2 + lcp(“1112”, “1112”)) = 8$，但这条路径不是最优的，最优路径是 $1 \rightarrow 2 \rightarrow 4 \rightarrow 2 \rightarrow 3$。
 
-![](source/loj/2270/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzI0LzU5MjUzMzVjNDQ2OGYucG5n.png)
+![](/source/loj/2270/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzI0LzU5MjUzMzVjNDQ2OGYucG5n.png)
 
 # 数据范围与提示
 

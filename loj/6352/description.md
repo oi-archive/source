@@ -9,7 +9,7 @@
 
 下图是一个明度最大（即，HSV 色彩空间中 $V = 100\%$）的单位圆色盘。色盘上任意一点的坐标为一个非负实数对 $(\alpha°, r\%)$（$0 \leq \alpha < 360$，$0 \leq r \leq 100$），表示**色相**为 $\alpha°$、**饱和度**为 $r\%$ 的颜色。另一种理解是，$\alpha°$ 表示从联结圆心和纯红色点的射线顺时针到达该点所经过的角度，$\frac {r} {100}$ 是该点到单位圆圆心的距离。
 
-![palette_1.png](source/loj/6352/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjNhNGQ1MC5wbmc=.png)
+![palette_1.png](/source/loj/6352/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjNhNGQ1MC5wbmc=.png)
 
 
 
@@ -47,7 +47,7 @@ $$
 
 一个颜色 $(R, G, B)$ 的**亮度**定义为 $L = 0.30R + 0.59G + 0.11B$。下图给出了彩色色盘和表示亮度的灰度色盘的左右对比。
 
-![palette_2.png](source/loj/6352/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjM3MWEwYi5wbmc=.png)
+![palette_2.png](/source/loj/6352/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMDIvNWFjMWJiMjM3MWEwYi5wbmc=.png)
 
 你需要编写程序帮助元首计算给定直线段上所有颜色的最大亮度。
 

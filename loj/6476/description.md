@@ -5,12 +5,12 @@
 
 最初，网格中的一组单元被填充为需要复制的细胞副本。进过一系列离散的步骤，网格中的每个单元会根据自身及附近的八个单元的状态同步进行细胞状态更新。如果这九个单元中有奇数个位置的细胞是满的，那么这个单元的下一个状态也是满的，否则会是空的。图 1 显示了一个由三个满细胞的单元组成的简单模式在复制过程中的几个步骤。
 
-<img src="source/loj/6476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVjN2YyNi5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
+<img src="/source/loj/6476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVjN2YyNi5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
 <div style="text-align: center">**图 1.** 复制过程。</div>
 
 然而，一个 bug 已经蛰伏在工艺中了。在每次更新单元状态之后，网格中某一个单元的状态可能自动变化。例如，图 2 显示了可能的变化，其中一个细胞在第一次状态更新后出现了自动变化，另一个细胞在第三次状态更新后出现了自动变化。
 
-<img src="source/loj/6476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVjYWFlMC5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
+<img src="/source/loj/6476/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3YjVjYWFlMC5wbmc=.png" alt="" style="width: 1000px; display: block; margin: 0 auto;">
 <div style="text-align: center">**图 2.** 复制过程中的错误。该图对应样例输入 1。</div>
 
 很不幸，最初的细胞模式丢失了，只有（可能受到 bug 影响的）复制结果保留了下来。你能否编个程序确定可能的最小的非空的初始细胞模式来产生给定的最终模式呢？

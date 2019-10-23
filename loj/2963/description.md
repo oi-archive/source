@@ -33,7 +33,7 @@ Matija 想用一个宽度为 $X\ \rm{cm}$ 的滚筒刷来刷木板。使用滚�
 2
 ```
 #### 样例说明 1
-![pp.png](source/loj/2963/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyODk4NzViMzM1Ni5wbmc=.png)
+![pp.png](/source/loj/2963/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMzAvNWMyODk4NzViMzM1Ni5wbmc=.png)
 
 #### 样例输入 2
 ```plain

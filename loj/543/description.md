@@ -7,7 +7,7 @@
 
 初始的时候有一个 $n$ 阶数独（$n$ 阶数独即边长为 $n^2$ 的分成 $n^2$ 个 $n\times n$ 区域的方格，下图为 $4$ 阶数独），并且已经填了 $k$ 个格子，现在两个人轮流在空格子中填数（当然是你先填啦），每次填完需保证局面合法（合法即要求每个人填完后同行同列同区域不能出现相同数字并且填的数字是 $[1,n^2]$ 中的整数），能填必须填，不能填者输。
 
-![orzlca](source/loj/543/img/aHR0cDovL3d3NC5zaW5haW1nLmNuL2xhcmdlLzAwNjBsbTdUbHkxZm4weHl6anBsZ2ozMGc3MGM2ZGZwLmpwZw==.jpg)
+![orzlca](/source/loj/543/img/aHR0cDovL3d3NC5zaW5haW1nLmNuL2xhcmdlLzAwNjBsbTdUbHkxZm4weHl6anBsZ2ozMGc3MGM2ZGZwLmpwZw==.jpg)
 
 现在你要确定你（先手）是否有必胜策略，以免鲁莽输掉游戏沦为奴隶。
 

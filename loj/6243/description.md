@@ -3,7 +3,7 @@
 
 &emsp;&emsp;有一个 $n \times n$ 的方阵，每个位置上都有一盏灯，这些灯有亮有暗。每次，可以选择一个格子，选定后它与它相邻的格子的亮暗状态都会发生改变，在此处，相邻指的是 4-相邻 (有公共边)，如下图：
 
-![一些选择格子的操作](source/loj/6243/img/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9hL2E5L0xpZ2h0c091dElsbHVzdHJhdGlvbi5zdmc=.svg)
+![一些选择格子的操作](/source/loj/6243/img/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9hL2E5L0xpZ2h0c091dElsbHVzdHJhdGlvbi5zdmc=.svg)
 
 易知，如果某一个格子被选择了偶 (奇) 数次，效果等价于它没有被选择 (被选择)，因此，我们限制每个格子**至多被选择 $1$ 次**。
 

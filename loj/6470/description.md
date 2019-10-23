@@ -9,7 +9,7 @@
 
 对于本题，我们将 Piconesia 的边界抽象成一个多边形的模型。根据这个多边形，你需要计算出最长的跑道长度（即最长的线段）使得跑道可以完全在小岛上修建。图 1 对应于第一个输入样例。
 
-<img src="source/loj/6470/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3Yjc0ODkyOC5wbmc=.png" alt="" style="width: 300px; display: block; margin: 0 auto;">
+<img src="/source/loj/6470/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMDMvNWI2NDM3Yjc0ODkyOC5wbmc=.png" alt="" style="width: 300px; display: block; margin: 0 auto;">
 <div style="text-align: center"><b>图 1.</b> 小岛的多边形模型。最长的跑道已用粗线标出。</div>
 
 

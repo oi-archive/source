@@ -1,7 +1,7 @@
 
 # 题目描述
 
-![烧菜](source/loj/556/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ0RC8wOEQ1NzMxRjZBNzRENzIwMDAwMDAwMDAwMDAwMDA3Qy5wbmc=.png)
+![烧菜](/source/loj/556/img/aHR0cHM6Ly9pbWcuNTFub2QuY29tL3VwbG9hZC8wMDBGQzQ0RC8wOEQ1NzMxRjZBNzRENzIwMDAwMDAwMDAwMDAwMDA3Qy5wbmc=.png)
 
 你有 $m$ 种物品，第 $i$ 种物品的大小为 $a_i$，数量为 $b_i$（$b_i=0$ 表示有无限个）。  
 你还有 $n$ 个背包，体积分别为 $1$ 到 $n$，现在你很想知道用这些物品填满某个背包的方案数。  

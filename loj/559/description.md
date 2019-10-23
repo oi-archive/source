@@ -15,7 +15,7 @@
 
 下图表示一个迷宫的例子，以及一个可行的前进方法：
 
-![Explanation_LR9A.png](source/loj/559/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTYvNWIyNGMyYjVlNjIzMy5wbmc=.png)
+![Explanation_LR9A.png](/source/loj/559/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTYvNWIyNGMyYjVlNjIzMy5wbmc=.png)
 
 #### 交互方式
 

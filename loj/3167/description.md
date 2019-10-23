@@ -22,7 +22,7 @@
 
 注意不允许做一个形状的对称，并且点的顺序与形状有关：形状 $(Q_1,\ldots , Q_{n-1},Q_0)$ 不一定等价于形状 $(Q_0,\ldots ,Q_{n-1})$。
 
-![scissors1.png](source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NTE1MzE1LnBuZw==.png)
+![scissors1.png](/source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NTE1MzE1LnBuZw==.png)
 
 在上图中，形状 $U$ 与 $V$ 是等价的。形状 $W$ 与它们不等价，因为形状 $W$ 的点顺序与二者不同。不考虑点的顺序的情况下，第四个形状与前三个都不等价，因为不允许翻转一个图形。
 
@@ -37,7 +37,7 @@
 
 剪刀可以剪开一个存在的形状 $A$，并且产生一个及以上的形状 $B_1,\ldots ,B_k$，这些形状构成形状 $A$ 的一个划分。
 
-![scissors2.png](source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NTY1NTY5LnBuZw==.png)
+![scissors2.png](/source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NTY1NTY5LnBuZw==.png)
 
 例如上图：形状 $A$（一个正方形）被划分为形状 $B_1,B_2,B_3$（三个三角形）。对于 $B_i$，一个合法的描述为：$3~3~1\ 6 \ 1\ 1\ 5.1\ 4$。
 
@@ -124,7 +124,7 @@ tape
 ```
 #### 样例说明 1
 
-![scissors3.png](source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NWFiYmY2LnBuZw==.png)
+![scissors3.png](/source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NWFiYmY2LnBuZw==.png)
 
 上图显示了第一个样例输出。左边是用剪刀后的原始形状，在右边的是用胶带粘好后的形状。
 
@@ -185,7 +185,7 @@ tape
 ```
 #### 样例说明 3
 
-![scissors4.png](source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NjUyNzdiLnBuZw==.png)
+![scissors4.png](/source/loj/3167/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wOC8wNS81ZDQ3MDk2NjUyNzdiLnBuZw==.png)
 
 对于第三个样例，上图展示了输出的三个阶段。首先，我们把输入的矩形切成两个小矩形，然后我们把两个矩形中较大的一个再切成两个。在这个阶段操作之后的状态如图左上部分所示。
 

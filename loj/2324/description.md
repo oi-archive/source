@@ -46,7 +46,7 @@
 
 样例的一组最优解如下：
 
-![explanation.png](source/loj/2324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTAvNWEyYzk1NGY1ODM2NS5wbmc=.png)
+![explanation.png](/source/loj/2324/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTAvNWEyYzk1NGY1ODM2NS5wbmc=.png)
 
 其中结点$4$为根，结点$1$为结点$4$的左儿子，结点$2,3$分别为结点$1$的左右儿子。
 

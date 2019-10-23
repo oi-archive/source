@@ -7,7 +7,7 @@
 
 首先，久莲给出了一棵 $n\ (n \ge 2)$ 个节点的有根树 $T$，根节点编号为 $1$。定义叶子节点为除了根以外所有度数恰好为 $1$ 的节点。下图是一个树 $T$ 的例子，其中叶子节点集合为 $\{3, 4, 5\}$。
 
-![polygon1.png](source/loj/2723/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wMS81ZDE5OTMyNjczMzkxLnBuZw==.png)
+![polygon1.png](/source/loj/2723/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wMS81ZDE5OTMyNjczMzkxLnBuZw==.png)
 
 接着通过这棵树，久莲构造了一个序列 $A$：
 - 从根节点开始深度优先遍历整棵树，遍历时按照编号从小到大的顺序来访问孩子，这样可以得到一个树 $T$ 的 DFS 序。
@@ -23,7 +23,7 @@
 
 当 $K = 1$ 或 $2$ 时，上面的例子得到的图 $G$ 都如下图所示：
 
-![polygon2.png](source/loj/2723/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wMS81ZDE5OTMzYjkxMWZlLnBuZw==.png)
+![polygon2.png](/source/loj/2723/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNy8wMS81ZDE5OTMzYjkxMWZlLnBuZw==.png)
 
 现在久莲想让你来计算一下 $G$ 中不同的哈密尔顿回路数量有多少条，答案可能很大，请对 $998244353$ 取模后输出。
 

@@ -10,7 +10,7 @@
 
 如下所示的无向图就符合上面的所有性质。
 
-![](source/loj/2748/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvaW5maW5pdGUucG5n.png)
+![](/source/loj/2748/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvaW5maW5pdGUucG5n.png)
 
 一个点数无穷的无向图是连通的，当且仅当对于图中的任意两个节点都存在一条路径将它们连接起来。而一条边是桥，当且仅当这条边被删去后整个图不连通。
 

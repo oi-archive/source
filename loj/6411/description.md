@@ -3,7 +3,7 @@
 
 来到北京前，你准备了不少童书，许多书包含了像这样的问题：下图中有多少个三角形？
 
-![无标题.png](source/loj/6411/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjJhN2E0NTA0OC5wbmc=.png)
+![无标题.png](/source/loj/6411/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjEvNWIwMjJhN2E0NTA0OC5wbmc=.png)
 
 尽管这些题一开始吸引了你的兴趣，但你很快感到无聊，希望用算法来解决这样的问题。说不定今年的比赛会考到这样的问题，谁知道呢。所以今天你很幸运！
 

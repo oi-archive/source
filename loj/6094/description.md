@@ -40,7 +40,7 @@
 
 <!-- Orig: https://ooo.0o0.ooo/2017/06/20/59491a609f0ab.png -->
 <!-- Del link: https://sm.ms/delete/fcuKl5GhA4jWPns -->
-![Sample 1](source/loj/6094/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTQvNWFkMWM4NWU0Njc1Ni5wbmc=.png)
+![Sample 1](/source/loj/6094/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTQvNWFkMWM4NWU0Njc1Ni5wbmc=.png)
 
 #### 样例输入 2
 ```plain
@@ -59,7 +59,7 @@
 
 <!-- Orig: https://ooo.0o0.ooo/2017/06/20/59491a60b2d89.png -->
 <!-- Del link: https://sm.ms/delete/5F8AjEDXcuGS3R4 -->
-![Sample 2](source/loj/6094/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTQvNWFkMWM4NWU0ZWVmMy5wbmc=.png)
+![Sample 2](/source/loj/6094/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMTQvNWFkMWM4NWU0ZWVmMy5wbmc=.png)
 
 #### 样例输入 3
 ```plain

@@ -37,7 +37,7 @@ Yes
 #### 样例解释 1
 样例 1 给定的网格可以由三次操作得到，如下图。相同的颜色表示相同的操作。
 
-![Sample 1](source/loj/6369/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvN2UvM2YvN2UzZjlmOTdkOTE2YjBmN2ZjNjc1ZDc5ODYxNTczODg0ZDcyNjY0MS5wbmc=.png)
+![Sample 1](/source/loj/6369/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvN2UvM2YvN2UzZjlmOTdkOTE2YjBmN2ZjNjc1ZDc5ODYxNTczODg0ZDcyNjY0MS5wbmc=.png)
 
 #### 样例输入 2
 ```plain

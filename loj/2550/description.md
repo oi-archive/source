@@ -53,7 +53,7 @@
 #### 样例说明 1
  $n=2,m=4$ 时，一共两种合法的方案：
 
-![](source/loj/2550/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDE0YmRlNDU0OC5wbmc=.png)
+![](/source/loj/2550/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMDUvNWFlZDE0YmRlNDU0OC5wbmc=.png)
 
 在第一种方案中,机器人在撞上障碍 $(1,3)$ 之前，一共经过了 $4$ 个格子。  
 在第二种方案中,机器人在撞上障碍 $(2,1)$ 之前，一共经过了 $1$ 个格子。  

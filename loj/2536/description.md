@@ -4,9 +4,9 @@
 使用过 Android 手机的同学一定对手势解锁屏幕不陌生。 Android 的解锁屏幕由 $3 \times 3$ 个点组成，手指在屏幕上画一条线，将其中一些点连接起来，即可构成一个解锁图案。如下面三个例子所示：
 
 
-![无标题.png](source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZDZjZDQ4NS5wbmc=.png)
-![无标题.png](source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZTMxMzk1MC5wbmc=.png)
-![无标题.png](source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZjJiNTgzMi5wbmc=.png)
+![无标题.png](/source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZDZjZDQ4NS5wbmc=.png)
+![无标题.png](/source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZTMxMzk1MC5wbmc=.png)
+![无标题.png](/source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg2ZjJiNTgzMi5wbmc=.png)
 
 
 画线时还需要遵循一些规则：
@@ -17,7 +17,7 @@
 
 对于最后一条规则，参见下图的解释。左边两幅图违反了该规则；而右边两幅图（分别为 $ 2 \rightarrow 4 \rightarrow 1 \rightarrow 3 \rightarrow 6$ 和 $ 6 \rightarrow 5 \rightarrow 4 \rightarrow 1 \rightarrow 9 \rightarrow 2$ ）则没有违反规则，因为在“跨过”点时，点已经被使用过了。
 
-![无标题.png](source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg3MWJlNTEwMy5wbmc=.png)
+![无标题.png](/source/loj/2536/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNjg3MWJlNTEwMy5wbmc=.png)
 
 现在工程师希望改进解锁屏幕，增减点的数目，并移动点的位置，不再是一个九宫格形状，但保持上述画线规则不变。
 

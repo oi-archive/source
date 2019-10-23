@@ -11,7 +11,7 @@
 >都只是遥不可及的宝石  
 >即便如此，人们啊，  
 >获得幸福吧！  
->![zqq1.png](source/loj/6200/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JmMGM1OWI0YzFkLnBuZw==.png)  
+>![zqq1.png](https://loj-img.upyun.menci.memset0.cn/2019/04/23/5cbf0c59b4c1d.png)  
 >世界将在 7 月 20 日终结。  
 >世界回归天空的日子。  
 >万物被天空侵染的日子。  
@@ -20,14 +20,14 @@
 >世界的极限。  
 >世界的尽头。  
 >世界的终结。  
->![zqq2.png](source/loj/6200/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JmMGM2MjYxNGNhLnBuZw==.png)  
+>![zqq2.png](https://loj-img.upyun.menci.memset0.cn/2019/04/23/5cbf0c62614ca.png)  
 >你看……那就是极限……最尽头的天空。  
 >如今，已无应该之事了如今，已无忘却之物了。  
 >不需要的话语。  
->![zqq3.png](source/loj/6200/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JmMGM2MWMxMzdlLnBuZw==.png)  
+>![zqq3.png](https://loj-img.upyun.menci.memset0.cn/2019/04/23/5cbf0c61c137e.png)  
 >告别了永不相交的平行，我被吸进了……  
 >垂直下落的世界。  
->![zqq4.png](source/loj/6200/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JmMGM1ZTIwMzZlLnBuZw==.png)  
+>![zqq4.png](https://loj-img.upyun.menci.memset0.cn/2019/04/23/5cbf0c5e2036e.png)  
 >虽哭亦喜  
 >虽悲亦喜  
 >各种感情混在一起……  
@@ -53,7 +53,7 @@
 >风正凉  
 >在我怀中，温暖的，  
 >橘希实香  
->![zqq5.png](source/loj/6200/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8yMy81Y2JmMGM1ZWMzYzIyLnBuZw==.png)  
+>![zqq5.png](https://loj-img.upyun.menci.memset0.cn/2019/04/23/5cbf0c5ec3c22.png)  
 >她在我的怀中……静静地合上了双眼  
 >然后我也……  
 >静静地合上了双眼

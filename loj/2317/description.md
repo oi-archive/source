@@ -6,7 +6,7 @@
 现在， 奶酪的下表面有一只小老鼠 Jerry，它知道奶酪中所有空洞的球心所在的坐标。如果两个空洞相切或是相交，则 Jerry 可以从其中一个空洞跑到另一个空洞，特别
 地，如果一个空洞与下表面相切或是相交，Jerry 则可以从奶酪下表面跑进空洞； 如果一个空洞与上表面相切或是相交，Jerry 则可以从空洞跑到奶酪上表面。
 
-位于奶酪下表面的 Jerry 想知道，在**不破坏奶酪**的情况下，能否利用已有的空洞跑到奶酪的上表面去?
+位于奶酪下表面的 Jerry 想知道，在**不破坏奶酪**的情况下，能否利用已有的空洞跑到奶酪的上表面去？
 
 空间内两点 $P_1(x_1,y_1,z_1)$、$P_2(x_2,y_2,z_2)$ 的距离公式如下：
 
@@ -55,7 +55,7 @@ Yes
 
 #### 样例说明
 
-![](source/loj/2317/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE3L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcC5wbmc=.png)
+![](/source/loj/2317/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE3L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcC5wbmc=.png)
 
 # 数据范围与提示
 

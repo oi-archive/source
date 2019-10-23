@@ -57,11 +57,11 @@ JOI 君因为各种各样的事情，必须在各个建筑物之间往返。虽�
 #### 样例说明 1
 初始状态如下：
 
-<img src="source/loj/2876/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMzA0YzNhMzU1Ny5wbmc=.png" width="30.5%" />
+<img src="/source/loj/2876/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMzA0YzNhMzU1Ny5wbmc=.png" width="30.5%" />
 
 其中■表示墙，含有数字的区域表示建筑，其他区域为原野。
 
-<img src="source/loj/2876/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMzA0YzNhOTkxMC5wbmc=.png" width="70%" />
+<img src="/source/loj/2876/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMzA0YzNhOTkxMC5wbmc=.png" width="70%" />
 
 如果只不经过建筑物（左图），则需要容量为 6 升的水壶；但如果经过建筑物 1（右图），从建筑物 2 到 1 需要 3 升水，而从建筑物 1 到 4 需要 4 升水，因此只需要容量为 4 升的水壶。
 

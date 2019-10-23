@@ -42,7 +42,7 @@
 ```
 
 #### 样例解释 1
-![schedule.png](source/loj/6403/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjAvNWFkOTU0MmJiN2Q1Ny5wbmc=.png)
+![schedule.png](/source/loj/6403/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjAvNWFkOTU0MmJiN2Q1Ny5wbmc=.png)
 
 考虑上图所示的公交计划表。上面列出了几条公交路线的出发地、目的地以及出发时间和到达时间。你在部分公交车计划后面写上了该公交按计划运行的概率。没有写概率的公交车会以 $100\%$ 的概率按计划运行。你可以先尝试第一辆列出的公交车。如果该公交车按计划运行，你便可以直接到达机场，无需担忧。但如果没有，则事情变得复杂起来。假如你上了第二辆公交车，则这辆车一定会出发，但等这辆车到站时你无法赶上第三辆公交车前往机场。你可以上第 $4$ 辆车，但这辆车只有 $0.1$ 的概率启动。所以更好的方案是待在 $0$ 站并乘坐第 $5$ 辆车。如果该车没有出发，你还有机会回到第 $0$ 站并乘坐最后一个公交车直接前往机场。
 

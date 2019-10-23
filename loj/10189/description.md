@@ -8,7 +8,7 @@
 L 公司在山上有 $N$ 个工厂。如图所示，工厂 $1$ 在山顶，工厂 $N$ 在山脚。
 
 <div style="text-align: center;">
-<img src="source/loj/10189/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMjQvNWI3ZjdjNzJlZTQxOS5wbmc=.png" width="60%" style="margin: 0 auto;">  
+<img src="/source/loj/10189/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMjQvNWI3ZjdjNzJlZTQxOS5wbmc=.png" width="60%" style="margin: 0 auto;">  
 </div>
 
 由于地形的不同，在不同工厂建立仓库的费用可能不同。工厂 $i$ 目前已有成品 $P_i$ 件，在该厂建立仓库的费用为 $C_i$。对于没有建立仓库的工厂，其产品应被运往其他的仓库进行储藏，而由于 L 公司产品的对外销售处设置在山脚的工厂 $N$，故产品只能往山下运（即只能运往编号更大的工厂的仓库），当然运送产品也是需要费用的，假设一件产品运送 $1$ 个单位距离的费用是 $1$。假设建立的仓库容量都都是足够大的，可以容下所有的产品。  

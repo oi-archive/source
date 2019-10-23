@@ -62,7 +62,7 @@ u=rnd()%n+1,v=rnd()%n+1;
 
 对于所有数据，$n\leq 70000$，$m\leq 100000$，$q\leq 10^7$。
 
-![](source/loj/137/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJlMGNkZGEyNGYuYm1w.bmp)
+![](/source/loj/137/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJlMGNkZGEyNGYuYm1w.bmp)
 
 **题目和数据复制自[寻找 LCR](/problem/6021)。**
 

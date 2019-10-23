@@ -5,7 +5,7 @@
 
 Byteasar 在比特镇开了一家糖果店，草莓香草味的棒棒糖是当地孩子们的最爱。这些棒棒糖都是由长度相同的香草味或者草莓味的片段组成的。一整根棒棒糖的价格是每一段棒棒糖的价格之和，每一段香草味的棒棒糖价格为一元，草莓味的棒棒糖价格为两元。
 
-![](source/loj/2156/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4ZjgxZjdlMjFhOWEuanBn.jpg) 
+![](/source/loj/2156/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4ZjgxZjdlMjFhOWEuanBn.jpg) 
 
 图1：举个例子，这是一根由五段组成的棒棒糖，草莓味和香草味的棒棒糖交替排列，这根棒棒糖的价格为 $ 8 $ 元。
 

@@ -4,7 +4,7 @@
 如果一个无自环无重边无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人
 掌。所谓简单环即不经过重复的结点的环。
 
-<img src="source/loj/2250/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png">
+<img src="/source/loj/2250/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png">
 
 现在九条可怜手上有一张**无自环无重边的无向连通图**，但是她觉得这张图中的边数太少了，
 所以她想要在图上连上一些新的边。同时为了方便的存储这张无向图，图中的边数又不能太多。
@@ -56,7 +56,7 @@
 
 # 数据范围与提示
 
-<img src="source/loj/2250/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg2YzM5N2ZiNWMucG5n.png">
+<img src="/source/loj/2250/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg2YzM5N2ZiNWMucG5n.png">
 
 对于$100\%$ 的数据，保证 $1\leq m \leq \frac{n(n-1)}{2},\sum m\leq 10^6$。
 
