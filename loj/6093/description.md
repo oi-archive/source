@@ -14,7 +14,7 @@
 <br>
 现在需要将这 $n$ 个圆划分为两个集合，每个圆恰好在两个集合中的一个内。
 
-![Figure 2](/source/loj/6093/img/aHR0cDovL2NvZGVmb3JjZXMuY29tL3ByZWRvd25sb2FkZWQvNGYvMTgvNGYxODE2Y2EyOWM4ZmMzNzU2YTAxYWY1NWU1OGRkMGI2OWNhNmUzMS5wbmc=.png)
+![Figure 2](http://codeforces.com/predownloaded/4f/18/4f1816ca29c8fc3756a01af55e58dd0b69ca6e31.png)
 <div style='text-align: center; color: #999'>一种划分的方案，两个集合的异或面积如图所示。</div>
 
 <br>
