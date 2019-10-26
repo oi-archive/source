@@ -57,7 +57,7 @@
 
 在这种移动方式中，防壁 $1$ 移动了 $5$ 次，防壁 $2$ 移动了 $10$ 次，防壁 $3$ 移动了 $1$ 次，防壁 $4$ 移动了 $7$ 次。
 
-![wall.png](https://i.loli.net/2018/12/10/5c0ddbb8d0e8b.png)
+![wall.png](/source/loj/3006/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMTAvNWMwZGRiYjhkMGU4Yi5wbmc=.png)
 
 #### 样例输入 2
 ```plain
