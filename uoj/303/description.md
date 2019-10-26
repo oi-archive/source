@@ -44,7 +44,7 @@
 </tr><tr><td>colours(1, 2, 5, 3)</td><td>3</td><td>河将矩形区域分成了三部分:第一部分包含 $(1, 2)$ 和 $(1, 3)$ ，第二 部分包含 $(3, 2)$，第三部分包含 $(5, 3)$，因此最多可以染$3$种不同的颜色。</td>
 </tr></tbody></table></div>
 
-<p><img src="/source/uoj/303/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA2LzEzL0NPVFVSSC5tZC5wbmc=.png" alt="apiot1"/></p>
+<p><img src="https://s1.ax1x.com/2018/06/13/COTURH.md.png" alt="apiot1"/></p>
 <p>注:上图中的蓝色格子表示河流</p>
 
 # 样例输入
