@@ -1,0 +1,52 @@
+
+# Content
+
+幼儿园里有$N$个小朋友，lxhgww老师现在想要给这些小朋友们分配糖果，要求每个小朋友都要分到糖果。但是小朋友们也有嫉妒心，总是会提出一些要求，比如小明不希望小红分到的糖果比他的多，于是在分配糖果的时候，lxhgww需要满足小朋友们的K个要求。幼儿园的糖果总是有限的，lxhgww想知道他至少需要准备多少个糖果，才能使得每个小朋友都能够分到糖果，并且满足小朋友们所有的要求。
+
+# Standard Input
+
+输入的第一行是两个整数$N$($1\leq N\leq 100000$)，$K$($1\leq K\leq 100000$)。
+
+接下来$K$行，表示这些点需要满足的关系，每行$3$个数字，$X$，$A$，$B$($1\leq X\leq 5$, $1\leq A,B\leq N$)。
+* 如果$X=1$， 表示第$A$个小朋友分到的糖果必须和第$B$个小朋友分到的糖果一样多；
+* 如果$X=2$， 表示第$A$个小朋友分到的糖果必须少于第$B$个小朋友分到的糖果；
+* 如果$X=3$， 表示第$A$个小朋友分到的糖果必须不少于第$B$个小朋友分到的糖果；
+* 如果$X=4$， 表示第$A$个小朋友分到的糖果必须多于第$B$个小朋友分到的糖果；
+* 如果$X=5$， 表示第$A$个小朋友分到的糖果必须不多于第$B$个小朋友分到的糖果；
+
+# Standard Output
+
+输出一行，表示lxhgww老师至少需要准备的糖果数，如果不能满足小朋友们的所有要求，就输出$-1$。
+
+# Samples
+
+<style>
+        table,table tr th, table tr td { border:1px solid #0094ff; }
+        table { width: 200px; min-height: 25px; line-height: 25px; text-align: center; border-collapse: collapse;}   
+    </style>
+<table>
+	<tr>
+		<td>Input</td>
+		<td>Output</td>
+	</tr>
+<tr><td>5 7
+1 1 2
+2 3 2
+4 4 1
+3 4 5
+5 4 5
+2 3 5
+4 5 1</td><td>11</td></tr></table>
+
+
+# Constraints
+
+
+
+# Note
+
+
+
+# Source
+
+
