@@ -6,7 +6,7 @@
 <div> 个人的名字，然后请水题嘉年华的特邀嘉宾Lyra将OIer和妹子配对。具体来说，这M 个名字排成水平的一行，Lyr</div>
 <div>a要画 M条折线，每条折线不能跨越名字所在的水平线，且必须连接一个OIer和一个妹子，任意两条折线不能相交</div>
 <div>。举一个合法例子：</div>
-<div> <img src="source/bzoj/4694/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOS8xMS5wbmc=.png" width="649" height="147" alt=""/></div>
+<div> <img src="/source/bzoj/4694/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOS8xMS5wbmc=.png" width="649" height="147" alt=""/></div>
 <div>然而，很多OIer其实已经暗地里脱团了，于是每个OIer其实都带来了自己的妹子，只不过想借助这个活动来正大光</div>
 <div>明的公布恋情。方便起见我们给每个人一个 0到 M-1的编号，一个OIer和他的妹子编号相同。Lyra的任务就是在合</div>
 <div>法条件下连接每个OIer和他的妹子。现在 N个位置中某些位置的人已经确定了，剩下的由Lyra任意填写，Lyra想知</div>

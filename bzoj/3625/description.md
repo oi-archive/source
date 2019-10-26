@@ -64,7 +64,7 @@
 # Hint
 
 <div class="content"><p></p><p>对于第一个样例，有9个权值恰好为3的神犇二叉树：<br/><br/>
-<img height="432" alt="" width="819" src="source/bzoj/3625/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNi9hLmpwZw==.jpg"/></p><p></p></div>
+<img height="432" alt="" width="819" src="/source/bzoj/3625/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNi9hLmpwZw==.jpg"/></p><p></p></div>
 
 # Source
 

@@ -26,7 +26,7 @@
 
 # Hint
 
-<div class="content"><p>	30%的数据中，a&lt;=b&lt;=10^6；<br/>
+<div class="content"><p>30%的数据中，a&lt;=b&lt;=10^6；<br/>
 	100%的数据中，a&lt;=b&lt;=10^12。<br/>
 </p></div>
 

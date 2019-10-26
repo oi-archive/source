@@ -8,7 +8,7 @@
 <div>矛盾值，第 i 个人与第 j 个人的矛盾值为 Ti,j，并且有 Ti,i = 0， Ti,j = Tj,i。</div>
 <div>Reddington 希望将这 N 个人分为两支小分队，记为 A, B，每个人要么属</div>
 <div>于分队 A 要么属于分队 B。对于一支小分队 S，其内部的不安值</div>
-<div><img src="source/bzoj/4670/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMTExKDEpLnBuZw==.png" width="235" height="78" alt=""/></div>
+<div><img src="/source/bzoj/4670/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMTExKDEpLnBuZw==.png" width="235" height="78" alt=""/></div>
 <div>显然的，假如一支分队的不安值很高，那么作战能力就会很差。现在</div>
 <div>给定你 N 以及一个 N ∗ N 的矩阵 T，你需要告诉 Reddington，最小的</div>
 <div>D(A) + D(B) 是多少。</div>

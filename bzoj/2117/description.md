@@ -63,7 +63,7 @@
 
 # Hint
 
-<div class="content"><p></p><p> <img src="source/bzoj/2117/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMS92djEuanBn.jpg" width="885" height="288" alt=""/></p><p></p></div>
+<div class="content"><p></p><p> <img src="/source/bzoj/2117/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMS92djEuanBn.jpg" width="885" height="288" alt=""/></p><p></p></div>
 
 # Source
 

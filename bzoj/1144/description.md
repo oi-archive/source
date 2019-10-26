@@ -13,10 +13,10 @@
 <div>是幸运数字。 用L表示所有数字的集合，例如，如果贝贝、晶晶的眼睛是睁开的，欢欢、迎迎、妮妮的眼睛是闭上</div>
 <div>的，则L={2,3,4,6,8,9,12,…}。令l(x)表示第x大的幸运数字。例如，上面的例子中，l(1)=2，l(4)=6等等。 接</div>
 <div>着，工作人员开始随机产生两个数，小的数是a，大的数字是b。定义集合T(a,b)为：</div>
-<p> <img border="0" alt="" src="source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMS5qcGc=.jpg"/></p>
+<p> <img border="0" alt="" src="/source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMS5qcGc=.jpg"/></p>
 <div>　　（其中 表示x整除y） 定义一个自然数的有限子集的特征值f 如下： 1、空集的特征值为0，即 ； 2、对于非</div>
 <div>空集合S，令d为S中的最小元素，则</div>
-<p><img border="0" alt="" src="source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMi5qcGc=.jpg"/> </p>
+<p><img border="0" alt="" src="/source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMi5qcGc=.jpg"/> </p>
 <div>　　其中， 表示把S删除元素d后的集合，q是一个给定的非负整数。在a和b产生以后，中奖的志愿者就确定了，他</div>
 <div>的号码是 除以p的余数。工作人员会产生多次a，b，这样就能形成多个中奖者。但是，抽奖现场的程序需要很长的</div>
 <div>时间才能算出中奖的志愿者。出于对中奖结果的热切期待，你便想要重新写一下计算程序，于是，你的目光移向了</div>
@@ -58,7 +58,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMy5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDRfMy5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

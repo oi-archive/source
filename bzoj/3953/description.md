@@ -14,7 +14,7 @@
 <div>　　假设每种分子都有无限个，并且每个分子都可以旋转和翻转。当分子将自身组成一个结构体时，相互贴合的边必须能够相互兼容，当然，无论边的连接标识是什么，它都可以不与另外边贴合。</div>
 <div></div>
 <div>　　图 1 是一个由三种分子组成的一个有限的结构体（它们也有可能组成另外的有限结构体）。</div>
-<div><img src="source/bzoj/3953/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9SZXF1aXJlRmlsZV9kby5qcGc=.jpg" width="1681" height="961" alt=""/></div>
+<div><img src="/source/bzoj/3953/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9SZXF1aXJlRmlsZV9kby5qcGc=.jpg" width="1681" height="961" alt=""/></div>
 <div class="probtitle" id="ptit" style="margin: 0px; padding: 0px; font-size: 24pt; text-align: left; font-weight: bold; font-family: 微软雅黑, 黑体, &#39;Times New Roman&#39;;">
 <div></div>
 <div></div>

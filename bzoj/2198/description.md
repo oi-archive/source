@@ -29,7 +29,7 @@ FJ想知道有多少奶牛可以在某个特定的时刻到达1号农场。特�
 的策略在这个时刻结束时最多能有多少奶牛到达1号农场。
 
 考虑如下一个样例（树退化成链），列表里只有T_1=5一个时刻，奶牛如下分布：
- <img border="0" src="source/bzoj/2198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOThfMS5qcGc=.jpg"/> 
+ <img border="0" src="/source/bzoj/2198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOThfMS5qcGc=.jpg"/> 
 </div>
 
 # Input

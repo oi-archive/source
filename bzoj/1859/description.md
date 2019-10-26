@@ -3,7 +3,7 @@
 
 <div class="content">小H有n个碗需要放进橱柜，她希望将他们叠起来放置。你知道每个碗都是规则的圆柱体，并且都是上宽下窄，你已经测量出了每个碗的两个半径及高，请你帮小H找出一种叠放顺序，使得叠放出来的碗堆的高度尽量小，比如：
 
- <img border="0" src="source/bzoj/1859/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NTkuanBn.jpg"/> 
+ <img border="0" src="/source/bzoj/1859/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NTkuanBn.jpg"/> 
 
 </div>
 

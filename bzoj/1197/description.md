@@ -6,7 +6,7 @@
 <div>维空间（平 面），又可存在于三维空间（立体），还可存在于n维空间（想象）。二维空间的点可用向量（x1,x2</div>
 <div>）表示，三维空间的点可用向量（x1,x2,x3）表 示，一般来说，n维空间的点可用向量（x1,x2,…,xn）表示。而n</div>
 <div>维空间中两点（x1,x2,…,xn）与（w1,w2,…,wn）之间的距离定义为</div>
-<div><img src="source/bzoj/1197/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDUpLnBuZw==.png" width="150" height="35" alt=""/></div>
+<div><img src="/source/bzoj/1197/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDUpLnBuZw==.png" width="150" height="35" alt=""/></div>
 <div>在n维空间中，花仙子每实施魔法就要选择一个参考点（w1,w2,…,wn）和一个作用半径r，并且参考点的位置和作</div>
 <div>用半径的大小可以任意选择。这时，n 维空间中所有与参考点（w1,w2,…,wn）之间的距离小于作用半径r的花都会</div>
 <div>受到这次魔法的影响。每次魔法都会给受到影响的花带来不同的属性，且的效 果可以叠加。一般来说，若花仙子</div>

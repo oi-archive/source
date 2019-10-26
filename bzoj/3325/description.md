@@ -65,7 +65,7 @@ aaa<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="462" alt="" width="656" src="source/bzoj/3325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi80NC5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="462" alt="" width="656" src="/source/bzoj/3325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi80NC5qcGc=.jpg"/></p><br/>
 <p></p><br/>
 <p></p><br/>
 <p>应上传者要求，此系列试题不公开,如有异议，本站将删除之。</p><p></p></div>

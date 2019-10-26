@@ -28,8 +28,7 @@
 
 <div class="content"><p></p>
 <p></p>
-<p>
-</p><dt>
+<p></p><dt>
 <div>For each test case, output the probability that, after tossing N times, the number of heads is less </div>
 <div>than K. Rounded to the three digit after the decimal point.</div>
 </dt>

@@ -4,7 +4,7 @@
 <div class="content"><p><span style="font-size: medium;">　　如果一棵树的所有非叶节点都恰好有n个儿子，那么我们称它为严格n元树。如果该树中最底层的节点深度为d<br/>
 （根的深度为0），那么我们称它为一棵深度为d的严格n元树。例如，深度为２的严格２元树有三个，如下图：<br/>
 </span></p>
-<p><span style="font-size: medium;"> <img border="0" alt="" src="source/bzoj/1089/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwODkvMS5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium;"> <img border="0" alt="" src="/source/bzoj/1089/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwODkvMS5qcGc=.jpg"/> </span></p>
 <p><span style="font-size: medium;">　　给出n, d，编程数出深度为d的n元树数目。<br/>
 </span></p></div>
 

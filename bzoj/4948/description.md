@@ -9,7 +9,7 @@
 <div>机的支持, Piconesia 决定在其岛上修建一条最长的起降跑道带。不幸地是,他们无法确定这条跑道应该设置在哪</div>
 <div>里。也许你可以帮个忙?对于本题,我们将 Piconesia 的边界抽象成一个多边形的模型。根据这个多边形,你需要计</div>
 <div>算出最长的跑道长度(即最长的线段)使得跑道可以完全在小岛上修建。图 1 对应于第一个输入样例。</div>
-<div><img src="source/bzoj/4948/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xMS5wbmc=.png" width="322" height="310" alt=""/></div>
+<div><img src="/source/bzoj/4948/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xMS5wbmc=.png" width="322" height="310" alt=""/></div>
 <div></div>
 <div>图 1. 小岛的多边形模型。最长的跑道已用粗线标出。</div></div>
 

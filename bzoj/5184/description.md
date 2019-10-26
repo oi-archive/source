@@ -4,7 +4,7 @@
 <div class="content"><div>一个大小为(2n+1)*(2n+1)的方格按照如下方法构造。数字1放在正方形的中间，数字2放在1的右边，接下来的数字</div>
 <div>按照逆时针的顺序填充这个方格。你需要计算q个询问的答案，每个询问查询一个矩形内的数的和，结果对10^9+7</div>
 <div>取模。比如n=2的方格中，灰色区域的数的和是74：</div>
-<div> <img src="source/bzoj/5184/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi92djIucG5n.png" width="213" height="215" alt=""/></div>
+<div> <img src="/source/bzoj/5184/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi92djIucG5n.png" width="213" height="215" alt=""/></div>
 <p></p></div>
 
 # Input

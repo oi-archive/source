@@ -3,7 +3,7 @@
 
 <div class="content"><p><span style="font-size: medium">  </span></p>
 <div v:shape="_x0000_s1026"><span style="font-size: medium">给定一个边长为2<span style="position: relative; top: -0.45em">n</span>棋盘，其中有M个格子是坏掉的。一个蚂蚁要从棋盘的左上角开始，遍历整个棋盘。每个点必须且仅允许走一遍。蚂蚁走的时候把棋盘分成了四个2<span style="position: relative; top: -0.45em">n-1</span> 个小棋盘，蚂蚁总是走完其中的一个后再继续走下一个，也就是说，在进入一个小棋盘后，它必须把其中的所有点遍历以后才能走其他的点。</span></div>
-<div v:shape="_x0000_s1026"><span style="font-size: medium"><img alt="" src="source/bzoj/2524/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMS8xKDgpLmpwZw==.jpg"/></span></div>
+<div v:shape="_x0000_s1026"><span style="font-size: medium"><img alt="" src="/source/bzoj/2524/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMS8xKDgpLmpwZw==.jpg"/></span></div>
 <p></p>
 <div class="O" v:shape="_x0000_s1026" style="mso-line-spacing: &#39;100 50 0&#39;; mso-char-wrap: 1; mso-kinsoku-overflow: 1"><span style="font-size: medium"><span style="font-family: SimSun; mso-ascii-font-family: SimSun; mso-hansi-font-family: &#39;Times New Roman&#39;; mso-fareast-font-family: SimSun">对于上下左右四个边界，寻找边界上的一个格子，使得该格可以作为蚂蚁访问路线的终点</span></span></div>
 <p></p>

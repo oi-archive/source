@@ -1,12 +1,12 @@
 
 # Description
 
-<div class="content"> <img border="0" src="source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMS5qcGc=.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMS5qcGc=.jpg"/> 
 </div>
 
 # Input
 
-<div class="content"> <img border="0" src="source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMi5qcGc=.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMi5qcGc=.jpg"/> 
 </div>
 
 # Output
@@ -46,7 +46,7 @@
 
 # Hint
 
-<div class="content"><p> <img border="0" src="source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMy5qcGc=.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/2112/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMTJfMy5qcGc=.jpg"/> <br/>
 <br/>
 <br/>
 100%的数据中，1 ≤ T� ≤ 7,1 ≤ �N ≤ 100,1 ≤ S1,S2≤ 7,1 ≤ T1,i T2,i� ≤ 1000000。 </p></div>

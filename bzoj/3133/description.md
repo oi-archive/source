@@ -4,13 +4,13 @@
 <div class="content"><p><span style="font-size: medium">有一个装球机器，构造可以看作是一棵树。有下面两种操作：</span></p>
 <ul>
     <li><span style="font-size: medium">从根放入一个球，只要下方有空位，球会沿着树滚下。如果同时有多个点可以走，那么会选择编号最小的节点所在路径的方向。比如依次在树根<code>4</code>放2个球，第一个球会落到<code>1</code>，第二个会落到<code>3</code>： </span></li>
-    <li><span style="font-size: medium"><img height="204" width="424" alt="" src="source/bzoj/3133/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDcpLmpwZw==.jpg"/></span></li>
+    <li><span style="font-size: medium"><img height="204" width="424" alt="" src="/source/bzoj/3133/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDcpLmpwZw==.jpg"/></span></li>
 </ul>
 <p></p>
 <ul>
     <li><span style="font-size: medium">从某个位置拿走一个球，那么它上方的球会落下来。比如依次拿走<code>5, 7, 8</code>三个球： </span></li>
 </ul>
-<p><span style="font-size: medium"><img height="351" width="480" alt="" src="source/bzoj/3133/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8yKDEpLmpwZw==.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="351" width="480" alt="" src="/source/bzoj/3133/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8yKDEpLmpwZw==.jpg"/></span></p></div>
 
 # Input
 

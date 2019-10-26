@@ -18,7 +18,7 @@
 <div>未改变，则此关系稳定度sj=bj，若双方性别互换，则稳定度sj=floor(bjdj)，其他情况下稳定度sj=0。 </div>
 <div>给定每只绵羊的性别、性别修改代价、所有血缘链关系很繁衍关系，Q国政府希望你来设计一套性别搞糟方案，使总收益最大。</div>
 <div>收益计算方式如下： </div>
-<div> <img src="source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLmJtcA==.bmp" width="294" height="39" alt=""/></div>
+<div> <img src="/source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLmJtcA==.bmp" width="294" height="39" alt=""/></div>
 <div>其中A为改造后血缘链相邻两者为异性的情况数量，S为改造后繁衍关系稳定度之和，即S=∑jsj，C为修改绵羊性别带来的代价</div>
 <div>之和，即C=∑ici。 </div></div>
 
@@ -53,7 +53,7 @@ MMMFFF<br/>
 # Hint
 
 <div class="content"><p></p><p> 样例解释1： </p><br/>
-<div>改性别为MMFFFM。收益为<img src="source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLmJtcA==.bmp" width="398" height="39" alt=""/>。 </div><br/>
+<div>改性别为MMFFFM。收益为<img src="/source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLmJtcA==.bmp" width="398" height="39" alt=""/>。 </div><br/>
 <div>A=2是因为血缘链1-2-3中2与3性别的不同，血缘链4-5-6中5与6的性别不同。 </div><br/>
 <div></div><br/>
 <div></div><br/>
@@ -62,7 +62,7 @@ MMMFFF<br/>
 <div>对于10%的数据，满足dj=0； </div><br/>
 <div>对于10%的数据，满足dj=0.5； </div><br/>
 <div>上述三类数据两两没有交集。 </div><br/>
-<div>对于100%的数据，N&lt;=50，K&lt;=4，M&lt;=1000，P&lt;=10000，0.0&lt;=dj&lt;=1.0，bj和ci均不大于10000，dj的小数位数不超过6。 <img src="source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8zLmJtcA==.bmp" width="294" height="39" alt=""/></div><br/>
+<div>对于100%的数据，N&lt;=50，K&lt;=4，M&lt;=1000，P&lt;=10000，0.0&lt;=dj&lt;=1.0，bj和ci均不大于10000，dj的小数位数不超过6。 <img src="/source/bzoj/4067/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8zLmJtcA==.bmp" width="294" height="39" alt=""/></div><br/>
 <div></div><p></p></div>
 
 # Source

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">外面有一圈N个结点，中心有一个结点与N个结点都相连，总共就是2*N条边，删除N条边，使N+1个点连通，旋转相同视为等价，问有多少种情况。<br/>
-<img height="111" width="254" alt="" src="source/bzoj/3113/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xLmpwZw==.jpg"/></span></p></div>
+<img height="111" width="254" alt="" src="/source/bzoj/3113/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xLmpwZw==.jpg"/></span></p></div>
 
 # Input
 

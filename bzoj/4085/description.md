@@ -5,7 +5,7 @@
 <div>整数序列：Al,A2,...,AN。所谓的音质性能检测，可以评定任何的一个区间范围 [L,R] ，音质性能取决于下述评</div>
 <div>分：</div>
 <div></div>
-<div><img src="source/bzoj/4085/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgoMikucG5n.png" width="445" height="88" alt=""/></div>
+<div><img src="/source/bzoj/4085/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgoMikucG5n.png" width="445" height="88" alt=""/></div>
 <div>其中 F 是可归纳定义的数列，满足 F[1]=1，F[2]=2 且 F[k+2]=F[k+l]+aF[k]+b 对于任何 k&gt;=l 成立。其中 a </div>
 <div>和 b 为正整系数。为了可以为用户提供更好的服务体验，并希望对给定的波文件进行修正优化。这一款设备中，</div>
 <div>还应该支持对波文件的修改。对于给定的区间范围 [L,R] ，允许用户将 A[L] 至 A[R] 同时增加一，或同时减少</div>

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><h1 align="center" style="margin: 17pt 0cm 16.5pt; text-align: center"><span style="font-size: medium"><span style="font-family: 宋体">在</span><span lang="EN-US" style="font-family: &#34;Times New Roman&#34;">2xyz</span><span style="font-family: 宋体">年，人类已经移民到了火星上。由于工业的需要，人们开始在火星上采矿。火星的矿区是一个边长为</span><span lang="EN-US" style="font-family: &#34;Times New Roman&#34;">N</span><span style="font-family: 宋体">的正六边形，为了方便规划，整个矿区被分为</span><span lang="EN-US" style="font-family: &#34;Times New Roman&#34;">6*N*N</span><span style="font-family: 宋体">个正三角形的区域（如图</span><span lang="EN-US" style="font-family: &#34;Times New Roman&#34;">1</span><span style="font-family: 宋体">）。</span></span></h1>
-<p><img height="303" alt="" width="574" src="source/bzoj/2283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMjgzLmpwZw==.jpg"/></p>
+<p><img height="303" alt="" width="574" src="/source/bzoj/2283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMjgzLmpwZw==.jpg"/></p>
 <h1 align="center" style="margin: 17pt 0cm 16.5pt; text-align: center"><span lang="EN-US" style="font-size: 12pt; font-family: &#34;Times New Roman&#34;"><o:p></o:p></span></h1>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"></p>
 <p></p>
@@ -66,7 +66,7 @@
 
 <div class="content"><p></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt">样例2的解释</p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"></p><br/>
-<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><a href="/JudgeOnline/upload/201105/file/2283_1.jpg"><img height="412" alt="" width="416" src="source/bzoj/2283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMjgzXzEuanBn.jpg"/></a></p><br/>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><a href="/JudgeOnline/upload/201105/file/2283_1.jpg"><img height="412" alt="" width="416" src="/source/bzoj/2283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMjgzXzEuanBn.jpg"/></a></p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: medium"><span style="font-family: 宋体">对于</span><span lang="EN-US" style="font-family: &#39;Times New Roman&#39;">100%</span><span style="font-family: 宋体">的数据，</span><span lang="EN-US" style="font-family: &#39;Times New Roman&#39;">N≤6</span></span><span lang="EN-US" style="font-size: 12pt; font-family: &#39;Times New Roman&#39;"><o:p></o:p></span></p><p></p></div>
 
 # Source

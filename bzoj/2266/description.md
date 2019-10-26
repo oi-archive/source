@@ -1,8 +1,7 @@
 
 # Description
 
-<div class="content"><p>
-</p><p></p>
+<div class="content"><p></p><p></p>
 <center>Figure 1: In this example, dark squares represent swamp. Per may, for example, sell three overlapping grey areas, with dimensions 2×1, 2×4 and 4×1 respectively. The total perimeter is 6 + 12 + 10=28. Note that he can get more money by selling even more land. This figure corresponds to the case in the sample input.</center>
 <div class="p"><!----></div>
 <p>Now Per would like to know how many parcels of each perimeter he needs to sell in order to maximize his profit. Can you help him? You may assume that he can always find a buyer for each piece of land, as long as it doesn&#39;t contain any swamps. Also, Per is sure that no square within his parcel is owned by somebody else.</p>

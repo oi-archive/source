@@ -3,7 +3,7 @@
 
 <div class="content">Mickey坐在已经升空的飞机上俯瞰大地，他发现土地被分成了很多个不同的矩形状，且由于覆盖的植被不同而显出不同的颜色。Mickey想寻找一个最大的矩形，它里面只显出一种颜色。在以下几张图中你可以看见样例中的几幅图，其中最终的答案区域已经被标记了出来。
  
-<img border="0" src="source/bzoj/1245/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDVfMS5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1245/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDVfMS5qcGc=.jpg"/>
 请你编写一个程序计算一下所能看到的这样的矩形的面积，当然你可以放心，没有任何两块会互相重叠，然而二个矩形之间允许有共同点或公共边。
 
 </div>

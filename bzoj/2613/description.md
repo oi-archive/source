@@ -11,8 +11,7 @@
 # Output
 
 <div class="content"><div><span style="font-size: medium">输出<i>n</i>行每行一个整数描述序列(<i>a<sub>k</sub></i>), 你可以假设数据保证肯定保证至少有一组解. 如有多解输出任意一组即可. </span></div>
-<p>
-<divre></divre>
+<p><divre></divre>
 </p></div>
 
 # Sample Input

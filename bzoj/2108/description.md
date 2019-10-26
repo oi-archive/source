@@ -1,17 +1,17 @@
 
 # Description
 
-<div class="content"> <img border="0" src="source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMS5qcGc=.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMS5qcGc=.jpg"/> 
 </div>
 
 # Input
 
-<div class="content"> <img border="0" src="source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMi5qcGc=.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMi5qcGc=.jpg"/> 
 </div>
 
 # Output
 
-<div class="content"> <img border="0" src="source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMy5qcGc=.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2108/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxMDhfMy5qcGc=.jpg"/> 
 </div>
 
 # Sample Input

@@ -6,13 +6,13 @@
 2 4 3 5 6 8 6<br/>
 4 9 9 9 1 5 8</span></p>
 <p><span style="font-size: medium">以下是条合法的路线</span></p>
-<p><span style="font-size: medium"><img height="145" width="291" alt="" src="source/bzoj/1668/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMig2KS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="145" width="291" alt="" src="/source/bzoj/1668/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMig2KS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">
 </span></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span lang="EN-US"><font face="Times New Roman">    </font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">按上述的路线进行走动，一共可以获得</span><span lang="EN-US"><font face="Times New Roman">6+4+9+9+6+5+8=47</font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">个金币．按照规则，在这</span></font><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">个矩阵中最多可以得到</span><span lang="EN-US"><font face="Times New Roman">50</font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">个金币，路线如下图所示：</span></font></p>
 <p></p>
 <p></p>
 <p></p>
-<p><span style="font-size: medium"><img height="146" width="291" alt="" src="source/bzoj/1668/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMig3KS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="146" width="291" alt="" src="/source/bzoj/1668/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMig3KS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

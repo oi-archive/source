@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: 10.5pt">   </span><span style="font-size: 12pt">小白和小蓝在一起上数学课，下课后老师留了一道作业，求下面这个数列的通项公式：</span></p>
-<p><span style="font-size: 12pt"><img height="182" alt="" width="288" src="source/bzoj/2656/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: 12pt"><img height="182" alt="" width="288" src="/source/bzoj/2656/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xLmpwZw==.jpg"/></span></p>
 <p></p>
 <p></p>
 <p></p>

@@ -3,7 +3,7 @@
 
 <div class="content"><div style="text-indent: 21pt" align="left"><span style="font-size: medium">在一个N*M个方格组成的棋盘内，有K个方格被称为特殊方格。我们要使用一组俄罗斯方块来覆盖这个棋盘，保证特殊方格不能被覆盖，非特殊方格只能被一个俄罗斯方块覆盖，求最多能容纳的俄罗斯方块的数量。</span></div>
 <div style="text-indent: 21pt" align="left"><span style="font-size: medium">已知有以下三组俄罗斯方块，一个棋盘可能用其中的某一组。</span></div>
-<div style="text-indent: 21pt" align="left"><span style="font-size: medium"><img height="200" alt="" width="392" src="source/bzoj/2706/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9kZC5qcGc=.jpg"/></span></div>
+<div style="text-indent: 21pt" align="left"><span style="font-size: medium"><img height="200" alt="" width="392" src="/source/bzoj/2706/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9kZC5qcGc=.jpg"/></span></div>
 <p></p></div>
 
 # Input
@@ -30,8 +30,7 @@
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left"><span style="font-size: medium"><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">【样例输出</span><span lang="EN-US"><font face="Times New Roman">2</font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">】</span></span></p>
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-indent: 21pt; text-align: left"><span style="font-size: medium"><span lang="EN-US"><font face="Times New Roman">12</font></span></span></p>
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left"><span style="font-size: medium"><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">【数据范围】</span></span></p>
-<p>
-<table class="MsoNormalTable" cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext">
+<p><table class="MsoNormalTable" cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext">
     <tbody>
         <tr>
             <td valign="top" width="114" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 85.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent; mso-border-alt: solid windowtext .5pt">

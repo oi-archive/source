@@ -9,7 +9,7 @@
 <div>现有n个平面向量v1…vn：</div>
 <div>V1=(A2,A3),V2=(A4,A5)...Vn=(A2n,A2n+1)</div>
 <div>集合S的定义如下：</div>
-<div> <img width="380" height="48" alt="" src="source/bzoj/4414/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8xMTEucG5n.png"/></div>
+<div> <img width="380" height="48" alt="" src="/source/bzoj/4414/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8xMTEucG5n.png"/></div>
 <div>其中&#34;vi•vj&#34;表示向量vi和vj的数量积。</div>
 <div>求S集合中不同元素的个数是多少。答案对M取模。</div>
 <div>heheda告诉yts1999，只要他做出了这道题，她就可以把抱枕借给他玩一会。然而yts1999实在是太弱了不会做，于是向你求助。</div>

@@ -8,7 +8,7 @@
 这个函数叫做康托函数(Cantor Function)，是一个优美而又神秘的图形。人们发现他看似一个连续的不下降函数，但是函数的任意切线都是水平的。<br/>
 以你现在的数学水平，还不能很好地理解这个函数，所以你的任务并不难。<br/>
 你的任务是求y=f(x)^n （n次方）与 x轴 和 直线x=1 围成的面积。<br/>
- <img height="392" width="391" alt="" src="source/bzoj/2779/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8xMTEuanBn.jpg"/><br/>
+ <img height="392" width="391" alt="" src="/source/bzoj/2779/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8xMTEuanBn.jpg"/><br/>
 </span></p></div>
 
 # Input

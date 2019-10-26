@@ -12,7 +12,7 @@
 <div>In i-th matrix,</div>
 <div></div>
 <div></div>
-<div><img src="source/bzoj/3860/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS8xMTEuanBn.jpg" width="236" height="70" alt=""/></div>
+<div><img src="/source/bzoj/3860/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS8xMTEuanBn.jpg" width="236" height="70" alt=""/></div>
 <div>The number can be very large, just output the number modulo 998244353.</div>
 <div></div>
 <div>If you don&#39;t know what is the permanent of a matrix, please click http://en.wikipedia.org/wiki/Permanent or http://baike.baidu.com/view/8212164.htm</div>

@@ -6,7 +6,7 @@
 求m^x mod P，P=999999599是个质数。<br/>
 1&lt; = n．m&lt;=  200000。</span></p>
 <p><span style="font-size: medium">N=3时，有以下几种情况。</span></p>
-<p><span style="font-size: medium"><img height="95" width="240" alt="" src="source/bzoj/3500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy8xMSg1KS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="95" width="240" alt="" src="/source/bzoj/3500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy8xMSg1KS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

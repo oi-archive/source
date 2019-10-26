@@ -8,7 +8,7 @@
 尽量找出一条航线的孤地点，并计算这条航线的孤地距离。为了简化问题，我们认为地图是一个二维平面，陆地可<br/>
 以用多边形近似，飞行线路为一条折线。航线的起点和终点都在陆地上，但中间的转折点是可能在海上（如下图所<br/>
 示，方格标示出了孤地点）。</p>
-<p><span style="font-size: medium"><img border="0" alt="" src="source/bzoj/1020/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjAvMS5qcGc=.jpg"/> </span></p></div>
+<p><span style="font-size: medium"><img border="0" alt="" src="/source/bzoj/1020/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjAvMS5qcGc=.jpg"/> </span></p></div>
 
 # Input
 

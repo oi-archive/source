@@ -3,7 +3,7 @@
 
 <div class="content"><p>　　如果某个无向连通图的任意一条边至多只出现在一条简单回路（simple cycle）里，我们就称这张图为仙人掌<br/>
 图（cactus）。所谓简单回路就是指在图上不重复经过任何一个顶点的回路。</p>
-<p> <img border="0" alt="" src="source/bzoj/1023/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjMvMS5qcGc=.jpg"/></p>
+<p> <img border="0" alt="" src="/source/bzoj/1023/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjMvMS5qcGc=.jpg"/></p>
 <p>　　举例来说，上面的第一个例子是一张仙人图，而第二个不是——注意到它有三条简单回路：（4，3，2，1，6<br/>
 ，5，4）、（7，8，9，10，2，3，7）以及（4，3，7，8，9，10，2，1，6，5，4），而（2，3）同时出现在前两<br/>
 个的简单回路里。另外，第三张图也不是仙人图，因为它并不是连通图。显然，仙人图上的每条边，或者是这张仙<br/>
@@ -41,7 +41,7 @@
 # Hint
 
 <div class="content"><p></p><p>对第一个样例的说明：如图，6号点和12号点的最短路径长度为8，所以这张图的直径为8。</p><br/>
-<p> <img border="0" alt="" src="source/bzoj/1023/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjMvMi5qcGc=.jpg"/></p><br/>
+<p> <img border="0" alt="" src="/source/bzoj/1023/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMjMvMi5qcGc=.jpg"/></p><br/>
 <div>【注意】使用Pascal语言的选手请注意：你的程序在处理大数据的时候可能会出现栈溢出。</div><br/>
 <div>如果需要调整栈空间的大小，可以在程序的开头填加一句：{$M 5000000}，其中5000000即</div><br/>
 <div>指代栈空间的大小，请根据自己的程序选择适当的数值。</div><p></p></div>

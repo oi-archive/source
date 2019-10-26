@@ -41,7 +41,7 @@
 # Hint
 
 <div class="content"><p><br/>
-<img border="0" src="source/bzoj/1925/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MjUuanBn.jpg"/> <br/>
+<img border="0" src="/source/bzoj/1925/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MjUuanBn.jpg"/> <br/>
 对于 20%的数据，满足 N≤10； <br/>
 对于 40%的数据，满足 N≤18； <br/>
 对于 70%的数据，满足 N≤550； <br/>

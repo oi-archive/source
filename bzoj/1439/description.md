@@ -44,7 +44,7 @@ YY经过研究，发现此题存在N种解法，甚至可以交表！
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1439/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MzkuanBn.jpg"/><br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1439/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MzkuanBn.jpg"/><br/>
 </p></div>
 
 # Source

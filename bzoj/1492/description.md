@@ -9,9 +9,9 @@
 <div> OP% 的 A券和 OP% 的 B券 以当时的价值兑换为人民币；（b）买入金券：顾客支付 IP 元人民币，交易所将会兑</div>
 <div>换给用户总价值为 IP 的金券，并且，满足提供给顾客的A券和B券的比例在第 K 天恰好为 RateK；例如，假定接</div>
 <div>下来 3 天内的 Ak、Bk、RateK 的变化分别为：</div>
-<div><img src="source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgxKS5wbmc=.png" width="592" height="104" alt=""/></div>
+<div><img src="/source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgxKS5wbmc=.png" width="592" height="104" alt=""/></div>
 <div>假定在第一天时，用户手中有 100元 人民币但是没有任何金券。用户可以执行以下的操作：</div>
-<div><img src="source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgyKS5wbmc=.png" width="587" height="144" alt=""/></div>
+<div><img src="/source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgyKS5wbmc=.png" width="587" height="144" alt=""/></div>
 <div>
 <div>注意到，同一天内可以进行多次操作。小Y是一个很有经济头脑的员工，通过较长时间的运作和行情测算，他已经</div>
 <div>知道了未来N天内的A券和B券的价值以及Rate。他还希望能够计算出来，如果开始时拥有S元钱，那么N天后最多能</div>
@@ -50,7 +50,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgzKS5wbmc=.png" width="595" height="155" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img src="/source/bzoj/1492/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCgzKS5wbmc=.png" width="595" height="155" alt=""/></p><p></p></div>
 
 # Source
 

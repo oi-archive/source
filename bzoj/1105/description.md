@@ -36,7 +36,7 @@ x,y)和(y,x)）。属下们，就自己决定了每个石头的具体位置。�
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1105/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDUuanBn.jpg"/></p><br/>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1105/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDUuanBn.jpg"/></p><br/>
 <p>2018.4.17修改题面，不需要输出方案了.未重测！</p><p></p></div>
 
 # Source

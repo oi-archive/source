@@ -4,7 +4,7 @@
 <div class="content"><div>小Q所在的学校QNU(Quailty Niubi University)的学生公寓由n栋楼组成，这些楼从左往右连成一排，编号依次为1</div>
 <div>到n，其中第i栋楼有h_i层。现在已经凌晨三点了，但是小Q和他的队友们仍然在刻苦地刷题，从他们房间窗户透出</div>
 <div>的亮光格外醒目。</div>
-<div><img src="source/bzoj/4979/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC9waWMucG5n.png" width="438" height="320" alt=""/></div>
+<div><img src="/source/bzoj/4979/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC9waWMucG5n.png" width="438" height="320" alt=""/></div>
 <div>这时，辛苦了一晚上的小Q饿了，正当他拆完泡面准备倒水的时候，他发现热水壶放在队友那忘记拿回来了。无奈</div>
 <div>之下，他只好走路去向队友要回热水壶。在学生公寓里，小Q每分钟可以选择上楼或者下楼，或者往左往右移动到</div>
 <div>相邻的房间外面的过道上。因为夜晚的门禁，他不能走出公寓，同时，他也不能登上天台思考人生。你可以认为从</div>

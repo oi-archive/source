@@ -10,7 +10,7 @@
 <div>。第n 层(最上面一层)圆锥的底面就是第n-1 层圆台的上底面。所有的底面的圆心(包括树顶)处在同一条与地面垂</div>
 <div>直的直线上。李哲知道每一层的高度为h1,h2,…,hn，第1 层圆台的下底面距地面的高度为h0，以及每层的下底面</div>
 <div>的圆的半径r1,r2,…,rn。李哲用熟知的方法测出了月亮的光线与地面的夹角为alpha。</div>
-<div><img src="source/bzoj/1502/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMTEucG5n.png" width="407" height="217" alt=""/></div>
+<div><img src="/source/bzoj/1502/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMTEucG5n.png" width="407" height="217" alt=""/></div>
 <div></div>
 <div>为了便于计算，假设月亮的光线是平行光，且地面是水平的，在计算时忽略树干所产生的影子。</div>
 <div>李哲当然会算了，但是他希望你也来练练手</div></div>

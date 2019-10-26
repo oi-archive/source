@@ -45,7 +45,7 @@
 <p> </p><br/>
 <p></p><br/>
 <p></p><br/>
-<p class="NOI"><span style="font-family: 黑体"><span style="font-size: 16px; font-family: SimSun"><img height="696" alt="" width="732" src="source/bzoj/3672/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSg2KS5qcGc=.jpg"/></span></span></p><br/>
+<p class="NOI"><span style="font-family: 黑体"><span style="font-size: 16px; font-family: SimSun"><img height="696" alt="" width="732" src="/source/bzoj/3672/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSg2KS5qcGc=.jpg"/></span></span></p><br/>
 <p class="NOI"></p><br/>
 <p class="NOI"><span style="font-family: 黑体"><span style="font-size: 16px; font-family: SimSun">对于所有测试数据，保证 0≤p<sub>v</sub>≤10<sup>6</sup>，0≤q<sub>v</sub>≤10<sup>12</sup>，1≤f<sub>v</sub>&lt;v；保证 0&lt;s<sub>v</sub>≤l<sub>v</sub>≤2×10<sup>11</sup>，且任意城市到SZ市的总路程长度不超过 2×10<sup>11</sup>。</span></span></p><br/>
 <p class="NOI"><span style="font-family: 黑体"><span style="font-size: 16px; font-family: SimSun">输入的 t 表示数据类型，0≤t&lt;4，其中：</span></span></p><br/>

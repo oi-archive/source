@@ -33,8 +33,7 @@
 <div class="content"><span class="sampledata">24<br/>
 <br/>
 【数据范围】<br/>
-对于100%的数据，0<p,q,r<=150，输入中至少包含一个’n’<br>
-</p,q,r<=150，输入中至少包含一个’n’<br></span></div>
+对于100%的数据，0<p,q,r<=150，输入中至少包含一个’n’<br></p,q,r<=150，输入中至少包含一个’n’<br></span></div>
 
 # Hint
 

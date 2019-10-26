@@ -29,9 +29,7 @@
 
 # Hint
 
-<div class="content"><p>2&lt;=p<p<=10^9<br>
-2&lt;=k&lt;=100000,0&lt;=a<p。<br>
-</p。<br></p<=10^9<br></p></div>
+<div class="content"><p>2&lt;=p<p<=10^9<br>2&lt;=k&lt;=100000,0&lt;=a<p。<br></p。<br></p<=10^9<br></p></div>
 
 # Source
 

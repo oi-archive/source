@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>有这样一段魔法的程序：（其中所有的数组下标从0 开始，所有的除法的结果为整数，且向0取整）</div>
-<div><img src="source/bzoj/4731/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92MS5wbmc=.png" width="465" height="368" alt=""/></div>
+<div><img src="/source/bzoj/4731/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92MS5wbmc=.png" width="465" height="368" alt=""/></div>
 <div>这个程序目前十分低效（显然时间复杂度至少是平方量级的），无法快速完成百万级别的计算，但我们现在的任务</div>
 <div>不仅是优化它。现在我们给出这段程序的输出，你需要完成一个“非确定机”的工作，给出一个可能的输入。请注</div>
 <div>意本题的空间限制。</div></div>

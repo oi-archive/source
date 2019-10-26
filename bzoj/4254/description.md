@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>You own a park located on a mountain, which can be described as a sequence of n points (xi, yi) from left to right, where xi,yi&gt;0, xi&lt;xi+1, yi!=yi+1  (that means there will not be horizontal segments in the mountain skyline), illustrated below(the numbers are the corresponding x-coordinate): </div>
-<div><img src="source/bzoj/4254/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mZi5QTkc=.PNG" width="754" height="277" alt=""/></div>
+<div><img src="/source/bzoj/4254/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mZi5QTkc=.PNG" width="754" height="277" alt=""/></div>
 <div></div>
 <div>You own a park located on a mountain, which can be described as a sequence of n points (xi, yi) from left to right, where xi,yi&gt;0, xi&lt;xi+1, yi!=yi+1  (that means there will not be horizontal segments in the mountain skyline), illustrated below(the numbers are the corresponding x-coordinate): Since the mountain is very sloppy, some aerial tramways across the park would be very helpful. In the figure above, people can go from p4 to p9 directly, by taking a tram. Otherwise he must follow a rather </div>
 <div>zigzag path: p4-p5-p6-p7-p8-p9. </div>

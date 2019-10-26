@@ -3,7 +3,7 @@
 
 <div class="content"><div><span style="font-size: medium">    农夫约翰有N(2≤N≤40000)个农场，标号1到N,M(2≤M≤40000)条的不同的垂直或水</span></div>
 <div><span style="font-size: medium">平的道路连结着农场，道路的长度不超过1000.这些农场的分布就像下面的地图一样，</span></div>
-<div><span style="font-size: medium"><img height="250" width="231" alt="" src="source/bzoj/3362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxKS5qcGc=.jpg"/></span></div>
+<div><span style="font-size: medium"><img height="250" width="231" alt="" src="/source/bzoj/3362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxKS5qcGc=.jpg"/></span></div>
 <div><span style="font-size: medium">图中农场用F1..F7表示, 每个农场最多能在东西南北四个方向连结4个不同的农场．此外，农场只处在道路的两端．道路不会交叉且每对农场间有且仅有一条路径．邻居鲍伯要约翰来导航，但约翰丢了农场的地图，他只得从电脑的备份中修复了．每一条道路的信息如下：</span></div>
 <div><span style="font-size: medium">从农场23往南经距离10到达农场17</span></div>
 <div><span style="font-size: medium">从农场1往东经距离7到达农场17</span></div>

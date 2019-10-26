@@ -5,7 +5,7 @@
 <div>每天只有1个照射器被打开，使所有向日葵转向光源，并使部分向日葵生长。向日葵会生长当且仅当其朝向的相邻植株比它更高，其每天的生长高度为1厘米。请注意，一个植株的生长将使其背后的植株立刻开始生长。</div>
 <div></div>
 <div>样例数据前三天的生长情况</div>
-<div><img src="source/bzoj/4432/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYSgxKS5naWY=.gif" width="653" height="201" alt=""/></div>
+<div><img src="/source/bzoj/4432/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYSgxKS5naWY=.gif" width="653" height="201" alt=""/></div>
 <div>你将被给出向日葵的初始高度和接下来m天的光照计划，请计算所有向日葵最终的高度。</div>
 <p></p></div>
 

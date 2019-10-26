@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDFfMS5qcGc=.jpg"/></div>
+<div class="content"><img border="0" src="/source/bzoj/1241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDFfMS5qcGc=.jpg"/></div>
 
 # Input
 
@@ -13,7 +13,7 @@
 
 # Sample Input
 
-<div class="content"><span class="sampledata"><img border="0" src="source/bzoj/1241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDFfMi5qcGc=.jpg"/></span></div>
+<div class="content"><span class="sampledata"><img border="0" src="/source/bzoj/1241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDFfMi5qcGc=.jpg"/></span></div>
 
 # Sample Output
 

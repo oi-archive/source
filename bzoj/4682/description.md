@@ -8,7 +8,7 @@
 <div>向这条边的方向移动。但是注意我们无法移动障碍。对于给定的初始拼图，拼图游戏的任务是将王滑块移动到整个</div>
 <div>区域的左上角。</div>
 <div>例如下图给出了第四组样例的初始局面。</div>
-<div> <img src="source/bzoj/4682/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMS5wbmc=.png" width="298" height="150" alt=""/></div>
+<div> <img src="/source/bzoj/4682/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMS5wbmc=.png" width="298" height="150" alt=""/></div>
 <div>你的任务是计算从给定局面到完成任务所需的最少移动次数。一次移动是指某种滑块移动到相邻的位置上。</div>
 <div></div>
 <div></div>

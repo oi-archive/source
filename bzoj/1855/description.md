@@ -36,7 +36,7 @@
 
 # Hint
 
-<div class="content"><p>   对于30%的数据，0 &lt; =W<t <="50,1" <="MaxP" <="50&lt;br">
+<div class="content"><p>对于30%的数据，0 &lt; =W<t <="50,1" <="MaxP" <="50&lt;br">
    对于50%的数据，0 &lt; =W<t <="2000,1" <="MaxP" <="50&lt;br">
    对于100%的数据，0 &lt; =W<t <="2000,1" <="MaxP" <="2000&lt;br">
 <br/>

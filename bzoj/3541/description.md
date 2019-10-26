@@ -5,7 +5,7 @@
 <div><span style="font-size: medium">       当BIA得到新的信息，数据被放在服务器上，然后通过网络分发到各台计算机。BIA的首脑在考虑如果一台计算机停止工作（例如被黑客攻击）将会发生什么，有可能一些计算机将因此得不到服务器上的数据。我们称这种计算机是critical的。</span></div>
 <div><span style="font-size: medium">       如下图，有两台critical计算机1、2。1是服务器，而所有1到3的数据都必须经过2。</span></div>
 <div><span style="font-size: medium"> </span></div>
-<p><img height="292" alt="" width="346" src="source/bzoj/3541/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8yMi5qcGc=.jpg"/></p></div>
+<p><img height="292" alt="" width="346" src="/source/bzoj/3541/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8yMi5qcGc=.jpg"/></p></div>
 
 # Input
 

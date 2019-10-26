@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>给定正整数N，R。求</div>
-<div><img src="source/bzoj/3817/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi9hYS5QTkc=.PNG" width="270" height="129" alt=""/></div>
+<div><img src="/source/bzoj/3817/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi9hYS5QTkc=.PNG" width="270" height="129" alt=""/></div>
 <div></div>
 <p></p></div>
 

@@ -3,7 +3,7 @@
 
 <div class="content"><div>在一个s个点的图中，存在s-n条边，使图中形成了n个连通块，第i个连通块中有ai</div>
 <div>个点。现在我们需要再连接n?1条边，使该图变成一棵树。对一种连边方案，设原图中第i个连通块连出了di条边，那么这棵树T的价值为：</div>
-<div> <img src="source/bzoj/5119/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi8xMTExMS5wbmc=.png" width="440" height="152" alt=""/></div>
+<div> <img src="/source/bzoj/5119/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi8xMTExMS5wbmc=.png" width="440" height="152" alt=""/></div>
 <div>你的任务是求出所有可能的生成树的价值之和，对998244353取模。</div>
 <div></div>
 <div></div>

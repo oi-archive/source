@@ -10,10 +10,10 @@
 <div>给定一个网格，用r x c的字符矩阵描述：‘#’代表障碍物，‘.’代表空地。在满足前面所述的条件下覆盖所有空地，并使得端点在网格边界(即不构成环)的蛇尽量少。（如果一条蛇既构成环，又是端点在边界，那么不计入答案）</div>
 <div>     例如，以下网格：</div>
 <div></div>
-<div> <img src="source/bzoj/4213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jMS5qcGc=.jpg" width="143" height="267" alt=""/></div>
+<div> <img src="/source/bzoj/4213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jMS5qcGc=.jpg" width="143" height="267" alt=""/></div>
 <div></div>
 <div>可以由下面三种方案覆盖。还有其他的方案，但是没法仅用一条不构成环的蛇就覆盖整个网络的方案。</div>
-<div><img src="source/bzoj/4213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jMi5qcGc=.jpg" width="674" height="237" alt=""/></div>
+<div><img src="/source/bzoj/4213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jMi5qcGc=.jpg" width="674" height="237" alt=""/></div>
 <div> </div>
 <div></div>
 <div></div>

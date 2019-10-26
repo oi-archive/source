@@ -37,7 +37,7 @@ Q -1.5 0 0.0 0.0 <br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="593" alt="" width="759" src="source/bzoj/2758/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMS5naWY=.gif"/></p><br/>
+<div class="content"><p></p><p><img height="593" alt="" width="759" src="/source/bzoj/2758/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMS5naWY=.gif"/></p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">对于</span><span lang="EN-US"><font face="Calibri">30%</font></span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">的数据，保证：</span><span lang="EN-US"><font face="Calibri"> </font></span></font></p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span lang="EN-US"><font face="Calibri">1&lt;=M&lt;=10.0</font></span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">，凸多边形的点数加上圆的个数小于等于</span><span lang="EN-US"><font face="Calibri">1000 </font></span></font></p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">剩余数据中，保证：</span><span lang="EN-US"><font face="Calibri"> </font></span></font></p><br/>

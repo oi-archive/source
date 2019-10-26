@@ -3,7 +3,7 @@
 
 <div class="content">某个房子的屋顶如下图所示…。 
 
-<img border="0" src="source/bzoj/1451/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NTEuanBn.jpg"/>
+<img border="0" src="/source/bzoj/1451/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NTEuanBn.jpg"/>
 
  
 

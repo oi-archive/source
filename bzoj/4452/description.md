@@ -10,7 +10,7 @@
 <div>（ii）删去这个点 </div>
 <div>（iii）在a，b之间建立一条新的边 </div>
 <div>下面这个例子lim=95： </div>
-<div><img src="source/bzoj/4452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYSgyKS5wbmc=.png" width="856" height="380" alt=""/></div>
+<div><img src="/source/bzoj/4452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYSgyKS5wbmc=.png" width="856" height="380" alt=""/></div>
 <div></div>
 <div>数据保证原图没有重边和自环，但不保证经过如上操作后的图没有重边和自环。 </div>
 <div>现在我们想知道当lim取若干值时，由原图生成的新图的点数和边数是多少。 </div>

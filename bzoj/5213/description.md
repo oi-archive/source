@@ -53,7 +53,7 @@
 
 # Hint
 
-<div class="content"><p></p><p> <img src="source/bzoj/5213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDIpLmpwZw==.jpg" width="625" height="196" alt=""/></p><p></p></div>
+<div class="content"><p></p><p> <img src="/source/bzoj/5213/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDIpLmpwZw==.jpg" width="625" height="196" alt=""/></p><p></p></div>
 
 # Source
 

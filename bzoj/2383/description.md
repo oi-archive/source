@@ -1,16 +1,16 @@
 
 # Description
 
-<div class="content"><p><img alt="" src="source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img alt="" src="/source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMS5qcGc=.jpg"/></p></div>
 
 # Input
 
-<div class="content"><p><img height="107" alt="" width="887" src="source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMigxKS5qcGc=.jpg"/></p>
+<div class="content"><p><img height="107" alt="" width="887" src="/source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMigxKS5qcGc=.jpg"/></p>
 <p><span style="color: rgb(68, 68, 68); font-family: tahoma, arial, sans-serif; line-height: 12px;">很多有着固定的横坐标气球没有固定的半径，然后求从左到右依次吹这些气球，它们的半径最大是多少。</span></p></div>
 
 # Output
 
-<div class="content"><p><img height="85" alt="" width="887" src="source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMy5qcGc=.jpg"/></p></div>
+<div class="content"><p><img height="85" alt="" width="887" src="/source/bzoj/2383/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9jMy5qcGc=.jpg"/></p></div>
 
 # Sample Input
 

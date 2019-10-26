@@ -3,7 +3,7 @@
 
 <div class="content">给你N*N个1*1的小正方形组成的大正方形，问你破坏哪些边可以使得这个大正方形不再拥有任何子正方形。初始的时候，它可能会自动缺少某些边.这些边的编号方式如下图所示
 
-<img border="0" src="source/bzoj/1328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjguanBn.jpg"/>
+<img border="0" src="/source/bzoj/1328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjguanBn.jpg"/>
 </div>
 
 # Input

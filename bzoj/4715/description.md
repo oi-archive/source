@@ -13,7 +13,7 @@
 <div></div>
 <div>监狱游戏的参加者被分为了看守和囚犯，两侧各n人。举行监狱游戏的地点在一个被改造过了的大仓库一样的地方</div>
 <div>，里面有两排共2n个房间，服务入口侧的是囚犯的房间，行刑室侧的是看守的房间。如下图所示。</div>
-<div> <img src="source/bzoj/4715/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYxMS9hYS5wbmc=.png" width="459" height="278" alt=""/></div>
+<div> <img src="/source/bzoj/4715/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYxMS9hYS5wbmc=.png" width="459" height="278" alt=""/></div>
 <div>相邻的看守与囚犯的房间之间可以通过对讲机互相沟通，但是声音会被处理，无法辨别。两侧的分类房中都有一排</div>
 <div>各n扇门，从左到右编号为1～n。进入一扇门之后会有一条狭长、黑暗，而且弯弯曲曲的走廊通向房间。由于其特</div>
 <div>殊的构造，看守的i号门对应房间未必就是囚犯的i号门对应的房间。因此，想在这个监狱游戏中胜出，了解门与门</div>

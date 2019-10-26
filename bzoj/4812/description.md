@@ -9,7 +9,7 @@
 <div>权值集合中每一段连续出现的数的贡献为这一段长度的k次方</div>
 <div>例如出现了1,9,2,6,0,8,1,7这些数，k=3的时候贡献为3^3+4^3，因为0,1,2是连续一段，6,7,8,9为连续一段</div>
 <div>每次询问给出x条树链，以及一个k，贡献对2^32取模</div>
-<div><img src="source/bzoj/4812/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djMucG5n.png" width="746" height="621" alt=""/></div>
+<div><img src="/source/bzoj/4812/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djMucG5n.png" width="746" height="621" alt=""/></div>
 <p></p></div>
 
 # Input

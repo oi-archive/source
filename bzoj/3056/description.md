@@ -3,7 +3,7 @@
 
 <div class="content"><p><span style="font-size: medium">一些探险家组队去探索神秘的Nescafe之塔。经过一番周折，探险队员们终于突破了塔门，来到了Nescafe之塔的一层大殿。而探险队员们想要拜访的四大护法和塔之圣主据传都住在塔的高层，因此他们迅速奔向了大殿一侧的升降梯口。不过由于Nescafe之塔乃是一年一度封印和开启“Nescafe之杯”的禁地，自然不能允许外来人员随意闯入，因此要想乘坐升降梯，队员们必须破解开启升降梯动力的密码。</span></p>
 <p><span style="font-size: medium">升降梯的密码盘是一个由n*n个方格组成的正方形(n为偶数)，第i行第j列的方格中标着数字(i-1)*n+j，而在密码盘的上面覆盖着一张同样由n*n个方格组成的挡光片。如果挖去挡光片上的n*n/4个格子，并从小到大记下通过挖去的格子看到的n*n/4个数；然后把挡光片顺时针旋转90°、180°、270°，每次也同样记下看到的n*n/4个数；这样最终将得到n*n个数。如果记下的这n*n个数恰好是1~n*n的一个排列，那么我们称这片挖去n*n/4个格子后的挡光片对密码盘是“精确覆盖”的。不妨用一个n*n的01矩阵表示这张挡光片，其中挖去的格子为1，没有挖去的格子为0，那么如下图所示的挡光片就可以表示为：<br/>
-</span><span style="font-size: medium"><img height="223" alt="" width="221" src="source/bzoj/3056/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMi9lbGV2YXRvci5KUEc=.JPG"/></span></p>
+</span><span style="font-size: medium"><img height="223" alt="" width="221" src="/source/bzoj/3056/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMi9lbGV2YXRvci5KUEc=.JPG"/></span></p>
 <p><span style="font-size: medium">0000<br/>
 0000<br/>
 1101<br/>

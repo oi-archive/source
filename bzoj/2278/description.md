@@ -63,7 +63,7 @@ x，y表示该街道连接的路口的编号，z表示初始时该街道的状�
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" src="source/bzoj/2278/img/aHR0cDovL21haW4uZWR1LnBsL2ltYWdlcy9PSTE4L3NtaXphZDEuZ2lm.gif"/></p><p></p></div>
+<div class="content"><p></p><p><img alt="" src="/source/bzoj/2278/img/aHR0cDovL21haW4uZWR1LnBsL2ltYWdlcy9PSTE4L3NtaXphZDEuZ2lm.gif"/></p><p></p></div>
 
 # Source
 

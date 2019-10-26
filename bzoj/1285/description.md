@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1285/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODUuanBn.jpg"/></div>
+<div class="content"><img border="0" src="/source/bzoj/1285/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODUuanBn.jpg"/></div>
 
 # Input
 
@@ -26,8 +26,7 @@
 # Hint
 
 <div class="content"><p>N&lt;=25<br/>
-0<y[i]<=1000000000<br>
-0&lt;=b[i]<e[i]<=10< p=""></e[i]<=10<></y[i]<=1000000000<br></p></div>
+0<y[i]<=1000000000<br>0&lt;=b[i]<e[i]<=10< p=""></e[i]<=10<></y[i]<=1000000000<br></p></div>
 
 # Source
 

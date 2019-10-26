@@ -6,8 +6,7 @@
 
 # Input
 
-<div class="content"><p>
-</p><p></p>
+<div class="content"><p></p><p></p>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"></p>
 <p></p>
 <div><span style="font-size: medium">本题为多组数据</span></div>

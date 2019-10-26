@@ -11,7 +11,7 @@
 <div>(2, 3) 未被激活。</div>
 </div>
 <div></div>
-<div><img src="source/bzoj/3950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9jY2MucG5n.png" width="179" height="411" alt=""/></div>
+<div><img src="/source/bzoj/3950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9jY2MucG5n.png" width="179" height="411" alt=""/></div>
 <div>
 <div>现在，你作为一个交换系统的管理员，要监控整个系统的运作状态。由于系统还未开发完全，你只能知道在每个时</div>
 <div>刻，有多少条数据交换的请求，以及登记某个被激活的服务器的编号（毕竟你一秒钟也干不了太多事）。你连续监</div>

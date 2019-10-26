@@ -3,7 +3,7 @@
 
 <div class="content"><div><b><span style="font-size: 12pt">       </span></b><span style="font-size: 12pt">给定一个</span><span style="font-size: 12pt">M*N</span><span style="font-size: 12pt">的系数矩阵</span><span style="font-size: 12pt">A</span><span style="font-size: 12pt">和一个</span><span style="font-size: 12pt">M*N</span><span style="font-size: 12pt">的初始矩阵</span><span style="font-size: 12pt">B</span><span style="font-size: 12pt">，我们定义矩阵序列</span><span style="font-size: 12pt">SB={B<sub>k</sub>}</span><span style="font-size: 12pt">，满足序列第一项</span><span style="font-size: 12pt">B<sub>1</sub></span><span style="font-size: 12pt">等于</span><span style="font-size: 12pt">B</span><span style="font-size: 12pt">，对于其他项则满足下式：</span></div>
 <div></div>
-<div><span style="font-size: 12pt"><img height="92" width="328" alt="" src="source/bzoj/2684/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMTEuanBn.jpg"/></span></div>
+<div><span style="font-size: 12pt"><img height="92" width="328" alt="" src="/source/bzoj/2684/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMTEuanBn.jpg"/></span></div>
 <div></div>
 <div></div>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">其中上式</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">b</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">的右上角的数表示上标，即其在矩阵序列中的位置。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p>

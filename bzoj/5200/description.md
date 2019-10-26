@@ -5,7 +5,7 @@
 <div>二叉树中序遍历是指按照左子树-根-右子树的顺序递归遍历二叉树，将每个点的权值依次写下来得到的序列。</div>
 <div></div>
 <div>给定一个序列a_1,a_2,...,a_n，请判断它是不是可能是某棵Factor-Free Tree的中序遍历序列，如果是的话请给出例子。</div>
-<div><img src="source/bzoj/5200/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDEpLmpwZw==.jpg" width="222" height="172" alt=""/></div>
+<div><img src="/source/bzoj/5200/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDEpLmpwZw==.jpg" width="222" height="172" alt=""/></div>
 <div></div>
 <p></p></div>
 

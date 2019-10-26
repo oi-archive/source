@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1311/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMTEuanBn.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1311/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMTEuanBn.jpg"/>
 
 其中:
 Auv是与Aij相邻的像素(为了简化,认为(i-1,j),(i+1,j,(i,j-1),(i,j+1)为相邻元素);

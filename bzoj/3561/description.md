@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div><span style="font-size: medium">给定正整数n,m。求</span></div>
-<div><span style="font-size: medium"> <img height="93" width="199" alt="" src="source/bzoj/3561/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS9hYWEuanBn.jpg"/></span></div>
+<div><span style="font-size: medium"> <img height="93" width="199" alt="" src="/source/bzoj/3561/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS9hYWEuanBn.jpg"/></span></div>
 <div><span style="font-size: medium"> </span></div></div>
 
 # Input

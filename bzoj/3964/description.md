@@ -11,7 +11,7 @@
 <div>。</div>
 <div>左图的折线由五条线段和四个可折叠的轴组成，它可以被折叠成右图那样的多边</div>
 <div>形。</div>
-<div><img src="source/bzoj/3964/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC81NS5qcGc=.jpg" width="826" height="99" alt=""/></div>
+<div><img src="/source/bzoj/3964/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC81NS5qcGc=.jpg" width="826" height="99" alt=""/></div>
 <div></div>
 <p></p></div>
 

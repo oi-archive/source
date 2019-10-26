@@ -3,11 +3,11 @@
 
 <div class="content"><div><span style="font-size: medium">       Up主家终于买电脑了，但是接下来有各种问题要处理。首要解决的问题就是网络问题。他要从移动公司开始，通过一些基站来传递网络到他家。</span></div>
 <div><span style="font-size: medium">       为了简化问题，我们假设移动公司，所有的基站，up主家位于同一条直线上，他们都位于这一条直线上的某一点x，这些点不会重合。每个基站发射和接收的范围都是一个切于地面的圆，发射的半径r1是固定的，接收半径r2是可调的的。如下图：</span></div>
-<div><span style="font-size: medium"><img height="270" alt="" width="537" src="source/bzoj/3006/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS8xLmpwZw==.jpg"/></span></div>
+<div><span style="font-size: medium"><img height="270" alt="" width="537" src="/source/bzoj/3006/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS8xLmpwZw==.jpg"/></span></div>
 <div></div>
 <div><span style="font-size: medium">       一个点i如果能从另一个点j接收到信号(当且仅当x[j] &lt; x[i])，必须满足i的接收范围与j的发射范围相切，并且需要付sqrt(r2[i])的额外费用。同时启动每一个点i都需要费用v[i].</span></div>
 <div><span style="font-size: medium">       当然一个点如果能够发射的up主家只需要这个点的发射范围与up主家所在的竖线相切或相交即可，如下图：</span></div>
-<div><span style="font-size: medium"><img height="262" alt="" width="373" src="source/bzoj/3006/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS8yLmpwZw==.jpg"/></span></div>
+<div><span style="font-size: medium"><img height="262" alt="" width="373" src="/source/bzoj/3006/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS8yLmpwZw==.jpg"/></span></div>
 <div></div>
 <div><span style="font-size: medium">当然费用越少就越好咯，于是up主想要请你帮他的忙。</span></div></div>
 

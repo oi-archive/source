@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">在平面直角坐标系中有n条互不相交(没有公共点)且所在直线不会经过(0,0)的线段。有一个人站在(0,0)，他的视野是360度的。但是他在某一个方向上的视野会被该方向上碰到的第一条线段所阻挡，问他能看到的区域面积有多大（数据保证是有限面积）。如下图（样例），可以看到的面积就是11。<br/>
-<img alt="" width="203" height="205" src="source/bzoj/2640/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy9mZigxKS5qcGc=.jpg"/></span></p>
+<img alt="" width="203" height="205" src="/source/bzoj/2640/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy9mZigxKS5qcGc=.jpg"/></span></p>
 <p></p>
 <p><span style="font-size: medium">　　为了加大难度，他想知道，在删除一条线段的情况下能看到最大多大的面积（不保证是有限面积）。<br/>
 　　进一步，他还想知道，在删除两条线段的情况下能看到最大多大的面积（不保证是有限面积）。<br/>

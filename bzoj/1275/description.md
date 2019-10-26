@@ -5,7 +5,7 @@
 <div>牛决定如果John的建设使得存在p1,p2,p3三个点，并且p1-p2的距离、p2-p3的距离和p3-p1的距离都相等，它们就</div>
 <div>罢工…? John想知道能让自己的牛满意的建设方案有多少种。（如N=3时有7种）</div>
 <div></div>
-<p> <img border="0" src="source/bzoj/1275/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNzUuanBn.jpg" alt=""/></p></div>
+<p> <img border="0" src="/source/bzoj/1275/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNzUuanBn.jpg" alt=""/></p></div>
 
 # Input
 

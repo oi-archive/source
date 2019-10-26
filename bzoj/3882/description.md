@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><p> <img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8xKDIpLnBuZw==.png" width="1059" height="64" alt=""/></p></div>
+<div class="content"><p> <img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8xKDIpLnBuZw==.png" width="1059" height="64" alt=""/></p></div>
 
 # Input
 
-<div class="content"><p><img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi_lpI3ku7YgMjIyLmpwZw==.jpg" width="974" height="59" alt=""/></p></div>
+<div class="content"><p><img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi_lpI3ku7YgMjIyLmpwZw==.jpg" width="974" height="59" alt=""/></p></div>
 
 # Output
 
-<div class="content"><p> <img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zLnBuZw==.png" width="0" height="0" alt=""/><img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDEpLnBuZw==.png" width="0" height="0" alt=""/><img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDIpLnBuZw==.png" width="0" height="0" alt=""/><img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDMpLnBuZw==.png" width="0" height="0" alt=""/><img src="source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zMzMuanBn.jpg" width="634" height="92" alt=""/></p></div>
+<div class="content"><p> <img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zLnBuZw==.png" width="0" height="0" alt=""/><img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDEpLnBuZw==.png" width="0" height="0" alt=""/><img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDIpLnBuZw==.png" width="0" height="0" alt=""/><img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zKDMpLnBuZw==.png" width="0" height="0" alt=""/><img src="/source/bzoj/3882/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8zMzMuanBn.jpg" width="634" height="92" alt=""/></p></div>
 
 # Sample Input
 

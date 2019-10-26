@@ -3,7 +3,7 @@
 
 <div class="content"><p><span style="font-size: medium">平面上有n个点，每个点有k种颜色中的一个。<br/>
 你可以选择一条水平的线段获得在其上方或其下方的所有点，如图所示：</span></p>
-<p><span style="font-size: medium"><img height="272" width="293" alt="" src="source/bzoj/3658/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy9iYigxKS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="272" width="293" alt="" src="/source/bzoj/3658/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy9iYigxKS5qcGc=.jpg"/></span></p>
 <p></p>
 <p></p>
 <p><span style="font-size: medium">请求出你最多能够得到多少点，使得获得的点并不包含所有的颜色。<br/>

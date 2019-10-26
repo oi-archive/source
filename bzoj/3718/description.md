@@ -5,7 +5,7 @@
 停车场是一个长条矩形，宽度为w。我们以其左下角顶点为原点，坐标轴平行于矩形的边，建立直角坐标系。停车场很长，我们可以认为它一直向右边伸展到无穷远处。<br/>
 车都是边平行于坐标轴的矩形，大小可能不同。你可以将车任意地平移（但不能旋转），只要他们不超出停车场的边界，且不能互相碰撞，但紧挨着是允许的（即任意时刻任两辆车的重叠面积为0）。<br/>
 你知道目前各辆车的摆放位置，以及老板心中所想的位置。你需要判断是否可以办到老板的任务。</p>
-<p><img height="121" alt="" width="613" src="source/bzoj/3718/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9wYXJyeXMtY3JvcC5naWY=.gif"/></p></div>
+<p><img height="121" alt="" width="613" src="/source/bzoj/3718/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9wYXJyeXMtY3JvcC5naWY=.gif"/></p></div>
 
 # Input
 

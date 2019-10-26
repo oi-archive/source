@@ -25,7 +25,7 @@ c)Q1=H1=Q2-1,H2+1=Q3=H3<br/>
 d)P1&lt;P2&lt;=G2&lt;G1<br/>
 <br/>
 下图是一个‘N’,‘O’,‘I’的例子</span></p>
-<p><span style="font-size: medium"><img height="157" alt="" width="500" src="source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8zMy5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="157" alt="" width="500" src="/source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8zMy5qcGc=.jpg"/></span></p>
 <p></p>
 <p><span style="font-size: medium">另外，所有画的图形均不允许超过纸张的边界。现在小E想要知道,他能画出的最大幸运度是多少。</span></p></div>
 
@@ -64,8 +64,8 @@ d)P1&lt;P2&lt;=G2&lt;G1<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="76" alt="" width="500" src="source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8xMSgxKS5qcGc=.jpg"/></p><br/>
-<p><img height="375" alt="" width="370" src="source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8yMi5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="76" alt="" width="500" src="/source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8xMSgxKS5qcGc=.jpg"/></p><br/>
+<p><img height="375" alt="" width="370" src="/source/bzoj/3241/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8yMi5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

@@ -4,7 +4,7 @@
 <div class="content"><p><span style="font-size: medium">小呆同学非常的懒，做数学题的时候喜欢用Python做计算器，写一个脚本，用Python运行一下，把答案写到书上。<br/>
     2017年的一天，小呆遇到了一道很难的数学题，有上千个计算步骤，他辛辛苦苦地把需要的Python脚本写完。但是悲剧发生了，他的Python解释器坏了，而且由于“特殊”的访问限制，他无法登上</span><a href="http://www.python.org"><span style="font-size: medium">www.python.org</span></a><span style="font-size: medium">重新下载Pvthon解释器所以他决定自己写一个简单的Python解释器以满足他的做题要求，但是他没有时间，他还要去做其他的题目，所以他把编写Python解释器这个艰巨的任务交给了你，一个未来的THUer。<br/>
     你被要求实现Python解释器中两种简单的功能：</span></p>
-<p><span style="font-size: medium"><img height="367" width="727" alt="" src="source/bzoj/3686/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS8xMS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="367" width="727" alt="" src="/source/bzoj/3686/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS8xMS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">为了降低本问题的难度，特别约定：<br/>
 ·变量名由5～8个小写字符构成(&#39;a’一’Z&#39;)。<br/>
 ·表达式中只会出现+，一，术，／四种运算符(不存在括号，除法运算符为整除并且使用//表示)。<br/>

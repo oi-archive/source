@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div style="text-indent: 24pt"><span style="font-size: 12pt">逆时针给出</span><i><span style="font-size: 12pt">n</span></i><span style="font-size: 12pt">个凸多边形的顶点坐标，求它们交的面积。例如</span><span style="font-size: 12pt">n=2</span><span style="font-size: 12pt">时，两个凸多边形如下图：</span></div>
-<div style="text-indent: 24pt"><span style="font-size: 12pt"><img height="266" alt="" width="238" src="source/bzoj/2618/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDcpLmpwZw==.jpg"/></span></div>
+<div style="text-indent: 24pt"><span style="font-size: 12pt"><img height="266" alt="" width="238" src="/source/bzoj/2618/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDcpLmpwZw==.jpg"/></span></div>
 <p></p>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">则相交部分的面积为</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">5.233</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">。</span><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></p></div>
 

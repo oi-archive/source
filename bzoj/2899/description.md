@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div style="text-indent: 21pt"><span style="font-size: medium">D博士最近设计了一款新的密码锁，密码锁的工作原理如下：</span></div>
-<div style="text-indent: 21pt"><span style="font-size: medium"><img height="59" width="122" alt="" src="source/bzoj/2899/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMS8yLmpwZw==.jpg"/></span></div>
+<div style="text-indent: 21pt"><span style="font-size: medium"><img height="59" width="122" alt="" src="/source/bzoj/2899/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMS8yLmpwZw==.jpg"/></span></div>
 <div style="text-indent: 21pt"></div>
 <div><span style="font-size: medium">       密码A是一个N个数的序列，每个元素都是1至N之间的一个整数。刚刚安装时，密码锁内部会随机出一个1至N的排列B，然后根据A、B产生一组比对码C：</span></div>
 <div><span style="font-size: medium">       其中表示元素i在B中的位置，比如说：B = {3，1，2}，那么有：B<sub>3</sub><sup>-1</sup> =1、B<sub>1</sub><sup>-1</sup> =2。</span></div>

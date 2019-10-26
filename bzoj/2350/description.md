@@ -5,7 +5,7 @@
 
 # Input
 
-<div class="content"><p><img alt="" src="source/bzoj/2350/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9jLmpwZw==.jpg"/></p>
+<div class="content"><p><img alt="" src="/source/bzoj/2350/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9jLmpwZw==.jpg"/></p>
 <p></p></div>
 
 # Output

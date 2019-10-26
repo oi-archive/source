@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><div> 设d(x)为x的约数个数，给定N、M，求  <img src="source/bzoj/3994/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8xMTEuanBn.jpg" width="96" height="73" alt=""/></div>
+<div class="content"><div> 设d(x)为x的约数个数，给定N、M，求  <img src="/source/bzoj/3994/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8xMTEuanBn.jpg" width="96" height="73" alt=""/></div>
 <div></div>
 <p class="NOI1"></p></div>
 

@@ -8,7 +8,7 @@
 意控制基站也有后继基站，以便在需要时进行物资的流通。在物流系统中，高可靠性与低成本是主要设计目。对于<br/>
 基站 i ，我们定义其“可靠性” R(i) 如下：设物流基站 i 有 w 个前驱基站 P1,P2, … Pw ，即这些基站以 i<br/>
 为后继基站，则基站 i 的可靠性 R(i) 满足下式：<br/>
-<img width="195" height="62" alt="" src="source/bzoj/1065/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yKDQpLnBuZw==.png"/><br/>
+<img width="195" height="62" alt="" src="/source/bzoj/1065/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yKDQpLnBuZw==.png"/><br/>
 其中 Ci 和 k 都是常实数且恒为正，且有 k 小于 1 。整个系统的可靠性与控制基站的可靠性正相关，我们<br/>
 的目标是通过修改物流系统，即更改某些基站的后继基站，使得控制基站的可靠性 R(1) 尽量大。但由于经费限制<br/>
 ，最多只能修改 m 个基站的后继基站，并且，控制基站的后继基站不可被修改。因而我们所面临的问题就是，如<br/>

@@ -8,7 +8,7 @@
 <div>些方向是联通的。例如上方、左方和右方有管道，那么这三个方向的格子如果</div>
 <div>有朝向这个格子的管道，就可以通过这个格子上的管道连通。</div>
 <div>比如这样：</div>
-<div><img src="source/bzoj/4646/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNy8xMS5wbmc=.png" width="293" height="138" alt=""/></div>
+<div><img src="/source/bzoj/4646/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNy8xMS5wbmc=.png" width="293" height="138" alt=""/></div>
 <div>问最右边一列的格子最多有几个同时与最左边一列的格子连通。</div>
 <div></div></div>
 

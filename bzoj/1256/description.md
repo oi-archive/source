@@ -30,7 +30,7 @@
 # Sample Output
 
 <div class="content"><span class="sampledata">5<br/>
-<img border="0" src="source/bzoj/1256/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNTYuanBn.jpg"/></span></div>
+<img border="0" src="/source/bzoj/1256/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNTYuanBn.jpg"/></span></div>
 
 # Hint
 

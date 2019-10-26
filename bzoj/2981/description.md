@@ -27,8 +27,7 @@
 # Output
 
 <div class="content"><div><span style="font-size: medium">对表达式<i>x</i><sub>1</sub>-<i>x</i><sub>2</sub>-...-<i>x<sub>n</sub></i>添加n-1对括号，使得它与给出的表达式等价。在<tt>naw.out</tt> 中写入一个整数，表示插入空格的不同方案数，答案不超过1 000 000 000。</span></div>
-<p>
-<divre></divre>
+<p><divre></divre>
 </p></div>
 
 # Sample Input

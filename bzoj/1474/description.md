@@ -31,7 +31,7 @@
 3 3<br/>
 -3 0<br/>
 <br/>
-<img border="0" src="source/bzoj/1474/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NzQuanBn.jpg"/><br/>
+<img border="0" src="/source/bzoj/1474/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NzQuanBn.jpg"/><br/>
 <br/>
 </span></div>
 

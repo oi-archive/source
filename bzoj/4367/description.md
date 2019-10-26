@@ -30,7 +30,7 @@ attraction: 长度为n的数组；attraction[i] 表示城市i的景点数目，�
 # Hint
 
 <div class="content"><p></p><p>假 设健佳有 7 天假期，有 5 个城市（参见下表），而且他由城市 2 开始。在第一天，健佳参观城市2的 20 个景点。第二天，健佳由城市 2 去往城市 3。而在第三天，健佳参观城市 3 的30 个景点。接下来的3天，健佳由城市 3 前往城市 0。而在第 7 天，健佳参观城市0的 10 个景点。这样健佳参观的景点总数是20+30+10=60，这是他由城市 2 开始、在 7 天假期内最多能参观的景点数目。</p><br/>
-<p><img width="589" height="464" alt="" src="source/bzoj/4367/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9kZC5naWY=.gif"/></p><p></p></div>
+<p><img width="589" height="464" alt="" src="/source/bzoj/4367/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9kZC5naWY=.gif"/></p><p></p></div>
 
 # Source
 

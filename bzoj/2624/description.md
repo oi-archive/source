@@ -13,8 +13,7 @@
 <div style="text-indent: 15.75pt"><span style="font-size: medium">现在的问题是，给定群的元素的个数（群的阶数），需要知道这样的群有多少种。只要满足上述三条性质，就是群，应该算上。</span></div>
 <div><span style="font-size: medium">   </span></div>
 <div style="text-indent: 15.75pt"><span style="font-size: medium">下面用四阶群的例子来说明这个问题。抽象地记群元素为e,a,b,c 只要列出一个乘法表，就可以代表一个群。下面给出推导乘法表的步骤：</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
     <tbody>
         <tr style="height: 14.25pt">
             <td nowrap="nowrap" width="72" style="border-right: #ece9d8; padding-right: 0.75pt; border-top: #ece9d8; padding-left: 0.75pt; padding-bottom: 0cm; border-left: #ece9d8; width: 54pt; padding-top: 0.75pt; border-bottom: #ece9d8; height: 14.25pt; background-color: transparent">
@@ -114,8 +113,7 @@
 <div><span style="font-size: medium">b*b=e时，b*c=c*b=a，c*c=e，得到群1</span></div>
 <div><span style="font-size: medium">b*b=a时，b*c=c*b=e，c*c=a，得到群2</span></div>
 <div><span style="font-size: medium"> </span></div>
-<p>
-<table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
     <tbody>
         <tr style="height: 14.25pt">
             <td nowrap="nowrap" width="72" style="border-right: #ece9d8; padding-right: 0.75pt; border-top: #ece9d8; padding-left: 0.75pt; padding-bottom: 0cm; border-left: #ece9d8; width: 54pt; padding-top: 0.75pt; border-bottom: #ece9d8; height: 14.25pt; background-color: transparent">
@@ -207,8 +205,7 @@
 </p>
 <div><span style="font-size: medium"> </span></div>
 <div><span style="font-size: medium">当a*a=b时，按照标号顺序可填出下列的群：</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" width="360" border="0" style="width: 270pt; border-collapse: collapse">
     <tbody>
         <tr style="height: 14.25pt">
             <td nowrap="nowrap" width="72" style="border-right: #ece9d8; padding-right: 0.75pt; border-top: #ece9d8; padding-left: 0.75pt; padding-bottom: 0cm; border-left: #ece9d8; width: 54pt; padding-top: 0.75pt; border-bottom: #ece9d8; height: 14.25pt; background-color: transparent">

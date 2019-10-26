@@ -6,7 +6,7 @@
 There are four identical pieces on the board. In one move it is allowed to:</span></p>
 <p><span style="font-size: medium">&gt; move a piece to an empty neighboring field (up, down, left or right),</span></p>
 <p><span style="font-size: medium">&gt; jump over one neighboring piece to an empty field (up, down, left or right). </span></p>
-<p align="center"><span style="font-size: medium"><img height="378" alt="" width="369" src="source/bzoj/3338/img/aHR0cDovL2FjbS56anUuZWR1LmNuL29ubGluZWp1ZGdlL3Nob3dJbWFnZS5kbz9uYW1lPTAwMDAlMkYxNTA1JTJGMTUwNS5naWY=.gif"/></span></p>
+<p align="center"><span style="font-size: medium"><img height="378" alt="" width="369" src="/source/bzoj/3338/img/aHR0cDovL2FjbS56anUuZWR1LmNuL29ubGluZWp1ZGdlL3Nob3dJbWFnZS5kbz9uYW1lPTAwMDAlMkYxNTA1JTJGMTUwNS5naWY=.gif"/></span></p>
 <p><span style="font-size: medium">There are 4 moves allowed for each piece in the configuration shown above. As an example let&#39;s consider a piece placed in the row 4, column 4. It can be moved one row up, two rows down, one column left or two columns right.<br/>
 <br/>
 Write a program that:<br/>

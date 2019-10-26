@@ -31,7 +31,7 @@
 # Hint
 
 <div class="content"><p></p><p>第二行第四格的答案解释见配图。</p><br/>
-<p><img alt="" style="width: 609px; height: 159px" src="source/bzoj/3723/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9ncmFyeXMtY3JvcC5naWY=.gif"/></p><p></p></div>
+<p><img alt="" style="width: 609px; height: 159px" src="/source/bzoj/3723/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9ncmFyeXMtY3JvcC5naWY=.gif"/></p><p></p></div>
 
 # Source
 

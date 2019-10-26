@@ -62,7 +62,7 @@ eternal life.”克里斯军团士气大增。作为克里斯军团的主帅，�
 
 <div class="content"><span class="sampledata">5<br/>
 <br/>
-<img border="0" src="source/bzoj/1922/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MjIuanBn.jpg"/> </span></div>
+<img border="0" src="/source/bzoj/1922/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MjIuanBn.jpg"/> </span></div>
 
 # Hint
 

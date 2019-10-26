@@ -4,7 +4,7 @@
 <div class="content"><p>　　最近，佳佳迷上了一款好玩的小游戏：antbuster。游戏规则非常简单：在一张地图上，左上角是蚂蚁窝，右<br/>
 下角是蛋糕，蚂蚁会源源不断地从窝里爬出来，试图把蛋糕搬回蚂蚁窝。而你的任务，就是用原始资金以及杀蚂蚁<br/>
 获得的奖金造防御塔，杀掉这些试图跟你抢蛋糕的蚂蚁~下附一张游戏截图：</p>
-<p><span style="font-size: medium"> <img border="0" alt="" src="source/bzoj/1033/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMzMvMS5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium"> <img border="0" alt="" src="/source/bzoj/1033/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMzMvMS5qcGc=.jpg"/> </span></p>
 <p></p>
 <p>　　为了拿到尽可能高的分数，佳佳设计了很多种造塔的方案，但在尝试了其中的一小部分后，佳佳发现，这个游<br/>
 戏实在是太费时间了。为了节省时间，佳佳决定写个程序，对于每一种方案，模拟游戏进程，根据效果来判断方案<br/>

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>安全有限公司是一家生产高品质保险箱的公司。它最新的发明是一种使用激光穿过一个有几面镜子的矩形网格的光学封闭机械。</div>
-<div><img src="source/bzoj/3981/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9nZ2dnLmpwZw==.jpg" width="746" height="202" alt=""/></div>
+<div><img src="/source/bzoj/3981/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9nZ2dnLmpwZw==.jpg" width="746" height="202" alt=""/></div>
 <div>当激光被激活后，从矩形网格的最上方一行的左侧水平射入。每当激光束击中一面镜子，/和\二者之一，就会以45度角被反射。如果激光束从矩形网格底部一行的右侧水平射出（见上图左），那么安全检测成功，保险箱打开。否则保险箱依然关闭并发出警报。</div>
 <div>每个保险箱有一面镜子丢失来防止激光束成功穿过网格（见上图右）。保险箱有一个能让用户把一面镜子放到任意一个空的网格上。一个合法的用户会知道正确的放镜子的位置和放置镜子的正确方向（上图右是第4行第3列，方向是/），因此可以打开保险箱。而不知道这点的用户在有大型网格的保险箱中很难猜对。</div>
 <div>你的工作是确定一个保险箱事实上是安全的。一个安全的保险箱不会再不插入镜子的情况下打开，并至少存在一个位置和正确方向的镜子在插入后保险箱能正确打开。事实上可能有多个这样的位置和方向。</div>

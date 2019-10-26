@@ -1,9 +1,9 @@
 
 # Description
 
-<div class="content"><p><span style="font-size: medium"><img alt="" width="917" height="227" src="source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMS5qcGc=.jpg"/></span></p>
-<p><span style="font-size: medium"><img alt="" width="920" height="382" src="source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMi5qcGc=.jpg"/></span></p>
-<p><span style="font-size: medium"><img alt="" width="914" height="240" src="source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8zMy5qcGc=.jpg"/></span></p>
+<div class="content"><p><span style="font-size: medium"><img alt="" width="917" height="227" src="/source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img alt="" width="920" height="382" src="/source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMi5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img alt="" width="914" height="240" src="/source/bzoj/3341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8zMy5qcGc=.jpg"/></span></p>
 <p></p>
 <p><span style="font-size: medium"><span style="widows: 2; text-transform: none; text-indent: 0px; display: inline !important; font: 14px/23px Helvetica, &#39;Microsoft Yahei&#39;, verdana; white-space: normal; orphans: 2; float: none; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">琪琪在大海上搜索涛涛，琪琪把大海分为2500*2500的网格，现在琪琪拥有N条小帆船，她可以在船之间移动，由于风向的原因，她只能从一条船移动到位于这条船严格左上方或严格右下方的船。对于</span><br style="widows: 2; text-transform: none; text-indent: 0px; font: 14px/23px Helvetica, &#39;Microsoft Yahei&#39;, verdana; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"/>
 <br style="widows: 2; text-transform: none; text-indent: 0px; font: 14px/23px Helvetica, &#39;Microsoft Yahei&#39;, verdana; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"/>

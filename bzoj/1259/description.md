@@ -4,7 +4,7 @@
 <div class="content"><div>给一个a*b矩形，由a*b个单位正方形组成。你需要沿着网格线把它分成分空的两部分，每部分所有格子连通，且至</div>
 <div>少有一个格子在原矩形的边界上。“连通”是指任两个格子都可以通过水平或者竖直路径连在一起。 求方案总数</div>
 <div>。例如3*2的矩形有15种方案。</div>
-<p><img border="0" src="source/bzoj/1259/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNTkuanBn.jpg" alt=""/> </p></div>
+<p><img border="0" src="/source/bzoj/1259/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNTkuanBn.jpg" alt=""/> </p></div>
 
 # Input
 

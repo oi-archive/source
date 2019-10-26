@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTQuanBn.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTQuanBn.jpg"/> 
 给定一棵n个点的带权树，求树上最长的异或和路径</div>
 
 # Input

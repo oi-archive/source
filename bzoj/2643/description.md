@@ -5,7 +5,7 @@
 参加运算的是两个十进制数a和b，结果也规定是一个十进制数，输入文件将给出运算结果。特别得是：0圈圈运算0=0<br/>
 如果是两个多位数进行运算 ，将按位对齐。再逐位进行运算。</span></p>
 <p><span style="font-size: medium">下图按圈圈运算认为是取Mod 运算，即a圈圈运算 b=a*b mod 10</span></p>
-<p><img height="84" width="522" alt="" src="source/bzoj/2643/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8zOTYwXzEuSlBH.JPG"/></p></div>
+<p><img height="84" width="522" alt="" src="/source/bzoj/2643/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8zOTYwXzEuSlBH.JPG"/></p></div>
 
 # Input
 

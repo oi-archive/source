@@ -14,7 +14,7 @@
 # Input
 
 <div class="content"><div>第一行两个正整数n,m,t。n表示猪圈数，m表示询问数，t=0表示方老师没有对询问进行加密，t=1表示方老师对询问进行了加密，解密方法如下：</div>
-<div><img src="source/bzoj/4216/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jY2MuanBn.jpg" width="246" height="117" alt=""/> </div>
+<div><img src="/source/bzoj/4216/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9jY2MuanBn.jpg" width="246" height="117" alt=""/> </div>
 <div>其中^表示异或操作，last_ans表示上一次询问的答案，对于第一次询问，last_ans=0。</div>
 <div>第二行n个整数，第i个整数x[i]表示标号为i的猪圈中剩余猪的数量。</div>
 <div>接下来m行每行两个正整数l,r表示一组询问。</div>

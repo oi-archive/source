@@ -33,7 +33,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="231" alt="" width="286" src="source/bzoj/1735/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS80NCgyKS5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="231" alt="" width="286" src="/source/bzoj/1735/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS80NCgyKS5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

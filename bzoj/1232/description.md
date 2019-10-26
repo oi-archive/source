@@ -37,7 +37,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="281" width="1065" alt="" src="source/bzoj/1232/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxNCkuanBn.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="281" width="1065" alt="" src="/source/bzoj/1232/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxNCkuanBn.jpg"/></p><br/>
 <p></p><p></p></div>
 
 # Source

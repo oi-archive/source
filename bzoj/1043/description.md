@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">　　有n个圆盘从天而降，后面落下的可以盖住前面的。求最后形成的封闭区域的周长。看下面这副图, 所有的红<br/>
-色线条的总长度即为所求. <img border="0" alt="" src="source/bzoj/1043/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwNDMuanBn.jpg"/> </span></p></div>
+色线条的总长度即为所求. <img border="0" alt="" src="/source/bzoj/1043/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwNDMuanBn.jpg"/> </span></p></div>
 
 # Input
 

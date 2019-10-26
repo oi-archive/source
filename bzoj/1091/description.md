@@ -6,7 +6,7 @@
 部分扔掉）切割线的长度为此直线在多边形内部的部分的长度。求出最短的切割线总长度。下面是一个例子。我们<br/>
 需要得到中间的多边形。<br/>
 </span></p>
-<p><span style="font-size: medium;"> <img border="0" alt="" src="source/bzoj/1091/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTEvMS5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium;"> <img border="0" alt="" src="/source/bzoj/1091/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTEvMS5qcGc=.jpg"/> </span></p>
 <p><span style="font-size: medium;">　　分别沿着直线1，2，3，4进行切割即可，得到中间的四边形。<br/>
 </span></p></div>
 

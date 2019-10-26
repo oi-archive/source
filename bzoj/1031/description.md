@@ -5,7 +5,7 @@
 <div>　　喜欢钻研问题的JS同学，最近又迷上了对加密方法的思考。一天，他突然想出了一种他认为是终极的加密办法</div>
 <div>：把需要加密的信息排成一圈，显然，它们有很多种不同的读法。例如下图，可以读作：</div>
 </div>
-<p> <img border="0" alt="" src="source/bzoj/1031/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMzEvMS5qcGc=.jpg"/></p>
+<p> <img border="0" alt="" src="/source/bzoj/1031/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMzEvMS5qcGc=.jpg"/></p>
 <div>
 <div>JSOI07 SOI07J OI07JS I07JSO 07JSOI 7JSOI0把它们按照字符串的大小排序：07JSOI 7JSOI0 I07JSO JSOI07</div>
 <div> OI07JS SOI07J读出最后一列字符：I0O7SJ，就是加密后的字符串（其实这个加密手段实在很容易破解，鉴于这是</div>

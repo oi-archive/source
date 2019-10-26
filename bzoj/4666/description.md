@@ -6,7 +6,7 @@
 <div>在小z安静下来后，大家都牢牢记住了他所念的最后一个数字，遗憾的是，谁也没有数清小z到底说到了数列的多少项，于是决定求助于你。</div>
 <div>给定一个模10^13意义下的非负整数a，求a第一次在数列F中出现是第几项。</div>
 <div>这里模意义下的斐波那契数列F定义如下：</div>
-<div><img src="source/bzoj/4666/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMTExLnBuZw==.png" width="406" height="119" alt=""/></div>
+<div><img src="/source/bzoj/4666/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xMTExLnBuZw==.png" width="406" height="119" alt=""/></div>
 <p></p></div>
 
 # Input

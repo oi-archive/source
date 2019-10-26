@@ -31,8 +31,7 @@
 <div class="content"><p><font face="Times New Roman" size="3">从小到大输出所有可行的激光强度。 <br/>
 用换行符隔开。 <br/>
 </font></p>
-<p>
-</p><p></p>
+<p></p><p></p>
 <pre></pre>
 <p></p>
 <pre>	</pre></div>

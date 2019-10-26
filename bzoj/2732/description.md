@@ -30,7 +30,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" src="source/bzoj/2732/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYSg1KS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img alt="" src="/source/bzoj/2732/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYSg1KS5qcGc=.jpg"/></p><br/>
 <p></p><br/>
 <p>数据已加强By WWT15。特鸣谢！---2015.03.09</p><br/>
 <p>数据再加一组---2017.3.25</p><p></p></div>

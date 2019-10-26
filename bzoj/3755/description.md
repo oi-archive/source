@@ -4,7 +4,7 @@
 <div class="content"><div>在Pty学校附近，有一座名之为岳之麓的高山。Pty很喜欢和（哔——）一起爬山。</div>
 <div>山的平面模型如下：</div>
 <div>山由一个顶点集：A1,A2…An给定，保证Ai的x单调递增。我们将Ai和Ai+1之间连上线段，表示山的某一段。如下图所示：</div>
-<div><img src="source/bzoj/3755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9hYWEuR0lG.GIF" width="471" height="344" alt=""/></div>
+<div><img src="/source/bzoj/3755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9hYWEuR0lG.GIF" width="471" height="344" alt=""/></div>
 <div> </div>
 <div>Pty想要爬到这座山的最高的顶点，当两个顶点的高度相同时，我们认为x比较大的顶点要高一些。Pty不是盲人，所以他将会在爬山时采取一些策略，使得他能够尽量快的到达最高的顶点。</div>
 <div>Pty从初始的顶点出发，往左右看去，他将朝他能够看到的最高的顶点方向走去。当走到每一个顶点时，他都会重新观察，如果这时看到的顶点比之前看到的顶点还要高，那么他将选择此时看到的顶点走去，直到他到达最高点为止。</div>
@@ -44,7 +44,7 @@
 
 # Hint
 
-<div class="content"><p></p><div><img src="source/bzoj/3755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9iYmIuZ2lm.gif" width="412" height="364" alt=""/></div><br/>
+<div class="content"><p></p><div><img src="/source/bzoj/3755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9iYmIuZ2lm.gif" width="412" height="364" alt=""/></div><br/>
 <div>100%的数据满足：n&lt;=200000, xi&lt;=10^6, yi&lt;= 10^6</div><br/>
 <div></div><br/>
 <div><span style="color: rgb(255, 0, 0);">此题存在版权，故不再支持提交，保留在此只供大家参考题面！ 望见谅！</span></div><br/>

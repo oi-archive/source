@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img width="867" height="475" alt="" src="source/bzoj/3903/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9iYi5QTkc=.PNG"/></p>
+<div class="content"><p><img width="867" height="475" alt="" src="/source/bzoj/3903/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9iYi5QTkc=.PNG"/></p>
 <div></div>
 <div></div>
 <p></p></div>

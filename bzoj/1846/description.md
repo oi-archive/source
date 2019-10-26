@@ -1,11 +1,11 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1846/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDZfMS5qcGc=.jpg"/> </div>
+<div class="content"><img border="0" src="/source/bzoj/1846/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDZfMS5qcGc=.jpg"/> </div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1846/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDZfMi5qcGc=.jpg"/> </div>
+<div class="content"><img border="0" src="/source/bzoj/1846/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDZfMi5qcGc=.jpg"/> </div>
 
 # Output
 

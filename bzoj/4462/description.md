@@ -23,7 +23,7 @@ c = 3; <br/>
 c = 3;  <br/>
 为了简化问题，我们用大写字母来表示所有的关键字、常量等非变量符合。<br/>
 假如我们采用如下的替换表 <br/>
-<img width="612" height="92" alt="" src="source/bzoj/4462/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zMy5wbmc=.png"/><br/>
+<img width="612" height="92" alt="" src="/source/bzoj/4462/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zMy5wbmc=.png"/><br/>
 那么最开始给出的两段雷同代码就可以分别写成 AiBjCiDECjDiFGC 以及<br/>
 AaBiCaDECiDaFGC。或者简单的说，我们认为这两段代码是一样的。 <br/>
 现在请写一个程序，处理若干这样的代码雷同检测问题：给一个完整代码以<br/>

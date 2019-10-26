@@ -3,7 +3,7 @@
 
 <div class="content"><p><span style="font-size: medium">一个3*n的棋盘上，有一条蛇在棋盘上。从蛇头到蛇尾刚好是1~3*n。如下图是一合法方案。<br/>
 </span></p>
-<p><span style="font-size: medium"><img height="149" width="435" alt="" src="source/bzoj/3525/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC9hYS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="149" width="435" alt="" src="/source/bzoj/3525/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC9hYS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">现在你只知道某几个位置上的数，其他位置都不确定。请构造出任意一组合法的蛇形图。<br/>
 保证数据有解。</span></p>
 <p></p></div>

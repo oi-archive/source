@@ -12,21 +12,21 @@
 <div>把信拿去吧，你可以使假戏成真</div>
 <div>我本来是无病呻吟，漫无目的的吐露爱情---现在这些漂泊不定的鸟儿有地方栖息了，你可以从信里看出来</div>
 <div>拿去吧---由于不是出自真心，话就说得格外动听，拿去吧，就这么办吧...</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8xLmpwZw==.jpg" width="690" height="514" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8xLmpwZw==.jpg" width="690" height="514" alt=""/></div>
 <div>果然……好女人要有的是，烟、楼顶……还有轻飘飘的衣服呀……</div>
 <div>某一天，水上由岐看见天上掉下了个布制玩偶</div>
 <div>为了被天空接受而投掷出的她的布偶，不知在天空飞舞了多少次，已经遍体鳞伤</div>
 <div>&#34;被天空接受&#34;那是为了寻找不知何时开始在这个城市流传的&#34;回归天空之路&#34;的行为</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8yLmpwZw==.jpg" width="688" height="507" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8yLmpwZw==.jpg" width="688" height="507" alt=""/></div>
 <div>为了被天空接受而被扔出去的木偶，在空中飞舞并最终坠落</div>
 <div>那是为了将其本身即为世界的少女送予天空的少女的行为</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8zLmpwZw==.jpg" width="690" height="514" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8zLmpwZw==.jpg" width="690" height="514" alt=""/></div>
 <div>横跨银河，被称作Vega与Altair，或是织女星与牛郎星的两颗星星，再加上北十字星之顶的天鹅座构成了夏之大三角</div>
 <div>它被称作譬如三位一体的神圣的图形</div>
 <div>只有神圣的图形在天空闪耀之时，世界才与天空相遇</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy80LmpwZw==.jpg" width="689" height="516" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy80LmpwZw==.jpg" width="689" height="516" alt=""/></div>
 <div>我想试一试，第一次，也是最后一次的恶作剧</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy81LmpwZw==.jpg" width="691" height="513" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy81LmpwZw==.jpg" width="691" height="513" alt=""/></div>
 <div>那是...什么？</div>
 <div>什么事也没有哦，只是，间宫君他自己主动跳下去了而已哦~</div>
 <div>怎么回事？</div>
@@ -40,7 +40,7 @@
 <div>我确实听到了头盖骨破碎的声音</div>
 <div>但是那个，并非是外面的世界</div>
 <div>而是总自己的里面传来的</div>
-<div> <img src="source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy82LmpwZw==.jpg" width="688" height="514" alt=""/></div>
+<div> <img src="/source/bzoj/4939/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy82LmpwZw==.jpg" width="688" height="514" alt=""/></div>
 <div>水上同学...我偶尔会思考这种事情...</div>
 <div>世界的极限到底在哪里呢...</div>
 <div>世界的...世界的尽头的更尽头...</div>

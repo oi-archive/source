@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p> 牛牛最近迷上了一种叫斗地主的扑克游戏。斗地主是一种使用黑桃、红心、梅花、方片的A到K加上大小王的共54张牌来进行的扑克牌游戏。在斗地主中，牌的大小关系根据牌的数码表示如下：3&lt;4&lt;5&lt;6&lt;7&lt;8&lt;9&lt;10&lt;J&lt;Q&lt;K&lt;A&lt;2&lt;小王&lt;大王，而花色并不对牌的大小产生影响。每一局游戏中，一副手牌由n张牌组成。游戏者每次可以根据规定的牌型进行出牌，首先打光自己的手牌一方取得游戏的胜利。现在，牛牛只想知道，对于自己的若干组手牌，分别最少需要多少次出牌可以将它们打光。请你帮他解决这个问题。需要注意的是，本题中游戏者每次可以出手的牌型与一般的斗地主相似而略有不同。具体规则如下：</p>
-<p><img src="source/bzoj/4325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMS8xMS5QTkc=.PNG" width="706" height="747" alt=""/></p></div>
+<p><img src="/source/bzoj/4325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMS8xMS5QTkc=.PNG" width="706" height="747" alt=""/></p></div>
 
 # Input
 

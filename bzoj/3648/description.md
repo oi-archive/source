@@ -40,7 +40,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" src="source/bzoj/3648/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSgyKS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img alt="" src="/source/bzoj/3648/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSgyKS5qcGc=.jpg"/></p><br/>
 <p></p><br/>
 <p>N≤100000      <br/><br/>
 K≤N<br/><br/>

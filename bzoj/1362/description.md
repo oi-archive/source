@@ -4,7 +4,7 @@
 <div class="content">Adam在抽屉时发现了一些卡片,他在卡片的正反面随机写了一些数字,然后按其随机排放.
 并进行形如下图的计算,问所能得到的最小值为多少.注意Adam可以把卡片翻转过来.
 
-<img border="0" src="source/bzoj/1362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjJfMS5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjJfMS5qcGc=.jpg"/>
 
 第一行输入数字N,N在[2,100000]且为偶数.
 下面N行每行两个数字Ai,Bi,表示Adam写在卡片上的数字.其值在[-2000,2000]
@@ -56,7 +56,7 @@ output data 2
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjJfMi5qcGc=.jpg"/><br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1362/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjJfMi5qcGc=.jpg"/><br/>
 </p></div>
 
 # Source

@@ -7,7 +7,7 @@
 <div>抽取连续的一段，供下一批同学领取。经过若干批次的领取后，成绩单将被全部发放到同学手中。然而，分发成绩</div>
 <div>单是一件令人头痛的事情，一方面要照顾同学们的心理情绪，不能让分数相差太远的同学在同一批领取成绩单；另</div>
 <div>一方面要考虑时间成本，尽量减少领取成绩单的批次数。对于一个分发成绩单的方案，我们定义其代价为：</div>
-<div><img src="source/bzoj/4897/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS92djEoMSkuanBn.jpg" width="388" height="97" alt=""/></div>
+<div><img src="/source/bzoj/4897/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS92djEoMSkuanBn.jpg" width="388" height="97" alt=""/></div>
 <div>其中，k是方案中分发成绩单的批次数，对于第i批分发的成绩单，〖max〗_i是最高分数，〖min〗_i是最低分数。</div>
 <div>a,b是给定的评估参数。现在，请你帮助L老师找到代价最小的分发成绩单的方案，并将这个最小的代价告诉L老师</div>
 <div>。当然，分发成绩单的批次数k是由你决定的。</div>

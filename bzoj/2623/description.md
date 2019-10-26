@@ -3,7 +3,7 @@
 
 <div class="content"><div style="text-indent: 21.75pt"><span style="font-size: medium">所罗门的宝藏被一个强大的咒语封印着，只有用特殊的咒语才能打开。为了给后来人留下一线开启的希望，所罗门将开启宝藏的咒语隐藏在巨大的所罗门广场。所罗门广场由边长为1米的正方形大理石板铺成，据说由于所罗门魔法的作用，在每个雷电交加的黎明，广场上的每块大理石板会发出不同的微弱的光芒，而那些亮度大于某个值的大理石板作为一个整体来看，就是开启所罗门宝藏的咒语，但由于年久失修，有的大理石板可能产生错误的亮度。图1为在一个雷电交加的黎明从太空看所罗门广场的一个实例。</span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium">通过所罗门的藏书可以知道，开启所罗门宝藏的咒语是由15种字符0,1,2,3,4,5,6,7,8,9,A,D,E,L,X中的若干个组成的长度小于10的符号串，这些符号按照从左到右的顺序大致排成一行，如图1所示。现已在一个雷电交加的黎明搜集到所罗门广场上各块大理石板的亮度，亮度值用0到255的整数来度量，你能破译出开启所罗门宝藏的咒语么？</span></div>
-<p><img height="273" width="255" alt="" src="source/bzoj/2623/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDgpLmpwZw==.jpg"/></p></div>
+<p><img height="273" width="255" alt="" src="/source/bzoj/2623/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDgpLmpwZw==.jpg"/></p></div>
 
 # Input
 

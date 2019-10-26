@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">定义一个串s能匹配S当且仅当s能可超出头尾得覆盖S。  如下图。<br/>
-   <img height="94" alt="" width="159" src="source/bzoj/3499/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy8yMigyKS5qcGc=.jpg"/><br/>
+   <img height="94" alt="" width="159" src="/source/bzoj/3499/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy8yMigyKS5qcGc=.jpg"/><br/>
 给定S，问不同的s的个数。<br/>
 S的长度 &lt;  = 200000。</span></p></div>
 

@@ -37,7 +37,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/4225/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9mZi5QTkc=.PNG" width="688" height="758" alt=""/></p><br/>
+<div class="content"><p></p><p><img src="/source/bzoj/4225/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9mZi5QTkc=.PNG" width="688" height="758" alt=""/></p><br/>
 <p><span style="text-indent: 20.5pt; font-size: 12pt; font-family: 宋体;">对于</span><span lang="EN-US" style="text-indent: 20.5pt; font-size: 12pt; font-family: Consolas;">100%</span><span style="text-indent: 20.5pt; font-size: 12pt; font-family: 宋体;">的数据，</span><span lang="EN-US" style="text-indent: 20.5pt; font-size: 12pt; font-family: Consolas;">1 &lt;= n &lt;= 600, 1 &lt;= m &lt;= 600, -1000 &lt;= x1 &lt; x2  &lt;= 1000, 0 &lt;= y1 &lt; y2 &lt;= 1000</span><span style="text-indent: 20.5pt; font-size: 12pt; font-family: 宋体;">。</span></p><p></p></div>
 
 # Source

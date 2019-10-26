@@ -28,7 +28,7 @@
 # Sample Output
 
 <div class="content"><span class="sampledata">10<br/>
- <img border="0" src="source/bzoj/2088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwODguanBn.jpg"/> <br/>
+ <img border="0" src="/source/bzoj/2088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwODguanBn.jpg"/> <br/>
 实线连接的是已经造好传送门的两星球，虚线连接表示可以增加建造的传送门两星球。<br/>
 可以看出，建造了10对以后，从1号到2号星球还是Zy的250分钟最快。<br/>
 Notice:It&#39;s guaranteed that the data is valid.</span></div>

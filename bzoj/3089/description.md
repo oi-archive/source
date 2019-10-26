@@ -4,7 +4,7 @@
 <div class="content"><p><span style="font-size: medium">给定平面里的 N 个矩形, 每个矩形的边都是和坐标系平行的.<br/>
 并且满足 每个矩形的下面的边 和 x轴 重合.<br/>
 </span><span style="font-size: medium">从 N 个矩形中删除最多的矩形, 使得 矩形并的区域的边界 保持不变.</span></p>
-<p><span style="font-size: medium"><img height="277" alt="" width="690" src="source/bzoj/3089/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xKDMpLmpwZw==.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="277" alt="" width="690" src="/source/bzoj/3089/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xKDMpLmpwZw==.jpg"/></span></p></div>
 
 # Input
 

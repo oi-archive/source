@@ -24,7 +24,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1289/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODkuanBn.jpg"/> </p><br/>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1289/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODkuanBn.jpg"/> </p><br/>
 <p></p><br/>
 <p><span style="font-size: 12pt">对于</span><span style="font-size: 12pt">100%</span><span style="font-size: 12pt">的数据，</span><i><span style="font-size: 12pt">N</span></i><span style="font-size: 12pt"> ≤ 1000</span></p><p></p></div>
 

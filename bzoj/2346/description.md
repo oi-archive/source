@@ -11,7 +11,7 @@ TZ发现是电路板的问题，<br/>
 2255不会电路（因为他什么都不会），但是他想知道TZ最少要用多少次脑力才能使他家的灯变亮。<br/>
 如果无法变亮，输出“NO SOLUTION”。</p>
 <p>n,m&lt;=500</p>
-<p><img alt="" src="source/bzoj/2346/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9hLmpwZw==.jpg"/></p></div>
+<p><img alt="" src="/source/bzoj/2346/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9hLmpwZw==.jpg"/></p></div>
 
 # Input
 

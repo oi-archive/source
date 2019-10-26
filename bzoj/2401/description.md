@@ -3,7 +3,7 @@
 
 <div class="content"><p>最近陶陶在研究数论，某天他偶然遇到一道题：对于给定的正整数���，求出<br/>
 下面这样一个式子的值：</p>
-<p><img alt="" src="source/bzoj/2401/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy8zLmpwZw==.jpg"/></p>
+<p><img alt="" src="/source/bzoj/2401/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy8zLmpwZw==.jpg"/></p>
 <p>其中LCM(a���, b���)表示正整数���和���最小公倍数，即能同时被a���和b���整除的最小正<br/>
 整数。 <br/>
 作为神犇的陶陶，当然轻松秒杀了这道题。不过他希望你写一个程序，用来<br/>

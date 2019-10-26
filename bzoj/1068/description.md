@@ -6,7 +6,7 @@
 有M，则从串的开始算起）开始的解压结果（称为缓冲串）。 bcdcdcdcd可以压缩为bMcdRR，下面是解压缩的过程<br/>
 <br/>
 </span></p>
-<p><span style="font-size: medium"> <img border="0" alt="" src="source/bzoj/1068/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwNjgvMS5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium"> <img border="0" alt="" src="/source/bzoj/1068/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwNjgvMS5qcGc=.jpg"/> </span></p>
 <p><span style="font-size: medium">　　另一个例子是abcabcdabcabcdxyxyz可以被压缩为abcRdRMxyRz。<br/>
 </span></p></div>
 

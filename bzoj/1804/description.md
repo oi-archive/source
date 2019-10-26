@@ -11,7 +11,7 @@
 
 下图给出了洪水侵袭过程的一个例子。
 
-<img border="0" src="source/bzoj/1804/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDQuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1804/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDQuanBn.jpg"/> 
       
 (图一)在零时刻，阴影的格子代表洪水区域，白色的格子代表干的区域（有空气的区域）。(图二) 一个小时之后的情况。(图三)两个小时之后，洪水淹没了整个城市，有4堵墙没有被冲毁而留了下来。
 

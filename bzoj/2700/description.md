@@ -11,8 +11,7 @@
 # Output
 
 <div class="content"><div><span style="font-size: medium">       输出第一行为最小总花费，</span><span style="font-size: medium"><b>样例数据</b></span></div>
-<p>
-<table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
     <tbody>
         <tr>
             <td valign="top" width="155" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 116.1pt; padding-top: 0cm; border-bottom: black 1pt solid; background-color: transparent">

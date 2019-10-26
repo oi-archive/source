@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><span style="font-size: medium"><img height="645" width="737" alt="" src="source/bzoj/3188/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9hYS5qcGc=.jpg"/></span></p>
+<div class="content"><p><span style="font-size: medium"><img height="645" width="737" alt="" src="/source/bzoj/3188/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9hYS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">你需要维护一个序列，支持以下4种操作。一，将区间(u,v)的数覆盖为C；二，<br/>
 将区间(u,v)的数依次加上一个以C为首项、C为公差的等差数列；三，将数C插入<br/>
 第i个位置；四，查询区间(u,v)的数的和。序列最初有n个数，一共会有Q次操<br/>

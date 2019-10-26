@@ -8,7 +8,7 @@
 <div>他本想试图统计B部分的长度与发生这种情况的概率关系，不过由于数据量过于庞大，依赖人脑的力量难以完成，</div>
 <div>于是墨墨找到了善于编程的你，请你帮他找一找给定重现的间隔（B部分的长度），有多少个时间段满足首尾部分</div>
 <div>的走势完全相同呢？当然，首尾部分的长度不能为零。</div>
-<div><img src="source/bzoj/2119/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xMTExLnBuZw==.png" width="448" height="243" alt=""/></div></div>
+<div><img src="/source/bzoj/2119/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xMTExLnBuZw==.png" width="448" height="243" alt=""/></div></div>
 
 # Input
 

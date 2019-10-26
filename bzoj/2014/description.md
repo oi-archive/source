@@ -6,8 +6,7 @@
 <div><span style="font-size: medium">有Ci头奶牛喜欢第i种巧克力，这种巧克力的售价是P。</span></div>
 <div><span style="font-size: medium">    约翰手上有B元预算，怎样用这些钱让尽量多的奶牛高兴呢？下面举个例子：假设约翰</span></div>
 <div><span style="font-size: medium">有50元钱，商店里有S种巧克力：</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" border="1">
+<p><table cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr style="height: 16.5pt">
             <td nowrap="nowrap" width="139" style="border-right: #ece9d8; padding-right: 0cm; border-top: #ece9d8; padding-left: 0cm; padding-bottom: 0cm; border-left: #ece9d8; width: 104.25pt; padding-top: 0cm; border-bottom: #ece9d8; height: 16.5pt; background-color: transparent">

@@ -4,7 +4,7 @@
 <div class="content"><p><span style="font-size: medium">    平面上摆放着一个n*m的点阵（下图所示是一个3*4的点阵）。</span><span style="font-size: medium">Curimit想知道有多少三点组(a，b，c)满足以a，b，c三点共线。这里a，b，c是不同的3个点，其顺序无关紧要。(即(a，b，c)和<br/>
 (b，c，a)被认为是相同的）。由于答案很大，故你只需要输出答案对1，000，000，007的余数就可以了。<br/>
 </span></p>
-<p><span style="font-size: medium"><img height="183" width="258" alt="" src="source/bzoj/3518/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xMS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="183" width="258" alt="" src="/source/bzoj/3518/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xMS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

@@ -19,7 +19,7 @@
 
 # Output
 
-<div class="content"><p><img alt="" border="0" src="source/bzoj/2214/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIyMTQuanBn.jpg"/> </p>
+<div class="content"><p><img alt="" border="0" src="/source/bzoj/2214/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIyMTQuanBn.jpg"/> </p>
 <p></p>
 <p>如果不存在这样的操作序列，输出&#34;NIE DA SIE&#34;，否则<br/>
 第一行m，表示操作的块数。<br/>

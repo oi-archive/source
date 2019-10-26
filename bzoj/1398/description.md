@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img border="0" src="source/bzoj/1398/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzOTguanBn.jpg" alt=""/></p>
+<div class="content"><p><img border="0" src="/source/bzoj/1398/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzOTguanBn.jpg" alt=""/></p>
 <p>给定两个项链的表示，判断他们是否可能是一条项链。</p></div>
 
 # Input

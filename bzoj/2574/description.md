@@ -1,15 +1,14 @@
 
 # Description
 
-<div class="content"><p>
-</p><p></p>
+<div class="content"><p></p><p></p>
 <p></p>
 <p class="MsoBodyTextIndent" style="margin: 6pt 0cm 0pt; text-indent: 24pt"></p>
 <p class="MsoBodyTextIndent" style="margin: 6pt 0cm 0pt; text-indent: 24pt"><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">有一个仓库被分成</span><span lang="EN-US"><font face="Times New Roman">n*m </font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">个矩形区域，如果两个区域有一条公共边，则被认为这两个区域相邻。包裹都放在一个区域中，剩余的区域或者空闲或者被集装箱占有，这是因为集装箱太重，仓库管理员不能将集装箱搬走。仓库管理员目是是要将包裹从开始的</span><span lang="EN-US"><font face="Times New Roman">P</font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">区域移动到最后的</span><span lang="EN-US"><font face="Times New Roman">K</font></span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">区域。他可以从空区域走到与之相邻的一个空区域。当仓库管理员走到与包裹相邻的区域时，它可以推动包裹，具体的推动方法如下所示：</span></p>
 <p class="MsoBodyTextIndent" style="margin: 6pt 0cm 0pt; text-indent: 24pt"></p>
 <p></p>
 <p></p>
-<p><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><img alt="" src="source/bzoj/2574/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDEwKS5qcGc=.jpg"/></span></p>
+<p><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><img alt="" src="/source/bzoj/2574/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDEwKS5qcGc=.jpg"/></span></p>
 <p></p>
 <p></p>
 <p><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"> </span><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">读入一个储藏表，开始位置为仓库管理员，最后位置为包裹移动的位置</span><span lang="EN-US"><font face="Times New Roman"> </font></span></p>

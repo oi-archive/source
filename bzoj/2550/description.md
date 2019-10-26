@@ -229,12 +229,12 @@
 
 <div class="content"><p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><span style="font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><font size="3">按规定的格式输出编辑框的结果，空白的地方用空格补上，每行行末不能有多余空格。最后一行行末保留一个回车。</font></span></p>
 <p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt">输入样例</p>
-<p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><img alt="" src="source/bzoj/2550/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDYpLmpwZw==.jpg"/></p>
+<p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><img alt="" src="/source/bzoj/2550/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDYpLmpwZw==.jpg"/></p>
 <p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"></p>
 <p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"></p>
 <p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt">输出样例</p>
 <p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"></p>
-<p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><img height="138" width="275" alt="" src="source/bzoj/2550/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDMpLmpwZw==.jpg"/></p></div>
+<p class="MsoNormalIndent" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><img height="138" width="275" alt="" src="/source/bzoj/2550/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDMpLmpwZw==.jpg"/></p></div>
 
 # Sample Input
 

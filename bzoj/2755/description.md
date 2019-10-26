@@ -12,7 +12,7 @@
 <div>和(0,2)和(2,1)攻击），在T(1,2)处受到伤害为2（炮塔(0,2)和(2,1)能攻击到T），于是受到的总伤害为2+3+2=7</div>
 <div>。作为地球防御小组的一员，请你为喵星人布阵，使得喵星人受到的伤害最大。注意如果有多条从S到T的路径，喵</div>
 <div>星人会选择伤害最小的一条。</div>
-<p><span style="font-size: medium"><img height="310" width="656" alt="" src="source/bzoj/2755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMSgzKS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="310" width="656" alt="" src="/source/bzoj/2755/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMSgzKS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

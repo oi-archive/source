@@ -25,7 +25,7 @@
 
 # Hint
 
-<div class="content"><p></p><p> <img src="source/bzoj/3735/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMi8xMS5wbmc=.png" width="939" height="294" alt=""/></p><p></p></div>
+<div class="content"><p></p><p> <img src="/source/bzoj/3735/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMi8xMS5wbmc=.png" width="939" height="294" alt=""/></p><p></p></div>
 
 # Source
 

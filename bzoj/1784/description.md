@@ -1,11 +1,11 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMS5qcGc=.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMS5qcGc=.jpg"/> 
 
-<img border="0" src="source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMi5qcGc=.jpg"/> 
+<img border="0" src="/source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMi5qcGc=.jpg"/> 
 
-<img border="0" src="source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMy5qcGc=.jpg"/> 
+<img border="0" src="/source/bzoj/1784/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODRfMy5qcGc=.jpg"/> 
 一个字符矩阵，&#39;.&#39;为海洋，&#39;A&#39;为主岛，&#39;x&#39;为其它岛，保证所有&#39;A&#39;构成一个联通块，画一个圈，使得所有的&#39;A&#39;在圈内，所有的&#39;x&#39;在圈外，更具体的看样例，求这样的圈的最小周长</div>
 
 # Input

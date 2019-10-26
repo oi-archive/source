@@ -11,7 +11,7 @@ Given a positive integer n, how many ways can you pick up exactly one card from 
 one heart card, one club card and one diamond card), so that the card values sum to n? For example, if n=24, one way is <br/>
 4S+6H+4C+10D, shown below:</span></p>
 <p></p>
-<p><span style="font-size: medium"><img alt="" src="source/bzoj/2487/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMC8xMS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img alt="" src="/source/bzoj/2487/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMC8xMS5qcGc=.jpg"/></span></p>
 <p></p>
 <p></p>
 <p><span style="font-size: medium">Unfortunately, some of the cards are lost, but this makes the problem more interesting. To further make the problem even <br/>

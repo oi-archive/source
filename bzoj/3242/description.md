@@ -33,7 +33,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><span style="font-size: medium"><img height="285" width="277" alt="" src="source/bzoj/3242/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8xMS5wbmc=.png"/></span></p><br/>
+<div class="content"><p></p><p><span style="font-size: medium"><img height="285" width="277" alt="" src="/source/bzoj/3242/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8xMS5wbmc=.png"/></span></p><br/>
 <p><span style="font-size: medium">数据范围<br/><br/>
 对于 10%的数据，N&lt;=80,Li=1； <br/><br/>
 对于 30%的数据，N&lt;=600，Li&lt;=100； <br/><br/>

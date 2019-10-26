@@ -1,11 +1,11 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMS5qcGc=.jpg"/> </div>
+<div class="content"><img border="0" src="/source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMS5qcGc=.jpg"/> </div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMy5qcGc=.jpg"/> </div>
+<div class="content"><img border="0" src="/source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMy5qcGc=.jpg"/> </div>
 
 # Output
 
@@ -40,7 +40,7 @@
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMi5qcGc=.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MjVfMi5qcGc=.jpg"/> <br/>
 <br/>
 数据规模<br/>
 对 的测试点，保证所有数据都是链，且每个测试点中 的总和不超过 <br/>

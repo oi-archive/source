@@ -7,11 +7,11 @@
 <div>两不同的。小布认为这幅壁画所包含的信息仅与这N个点的相对位置有关，因此不妨设坐标分别为(1, y1) , (2, y</div>
 <div>2), ..., (n, yn)，其中y1~yn是1~N的一个排列。小布的团队打算研究在这幅壁画中包含着多少个图腾，其中闪电</div>
 <div>图腾的定义图示如下（图腾的形式只与4个纵坐标值的相对大小排列顺序有关）：</div>
-<p> <img alt="" border="0" src="source/bzoj/1145/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDVfMS5qcGc=.jpg"/></p>
+<p> <img alt="" border="0" src="/source/bzoj/1145/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDVfMS5qcGc=.jpg"/></p>
 <div>　　崇拜高山的部落有两个氏族，因而山峰图腾有如下两种形式，左边为A类，右边为B类（同样，图腾的形式也都</div>
 <div>只与4个纵坐标值的大小排列顺序有关）：</div>
 <p></p>
-<p><img alt="" border="0" src="source/bzoj/1145/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDVfMi5qcGc=.jpg"/> </p>
+<p><img alt="" border="0" src="/source/bzoj/1145/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDVfMi5qcGc=.jpg"/> </p>
 <div>　　小布的团队希望知道，这N个点中两个部落图腾数目的差值。因此在本题中，你需要帮助小布的团队编写一个</div>
 <div>程序，计算闪电图腾数目减去山峰图腾数目的值，由于该值可能绝对值较大，本题中只需输出该值对16777216的余</div>
 <div>数（注意余数必为正值，例如-1对16777216的余数为16777215）。</div></div>

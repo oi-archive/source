@@ -20,8 +20,7 @@
 <div>应由K行组成，当第I个数据库的超级马可以到达盘面的每一个区</div>
 <div>第I行应包含一个词TAK，而另一个词NIE则恰恰相反。</div>
 </div>
-<p>
-<divre></divre>
+<p><divre></divre>
 </p></div>
 
 # Sample Input

@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img src="source/bzoj/4260/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYS5qcGc=.jpg" width="0" height="0" alt=""/><img src="source/bzoj/4260/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYSgxKS5qcGc=.jpg" width="784" height="118" alt=""/></p>
+<div class="content"><p><img src="/source/bzoj/4260/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYS5qcGc=.jpg" width="0" height="0" alt=""/><img src="/source/bzoj/4260/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYSgxKS5qcGc=.jpg" width="784" height="118" alt=""/></p>
 <p></p></div>
 
 # Input

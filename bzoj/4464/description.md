@@ -45,7 +45,7 @@ Waldives 的 N 个岛屿分别从 0 到 N-1 编号。现在给出 Waldives 已�
 因为编号为3的点与编号为1的点在树中并不直接相连。同样的，建立公交路线<br/><br/>
 2-&gt;1-&gt;3也是不允许的，因为这条路线中包含快艇专线1-&gt;3，这并没有和已有的<br/><br/>
 专线的方向相反<br/><br/>
-<img width="173" height="209" src="source/bzoj/4464/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9hYS5wbmc=.png" alt=""/></p><br/>
+<img width="173" height="209" src="/source/bzoj/4464/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9hYS5wbmc=.png" alt=""/></p><br/>
 <p>题解:<a href="/JudgeOnline/upload/201604/sol.rar">JudgeOnline/upload/201604/sol.rar</a></p><p></p></div>
 
 # Source

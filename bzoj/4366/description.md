@@ -34,7 +34,7 @@ protocol:  大小为n的数组；protocol[i] 表示在阶段i(0&lt;i&lt;n)所采
 
 # Hint
 
-<div class="content"><p></p><p><img width="566" height="577" alt="" src="source/bzoj/4366/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9iYi5naWY=.gif"/></p><p></p></div>
+<div class="content"><p></p><p><img width="566" height="577" alt="" src="/source/bzoj/4366/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9iYi5naWY=.gif"/></p><p></p></div>
 
 # Source
 

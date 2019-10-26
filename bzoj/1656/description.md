@@ -5,7 +5,7 @@
 <div><span style="font-size: medium">牧场里有一片树林，林子里没有坑．</span></div>
 <div><span style="font-size: medium">    贝茜很想知道，最少需要多少步能围绕树林走一圈，最后回到起点．她能上下左右走，也能走对角线格子．牧场被分成R行C列(1≤R≤50，1≤C≤50)．下面是一张样例的地图，其中“．”表示贝茜可以走的空地，  “X”表示树林，  “*”表示起点．而贝茜走的最近的路已经特别地用“+”表示出来．</span></div>
 <div><span style="font-size: medium"> </span></div>
-<div><span style="font-size: medium"> <img height="209" width="252" alt="" src="source/bzoj/1656/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMSg1KS5qcGc=.jpg"/></span></div>
+<div><span style="font-size: medium"> <img height="209" width="252" alt="" src="/source/bzoj/1656/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMSg1KS5qcGc=.jpg"/></span></div>
 <div><span style="font-size: medium"> </span></div>
 <div><span style="font-size: medium"> </span></div>
 <div></div>

@@ -22,7 +22,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img width="478" height="337" src="source/bzoj/4404/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMS8xMTEuanBn.jpg" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img width="478" height="337" src="/source/bzoj/4404/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMS8xMTEuanBn.jpg" alt=""/></p><p></p></div>
 
 # Source
 

@@ -4,7 +4,7 @@
 <div class="content"><div>Luka非常擅长解决汉诺塔问题，他发明了一种类似汉诺塔的使用盘子和柱子的游戏。这个游戏有n个不同大小的盘</div>
 <div>子以及36根柱子。盘子按照大小从小到大依次被编号为1到n。柱子形成了6行6列的矩阵，从上到下每行依次被编号</div>
 <div>为1到6，从左到右每列依次被编号为1到6。</div>
-<div><img src="source/bzoj/4790/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMoMSkuanBn.jpg" width="411" height="94" alt=""/></div>
+<div><img src="/source/bzoj/4790/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMoMSkuanBn.jpg" width="411" height="94" alt=""/></div>
 <div>游戏一开始，n个盘子都被堆叠在左上角坐标为(1,1)的柱子上。对于每一次操作，玩家可以选择一个柱子，取出最</div>
 <div>顶上若干个盘子，然后选择右边或者下面的某个柱子，将取出的盘子全部堆叠在其顶上（不会翻转顺序）。游戏的</div>
 <div>目标是把所有盘子都移动到(6,6)，且自底向上大小依次递减。</div>

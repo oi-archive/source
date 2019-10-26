@@ -42,7 +42,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img width="668" height="215" alt="" src="source/bzoj/3148/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDgpLmpwZw==.jpg"/></p><br/>
+<div class="content"><p></p><p><img width="668" height="215" alt="" src="/source/bzoj/3148/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDgpLmpwZw==.jpg"/></p><br/>
 <p>N&lt;=100000, M=10^5</p><p></p></div>
 
 # Source

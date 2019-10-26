@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1970/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NzAuanBn.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1970/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NzAuanBn.jpg"/> 
 依次对每份进行编码，得S1，S2，S3，S4。该矿藏区的编码S为2S1S2S3S4。
 例如上图中，矿藏区的编码为：2021010210001。
 小联希望你能根据给定的编码统计出这片矿藏区一共有多少格子区域是平地。

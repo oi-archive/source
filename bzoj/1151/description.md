@@ -3,7 +3,7 @@
 
 <div class="content"><div>新建的圆形动物园是亚太地区的骄傲。圆形动物园坐落于太平洋的一个小岛上，包含一大圈围栏，每个围栏里有一</div>
 <div>种动物。如下图所示：</div>
-<div><img src="source/bzoj/1151/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDEpLnBuZw==.png" width="340" height="335" alt=""/></div>
+<div><img src="/source/bzoj/1151/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDEpLnBuZw==.png" width="340" height="335" alt=""/></div>
 <div>你是动物园的公共主管。你要做的是，让每个来动物园的人都尽可能高兴。今天有一群小朋友来动物园参观，你希</div>
 <div>望能让他们在动物园度过一段美好的时光。但这并不是一件容易的事——有的动物有一些小朋友喜欢，有的动物有</div>
 <div>一些小朋友害怕。如，Alex 喜欢可爱的猴子和考拉，而害怕拥牙齿锋利的狮子。而Polly 会因狮子有美丽的鬃毛</div>
@@ -14,7 +14,7 @@
 <div>至少有一个他喜欢的动物没被移走</div>
 <div></div>
 <div>例如，考虑下图中的小朋友和动物：</div>
-<div><img src="source/bzoj/1151/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yLnBuZw==.png" width="602" height="484" alt=""/></div>
+<div><img src="/source/bzoj/1151/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yLnBuZw==.png" width="602" height="484" alt=""/></div>
 <div>假如你将围栏 4 和 12 的动物移走。Alex 和 Ka-Shu 将很高兴，因为至少有一个他们害怕的动物被移走了。这也</div>
 <div>会使 Chaitanya 高兴，因为他喜欢的围栏 6 和8 中的动物都保留了。但是，Polly 和 Hwan 将不高兴，因为他们</div>
 <div>看不到任何他们喜欢的动物，而他们害怕的动物都还在。这种安排方式使得三个小朋友高兴。现在，换一种方法，</div>

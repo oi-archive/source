@@ -31,7 +31,7 @@
 
 # Hint
 
-<div class="content"><p> <img border="0" src="source/bzoj/2074/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzQuanBn.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/2074/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzQuanBn.jpg"/> <br/>
 </p></div>
 
 # Source

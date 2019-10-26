@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>求下列表达式的值</p>
-<p><img src="source/bzoj/5276/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92djEuanBn.jpg" width="238" height="83" alt=""/></p>
+<p><img src="/source/bzoj/5276/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92djEuanBn.jpg" width="238" height="83" alt=""/></p>
 <p>其中d(x)代表x的因子数，例如d(6)=4</p>
 <p></p></div>
 

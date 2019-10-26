@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">小T准备在家里摆放几幅画，为此他买来了N幅画和N个画框。为了体现他的品味，小T希望能合理地搭配画与画框，使得其显得既不过于平庸也不太违和。对于第 幅画与第 个画框的配对，小T都给出了这个配对的平凡度Aij 与违和度Bij 。整个搭配方案的总体不和谐度为每对画与画框平凡度之和与每对画与画框违和度的乘积。具体来说，设搭配方案中第i幅画与第Pi个画框配对，则总体不和谐度为</span></p>
-<p><span style="font-size: medium"><img height="96" width="364" alt="" src="source/bzoj/3571/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8xMS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="96" width="364" alt="" src="/source/bzoj/3571/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8xMS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">小T希望知道通过搭配能得到的最小的总体不和谐度是多少。<br/>
 </span></p></div>
 

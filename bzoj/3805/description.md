@@ -4,7 +4,7 @@
 <div class="content"><div>给定一个M*N的矩阵，每个连通块用一个相同的字母表示。</div>
 <div>可以用锯子将其分割，但是不能分割连通块，同时每次操作要求锯子</div>
 <div>必须是从当前某个分出的块的边界开始切出一条线段来，不能转弯。</div>
-<div><img src="source/bzoj/3805/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi8yMi5wbmc=.png" width="459" height="249" alt=""/></div>
+<div><img src="/source/bzoj/3805/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi8yMi5wbmc=.png" width="459" height="249" alt=""/></div>
 <div></div>
 <p></p></div>
 

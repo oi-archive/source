@@ -3,7 +3,7 @@
 
 <div class="content"><div style="text-indent: 21.25pt"><span style="font-size: 12pt">给出一个</span><i><span style="font-size: 12pt">N</span></i><span style="font-size: 12pt">个顶点的简单多边形，对于每个顶点，假如它和原点连成的线段只在这个顶点处和多边形相交，就称为满足要求的顶点。你的任务是输出所有满足要求的顶点编号。</span></div>
 <div> </div>
-<p><img width="391" height="325" src="source/bzoj/2856/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNy8yLmpwZw==.jpg" alt=""/></p></div>
+<p><img width="391" height="325" src="/source/bzoj/2856/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNy8yLmpwZw==.jpg" alt=""/></p></div>
 
 # Input
 

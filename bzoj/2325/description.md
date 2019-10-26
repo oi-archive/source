@@ -5,7 +5,7 @@
 <div>口袋妖怪(又名神奇宝贝或宠物小精灵)红/蓝/绿宝石中的水系道馆需要经过三个冰地才能到达馆主的面前，冰地中</div>
 <div>的每一个冰块都只能经过一次。当一个冰地上的所有冰块都被经过之后，到下一个冰地的楼梯才会被打开。三个冰</div>
 <div>地分别如下：</div>
-<div><img src="source/bzoj/2325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS92LmpwZw==.jpg" width="397" height="428" alt=""/></div>
+<div><img src="/source/bzoj/2325/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS92LmpwZw==.jpg" width="397" height="428" alt=""/></div>
 <div>当走出第三个冰地之后，就可以与馆主进行道馆战了。馆主发现这个难度太小，导致经常有挑战者能通过，为了加</div>
 <div>大难度，将道馆分成了n个房间，每个房间中是两个冰块或障碍，表示一列冰地。任意两个房间之间均有且仅有一</div>
 <div>条路径相连，即这n个房间构成一个树状结构。每个房间分成了A和B两个区域，每一区域都是一个薄冰块或者障碍</div>

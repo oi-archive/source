@@ -1,8 +1,7 @@
 
 # Description
 
-<div class="content"><p>
-</p><dd>
+<div class="content"><p></p><dd>
 <div>
 <p>有一天，lqp18_31看了1tthinking的图论笔记。他发现了下面的一些有趣东西：</p>
 <ul>
@@ -12,15 +11,14 @@
     <li>最大匹配：边数最多的匹配</li>
 </ul>
 <p>所以，lqp18_31请你找出一个正则二分图的最大匹配。</p>
-<p><img src="source/bzoj/2291/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDFfMS5qcGc=.jpg" alt=""/></p>
+<p><img src="/source/bzoj/2291/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDFfMS5qcGc=.jpg" alt=""/></p>
 </div>
 </dd>
 <p></p></div>
 
 # Input
 
-<div class="content"><p>
-</p><dt>  </dt>
+<div class="content"><p></p><dt>  </dt>
 <dd>
 <div>
 <p>第1行，两个整数 <em>N</em> (1 ≤ <em>N</em> ≤ 10<sup>5</sup>) 和 <em>M</em> (1 ≤ <em>M</em> ≤ 10<sup>6</sup>, 你可以假定 <em>M</em> = 2<sup><em>K</em></sup> × <em>N</em>), 点和边的数量。</p>
@@ -31,8 +29,7 @@
 
 # Output
 
-<div class="content"><p>
-</p><dt>  </dt>
+<div class="content"><p></p><dt>  </dt>
 <dd>
 <p>若干对整数 <em>X<sub>i</sub></em> and <em>Y<sub>i</sub></em>, 匹配的边。</p>
 </dd>

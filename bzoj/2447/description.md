@@ -3,7 +3,7 @@
 
 <div class="content"><div style="text-indent: 21pt">某个城市有N个区域，这些区域用1到N这N个正整数编号，并且它们之间通过N-1条道路相连，保证任意两个区域有路径相通。对于每个区域i,有一个正整数权值w(i)。记d(u,v)为区域u和区域v之间的距离，表示它们之间唯一的一条路径的边数。若u和v为同一个区域，则d(u,v)=0。</div>
 <div style="text-indent: 21pt">现在要选择两个区域建立消防站，你的任务是找出这两个不同的区域x和y使得以下的表达式S(x，y)的值最小。</div>
-<p><img alt="" src="source/bzoj/2447/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC9hYWEuanBn.jpg"/></p></div>
+<p><img alt="" src="/source/bzoj/2447/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC9hYWEuanBn.jpg"/></p></div>
 
 # Input
 

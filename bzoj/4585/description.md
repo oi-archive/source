@@ -7,12 +7,12 @@
 <div>叉点时，它会扩散到与之相连的所有导火索，继续燃烧。导火索燃烧的速度是一个固定常</div>
 <div>数。[图1]展示了六枚烟花{E1,E2...E6 }的连线布局，以及每根导火索的长度。图中还标</div>
 <div>注了当在时刻 从开关点燃火花时，每一发烟花的爆炸时间。</div>
-<div><img src="source/bzoj/4585/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS8xMTEucG5n.png" width="301" height="306" alt=""/></div>
+<div><img src="/source/bzoj/4585/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS8xMTEucG5n.png" width="301" height="306" alt=""/></div>
 <div>Hyunmin为烟花表演设计了导火索的连线布局。不幸的是，在他设计的布局中，烟花不一定</div>
 <div>同时爆炸。我们希望修改一些导火索的长度，让所有烟花在同一时刻爆炸。例如，为了让[图</div>
 <div>1]中的所有烟花在时刻 13爆炸，我们可以像[图2]中左边那样调整导火索长度。类似地，为</div>
 <div>了让[图1]中的所有烟花在时刻 14爆炸，我们可以像[图2]中右边那样调整长度。</div>
-<div><img src="source/bzoj/4585/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS8yMjIucG5n.png" width="584" height="349" alt=""/></div>
+<div><img src="/source/bzoj/4585/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS8yMjIucG5n.png" width="584" height="349" alt=""/></div>
 <div>修改导火索长度的代价等于修改前后长度之差的绝对值。例如，将[图1]中布局修改为[图2]</div>
 <div>左边布局的总代价为6 ，而将[图1]中布局修改为[图2]右边布局的总代价为 5.</div>
 <div>导火索的长度可以被减为0 ，同时保持连通性不变。</div>

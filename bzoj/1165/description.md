@@ -8,7 +8,7 @@
 <div style="text-indent: 21pt"><span style="font-size: medium">开关一共有m个, 编号为1; 2;……;m, 每个开关有两种状态: 开和关. 而水闸受开关控制的方式有两种:</span></div>
 <div style="margin: 0cm 0cm 0pt 42pt; text-indent: -21pt"><span style="font-size: medium">l<span style="font: 7pt &#39;Times New Roman&#39;">         </span>开关开时水闸打开, 开关关时水闸关闭.</span></div>
 <div style="margin: 0cm 0cm 0pt 42pt; text-indent: -21pt"><span style="font-size: medium">l<span style="font: 7pt &#39;Times New Roman&#39;">         </span>开关关时水闸打开, 开关开时水闸关闭.</span></div>
-<p><span style="font-size: medium"><img height="454" alt="" width="301" src="source/bzoj/1165/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMSgzKS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="454" alt="" width="301" src="/source/bzoj/1165/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMSgzKS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

@@ -4,7 +4,7 @@
 <div class="content"><div>小Z最近迷上了拼图游戏，然而智商有限，他总是无法拼出完整图案。游戏是这样的：首先小Z会得到一些拼图碎片</div>
 <div>，然后他试着重新排列这些碎片使得它们组成一个大小为4*4的正方形。如下图。注意小Z不能旋转或者翻转这些碎</div>
 <div>片。</div>
-<div><img src="source/bzoj/5156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMS5qcGc=.jpg" width="273" height="272" alt=""/></div>
+<div><img src="/source/bzoj/5156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMS5qcGc=.jpg" width="273" height="272" alt=""/></div>
 <div>小Z得到如图1的碎片，然后经过重新排列得到图2的正方形。由于小Z实在太笨了，聪明的你请写一个程序帮助他来</div>
 <div>解决这个问题吧。</div>
 <div></div>

@@ -14,7 +14,7 @@ mso-hansi-font-family:&#34;Times New Roman&#34;">小朋友左边。编号为</sp
 &#34;Times New Roman&#34;">的小朋友开始报数，接着站在左边的小朋友顺序报数，直到数到某个数字</span><span lang="EN-US">K</span><span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;mso-hansi-font-family:
 &#34;Times New Roman&#34;">时就出圈。直到所有的小朋友都出圈，则游戏完毕。游戏过程如下图所示。</span></p>
 <p><span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;mso-hansi-font-family:
-&#34;Times New Roman&#34;"><img width="310" height="121" alt="" src="source/bzoj/2976/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC_ml6DmoIfpopgoMSkucG5n.png"/></span></p>
+&#34;Times New Roman&#34;"><img width="310" height="121" alt="" src="/source/bzoj/2976/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC_ml6DmoIfpopgoMSkucG5n.png"/></span></p>
 <p><!--[if gte mso 9]><xml>
 <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
 DefSemiHidden="true" DefQFormat="false" DefPriority="99"

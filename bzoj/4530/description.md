@@ -4,7 +4,7 @@
 <div class="content"><div>小强要在N个孤立的星球上建立起一套通信系统。这套通信系统就是连接N个点的一个树。</div>
 <div>这个树的边是一条一条添加上去的。在某个时刻，一条边的负载就是它所在的当前能够</div>
 <div>联通的树上路过它的简单路径的数量。</div>
-<div><img src="source/bzoj/4530/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mZi5wbmc=.png" width="352" height="277" alt=""/></div>
+<div><img src="/source/bzoj/4530/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mZi5wbmc=.png" width="352" height="277" alt=""/></div>
 <div>例如，在上图中，现在一共有了5条边。其中，(3,8)这条边的负载是6，因</div>
 <div>为有六条简单路径2-3-8,2-3-8-7,3-8,3-8-7,4-3-8,4-3-8-7路过了(3,8)。</div>
 <div>现在，你的任务就是随着边的添加，动态的回答小强对于某些边的负载的</div>

@@ -28,7 +28,7 @@ N&lt;=100，A&lt;=2000000
 
 <div class="content"><span class="sampledata">3<br/>
 <br/>
-<img border="0" src="source/bzoj/1766/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjYuanBn.jpg"/> </span></div>
+<img border="0" src="/source/bzoj/1766/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjYuanBn.jpg"/> </span></div>
 
 # Hint
 

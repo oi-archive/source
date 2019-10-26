@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1918/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTguanBn.jpg"/> </div>
+<div class="content"><img border="0" src="/source/bzoj/1918/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTguanBn.jpg"/> </div>
 
 # Input
 
@@ -44,7 +44,7 @@ A队对C 队的胜率。其中第i + n + 2 行的第 j个数表示选手Ai对选
 
 # Hint
 
-<div class="content"><p> <br/>
+<div class="content"><p><br/>
 30%的数据中，n ≤ 4。 <br/>
 40%的数据中，n ≤ 5。 <br/>
 100%的数据中，n ≤ 7。 <br/>

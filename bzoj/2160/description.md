@@ -24,7 +24,7 @@ ababa</span></div>
 
 # Hint
 
-<div class="content"><p></p><p>总共20个测试点，数据范围满足： <img alt="" border="0" src="source/bzoj/2160/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNjAuanBn.jpg"/></p><p></p></div>
+<div class="content"><p></p><p>总共20个测试点，数据范围满足： <img alt="" border="0" src="/source/bzoj/2160/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNjAuanBn.jpg"/></p><p></p></div>
 
 # Source
 

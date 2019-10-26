@@ -8,7 +8,7 @@
 <div>到其视线中任意一点。视线的范围为力量所在点的两条斜线上的任意一个除自己以外其它点，特别的，如果斜线上</div>
 <div>有另一股力量，则无法看到那股力量及其后面的所有格。</div>
 </div>
-<div><img src="source/bzoj/4187/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xMS5naWY=.gif" width="587" height="221" alt=""/></div>
+<div><img src="/source/bzoj/4187/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xMS5naWY=.gif" width="587" height="221" alt=""/></div>
 <div>你要使得最后控制的单元格的重要度之和尽量大</div></div>
 
 # Input

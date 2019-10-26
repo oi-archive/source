@@ -81,7 +81,7 @@ mso-bidi-font-family:Cambria"><br/>
 
 # Hint
 
-<div class="content"><p></p><p><img width="581" height="366" src="source/bzoj/4368/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xMS5naWY=.gif" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img width="581" height="366" src="/source/bzoj/4368/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xMS5naWY=.gif" alt=""/></p><p></p></div>
 
 # Source
 

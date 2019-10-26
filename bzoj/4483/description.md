@@ -1,11 +1,11 @@
 
 # Description
 
-<div class="content"><p><img width="710" height="512" alt="" src="source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xLnBuZw==.png"/></p></div>
+<div class="content"><p><img width="710" height="512" alt="" src="/source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xLnBuZw==.png"/></p></div>
 
 # Input
 
-<div class="content"><p><img width="710" height="252" alt="" src="source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yLnBuZw==.png"/></p></div>
+<div class="content"><p><img width="710" height="252" alt="" src="/source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yLnBuZw==.png"/></p></div>
 
 # Output
 
@@ -27,7 +27,7 @@
 
 <div class="content"><p></p><p>0 &lt; = N &lt; = 10, 0 &lt; ang &lt; = 150, 0 &lt; Len &lt; = 1000， 并且任意输入坐标的绝对值不超过 1000。</p><br/>
 <p>样例图解如下</p><br/>
-<p><img width="347" height="293" alt="" src="source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zLnBuZw==.png"/></p><p></p></div>
+<p><img width="347" height="293" alt="" src="/source/bzoj/4483/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zLnBuZw==.png"/></p><p></p></div>
 
 # Source
 

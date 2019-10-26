@@ -1,11 +1,11 @@
 
 # Description
 
-<div class="content"><p><img alt="" width="654" height="253" src="source/bzoj/2717/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9UMWRlcyg0KS5naWY=.gif"/></p></div>
+<div class="content"><p><img alt="" width="654" height="253" src="/source/bzoj/2717/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9UMWRlcyg0KS5naWY=.gif"/></p></div>
 
 # Input
 
-<div class="content"><p><img alt="" width="326" height="86" src="source/bzoj/2717/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9UMWlucHV0KDQpLmdpZg==.gif"/></p></div>
+<div class="content"><p><img alt="" width="326" height="86" src="/source/bzoj/2717/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9UMWlucHV0KDQpLmdpZg==.gif"/></p></div>
 
 # Output
 

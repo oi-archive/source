@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMS5qcGc=.jpg"/></div>
+<div class="content"><img border="0" src="/source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMS5qcGc=.jpg"/></div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMi5qcGc=.jpg"/></div>
+<div class="content"><img border="0" src="/source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMi5qcGc=.jpg"/></div>
 
 # Output
 
-<div class="content"><img border="0" src="source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMy5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfMy5qcGc=.jpg"/>
 0/1，概率为1 应输出1/1。</div>
 
 # Sample Input
@@ -36,7 +36,7 @@ output 2<br/>
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfNC5qcGc=.jpg"/><br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1416/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTZfNC5qcGc=.jpg"/><br/>
 1≤t,n≤1000, 1≤ak ,d≤10, 1≤x1<x2<…<xn≤10000, 1≤yk≤t<="" p=""></x2<…<xn≤10000,></p></div>
 
 # Source

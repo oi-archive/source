@@ -5,7 +5,7 @@
 <div>组符号即圆括号(‘(’和‘)’)、大括号(‘{’和‘}’)和方括号(‘[’和‘]’)，它们必须正确地匹配和嵌套。</div>
 <div>不同于大多数编程语言，Stylish 使用句号来分隔每个词，而不是使用空格，下图就是一个使用 Stylish 编程的</div>
 <div>例子。</div>
-<div><img src="source/bzoj/4687/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9mZi5wbmc=.png" width="566" height="200" alt=""/></div>
+<div><img src="/source/bzoj/4687/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9mZi5wbmc=.png" width="566" height="200" alt=""/></div>
 <div>正如你从上面的例子所看到的那样， Stylish 代码通过句号来缩进，每行的缩进量就是前导句号的数量。</div>
 <div>你的任务是向一位 Stylish 编程大师学习他的缩进风格，并成为最年轻的 Stylish 编程大师。一种良好的 Styli</div>
 <div>sh 缩进风格被定义为整数组成的三元组 (R,C,S)  ，其中 1≤R,C,S≤20 ，而 R,C,S 分别表示一个左圆括号、左</div>

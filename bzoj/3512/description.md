@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><div><span style="font-size: medium">给定n,m，求<img height="119" alt="" width="177" src="source/bzoj/3512/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xMTEuanBn.jpg"/> 模10^9+7的值。</span></div></div>
+<div class="content"><div><span style="font-size: medium">给定n,m，求<img height="119" alt="" width="177" src="/source/bzoj/3512/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xMTEuanBn.jpg"/> 模10^9+7的值。</span></div></div>
 
 # Input
 

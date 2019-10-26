@@ -6,7 +6,7 @@
 <div>游戏在一个n×m的网格状棋盘上进行，其中有些小方格中会有水管，水管可能在方格某些方向的边界的中点有接口</div>
 <div>，所有水管的粗细都相同，所以如果两个相邻方格的公共边界的中点都有接头，那么可以看作这两个接头互相连接</div>
 <div>。水管有以下15种形状：</div>
-<div><img src="source/bzoj/5120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi92djIucG5n.png" width="430" height="228" alt=""/></div>
+<div><img src="/source/bzoj/5120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi92djIucG5n.png" width="430" height="228" alt=""/></div>
 <div>游戏开始时，棋盘中水管可能存在漏水的地方。</div>
 <div>形式化地:如果存在某个接头，没有和其它接头相连接，那么它就是一个漏水的地方。</div>
 <div>玩家可以进行一种操作：选定一个含有非直线型水管的方格，将其中的水管绕方格中心顺时针或逆时针旋转90度。</div>
@@ -44,7 +44,7 @@
 
 <div class="content"><p></p><p> 样例1棋盘如下</p><br/>
 <div>旋转方法很显然，先将左上角虚线方格内的水管顺时针转90度</div><br/>
-<div><img src="source/bzoj/5120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi92djEucG5n.png" width="192" height="270" alt=""/></div><br/>
+<div><img src="/source/bzoj/5120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMi92djEucG5n.png" width="192" height="270" alt=""/></div><br/>
 <div>然后右下角虚线方格内的水管逆时针旋转90度，这样就使得水管封闭了</div><p></p></div>
 
 # Source

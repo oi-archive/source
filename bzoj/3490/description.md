@@ -31,7 +31,7 @@ The fourth line of the input contains an integer k(1&lt;=K&lt;=10000)): the numb
 
 # Hint
 
-<div class="content"><p></p><p><img height="232" width="332" alt="" src="source/bzoj/3490/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy9mZi5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="232" width="332" alt="" src="/source/bzoj/3490/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy9mZi5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

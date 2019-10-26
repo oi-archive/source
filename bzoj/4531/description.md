@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p> <img src="source/bzoj/4531/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZC5wbmc=.png" width="255" height="206" alt=""/></p>
+<div class="content"><p> <img src="/source/bzoj/4531/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZC5wbmc=.png" width="255" height="206" alt=""/></p>
 <div>在一个N个节点的无向图（没有自环、重边）上，每个点都有一个符号，</div>
 <div>可能是数字，也可能是加号、减号、乘号、除号、小括号。你要在这个图上数</div>
 <div>一数，有多少种走恰好K个节点的方法，使得路过的符号串起来能够得到一</div>

@@ -6,10 +6,10 @@
 <div>我们称占据的格子有公共边的两只跳蚤是相邻的。</div>
 <div>我们称两只跳蚤是连通的，当且仅当这两只跳蚤相邻，或存在另一只跳蚤与这两只跳蚤都连通。</div>
 <div>现在，蛐蛐国王希望，将某些（0 个，1 个或多个）跳蚤替换成蛐蛐，使得在此之后存在至少两只跳蚤不连通。</div>
-<div>例如：我们用图<img src="source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xKDEpLnBuZw==.png" width="50" height="50" alt=""/>表示一只跳蚤，用图<img src="source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yKDEpLnBuZw==.png" width="49" height="50" alt=""/>表示一只蛐蛐，那么图 1 描述了一个 n=4,m=4,c=2的情况。</div>
+<div>例如：我们用图<img src="/source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xKDEpLnBuZw==.png" width="50" height="50" alt=""/>表示一只跳蚤，用图<img src="/source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yKDEpLnBuZw==.png" width="49" height="50" alt=""/>表示一只蛐蛐，那么图 1 描述了一个 n=4,m=4,c=2的情况。</div>
 <div>这种情况下蛐蛐国王可以通过将第 2 行第 2 列，和第 3 行第 3 列的两只跳蚤替换为蛐蛐，从而达成他的希望，如图 2 所示。并且，不存在更优的方案，但是可能存在其他替换 2 只跳蚤的方案。</div>
 <div>你需要首先判断蛐蛐国王的希望能否被达成。如果能够达成，你还需要最小化被替换的跳蚤的个数。</div>
-<div><img src="source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8zLnBuZw==.png" width="271" height="266" alt=""/> <img src="source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC80LnBuZw==.png" width="271" height="257" alt=""/></div></div>
+<div><img src="/source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8zLnBuZw==.png" width="271" height="266" alt=""/> <img src="/source/bzoj/4651/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC80LnBuZw==.png" width="271" height="257" alt=""/></div></div>
 
 # Input
 

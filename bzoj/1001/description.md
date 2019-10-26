@@ -3,7 +3,7 @@
 
 <div class="content"><div>现在小朋友们最喜欢的&#34;喜羊羊与灰太狼&#34;,话说灰太狼抓羊不到，但抓兔子还是比较在行的，</div>
 <div>而且现在的兔子还比较笨，它们只有两个窝，现在你做为狼王，面对下面这样一个网格的地形：</div>
-<p><span style="font-size: medium"> <img border="0" alt="" src="source/bzoj/1001/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMDEuanBn.jpg"/> </span></p>
+<p><span style="font-size: medium"> <img border="0" alt="" src="/source/bzoj/1001/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwMDEuanBn.jpg"/> </span></p>
 <div>左上角点为(1,1),右下角点为(N,M)(上图中N=4,M=5).有以下三种类型的道路 </div>
 <div>1:(x,y)&lt;==&gt;(x+1,y) </div>
 <div>2:(x,y)&lt;==&gt;(x,y+1) </div>

@@ -14,7 +14,7 @@
 <div>到多少柿子？他知道写一个程序可以很容易的解决这个问题，但是他现在懒于写任何代码。于是，现在你的任务就</div>
 <div>是帮助雷涛写一个这样的程序。左图是N=3，H=10，Delta=2的一个例子。小猫按照图示路线进行跳跃，可以吃到最</div>
 <div>多的8个柿子</div>
-<div><img src="source/bzoj/1270/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgxKS5qcGc=.jpg" width="348" height="352" alt=""/></div></div>
+<div><img src="/source/bzoj/1270/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgxKS5qcGc=.jpg" width="348" height="352" alt=""/></div></div>
 
 # Input
 

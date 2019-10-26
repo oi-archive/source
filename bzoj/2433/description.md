@@ -4,7 +4,7 @@
 <div class="content"><p> 新一届智能车大赛在JL大学开始啦！比赛赛道可以看作是由n个矩形区域拼接而成（如下图所示），每个矩形的边都平行于坐标轴，第i个矩形区域的左下角和右上角坐标分别为(xi,1,yi,1)和(xi,2,yi,2)。<br/>
 <br/>
 题目保证：xi,1&lt;xi,2=xi+1,1，且yi,1&lt; yi,2，相邻两个矩形一定有重叠在一起的边（如图中虚线所示），智能车可以通过这部分穿梭于矩形区域之间。</p>
-<p><img height="0" alt="" width="0" src="source/bzoj/2433/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMTEuanBn.jpg"/><br/>
+<p><img height="0" alt="" width="0" src="/source/bzoj/2433/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMTEuanBn.jpg"/><br/>
 <br/>
 <br/>
 选手们需要在最快的时间内让自己设计的智能车从一个给定的起点S点到达一个给定的终点T点，且智能车不能跑出赛道。假定智能车的速度恒为v且转向不消耗任何时间，你能算出最快需要多少时间完成比赛么？</p></div>

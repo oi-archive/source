@@ -6,7 +6,7 @@
 <div>出的答案是正确的，请给出任意一组解。假设点阵左上角点的坐标为 (1,1) ，点阵右下角点的坐标为 (n,m) ，点</div>
 <div>阵第 i 行第 j 列点的坐标为 (i,j) ，你需要依次给出有向折线上每一条有向直线段经过的点集（详细的说明参</div>
 <div>见输出格式）。下图给出了样例对应的一组解：</div>
-<div><img src="source/bzoj/4751/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMS9iYi5qcGc=.jpg" width="580" height="242" alt=""/></div>
+<div><img src="/source/bzoj/4751/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMS9iYi5qcGc=.jpg" width="580" height="242" alt=""/></div>
 <p></p></div>
 
 # Input

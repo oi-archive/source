@@ -11,7 +11,7 @@
 <div>楼使得电缆的总长度尽可能短。换句话说，你需要选择这 K 对办公楼，使得每一对办公楼之间的距离之和（总距</div>
 <div>离）尽可能小。下面给出一个示例，假定你有 5 个客户，其办公楼都在一条街上，如下图所示。这 5 个办公楼分</div>
 <div>别位于距离大街起点 1km, 3km, 4km, 6km 和 12km 处。电信公司仅为你提供 K=2 条电缆。</div>
-<div><img src="source/bzoj/1150/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMTExLnBuZw==.png" width="528" height="179" alt=""/></div>
+<div><img src="/source/bzoj/1150/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMTExLnBuZw==.png" width="528" height="179" alt=""/></div>
 <div>　　上例中最好的配对方案是将第 1 个和第 2 个办公楼相连，第 3 个和第 4 个办公楼相连。这样可按要求使用</div>
 <div> K=2 条电缆。第 1 条电缆的长度是 3km-1km=2km ，第 2 条电缆的长度是 6km-4km=2km。这种配对方案需要总长</div>
 <div> 4km 的网络电缆，满足距离之和最小的要求。</div></div>

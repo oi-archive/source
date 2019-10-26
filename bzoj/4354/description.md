@@ -2,10 +2,10 @@
 # Description
 
 <div class="content"><div>莱因斯坦(LineStein)迷上了一种名叫二维魔方(Two dimensional Magic cube)的游戏，游戏规则如下：给一个N*N的矩阵，每个单元矩阵有一种颜色（如图）。</div>
-<div><img src="source/bzoj/4354/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xLmdpZg==.gif" width="285" height="245" alt=""/></div>
+<div><img src="/source/bzoj/4354/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xLmdpZg==.gif" width="285" height="245" alt=""/></div>
 <div> </div>
 <div>然后要按照这样一种规则移动魔方：可以将任何一行（或一列）向左右（或上下）移动，并且如果向左边移动，那么移出魔方的单元矩阵将在右方按顺序出现。如上图，将第二行向右移动两个单位将如下图所示。</div>
-<div><img src="source/bzoj/4354/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8yLmdpZg==.gif" width="281" height="250" alt=""/></div>
+<div><img src="/source/bzoj/4354/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8yLmdpZg==.gif" width="281" height="250" alt=""/></div>
 <div> </div>
 <div>游戏开始时，玩家会得到魔方的初始状态与目标状态，玩家需要把魔方按照规则移动到目标状态。</div>
 <div>看起来这个游戏并不很难。但是说实话，莱因斯坦并不擅长这种游戏。他能成功地完成最简单的游戏，但是当他面对一个更复杂的游戏时，他根本无法找到解法。</div>

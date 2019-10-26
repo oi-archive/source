@@ -4,7 +4,7 @@
 <div class="content"><div>出版地图并不是一件容易的事。首先你需要通过一些适当的变换来在一个二维平面上显示出地球的“球”的形状，然后另一个问题出现了——最优质的地图太大了，以至于不能被印在一页纸上。为了解决这个问题，地图出版者经常将地图分成若干矩形部分，并在同一页的各个矩形砖上打印各个部分。在本题中，你将验证以上的“平铺”过程。</div>
 <div>国际地图出版公司（ICPC）需要通过减少用于打印地图的砖数来最小化他们的打印成本。即使对于固定的砖块大小（由页面大小决定）与地图比例尺，你仍然可以通过调整矩形砖网格的位置来进行优化。</div>
 <div>图1左侧是一种用14个矩形砖来覆盖一个地图区域的方法。右侧显示了如何在不改变矩形砖的大小或方向的情况下，只用10个砖来覆盖同一区域。</div>
-<div><img src="source/bzoj/3970/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8xMTExLnBuZw==.png" width="779" height="421" alt=""/></div>
+<div><img src="/source/bzoj/3970/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8xMTExLnBuZw==.png" width="779" height="421" alt=""/></div>
 <div></div>
 <div></div>
 <div>图1：两种平铺德州地图的方法</div>

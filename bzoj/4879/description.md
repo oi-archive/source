@@ -6,7 +6,7 @@
 <div>一步只可能是4种指令上(up)下(down)左(left)右(right)中的一种，同时指定一个距离d，每秒往那个方向移动一</div>
 <div>步。在创作的一开始，他的笔位于数位板的左下角，且任意时刻他的笔都不会离开数位板。考虑6*8的数位板以及</div>
 <div>如下图所示的指令集，如果笔在第17秒末故障了，数位板最终会变成第二幅图的样子。</div>
-<div><img src="source/bzoj/4879/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS9waWNCLnBuZw==.png" width="663" height="220" alt=""/></div>
+<div><img src="/source/bzoj/4879/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS9waWNCLnBuZw==.png" width="663" height="220" alt=""/></div>
 <div>小Q想知道最早和最晚的时刻t，满足如果数位板在第t秒末故障了，最终显示出来的图案与他预想的一致。注意数</div>
 <div>位板可以在第0秒末故障，此时小Q的笔还没有触碰到数位板。</div></div>
 

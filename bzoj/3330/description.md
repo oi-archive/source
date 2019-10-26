@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="393" width="637" alt="" src="source/bzoj/3330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xKDMpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="393" width="637" alt="" src="/source/bzoj/3330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xKDMpLmpwZw==.jpg"/></p></div>
 
 # Input
 
@@ -30,7 +30,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><span style="font-size: medium"><img height="864" width="675" alt="" src="source/bzoj/3330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMS5qcGc=.jpg"/></span></p><br/>
+<div class="content"><p></p><p><span style="font-size: medium"><img height="864" width="675" alt="" src="/source/bzoj/3330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMS5qcGc=.jpg"/></span></p><br/>
 <p></p><br/>
 <p><span style="font-size: medium">【数据规模和约定】<br/><br/>
 一共有10个测试点,P的值依次是1到10。<br/><br/>

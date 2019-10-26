@@ -3,7 +3,7 @@
 
 <div class="content"><div>如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</div>
 <div>什么是仙人掌</div>
-<div><img src="source/bzoj/4252/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8yMi5QTkc=.PNG" width="547" height="243" alt=""/></div>
+<div><img src="/source/bzoj/4252/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8yMi5QTkc=.PNG" width="547" height="243" alt=""/></div>
 <div></div>
 <div>现给定一棵仙人掌，每条边有一个正整数权值，每次给 k 个点（可以存在相同点），问从它们中选出两个点（可以相同），它们之间最短路的最大值是多少。</div>
 <div></div>

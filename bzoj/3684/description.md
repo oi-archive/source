@@ -35,7 +35,7 @@
 <div class="content"><p></p><p><br/><br/>
 </p><br/>
 <p></p><br/>
-<p><img alt="" width="1323" height="541" src="source/bzoj/3684/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOC9hYS5qcGc=.jpg"/></p><br/>
+<p><img alt="" width="1323" height="541" src="/source/bzoj/3684/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOC9hYS5qcGc=.jpg"/></p><br/>
 <p>数据规模：<br/><br/>
 1&lt;=m&lt;s&lt;=10^5, 2&lt;=d[i]&lt;=s，有3组小数据和3组大数据。<br/><br/>
 </p><p></p></div>

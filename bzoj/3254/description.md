@@ -3,7 +3,7 @@
 
 <div class="content"><div style="text-indent: 24pt"><span style="font-size: 12pt">一个n*m的棋盘，左上角为(1,1),右下角为(n,m)。相邻的2点之间有连边（如下图中实线）特殊地，(1,i)与(n,i)也连有一条边（如下图中虚线）,i=1..m。</span></div>
 <div style="text-indent: 21pt"><span style="font-size: 12pt">如下图，就是一个n=3,m=4 的棋盘。</span></div>
-<p><img height="640" alt="" width="567" src="source/bzoj/3254/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwOC8xLmpwZw==.jpg"/></p></div>
+<p><img height="640" alt="" width="567" src="/source/bzoj/3254/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwOC8xLmpwZw==.jpg"/></p></div>
 
 # Input
 

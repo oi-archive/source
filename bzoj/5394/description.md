@@ -37,7 +37,7 @@
 <div>And the mome raths outgrabe.</div>
 <div></div>
 <div>----&#34;Jabberwocky&#34;</div>
-<div> <img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xLnBuZw==.png" width="551" height="416" alt=""/></div>
+<div> <img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xLnBuZw==.png" width="551" height="416" alt=""/></div>
 <div>我喊了出来...却不成人话</div>
 <div>只能，像在水中一边融化一边下沉的方糖一样...</div>
 <div>失去自己的轮廓...一直沉向最低处</div>
@@ -54,7 +54,7 @@
 <div>逐渐消失的世界...</div>
 <div>我看到了世界</div>
 <div>失落的...世界...</div>
-<div><img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div><img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>     回归天空的话我就可以成为      了</div>
 <div>  开什么玩笑，你才不是什么      ！</div>
 <div>  吵死了！吵死了！我是      ！而且生来就是！</div>
@@ -90,7 +90,7 @@
 <div>                     终</div>
 <div>                   终之空</div>
 <div>                     空</div>
-<div> <img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zLnBuZw==.png" width="554" height="418" alt=""/></div>
+<div> <img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zLnBuZw==.png" width="554" height="418" alt=""/></div>
 <div>一个婴儿出生了</div>
 <div>谁的？</div>
 <div>不知道</div>
@@ -135,22 +135,22 @@
 <div>我能做到的</div>
 <div>唯一的</div>
 <div>唯一的赎罪啊。</div>
-<div><img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80LnBuZw==.png" width="555" height="419" alt=""/> </div>
+<div><img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80LnBuZw==.png" width="555" height="419" alt=""/> </div>
 <div>让我在这里了结了你吧…间宫卓司</div>
 <div>这里是终之空的下面吧…这不刚好吗</div>
 <div>跟我们的终结很相称不是吗…</div>
 <div>这里，是只对你而言的，终结的天空…</div>
 <div>这里就是终焉之地…</div>
-<div> <img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81LnBuZw==.png" width="555" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81LnBuZw==.png" width="555" height="419" alt=""/></div>
 <div>&#34;不行！绝对不行！&#34;</div>
 <div>…为什么…跟过来了…</div>
-<div> <img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi82LnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi82LnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>预定…调和吗…</div>
 <div>原来如此…看来不管怎样对于你来说…我都已经毫无任何价值了对吧…</div>
 <div>竟然被这家伙打倒了…真是没办法呐…</div>
 <div>这也是现实吗…</div>
 <div>那就接受吧…</div>
-<div> <img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi83LnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi83LnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>不知为何，我好像看到了在夜空中挺立的向日葵…</div>
 <div>只有一瞬间…</div>
 <div>那株向日葵…</div>
@@ -160,7 +160,7 @@
 <div>是啊…</div>
 <div>我是哥哥啊…</div>
 <div>要是…能再多当当她的哥哥就好了……</div>
-<div><img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi84LnBuZw==.png" width="558" height="419" alt=""/> </div>
+<div><img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi84LnBuZw==.png" width="558" height="419" alt=""/> </div>
 <div>咦……</div>
 <div>刚才的…</div>
 <div>那个是…那片风景…</div>
@@ -178,7 +178,7 @@
 <div>因为…那个坡道的前面有很漂亮的景色…</div>
 <div>您正在打galgame，然后您觉得这个gal不知所云，于是您弃坑了，开始写数据结构题：</div>
 <div>给一个长为n的序列，m次操作，每次操作：</div>
-<div><img src="source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi85LnBuZw==.png" width="524" height="198" alt=""/></div>
+<div><img src="/source/bzoj/5394/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi85LnBuZw==.png" width="524" height="198" alt=""/></div>
 <p></p></div>
 
 # Input

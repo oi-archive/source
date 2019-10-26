@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p> B 君有两个好朋友，他们叫宁宁和冉冉。有一天，冉冉遇到了一个有趣的题目：输入 b;d;n，求</p>
-<p><img src="source/bzoj/4002/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xMTEoMSkucG5n.png" width="342" height="80" alt=""/></p>
+<p><img src="/source/bzoj/4002/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xMTEoMSkucG5n.png" width="342" height="80" alt=""/></p>
 <div></div>
 <div></div></div>
 

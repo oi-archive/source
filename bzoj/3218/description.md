@@ -2,8 +2,8 @@
 # Description
 
 <div class="content"><p></p>
-<p><img height="1131" width="800" alt="" src="source/bzoj/3218/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi9wcm9ibGVtLTAoMSkuanBn.jpg"/></p>
-<p><img height="1131" width="800" alt="" src="source/bzoj/3218/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi9wcm9ibGVtLTEoMSkuanBn.jpg"/></p></div>
+<p><img height="1131" width="800" alt="" src="/source/bzoj/3218/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi9wcm9ibGVtLTAoMSkuanBn.jpg"/></p>
+<p><img height="1131" width="800" alt="" src="/source/bzoj/3218/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi9wcm9ibGVtLTEoMSkuanBn.jpg"/></p></div>
 
 # Input
 

@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p>　　作为体育委员，C君负责这次运动会仪仗队的训练。仪仗队是由学生组成的N * N的方阵，为了保证队伍在行进中整齐划一，C君会跟在仪仗队的左后方，根据其视线所及的学生人数来判断队伍是否整齐(如下图)。 　　 <img border="0" alt="" src="source/bzoj/2190/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTAuanBn.jpg"/> 　　现在，C君希望你告诉他队伍整齐时能看到的学生人数。</p></div>
+<div class="content"><p>　　作为体育委员，C君负责这次运动会仪仗队的训练。仪仗队是由学生组成的N * N的方阵，为了保证队伍在行进中整齐划一，C君会跟在仪仗队的左后方，根据其视线所及的学生人数来判断队伍是否整齐(如下图)。 　　 <img border="0" alt="" src="/source/bzoj/2190/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTAuanBn.jpg"/> 　　现在，C君希望你告诉他队伍整齐时能看到的学生人数。</p></div>
 
 # Input
 

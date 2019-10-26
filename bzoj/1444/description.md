@@ -1,16 +1,16 @@
 
 # Description
 
-<div class="content"><p><img alt="" border="0" src="source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img alt="" border="0" src="/source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMS5qcGc=.jpg"/></p></div>
 
 # Input
 
-<div class="content"><p><img alt="" border="0" src="source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMi5qcGc=.jpg"/></p>
+<div class="content"><p><img alt="" border="0" src="/source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMi5qcGc=.jpg"/></p>
 <p><span style="color: #ff0000"><span style="font-size: medium">注意 是0&lt;=P,</span></span> n , l, m≤ 10.</p></div>
 
 # Output
 
-<div class="content"><p><img alt="" border="0" src="source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMy5qcGc=.jpg"/></p></div>
+<div class="content"><p><img alt="" border="0" src="/source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfMy5qcGc=.jpg"/></p></div>
 
 # Sample Input
 
@@ -44,7 +44,7 @@ output 2<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" border="0" src="source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfNi5qcGc=.jpg"/> </p><p></p></div>
+<div class="content"><p></p><p><img alt="" border="0" src="/source/bzoj/1444/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDRfNi5qcGc=.jpg"/> </p><p></p></div>
 
 # Source
 

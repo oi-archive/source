@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div><span style="font-size: medium">Alice和Bob在如上图的棋盘中移动一个同一个棋子，轮流行动，Alice先手。每次可以上下左右移动，不能撞障碍，不能走已经走过的格子。不能行动的人就输了。对于每个起始位置，判断先手是否必胜。</span></div>
-<div><span style="font-size: medium"><img height="276" width="444" alt="" src="source/bzoj/3078/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8yMigxKS5qcGc=.jpg"/></span></div></div>
+<div><span style="font-size: medium"><img height="276" width="444" alt="" src="/source/bzoj/3078/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8yMigxKS5qcGc=.jpg"/></span></div></div>
 
 # Input
 

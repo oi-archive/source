@@ -41,7 +41,7 @@
 # Hint
 
 <div class="content"><p></p><div style="text-indent: 24pt"></div><br/>
-<div style="text-indent: 24pt"><span style="font-size: 12pt"><img height="251" width="291" alt="" src="source/bzoj/2349/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9iLmpwZw==.jpg"/></span></div><br/>
+<div style="text-indent: 24pt"><span style="font-size: 12pt"><img height="251" width="291" alt="" src="/source/bzoj/2349/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi9iLmpwZw==.jpg"/></span></div><br/>
 <div style="text-indent: 24pt"><span style="font-size: 12pt">水平的线段总长度为</span><span style="font-size: 12pt">4/3+8/3=4</span><span style="font-size: 12pt">，垂直的线段总长度为</span><span style="font-size: 12pt">3+2+1=6</span><span style="font-size: 12pt">。总长度为</span><span style="font-size: 12pt">4+6=10</span><span style="font-size: 12pt">。</span></div><p></p></div>
 
 # Source

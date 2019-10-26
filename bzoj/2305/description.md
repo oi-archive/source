@@ -12,7 +12,7 @@
 <div>R。每一步的结果都在下图中展现。最终B 获胜。但如果B 在最后一步猜了S而不是R，他就</div>
 <div>输了。</div>
 <div></div>
-<p><img height="162" alt="" width="782" src="source/bzoj/2305/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzA1LnBuZw==.png"/></p>
+<p><img height="162" alt="" width="782" src="/source/bzoj/2305/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzA1LnBuZw==.png"/></p>
 <p></p>
 <p></p>
 <div>Aidin 是猜单词游戏迷。他相信，如果给定的语料库足够大，且其中的单词相对好，那么玩</div>

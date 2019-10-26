@@ -3,7 +3,7 @@
 
 <div class="content"><div>操作有<span>3种：</span></div>
 <div><span style="font-size: 12pt"> </span></div>
-<p><img height="112" alt="" width="629" src="source/bzoj/3283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwOC8xMTEuanBn.jpg"/></p></div>
+<p><img height="112" alt="" width="629" src="/source/bzoj/3283/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwOC8xMTEuanBn.jpg"/></p></div>
 
 # Input
 

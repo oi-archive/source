@@ -66,7 +66,7 @@ No</span></div>
 # Hint
 
 <div class="content"><p></p><p><span style="font-size: medium">第一个例子有5个城市，所有可能出现的道路均存在。从城市1到城市5一共有5条简单路</span></p><br/>
-<p><span style="font-size: medium"><img width="447" height="216" alt="" src="source/bzoj/1073/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xKDQpLnBuZw==.png"/><br/><br/>
+<p><span style="font-size: medium"><img width="447" height="216" alt="" src="/source/bzoj/1073/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xKDQpLnBuZw==.png"/><br/><br/>
 </span></p><p></p></div>
 
 # Source

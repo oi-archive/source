@@ -14,7 +14,7 @@
 </ul>
 <div class="p"><!----></div>
 <div class="p"><!----></div>
-<p><img alt="" src="source/bzoj/2268/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOV8xLnBuZw==.png"/></p>
+<p><img alt="" src="/source/bzoj/2268/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOV8xLnBuZw==.png"/></p>
 <p></p>
 <div>Wormly 是一条虫子，它的身体有b个球和L条腿。任何时候，它的腿总是在某个球的下方，并且每个球下方至多一条腿。</div>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span lang="EN-US"><font face="Calibri">Wormly </font></span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">想要过桥。这个桥由本来由</span><span lang="EN-US"><font face="Calibri">n</font></span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">块板子组成，但有的板子不见了。</span></font></p>

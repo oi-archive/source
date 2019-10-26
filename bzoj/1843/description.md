@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1843/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDMuanBn.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1843/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4NDMuanBn.jpg"/> 
 
 
 給定一個戰場，金字塔，密室的大小資料，還有戰場內每一個方格的地形高度，

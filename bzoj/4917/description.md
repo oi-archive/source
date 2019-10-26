@@ -11,7 +11,7 @@
 <div>    t = t + (t &lt;&lt; 16);</div>
 <div>    return t;</div>
 <div>}</div>
-<div><img src="source/bzoj/4917/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNi9waWNBLmpwZw==.jpg" width="720" height="247" alt=""/></div>
+<div><img src="/source/bzoj/4917/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNi9waWNBLmpwZw==.jpg" width="720" height="247" alt=""/></div>
 <div>小Q发现这个函数非常不靠谱，对于任意的t，他可以随手构出个数字v使得Hash(v)=t。</div>
 <div>小Q现在想考考你，他将给出Q个t，你需要构造出满足条件的v。</div></div>
 

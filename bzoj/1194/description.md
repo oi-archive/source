@@ -20,7 +20,7 @@
 <div>且都是0到k-1（包含0和k-1）之间的整数，且咒语机a<sub>2</sub>是咒语机a<sub>1</sub>的升级，咒语机a<sub>3</sub>是咒语机a<sub>2</sub>的升级...，咒语</div>
 <div>机a<sub>t</sub>是咒语机a<sub>t-1</sub>的升级。你想远离灾难与不幸吗？你想从今以后沐浴幸福的阳光吗？请打开你的潘多拉之盒吧。</div>
 <div>不过在拱形它之前，你先得计算一下宝盒上最长的升级序列。</div>
-<div><img src="source/bzoj/1194/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDYpLnBuZw==.png" width="427" height="195" alt=""/></div></div>
+<div><img src="/source/bzoj/1194/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDYpLnBuZw==.png" width="427" height="195" alt=""/></div></div>
 
 # Input
 

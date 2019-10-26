@@ -43,7 +43,7 @@
 
 # Hint
 
-<div class="content"><p>  对于100%, N &lt; = 128<br/>
+<div class="content"><p>对于100%, N &lt; = 128<br/>
 </p></div>
 
 # Source

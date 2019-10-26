@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="393" alt="" width="787" src="source/bzoj/3123/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDMpLmpwZw==.jpg"/></p>
+<div class="content"><p><img height="393" alt="" width="787" src="/source/bzoj/3123/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDMpLmpwZw==.jpg"/></p>
 <p></p></div>
 
 # Input
@@ -46,7 +46,7 @@ Q 9 2 5 Q 6 1 6 <br/>
 <div class="content"><p></p><p><span style="font-size: medium"><br/><br/>
 对于第一个操作 Q 8 7 3，此时 lastans=0，所以真实操作为Q 8^0 7^0 3^0，也即Q 8 7 3。点8到点7的路径上一共有5个点，其权值为4 1 1 2 4。这些权值中，第三小的为 2，输出 2，lastans变为2。对于第二个操作 Q 3 5 1 ，此时lastans=2，所以真实操作为Q 3^2 5^2 1^2 ，也即Q 1 7 3。点1到点7的路径上一共有4个点，其权值为 1 1 2 4 。这些权值中，第三小的为2，输出2，lastans变为 2。之后的操作类似。 <br/><br/>
  <br/><br/>
-<img height="681" alt="" width="696" src="source/bzoj/3123/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDQpLmpwZw==.jpg"/></span></p><p></p></div>
+<img height="681" alt="" width="696" src="/source/bzoj/3123/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xKDQpLmpwZw==.jpg"/></span></p><p></p></div>
 
 # Source
 

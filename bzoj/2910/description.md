@@ -8,7 +8,7 @@
 <div style="text-indent: 21pt"><span style="font-size: medium"><span style="color: black">3.</span><span style="color: black">交换任意个row segment中的任意两行</span></span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium"><span style="color: black">4.</span><span style="color: black">交换任意两个row segments或column segments</span></span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium"><span style="color: black">5.1~9</span><span style="color: black">的数字作一个置换</span></span></div>
-<p><img height="252" width="315" alt="" src="source/bzoj/2910/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMS5qcGc=.jpg"/></p></div>
+<p><img height="252" width="315" alt="" src="/source/bzoj/2910/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMS5qcGc=.jpg"/></p></div>
 
 # Input
 

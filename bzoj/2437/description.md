@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="959" alt="" width="695" src="source/bzoj/2437/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMC8xMS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img height="959" alt="" width="695" src="/source/bzoj/2437/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMC8xMS5qcGc=.jpg"/></p></div>
 
 # Input
 
@@ -68,7 +68,7 @@ XXXO <br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="600" alt="" width="537" src="source/bzoj/2437/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMC8yMi5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="600" alt="" width="537" src="/source/bzoj/2437/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMC8yMi5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

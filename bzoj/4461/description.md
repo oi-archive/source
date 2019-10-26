@@ -3,7 +3,7 @@
 
 <div class="content"><p>现在富裕的家庭都有了自己的别墅，别墅的院子往往大家选择铺上黑白两色的地砖。如何铺<br/>
 地砖是很有学问的，因为这涉及到美学方面的问题。怎样铺是美的呢？先看下面两组： <br/>
- <img width="333" height="328" alt="" src="source/bzoj/4461/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMi5wbmc=.png"/><br/>
+ <img width="333" height="328" alt="" src="/source/bzoj/4461/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMi5wbmc=.png"/><br/>
 Figure 1 中的就被人们认定为比较美丽的，而 Figure 2 中的铺法则是不美丽的了。因为人<br/>
 们认为，如果出现一块 2*2 的区域里，只有一种颜色，那这就是不美丽的，反之则是美丽的。 <br/>
 现在，小 G 的公司拿到了一个任务，一块 N*M 的院子必须铺上地砖。爱美之心人皆有之，主<br/>

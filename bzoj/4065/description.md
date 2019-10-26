@@ -8,7 +8,7 @@
 <div>Bitthew喜欢焊接计算机的硬件设备。他拿出了来自两个不同厂家的显卡，两个显卡拥有相同数量的插座，他决定将每个Bitotronics卡上的插座与3D-Bytes卡上的插座用电缆一一相连。他得到的装置如图：</div>
 <div> </div>
 <div>Bitthew想要从装置中获得出最大的性能。为了实现这个目标，他想要找到一条由电线和电缆组成的路径来维护电信号。这条路径应该访问每个节点恰好一次，且这条路径的起始节点和终止节点应该在同一个节点。请你帮助Bitthew检查一下现在的装置是否能找到这样的路径。</div>
-<div><img src="source/bzoj/4065/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS9LLmpwZw==.jpg" width="244" height="221" alt=""/></div></div>
+<div><img src="/source/bzoj/4065/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS9LLmpwZw==.jpg" width="244" height="221" alt=""/></div></div>
 
 # Input
 

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium;">有一堆管道，还有一个蜘蛛Willy，如下图所示。所有管道的是上端开口，下端封底，直径都是1cm，连接两个管道的连接容量无限，但体积可以忽略不计。</span></p>
-<p><span style="font-size: medium;"> <img alt="" border="0" src="source/bzoj/1092/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTIvMi5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium;"> <img alt="" border="0" src="/source/bzoj/1092/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTIvMi5qcGc=.jpg"/> </span></p>
 <p><span style="font-size: medium;">在第一个管道上方有一个水源，从中有水不断往下流，速度为每秒0.25 cm3。由于管道横截面积为0.25 cm3，所以单给一个管道注水时水面每秒上升1cm。根据物理知识，在前2秒中，水注如左边的管道底部，第3~5秒时注入右边的管道，第6~9秒同时注入两个管道（虽然流量不变，但是由于同时给两个管道注水，因此水面上升的速度仅为每秒0.5cm），接触到蜘蛛。 给出管道和管道之间连接的位置，以及蜘蛛Willy的位置，求水面接触到Willy的时间。假设蜘蛛的实际位置比给出的略高一点，因此如果蜘蛛在左边管道的n=4的位置，答案应该是5秒。因为前两秒后水面虽然看起来接触到了Willy，但实际上比Willy略低一点。</span></p></div>
 
 # Input

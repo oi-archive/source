@@ -5,7 +5,7 @@
 <div>然而我们知道，高考报志愿系统是需要密码的，而小y根本没有在意自己的密码，为了挑战人生，他决定自己把密码找出来。</div>
 <div>不知道为什么，小y认为自己的密码是一个大小不超过n的正整数，且满足一个奇怪的性质。</div>
 <div>设这个正整数各个数位上的数字按数值大小从小到大依次为a_1,a_2,…,a_m，那么就有</div>
-<div><img src="source/bzoj/4667/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yMjIyLnBuZw==.png" width="294" height="69" alt=""/></div>
+<div><img src="/source/bzoj/4667/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yMjIyLnBuZw==.png" width="294" height="69" alt=""/></div>
 <div>其中k和Limi是给定的常数。现在给定n、k、Limi，求有多少种可能的密码。</div>
 <div></div>
 <p></p></div>

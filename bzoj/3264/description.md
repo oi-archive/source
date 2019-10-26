@@ -3,10 +3,10 @@
 
 <div class="content"><div>在一个阴冷的夜晚，聪明的小Y回到了三国时代，这是他梦寐以求想要到达的时代。他来到了一个名曰三重镇的地方，在这个小镇的门口，他看见了首长。首长要求他给出进入小镇的通关密码。</div>
 <div>通关密码由两部分组成，由于一些诡异的原因，它们的计算都依赖于一个函数F.</div>
-<div><img width="631" height="135" alt="" src="source/bzoj/3264/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy8xLmpwZw==.jpg"/></div>
+<div><img width="631" height="135" alt="" src="/source/bzoj/3264/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy8xLmpwZw==.jpg"/></div>
 <div>通关密码的第一部分是一个函数G。</div>
 <div>给定函数G(a,b,n,p)，定义如下：</div>
-<div><img width="891" height="108" alt="" src="source/bzoj/3264/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy8yLmpwZw==.jpg"/></div>
+<div><img width="891" height="108" alt="" src="/source/bzoj/3264/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy8yLmpwZw==.jpg"/></div>
 <div>
 <div>通关密码的第二部分是一个函数H.</div>
 <div>给定函数H(n),定义如下：</div>

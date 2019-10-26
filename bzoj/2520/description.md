@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div style="margin: 6pt 0cm 0pt; text-indent: 21pt; line-height: 150%"><span style="font-size: medium">扫雷是陆军战场上一项重要的而危险的任务。为此，AL军工厂专门研制了一种扫雷机器人。这种机器人是专门针对直线形雷阵设计的。所谓直线形雷阵，就是所有的地雷都埋在同一条直线上。例如图 1中黑点表示的雷阵就是直线形雷阵。</span></div>
-<div style="margin: 6pt 0cm 0pt; text-indent: 21pt; line-height: 150%"><span style="font-size: medium"><img alt="" src="source/bzoj/2520/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMS8xKDUpLmpwZw==.jpg"/></span></div>
+<div style="margin: 6pt 0cm 0pt; text-indent: 21pt; line-height: 150%"><span style="font-size: medium"><img alt="" src="/source/bzoj/2520/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMS8xKDUpLmpwZw==.jpg"/></span></div>
 <div align="center"></div>
 <div style="margin: 6pt 0cm 12pt; text-indent: 21pt; line-height: 150%"><span style="font-size: medium">AL军工厂生产的扫雷机器人的排雷方法只有一种，那就是安全引爆。每次，机器人在所有探测到的地雷中选择一颗引爆。被引爆的地雷会接连引爆不超过它的爆炸威力范围的其它地雷，这些被间接引爆的地雷还能引起进一步的连锁爆炸。例如图1中，用一个圆的半径表示地雷的爆炸威力。如果引爆2号雷，1、2号雷都会爆炸；如果引爆3号雷，4颗地雷全都会爆炸；而如果引爆4号雷，那就只有它一颗爆炸。</span></div>
 <div style="margin: 6pt 0cm 12pt; text-indent: 21pt; line-height: 150%"><span style="font-size: medium">虽然是机器人，但引爆也是危险的。所以，扫雷机器人的订购人希望机器人能在实战中采取引爆次数尽可能少的排雷方案，即引爆次数尽可能少使得所有地雷都爆炸。于是AL军工厂想就此方面对机器人进行测试。为了评估机器人的表现，AL军工厂想知道在一个直线形雷阵（即输入的）完成排雷，至少要进行多少次引爆，至多要进行多少次引爆。现在，请你帮助AL军工厂回答这个问题。</span></div></div>

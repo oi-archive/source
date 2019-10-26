@@ -59,7 +59,7 @@ Q 3</span></div>
 <div>Q 4</div><br/>
 <div>R 2 1</div><br/>
 <div>Q 2</div><br/>
-<div><img src="source/bzoj/3847/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9DNTAzLTEwMDgtMS5wbmc=.png" width="707" height="60" alt=""/></div><br/>
+<div><img src="/source/bzoj/3847/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9DNTAzLTEwMDgtMS5wbmc=.png" width="707" height="60" alt=""/></div><br/>
 <p></p><p></p></div>
 
 # Source

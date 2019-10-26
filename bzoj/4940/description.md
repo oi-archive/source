@@ -11,7 +11,7 @@
 <div>都只是遥不可及的宝石</div>
 <div>即便如此，人们啊，</div>
 <div>获得幸福吧！</div>
-<div> <img src="source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xLnBuZw==.png" width="465" height="351" alt=""/></div>
+<div> <img src="/source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xLnBuZw==.png" width="465" height="351" alt=""/></div>
 <div>世界将在7月20日终结</div>
 <div>世界回归天空的日子</div>
 <div>万物被天空侵染的日子</div>
@@ -20,14 +20,14 @@
 <div>世界的极限</div>
 <div>世界的尽头</div>
 <div>世界的终结</div>
-<div> <img src="source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yLnBuZw==.png" width="465" height="351" alt=""/></div>
+<div> <img src="/source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yLnBuZw==.png" width="465" height="351" alt=""/></div>
 <div>你看…那就是极限…最尽头的天空</div>
 <div>如今，已无应该之事了如今，已无忘却之物了</div>
 <div>不需要的话语</div>
-<div> <img src="source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zLnBuZw==.png" width="465" height="350" alt=""/></div>
+<div> <img src="/source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zLnBuZw==.png" width="465" height="350" alt=""/></div>
 <div>告别了永不相交的平行，我被吸进了…</div>
 <div>垂直下落的世界</div>
-<div> <img src="source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80LnBuZw==.png" width="465" height="349" alt=""/></div>
+<div> <img src="/source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80LnBuZw==.png" width="465" height="349" alt=""/></div>
 <div>虽哭亦喜</div>
 <div>虽悲亦喜</div>
 <div>各种感情混在一起...</div>
@@ -53,7 +53,7 @@
 <div>风正凉</div>
 <div>在我怀中，温暖的，</div>
 <div>橘希实香</div>
-<div> <img src="source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC81LnBuZw==.png" width="465" height="350" alt=""/></div>
+<div> <img src="/source/bzoj/4940/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC81LnBuZw==.png" width="465" height="350" alt=""/></div>
 <div>她在我的怀中...静静地合上了双眼</div>
 <div>然后我也...</div>
 <div>静静地合上了双眼</div>

@@ -5,11 +5,11 @@
 <div>镜子的世界里会有快乐的事情吗？</div>
 <div>镜子世界的我，像我一样摆着一副无聊的表情</div>
 <div>--出自《镜之国的爱丽丝》</div>
-<div> <img src="source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xKDEpLnBuZw==.png" width="465" height="350" alt=""/></div>
+<div> <img src="/source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8xKDEpLnBuZw==.png" width="465" height="350" alt=""/></div>
 <div>两个少女的战斗故事</div>
 <div>文学代表强烈的意志，化学是对抗物理世界的力量</div>
 <div>她们只有这两样对抗现实的武器</div>
-<div> <img src="source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yKDEpLnBuZw==.png" width="465" height="348" alt=""/></div>
+<div> <img src="/source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yKDEpLnBuZw==.png" width="465" height="348" alt=""/></div>
 <div>啊，勒布雷！</div>
 <div>我今天要登上乳白色的月球了！</div>
 <div>不需要发明是机器，真是如此，我要一跃而出！</div>
@@ -40,7 +40,7 @@
 <div>对不起，我该走了，我不能让人久等！</div>
 <div>你们看...月亮来迎接我了！</div>
 <div>Mon panache！</div>
-<div> <img src="source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zKDEpLnBuZw==.png" width="465" height="350" alt=""/></div>
+<div> <img src="/source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zKDEpLnBuZw==.png" width="465" height="350" alt=""/></div>
 <div>我往空中踏出一步</div>
 <div>两人拼命地想要拉住我</div>
 <div>但是我往空中踏出一步</div>
@@ -53,7 +53,7 @@
 <div>没关系...</div>
 <div>我在你们身边！</div>
 <div>Sora！</div>
-<div> <img src="source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80KDEpLnBuZw==.png" width="465" height="348" alt=""/></div>
+<div> <img src="/source/bzoj/4941/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80KDEpLnBuZw==.png" width="465" height="348" alt=""/></div>
 <div>我完全投身于空中</div>
 <div>我的身体瞬间从空中向地面落去</div>
 <div>我紧紧地握住两人手腕，拉着两人</div>

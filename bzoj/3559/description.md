@@ -4,7 +4,7 @@
 <div class="content"><div></div>
 <div></div>
 <p class="MsoNormal"></p>
-<p><img width="1553" height="665" src="source/bzoj/3559/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS9iYWNrLlBORw==.PNG" alt=""/></p></div>
+<p><img width="1553" height="665" src="/source/bzoj/3559/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS9iYWNrLlBORw==.PNG" alt=""/></p></div>
 
 # Input
 

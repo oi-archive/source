@@ -1,12 +1,12 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMS5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMS5qcGc=.jpg"/>
 </div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMi5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMi5qcGc=.jpg"/>
 </div>
 
 # Output
@@ -32,7 +32,7 @@
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMy5qcGc=.jpg"/><br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1449/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NDlfMy5qcGc=.jpg"/><br/>
 </p></div>
 
 # Source

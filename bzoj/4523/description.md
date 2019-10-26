@@ -3,7 +3,7 @@
 
 <div class="content"><p> 路由表查找是路由器在转发IP报文时的重要环节。通常路由表中的表项由目的地址、掩码、下一</p>
 <div>跳（Next Hop）地址和其他辅助信息组成。例如：</div>
-<div><img width="352" height="175" alt="" src="source/bzoj/4523/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xKDEpLnBuZw==.png"/></div>
+<div><img width="352" height="175" alt="" src="/source/bzoj/4523/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xKDEpLnBuZw==.png"/></div>
 <div>当路由器收到一个IP报文时，会将报文中的目的IP地址与路由表中的表项逐条进行比较，选</div>
 <div>择匹配且最明确的表项，将报文转发给该表项中指定的下一跳。</div>
 <div>匹配的过程是将报文中的目的地址和表项中的目的地址分别转为二进制串，再查看表项中的掩</div>
@@ -16,7 +16,7 @@
 <div></div>
 <div>我们以报文的目的地址为8.8.8.8为例，说明其在上述路由表的匹配过程。</div>
 <div></div>
-<div><img width="455" height="179" alt="" src="source/bzoj/4523/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yKDEpLnBuZw==.png"/></div>
+<div><img width="455" height="179" alt="" src="/source/bzoj/4523/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yKDEpLnBuZw==.png"/></div>
 <div>上表将地址均转为二进制串，并用红色标记出待比较的位（由掩码长度决定）。将红色部分与</div>
 <div>报文中的目的地址比较，可知0.0.0.0/1、8.8.8.0/24、8.8.8.8、32均能够匹配。路由器从中选取掩</div>
 <div>码长度最长（/32）的表项8.8.8.8/32，将报文转发给其对应的下一跳地址192.168.1.253。</div>

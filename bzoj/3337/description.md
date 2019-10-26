@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">Jry最近做(屠)了很多数据结构题，所以想 BS你，他希望你能实现一种数据结构维护一个序列：</span></p>
-<p><span style="font-size: medium"><img height="579" width="747" alt="" src="source/bzoj/3337/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi9hYS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="579" width="747" alt="" src="/source/bzoj/3337/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi9hYS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

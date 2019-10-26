@@ -15,7 +15,7 @@
 <div>能接住它的所有盘子中，权值第 k_i 小的那个盘子，每个盘子可重复使用（没有使用次数</div>
 <div>的上限：一个盘子接完一个水果后，后面还可继续接其他水果，只要它是水</div>
 <div>果路径的子路径）。幽香认为这个游戏很难，你能轻松解决给她看吗？ </div>
-<div><img src="source/bzoj/4009/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9hYWFhLlBORw==.PNG" width="395" height="212" alt=""/></div>
+<div><img src="/source/bzoj/4009/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9hYWFhLlBORw==.PNG" width="395" height="212" alt=""/></div>
 <div></div></div>
 
 # Input

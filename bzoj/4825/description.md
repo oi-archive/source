@@ -22,7 +22,7 @@
 <div>4. 单旋删除最小值：先执行 2 号操作,然后把根删除。由于 2 号操作之后,根没有左子树,所以直接切断根和右子</div>
 <div>树的联系即可（具体见样例解释）。 操作代价同 2 号操 作。</div>
 <div>5. 单旋删除最大值：先执行 3 号操作,然后把根删除。 操作代价同 3 号操作。</div>
-<div><img src="source/bzoj/4825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djEuanBn.jpg" width="452" height="220" alt=""/></div>
+<div><img src="/source/bzoj/4825/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djEuanBn.jpg" width="452" height="220" alt=""/></div>
 <div></div>
 <div>对于不是 H 国的人，你可能需要了解一些 spaly 的知识，才能完成国王的任务：</div>
 <div></div>

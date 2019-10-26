@@ -2,12 +2,12 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">Triangle War is a two-player game played on the following triangular grid: </span></p>
-<p><span style="font-size: medium"><img height="179" width="192" alt="" src="source/bzoj/2573/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDkpLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="179" width="192" alt="" src="/source/bzoj/2573/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDkpLmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium">Two players, A and B, take turns filling in any dotted line connecting two dots, with A starting first. Once a line is filled, it cannot be filled again. If the line filled by a player completes one or more triangles, she owns the completed triangles and she is awarded another turn (i.e. the opponent skips a turn). The game ends after all dotted lines are filled in, and the player with the most triangles wins the game. The difference in the number of triangles owned by the two players is not important. </span></p>
 <p><span style="font-size: medium"><br/>
 For example, if A fills in the line between 2 and 5 in the partial game on the left below: </span></p>
 <p></p>
-<p><span style="font-size: medium"><img height="180" width="460" alt="" src="source/bzoj/2573/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDUpLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="180" width="460" alt="" src="/source/bzoj/2573/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDUpLmpwZw==.jpg"/></span></p>
 <p></p>
 <p><span style="font-size: medium">Then, she owns the triangle labelled A and takes another turn to fill in the line between 3 and 5. B can now own 3 triangles (if he wishes) by filling in the line between 2 and 3, then the one between 5 and 6, and finally the one between 6 and 9. B would then make one more move before it is A&#39;s turn again. </span></p>
 <p><span style="font-size: medium"><br/>

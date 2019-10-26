@@ -2,13 +2,13 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium"> The cows keep getting in trouble by taking rides on Farmer John&#39;s tractor, so he has hidden the keys to the tractor in a fancy new safe in his office. Undeterred, the cows have vowed to try and break into this safe. The safe is protected by a rather complicated passcode system. The passcode entry system is arranged as a rooted tree of N (1 &lt;= N &lt;= 20,000) nodes, each of which requires a digit between 0 and 9. The nodes are indexed 0..N-1. The only information that the cows have is that certain sequences of length 5 do not occur along particular paths upwards through the tree. For instance, suppose the tree is the following (rooted at A): </span></p>
-<p><span style="font-size: medium"><img height="106" width="208" alt="" src="source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="106" width="208" alt="" src="/source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8xLmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium"> The cows might know that the sequence 01234 does not occur starting at F, and that the sequence 91234 does not occur starting at E. This information rules out 19 possible passcodes: all those of the form </span></p>
-<p><span style="font-size: medium"><img height="106" width="208" alt="" src="source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8yLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="106" width="208" alt="" src="/source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8yLmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium">or</span></p>
-<p><span style="font-size: medium"> <img height="106" width="208" alt="" src="source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8zLmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"> <img height="106" width="208" alt="" src="/source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC8zLmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium"> which gives 19 once we account for the fact that </span></p>
-<p><span style="font-size: medium"><img height="106" width="208" alt="" src="source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC80LmpwZw==.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="106" width="208" alt="" src="/source/bzoj/3537/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC80LmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium">appears twice. Given M (1 &lt;= M &lt;= 50,000) length-5 sequences, together with their starting nodes in the tree, help the cows figure out how many passcodes have been ruled out. You should compute your answer modulo 1234567. </span></p>
 <p></p>
 <p></p>

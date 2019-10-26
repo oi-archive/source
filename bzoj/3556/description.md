@@ -12,7 +12,7 @@
 <div>第i个插线板的插头所差的插线板（即ai在树中的父亲），1代表火线，2代表零线，3代表地线，则整个网络的电阻可以用</div>
 <div>R(ai,fi,x,y)(x,y∈{1,2,3})来描述，它代表ai的x线与fi的y线之间的电阻值（在这个数学模型中，Allison认为火线和领先也是</div>
 <div>可能连接并且产生电阻的）下面是一个例子： </div>
-<div> <img src="source/bzoj/3556/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xMTExLmpwZw==.jpg" width="450" height="411" alt=""/></div>
+<div> <img src="/source/bzoj/3556/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xMTExLmpwZw==.jpg" width="450" height="411" alt=""/></div>
 <div>由于时间的推移，导线与导线之间的电阻还可能发生变化。现在，Allison想知道在插线板树形电路中，当前时刻ai插线板的x线和</div>
 <div>aj插线板的y线之间的电阻式多少。规定插线板的树根节点不再插向其他插线板，且编号为1。 </div></div>
 

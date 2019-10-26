@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">两个d 维向量A=[a1,a2,...,ad]与B=[b1,b2,...,bd]的内积为其相对应维度的权值的乘积和，即：</span></p>
-<p><span style="font-size: medium"><img height="61" alt="" width="308" src="source/bzoj/3243/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8yMigxKS5qcGc=.jpg"/></span></p>
+<p><span style="font-size: medium"><img height="61" alt="" width="308" src="/source/bzoj/3243/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNy8yMigxKS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium">现有 n 个d 维向量x1,...,xn ，小喵喵想知道是否存在两个向量的内积为k的倍数。请帮助她解决这个问题</span></p></div>
 
 # Input

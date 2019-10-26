@@ -3,7 +3,7 @@
 
 <div class="content"><div>Peter是Byteland机场的经理。他的工作就是优化登机过程。Byteland的飞机有s排，编号1</div>
 <div>到s。每排6个座位，标号A到F。</div>
-<div><img src="source/bzoj/4493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSgzKS5wbmc=.png" width="577" height="214" alt=""/></div>
+<div><img src="/source/bzoj/4493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSgzKS5wbmc=.png" width="577" height="214" alt=""/></div>
 <div>有n个乘客，他们排成队伍，一个个登机。如果第i个人坐在ri排，那么他登机的难度相当于</div>
 <div>在他之前登机并且坐在第1...ri-1排的人的人数。登机总难度相当于所有乘客的难度的总和。</div>
 <div>例如，如果有10个乘客，并且他们的座位是6A,4B,2E,5F,2A,3F,1C,10E,8B,5A,按排队顺序，</div>

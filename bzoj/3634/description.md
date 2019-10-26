@@ -4,7 +4,7 @@
 <div class="content"><p><span style="font-size: medium">给你一个仙人掌图（每条边最多只属于一个简单环），你需要把这个图的点<br/>
 集分成大小相等的K部份，并且每部分中的点是相互连通的。<br/>
 下图是一个１５个点分成３部分的例子。</span></p>
-<p><span style="font-size: medium"><img height="240" width="200" alt="" src="source/bzoj/3634/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNi8xMSgyKS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img height="240" width="200" alt="" src="/source/bzoj/3634/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNi8xMSgyKS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

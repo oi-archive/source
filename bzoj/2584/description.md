@@ -52,7 +52,7 @@
 <div class="content"><p></p><p>在 Will 给出的移动方案的第 3轮中，编号为 4的针叶向左移动会被编号为 5<br/><br/>
 的针叶阻碍。</p><br/>
 <p></p><br/>
-<p><img height="375" alt="" width="770" src="source/bzoj/2584/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8xLmpwZw==.jpg"/></p><p></p></div>
+<p><img height="375" alt="" width="770" src="/source/bzoj/2584/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8xLmpwZw==.jpg"/></p><p></p></div>
 
 # Source
 

@@ -2,10 +2,10 @@
 # Description
 
 <div class="content"><p><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">已知</span><span lang="EN-US" style="line-height: 150%; text-indent: 21pt;">N</span><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">个正整数：</span><span lang="EN-US" style="line-height: 150%; text-indent: 21pt;">A1</span><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">、</span><span lang="EN-US" style="line-height: 150%; text-indent: 21pt;">A2</span><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">、……、</span><span lang="EN-US" style="line-height: 150%; text-indent: 21pt;">An </span><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">。今要将它们分成</span><span lang="EN-US" style="line-height: 150%; text-indent: 21pt;">M</span><span style="line-height: 150%; text-indent: 21pt; font-family: 宋体;">组，使得各组数据的数值和最平均，即各组的均方差最小。均方差公式如下：</span></p>
-<p><img src="source/bzoj/2428/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMC9hYSgxKS5qcGc=.jpg" width="390" height="94" alt=""/>,<span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;
+<p><img src="/source/bzoj/2428/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMC9hYSgxKS5qcGc=.jpg" width="390" height="94" alt=""/>,<span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;
 mso-hansi-font-family:&#34;Times New Roman&#34;">其中</span><span style="font-family:
 宋体">σ</span><span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;
-mso-hansi-font-family:&#34;Times New Roman&#34;">为均方差，<img src="source/bzoj/2428/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMC9iYi5qcGc=.jpg" width="34" height="46" alt=""/></span><span style="font-family:宋体;mso-ascii-font-family:
+mso-hansi-font-family:&#34;Times New Roman&#34;">为均方差，<img src="/source/bzoj/2428/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMC9iYi5qcGc=.jpg" width="34" height="46" alt=""/></span><span style="font-family:宋体;mso-ascii-font-family:
 &#34;Times New Roman&#34;;mso-hansi-font-family:&#34;Times New Roman&#34;">是各组数据和的平均值，</span><span lang="EN-US">x<sub>i</sub></span><span style="font-family:宋体;mso-ascii-font-family:
 &#34;Times New Roman&#34;;mso-hansi-font-family:&#34;Times New Roman&#34;">为第</span><span lang="EN-US">i</span><span style="font-family:宋体;mso-ascii-font-family:&#34;Times New Roman&#34;;
 mso-hansi-font-family:&#34;Times New Roman&#34;">组数据的数值和。</span></p>

@@ -4,7 +4,7 @@
 <div class="content"><div style="margin: 0cm 0cm 0pt 0.5pt; text-indent: -0.5pt"><span style="font-size: 12pt">有个国家，它的所有城市如下图被公路连成了一个环，依次编号为</span><span style="font-size: 12pt">1..N</span><span style="font-size: 12pt">。并且在这个环内有一些笔直的公路，每条公路连接两个城市。为了不发生交通事故，任意两条公路不会在中途相交。为了使城市之间的交通更便利，城市间会建尽可能多的公路，但两个城市之间最多建一条公路。</span></div>
 <div style="margin: 0cm 0cm 0pt 0.5pt; text-indent: -0.5pt"></div>
 <div style="margin: 0cm 0cm 0pt 0.5pt; text-indent: -0.5pt"><span style="font-size: 12pt">    </span><span style="font-size: 12pt">现在因为有另一个国家想破坏这个国家的交通系统，所以我们需要在一些城市建堡垒，使每条公路都能被监督（在</span><span style="font-size: 12pt">i</span><span style="font-size: 12pt">城市建堡垒可以监督与</span><span style="font-size: 12pt">i</span><span style="font-size: 12pt">城市相邻的公路）。问你最少需要建多少个堡垒。</span></div>
-<p><img height="314" width="343" alt="" src="source/bzoj/2689/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYS5qcGc=.jpg"/></p></div>
+<p><img height="314" width="343" alt="" src="/source/bzoj/2689/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYS5qcGc=.jpg"/></p></div>
 
 # Input
 

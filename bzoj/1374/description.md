@@ -58,7 +58,7 @@ Cl,Cs
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1374/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNzRfMS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1374/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNzRfMS5qcGc=.jpg"/></p></div>
 
 # Source
 

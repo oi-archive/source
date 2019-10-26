@@ -51,7 +51,7 @@ output 2<br/>
 <div class="content"><p>对于第一个数据:<br/>
 (0, 0) -&gt; (1, 0) -&gt; (0, 1) -&gt; (1, 1) -&gt; (1, 0) -&gt;(2, 0) -&gt; (2, 1)<br/>
 <br/>
-<img border="0" src="source/bzoj/1353/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNTMuanBn.jpg"/><br/>
+<img border="0" src="/source/bzoj/1353/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNTMuanBn.jpg"/><br/>
 <br/>
 对于第二个数据:<br/>
 (0, 2) -&gt; (1, 2) -&gt; (1, 1) -&gt; (2, 1) -&gt; (2, 0) -&gt;<br/>

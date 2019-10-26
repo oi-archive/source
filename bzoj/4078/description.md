@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>定义集合S的价值D(S)为：</p>
-<p><img src="source/bzoj/4078/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi8yMi5KUEc=.JPG" width="307" height="85" alt=""/></p>
+<p><img src="/source/bzoj/4078/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi8yMi5KUEc=.JPG" width="307" height="85" alt=""/></p>
 <div> </div>
 <div>
 <div>现在给你n个元素，并给出其中任意两个元素之间的d(i,j)值</div>

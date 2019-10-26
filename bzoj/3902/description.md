@@ -7,7 +7,7 @@
 <div>一个单位立方体接触，要么与底接触）。</div>
 <div>你将得到这个立体图形的左视图 (Left View) 和主视图 (Front View)，求可能的立体图形数。</div>
 <div>下图对应了 n =4;m =5 的一个合法立体图形。</div>
-<div><img src="source/bzoj/3902/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9jY2MuUE5H.PNG" width="692" height="261" alt=""/></div>
+<div><img src="/source/bzoj/3902/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9jY2MuUE5H.PNG" width="692" height="261" alt=""/></div>
 <div></div>
 <p></p></div>
 

@@ -27,7 +27,7 @@
 
 # Hint
 
-<div class="content"><p></p><p>100%的数据： <img alt="" border="0" src="source/bzoj/2162/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNjEuanBn.jpg"/> 同一对暧昧关系不会在输入中出现多次。</p><p></p></div>
+<div class="content"><p></p><p>100%的数据： <img alt="" border="0" src="/source/bzoj/2162/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNjEuanBn.jpg"/> 同一对暧昧关系不会在输入中出现多次。</p><p></p></div>
 
 # Source
 

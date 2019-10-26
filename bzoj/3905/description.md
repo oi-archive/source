@@ -3,7 +3,7 @@
 
 <div class="content"><div>Nothing is more beautiful than square! So, given a grid of cells, each cell being black or white, it is reasonable to evaluate this grid’s beautifulness by the side length of its maximum continuous subsquare which fully consists of white cells.<br/>
 Now you’re given an N × N grid, and the cells are all black. You can paint some cells white. But other cells are broken in the sense that they cannot be paint white. For each integer i between 0 and N inclusive, you want to find the number of different painting schemes such that the beautifulness is exactly i. Two painting schemes are considered different if and only if some cells have different colors. Painting nothing is considered to be a scheme.</div>
-<div><img width="820" height="324" src="source/bzoj/3905/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy92MS5qcGc=.jpg" alt=""/><br/>
+<div><img width="820" height="324" src="/source/bzoj/3905/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy92MS5qcGc=.jpg" alt=""/><br/>
 For example, N = 3 and there are 4 broken cells as shouwn in Fig. J(a). There are 2 painting schemes for i=2 as shown in Fig. J(b) and J(c).<br/>
 You just need to output the answer modulo 10^9 + 7.</div>
 <div>给你一个n * n(n &lt;= 8)的棋盘，上面有一些格子必须是黑色，其它可以染<br/>

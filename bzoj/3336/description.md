@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="217" alt="" width="658" src="source/bzoj/3336/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMSg1KS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img height="217" alt="" width="658" src="/source/bzoj/3336/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMSg1KS5qcGc=.jpg"/></p></div>
 
 # Input
 
@@ -38,7 +38,7 @@ o表示白色<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="189" alt="" width="240" src="source/bzoj/3336/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMSg2KS5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="189" alt="" width="240" src="/source/bzoj/3336/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xMSg2KS5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

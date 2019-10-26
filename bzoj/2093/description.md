@@ -25,7 +25,7 @@
 # Sample Output
 
 <div class="content"><span class="sampledata">1 1 3 1 1<br/>
-<img border="0" src="source/bzoj/2093/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwOTMuanBn.jpg"/> <br/>
+<img border="0" src="/source/bzoj/2093/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwOTMuanBn.jpg"/> <br/>
 </span></div>
 
 # Hint

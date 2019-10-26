@@ -5,7 +5,7 @@
 <br/>
 Over the years, the inhabitants of Lineland have become very proficient in flattening pieces of land. Given a piece a land, they can remove rock quickly. They don&#39;t want to add rock for that may lead to an unstable landing strip. To minimize the amount of effort, however, they want to remove the least amount of rock necessary to reach their goal: a flat piece of land of length L. What is this minimum amount? Because of the low-dimensional nature of Lineland, the amount of rock that needs to be removed is measured as the total area of land above the place where the landing strip is placed, rather than the volume (so in the Figure below, the amount of land removed is given by the lightly shaded area). <br/>
 </span>
-<div align="center"><span style="font-size: medium"><img src="source/bzoj/2583/img/aHR0cDovL3Bvai5vcmcvaW1hZ2VzLzMxMjdfMS5qcGc=.jpg" alt=""/></span></div>
+<div align="center"><span style="font-size: medium"><img src="/source/bzoj/2583/img/aHR0cDovL3Bvai5vcmcvaW1hZ2VzLzMxMjdfMS5qcGc=.jpg" alt=""/></span></div>
 <span style="font-size: medium"><br/>
 </span></div>
 <p></p></div>

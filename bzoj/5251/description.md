@@ -28,7 +28,7 @@
 <div></div>
 <div>举例而言，2位导师T老师、F老师的战队人数上限分别都是1人；2位选手Zayid、DuckD分列第1、2名。</div>
 <div>那么下面3种志愿表及其对应的最优录取结果如表中所示：</div>
-<div><img src="source/bzoj/5251/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8xMTEoMSkuanBn.jpg" width="550" height="392" alt=""/></div>
+<div><img src="/source/bzoj/5251/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8xMTEoMSkuanBn.jpg" width="550" height="392" alt=""/></div>
 <div>可以证明，对于上面的志愿表，对应的方案都是唯一的最优录取结果。</div>
 <div>每个人都有一个自己的理想值si，表示第i位同学希望自己被第si或更高的志愿录取，如果没有，那么他就会非常沮丧。</div>
 <div></div>

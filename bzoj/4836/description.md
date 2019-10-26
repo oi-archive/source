@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>定义二元运算 opt 满足</div>
-<div><img src="source/bzoj/4836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC8xMTEuSlBH.JPG" width="306" height="83" alt=""/></div>
+<div><img src="/source/bzoj/4836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC8xMTEuSlBH.JPG" width="306" height="83" alt=""/></div>
 <div></div>
 <div>现在给定一个长为 n 的数列 a 和一个长为 m 的数列 b ，接下来有 q 次询问。每次询问给定一个数字 c </div>
 <div>你需要求出有多少对 (i, j) 使得 a_i  opt b_j=c 。</div>

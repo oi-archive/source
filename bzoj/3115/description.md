@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">一个化学家，他对化学的无比狂热使得他认为自己说的每一句话都应该由元素名称组成的，例如：“I Am CLaRa”（I是碘，Am是镅，C是碳，La镧，Ra是镭），“InTeRnAtIONAl”。但是有些词他是不能说的，例如“collegiate”, “programming” and “contest”。</span></p>
-<p><span style="font-size: medium"><img height="299" alt="" width="533" src="source/bzoj/3115/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xMS5qcGc=.jpg"/><br/>
+<p><span style="font-size: medium"><img height="299" alt="" width="533" src="/source/bzoj/3115/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNC8xMS5qcGc=.jpg"/><br/>
 现在给你一些单词，希望你确定这些单词是他是否能说，如果能输出YES，不能输出NO。</span></p></div>
 
 # Input

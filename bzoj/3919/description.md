@@ -36,7 +36,7 @@ S...</span></div>
 
 # Hint
 
-<div class="content"><p></p><div><img src="source/bzoj/3919/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9zLnBuZw==.png" width="265" height="222" alt=""/></div><br/>
+<div class="content"><p></p><div><img src="/source/bzoj/3919/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9zLnBuZw==.png" width="265" height="222" alt=""/></div><br/>
 <div>对于100%的数据 1 ≤ R ≤ 1000, 1 ≤ C ≤ 1000.</div><br/>
 <div>保证有解</div><br/>
 <p></p><p></p></div>

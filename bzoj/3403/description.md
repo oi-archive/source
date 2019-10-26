@@ -43,7 +43,7 @@ A R</span></div>
 
 # Hint
 
-<div class="content"><p></p><p><img height="364" width="269" alt="" src="source/bzoj/3403/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS9hZigyKS5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="364" width="269" alt="" src="/source/bzoj/3403/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS9hZigyKS5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

@@ -15,7 +15,7 @@
 <div>你可以认为上帝从“α”到“θ”一共创造了10^9次元素，或10^18次，或者干脆∞次。</div>
 <div></div>
 <div>一句话题意：</div>
-<div><img src="source/bzoj/3884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8xLnBuZw==.png" width="630" height="379" alt=""/></div>
+<div><img src="/source/bzoj/3884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMi8xLnBuZw==.png" width="630" height="379" alt=""/></div>
 <h2 style="text-align: left;">
 <div>
 <div></div>

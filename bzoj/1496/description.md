@@ -9,7 +9,7 @@
 <div>细微的变化也能导致它不符合模型。于是，摆在科学家面前的新问题诞生了：判断一个化石中的千年虫与理论模型</div>
 <div>的差距有多大？具体来说，就是根据一个千年虫化石的形态A，找到一个符合理论模型的形态B，使得B是最有可能</div>
 <div>在形成化石时变成形态A。</div>
-<p><img border="0" src="source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMS5qcGc=.jpg" alt=""/></p>
+<p><img border="0" src="/source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMS5qcGc=.jpg" alt=""/></p>
 <div>理论学家提出的“千年虫形态特征模型”如下（如上图所示）：躯体由头、尾、躯干、足四大部分构成。1.头，尾</div>
 <div>用一对平行线段表示。称平行于头、尾的方向为x方向；垂直于x的方向为y方向；2.在头尾之间有两条互不相交的</div>
 <div>折线段相连，他们与头、尾两条线段一起围成的区域称为躯干，两条折线段都满足以下条件：拐角均为钝角或者平</div>
@@ -17,7 +17,7 @@
 <div>一侧长出一条足，即一个上、下底平行于x方向的梯形或矩形，且其中远离躯干一侧的边垂直于x方向。注意：足不</div>
 <div>能退化成三角形（即底边的长度均大于零），躯干两侧足的数目可以不一样。（如下图，左边有4条足，右边有5条</div>
 <div>足）</div>
-<p><img border="0" src="source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMi5qcGc=.jpg" alt=""/></p>
+<p><img border="0" src="/source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMi5qcGc=.jpg" alt=""/></p>
 <div>可见，x-y直角坐标系内，躯干和所有足组成的实心区域的边界均平行或垂直于坐标轴。为了方便，我们假设所有</div>
 <div>这些边界的长度均为正整数。因此可以认为每个千年虫的躯体都由一些单位方格拼成。每个单位方格都由坐标(x,y</div>
 <div>)唯一确定。设头尾之间的距离为n，则我们可以用2×n个整数来描述一条千年虫B（如右图）：将B沿平行x轴方向</div>
@@ -29,7 +29,7 @@
 <div>子当前不会被腐蚀； 5、与头相邻的格子不能全部被腐蚀，与尾相邻的格子不能全部被腐蚀； 倘若满足上面五条</div>
 <div>，我们仍然可以用(n,L’1,L’2,..,L’n,R’1,R’2,..R’n)来描述一个化石里头的千年虫的形态。其中L’i≤R</div>
 <div>’i。 例如下图：</div>
-<p><img border="0" src="source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMy5qcGc=.jpg" alt=""/></p>
+<p><img border="0" src="/source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfMy5qcGc=.jpg" alt=""/></p>
 <div>现在你的任务是，输入一个化石里的千年虫的描述A，找一个满足理论模型的千年虫的描述B，使得B可以通过腐蚀</div>
 <div>过程得以变为A，且由B转化为A的代价(须被腐蚀的格子数)最少。输出此最小代价。</div></div>
 
@@ -61,7 +61,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" src="source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfNC5qcGc=.jpg" alt=""/> </p><p></p></div>
+<div class="content"><p></p><p><img border="0" src="/source/bzoj/1496/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0OTZfNC5qcGc=.jpg" alt=""/> </p><p></p></div>
 
 # Source
 

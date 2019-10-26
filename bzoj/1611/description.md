@@ -30,7 +30,7 @@
 # Hint
 
 <div class="content"><p></p><p>样例图示</p><br/>
-<p><img src="source/bzoj/1611/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi9hZmYoMSkuanBn.jpg" width="835" height="486" alt=""/></p><br/>
+<p><img src="/source/bzoj/1611/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi9hZmYoMSkuanBn.jpg" width="835" height="486" alt=""/></p><br/>
 <p></p><br/>
 <p></p><p></p></div>
 

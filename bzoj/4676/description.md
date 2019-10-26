@@ -4,10 +4,10 @@
 <div class="content"><div>一个n*m的棋盘，左上角为(1,1),右下角为(n,m)。相邻的2点之间有连边</div>
 <div>（如下图中实线）特殊地，(1,i)与(n,i)也连有一条边（如下图中虚线）,i=1..m。</div>
 <div>如下图，就是一个n=3,m=4的棋盘。</div>
-<div><img src="source/bzoj/4676/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xLnBuZw==.png" width="606" height="445" alt=""/></div>
+<div><img src="/source/bzoj/4676/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8xLnBuZw==.png" width="606" height="445" alt=""/></div>
 <div>每个点(i,j)给定2个值a[i][j],b[i][j]。每条边e给定1个值c[e]。</div>
 <div>你的任务是给每一个点一个非负的d值，最小化(S1+S2)。</div>
-<div><img src="source/bzoj/4676/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yLnBuZw==.png" width="573" height="227" alt=""/></div>
+<div><img src="/source/bzoj/4676/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC8yLnBuZw==.png" width="573" height="227" alt=""/></div>
 <div></div>
 <p></p></div>
 

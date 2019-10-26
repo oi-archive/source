@@ -1,8 +1,7 @@
 
 # Description
 
-<div class="content"><p>
-</p><dd>
+<div class="content"><p></p><dd>
 <div>
 <p>lqp18_31给了1tthinking一个很难的问题。这个问题由NWERC 2011某道题改编而来。下面是这个问题:</p>
 <p>你在家乡的一个山坡上开车回家。你想尽可能快的回家，但是你的油箱里没有太多油了。回家的路是由一些上坡和下坡组成的。每个坡有不同的斜率和长度。如何可以在油量限制的前提下，最快回家呢？</p>
@@ -10,7 +9,7 @@
 <p align="center"><em>c = max(0, αv + βs)</em>,</p>
 其中 <em>α</em> 和 <em>β</em> 是两个常数， <em>v</em> 是你的速度 km/h, <em>s</em> 是斜率。 加速和减速不花费油，且可以瞬间完成。
 <p>你的车有一个安全速度，你永远也不能超越这个速度vmax <strong>且在一个斜坡上，你必须以同样的速度行驶，不能变速</strong>.</p>
-<p><img src="source/bzoj/2294/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDRfMS5qcGc=.jpg" alt=""/></p>
+<p><img src="/source/bzoj/2294/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDRfMS5qcGc=.jpg" alt=""/></p>
 </div>
 </dd>
 <dd>
@@ -20,8 +19,7 @@
 
 # Input
 
-<div class="content"><p>
-</p><dd>
+<div class="content"><p></p><dd>
 <div>
 <p>第一行一个正数：测试数据组数，最多100。接下来是每个测试数据：</p>
 <ul>
@@ -35,8 +33,7 @@
 
 # Output
 
-<div class="content"><p>
-</p><dt>  每组测试数据：</dt>
+<div class="content"><p></p><dt>  每组测试数据：</dt>
 <dt>一行一个浮点数：你可以回家的最快时间。保证如果可以回家，一定在24h内可以到家。如果不可能到家，输出&#34;IMPOSSIBLE&#34;。输出保留两位小数</dt>
 <p></p></div>
 

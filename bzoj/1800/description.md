@@ -39,7 +39,7 @@
 # Hint
 
 <div class="content"><p>N&lt;= 20<br/>
-<img border="0" src="source/bzoj/1800/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDAuanBn.jpg"/> </p></div>
+<img border="0" src="/source/bzoj/1800/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDAuanBn.jpg"/> </p></div>
 
 # Source
 

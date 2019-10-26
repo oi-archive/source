@@ -22,8 +22,7 @@
 # Output
 
 <div class="content"><div style="text-indent: 21pt">写入一个整数，为一秒内最大能发送数据包的位数，答案四舍五入取整</div>
-<p>
-<divre></divre>
+<p><divre></divre>
 </p></div>
 
 # Sample Input

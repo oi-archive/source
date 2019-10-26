@@ -6,13 +6,13 @@
 <div>反射声音，但是由于不可避免的能量损失，最多只能反射k次（k=0表示不能反射声音）。墙面非常光滑，因此声音</div>
 <div>的反射遵循反射角等于入射角，如图1。墙角不能反射声音，而每面墙的其他部分——即使离墙角很近——都可以</div>
 <div>反射声音。</div>
-<p><img border="0" alt="" src="source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMS5qcGc=.jpg"/> 图1.</p>
+<p><img border="0" alt="" src="/source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMS5qcGc=.jpg"/> 图1.</p>
 <div>声音的反射 突然有一天，牧羊女问自己：在小屋的哪些地方能听到她的歌声？假设所有听众都在屋里靠墙而坐，</div>
 <div>那么歌声能到达的墙一共有多长？图2的四幅示意图分别画出了初始情况和声音经过0、1、2次反射后到达的区域。</div>
 <div>灰色部分表示能听到歌声的部分，黑点表示牧羊女的位置。本题所求即灰色部分在多边形边界上的总长度。</div>
-<p><img border="0" alt="" src="source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMi5qcGc=.jpg"/> </p>
+<p><img border="0" alt="" src="/source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMi5qcGc=.jpg"/> </p>
 <p>(a) 初始情况 (b)声音发出后未经反射</p>
-<p><img border="0" alt="" src="source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMy5qcGc=.jpg"/> (</p>
+<p><img border="0" alt="" src="/source/bzoj/1159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNTlfMy5qcGc=.jpg"/> (</p>
 <p>c) 声音1次反射 (d) 声音2次反射图2. 能听到歌声的区域</p></div>
 
 # Input

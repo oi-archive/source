@@ -11,7 +11,7 @@
 于上面写了什么字母）。 小G 决定对于这些篱笆桩进行重新利用，并且有了一些新的想法。 <br/>
 如果将这些篱笆桩竖直的叠放起来，并且依次从左往右，对于每一个篱笆桩顺次从上到下读<br/>
 出上面的字母，那么我们可以得到一些新的比较长的单词，如下图： <br/>
-<img width="650" height="197" alt="" src="source/bzoj/4460/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMS5wbmc=.png"/><br/>
+<img width="650" height="197" alt="" src="/source/bzoj/4460/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMS5wbmc=.png"/><br/>
 <br/>
 这些新的单词能满足小G的一些新的需要。当然，基于美学考虑，小G 是不允许你删改篱笆<br/>
 桩上已经写上的字母的。 我们更具体地描述这个过程。我们将 K个长度为 L的篱笆桩叠在<br/>

@@ -6,7 +6,7 @@
 小C不服：垃圾<br/>
 可是小C真不会，于是他找到了你<br/>
 由于A可能很大，这个矩阵用一个特殊的方式加密了</p>
-<p><img width="254" height="50" src="source/bzoj/4194/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMS8xMS5naWY=.gif" alt=""/></p></div>
+<p><img width="254" height="50" src="/source/bzoj/4194/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMS8xMS5naWY=.gif" alt=""/></p></div>
 
 # Input
 

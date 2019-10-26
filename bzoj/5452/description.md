@@ -6,7 +6,7 @@
 <div>的编号）</div>
 <div></div>
 <div> </div>
-<div><img src="source/bzoj/5452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8xMTEoMSkucG5n.png" width="322" height="319" alt=""/></div>
+<div><img src="/source/bzoj/5452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8xMTEoMSkucG5n.png" width="322" height="319" alt=""/></div>
 <div>需要注意的是，如图1所示，编号为0, 1, 2, …, N-1的珠子大小是依次递增的，设编号为i的珠子的颜色值为ai，</div>
 <div>则数字序列a0a1…an-1可以唯一的表示一种项链。例如，图1所示的项链表示为&#34;1337&#34;。</div>
 <div>现在有一台自动生产项链的机器，它的结构和工作方式如下所述：</div>
@@ -14,7 +14,7 @@
 <div>机器内部固化有一段程序，由CPU解释执行。该程序的输入是长度为N的十进制数字序列A，输出是另一个长度为N的</div>
 <div>十进制数字序列B。每次执行程序前将S初始化为输入序列A；程序结束后把S作为输出串B。START初始化为0。</div>
 <div>程序包含M条指令，顺序编号为1~M。指令共有5种，以下是指令的格式和功能：（尖括号&lt;&gt;表示指令参数，都是整数）</div>
-<div><img src="source/bzoj/5452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8yMjIuanBn.jpg" width="883" height="443" alt=""/></div>
+<div><img src="/source/bzoj/5452/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8yMjIuanBn.jpg" width="883" height="443" alt=""/></div>
 <div>由于项链是环型的，因此第i位和第i+kN位（k为整数）代表数字序列的同一位置。例如当N=4时，第6位和第2位是等价的。</div>
 <div>下面是一个程序的例子：</div>
 <div>MUL 3 2</div>

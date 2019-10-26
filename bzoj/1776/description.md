@@ -6,7 +6,7 @@
 这些政党互相吵闹争。每个政党都想知道自己的“范围”有多大。其中，定义一个政党的范围是这个政党离得最远的两只奶牛（沿着双向道路行走）的距离。
 比如说，记为政党1包含奶牛1，3和6，政党2包含奶牛2，4和5。这些草地的连接方式如下图所
 示（政党1由-n-表示）：
-<img border="0" src="source/bzoj/1776/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NzYuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1776/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NzYuanBn.jpg"/> 
 
 政党1最大的两只奶牛的距离是3（也就是奶牛3和奶牛6的距离）。政党2最大的两只奶牛的距离是2（也就是奶牛2和4，4和5，还有5和2之间的距离）。
 帮助奶牛们求出每个政党的范围。

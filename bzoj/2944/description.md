@@ -10,7 +10,7 @@
 <div style="text-indent: 21pt"><span style="font-size: medium">一棵含k个结点的BST，其代码会有k个小写英文字母，按照字母顺序排列它所有可能的代码，并用(n,k)表示其中的第n条代码。</span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium">例如，一棵有4个结点的BST共有14个不同的代码，按字母顺序列出：abcd 、abdc、 acbd、 adbc、 adcb、 bacd、 badc、 cabd、 cbad、 dabc、 dacb、 dbac、 dcab、 dcba。</span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium">代码(7,4)：badc，对应的BST如下图所示。</span></div>
-<div style="text-indent: 21pt"><span style="font-size: medium"><img height="143" width="166" alt="" src="source/bzoj/2944/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSg0KS5qcGc=.jpg"/></span></div>
+<div style="text-indent: 21pt"><span style="font-size: medium"><img height="143" width="166" alt="" src="/source/bzoj/2944/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSg0KS5qcGc=.jpg"/></span></div>
 <div><span style="font-size: medium"><b>任务：</b></span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium">编写一个程序，完成下列工作：</span></div>
 <div style="text-indent: 21pt"><span style="font-size: medium">●读入n，k；</span></div>

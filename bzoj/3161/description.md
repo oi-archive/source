@@ -1,9 +1,9 @@
 
 # Description
 
-<div class="content"><p><img height="1131" width="800" alt="" src="source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTcuanBn.jpg"/></p>
-<p><img height="1131" width="800" alt="" src="source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTguSlBH.JPG"/></p>
-<p><img height="1131" width="800" alt="" src="source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTkuanBn.jpg"/></p></div>
+<div class="content"><p><img height="1131" width="800" alt="" src="/source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTcuanBn.jpg"/></p>
+<p><img height="1131" width="800" alt="" src="/source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTguSlBH.JPG"/></p>
+<p><img height="1131" width="800" alt="" src="/source/bzoj/3161/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS9wcm9ibGVtLTkuanBn.jpg"/></p></div>
 
 # Input
 

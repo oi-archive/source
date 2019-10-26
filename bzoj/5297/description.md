@@ -11,7 +11,7 @@
 <div>还有一个假设是，如果某用户看到他的多个好友转发了同一条消息，他只会选择从其中一个转发，最多转发一次消</div>
 <div>息。从不同好友的转发，被视为不同的情况。</div>
 <div>如果用箭头表示好友关系，下图展示了某个社交网络中消息转发的所有可能情况。</div>
-<div><img src="source/bzoj/5297/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92MSgxKS5wbmc=.png" width="422" height="270" alt=""/></div>
+<div><img src="/source/bzoj/5297/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92MSgxKS5wbmc=.png" width="422" height="270" alt=""/></div>
 <div></div>
 <div>初始消息是用户1发送的，加粗箭头表示一次消息转发</div></div>
 

@@ -10,7 +10,7 @@
 <div><span style="font-size: medium">一个单独的序列将被称为一个<em>code</em>. </span></div>
 <div><span style="font-size: medium">当对给定的两个codes 估计他们的兼容性时，我们主要看两个值。第一个就是 (column A) 所有同时出现在两个codes 中且出现在同一位置的数字的和, 第二个就是(column B) 所有同时出现在两个codes 但出现在不同位置的数字和。</span></div>
 <div><span style="font-size: medium">当我们给定<i>c</i> 个codes 和他们于某个未知code的兼容性信息时. 我们可以找到并把未知code表示出来. 下面是一个<i>c</i> = 3 的例子.</span></div>
-<div><span style="font-size: medium"><img height="214" width="347" alt="" src="source/bzoj/2604/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDEpLmpwZw==.jpg"/></span></div>
+<div><span style="font-size: medium"><img height="214" width="347" alt="" src="/source/bzoj/2604/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDEpLmpwZw==.jpg"/></span></div>
 <div></div></div>
 
 # Input

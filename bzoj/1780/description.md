@@ -2,7 +2,7 @@
 # Description
 
 <div class="content">
-<img border="0" src="source/bzoj/1780/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODAuanBn.jpg"/> </div>
+<img border="0" src="/source/bzoj/1780/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODAuanBn.jpg"/> </div>
 
 # Input
 

@@ -9,7 +9,7 @@
 <div>统计经过一个结点v的最短路径的数目来衡量该结点在社交网络中的重要程度。考虑到两个结点A和B之间可能会有</div>
 <div>多条最短路径。我们修改重要程度的定义如下：令Cs,t表示从s到t的不同的最短路的数目，Cs,t(v)表示经过v从s</div>
 <div>到t的最短路的数目；则定义</div>
-<div><img src="source/bzoj/1491/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCg0KS5wbmc=.png" width="207" height="87" alt=""/></div>
+<div><img src="/source/bzoj/1491/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCg0KS5wbmc=.png" width="207" height="87" alt=""/></div>
 <div>
 <div>为结点v在社交网络中的重要程度。为了使I(v)和Cs,t(v)有意义，我们规定需要处理的社交网络都是连通的无向图</div>
 <div>，即任意两个结点之间都有一条有限长度的最短路径。现在给出这样一幅描述社交网络的加权无向图，请你求出每</div>
@@ -49,7 +49,7 @@
 # Hint
 
 <div class="content"><p></p><p>社交网络如下图所示。</p><br/>
-<p><img src="source/bzoj/1491/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCg1KS5wbmc=.png" width="286" height="233" alt=""/></p><br/>
+<p><img src="/source/bzoj/1491/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9kZCg1KS5wbmc=.png" width="286" height="233" alt=""/></p><br/>
 <div>对于 1 号结点而言，只有 2 号到 4 号结点和 4 号到 2 号结点的最短路经过 1 号结点，而 2 号结点和 4 号结</div><br/>
 <div>点之间的最短路又有 2 条。因而根据定义，1 号结点的重要程度计算为 1/2 + 1/2 = 1 。由于图的对称性，其他</div><br/>
 <div>三个结点的重要程度也都是 1 。</div><p></p></div>

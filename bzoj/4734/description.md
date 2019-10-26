@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>有一个多项式函数 f(x)，最高次幂为x^m，定义变换 Q：</div>
-<div><img src="source/bzoj/4734/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYxMi92djEuanBn.jpg" width="396" height="108" alt=""/></div>
+<div><img src="/source/bzoj/4734/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYxMi92djEuanBn.jpg" width="396" height="108" alt=""/></div>
 <div>现在给定函数 f 和 n, x，求 Q(f) mod 998244353。</div></div>
 
 # Input

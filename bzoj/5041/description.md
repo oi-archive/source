@@ -12,7 +12,7 @@
 <div>航系统被拿去送给ZWD工作过的飞船驾驶学校作纪念了，所以他想请你帮助他解决导航的问题。现在你知道椭圆轨</div>
 <div>道的两个焦点和YSY星球的坐标和半径，请你粗略地告诉ZWD LWD会降落在何处。</div>
 </div>
-<div><img src="source/bzoj/5041/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS92djEuanBn.jpg" width="494" height="262" alt=""/></div>
+<div><img src="/source/bzoj/5041/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS92djEuanBn.jpg" width="494" height="262" alt=""/></div>
 <div></div>
 <p></p></div>
 

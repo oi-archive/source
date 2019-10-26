@@ -1,9 +1,9 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMS5qcGc=.jpg"/> 
-<img border="0" src="source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMi5qcGc=.jpg"/>
-<img border="0" src="source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMy5qcGc=.jpg"/>  </div>
+<div class="content"><img border="0" src="/source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMS5qcGc=.jpg"/> 
+<img border="0" src="/source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMi5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfMy5qcGc=.jpg"/>  </div>
 
 # Input
 
@@ -43,7 +43,7 @@ Each of the next K lines describes one of these cards. The i-th of these lines (
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfNC5qcGc=.jpg"/> </p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4ODRfNC5qcGc=.jpg"/> </p></div>
 
 # Source
 

@@ -3,7 +3,7 @@
 
 <div class="content">   在byteland的手艺工人byteman会制作一种称为DXBALL的网状小球，这种小球形如鸟笼，由N个等分的纬线与M个等分的经线组成，如下图所示： 
 
-<img border="0" src="source/bzoj/2193/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTNfMS5qcGc=.jpg"/> 
+<img border="0" src="/source/bzoj/2193/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTNfMS5qcGc=.jpg"/> 
 </div>
 
 # Input
@@ -39,7 +39,7 @@
 # Hint
 
 <div class="content"><p>24种本质不同的方案如下图所示：<br/>
- <img border="0" src="source/bzoj/2193/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTNfMi5qcGc=.jpg"/> <br/>
+ <img border="0" src="/source/bzoj/2193/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxOTNfMi5qcGc=.jpg"/> <br/>
 <br/>
 <br/>
 旋转，翻折后相同的算一种</p></div>

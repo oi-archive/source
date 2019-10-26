@@ -35,12 +35,12 @@
 
 <div class="content"><p></p><p>输入说明 </p><br/>
 <div>有7头牛，像这样在数轴上。 </div><br/>
-<div><img src="source/bzoj/1637/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8xMS5qcGc=.jpg" width="1153" height="123" alt=""/></div><br/>
+<div><img src="/source/bzoj/1637/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8xMS5qcGc=.jpg" width="1153" height="123" alt=""/></div><br/>
 <div></div><br/>
 <div>输出说明 </div><br/>
 <div></div><br/>
 <div>牛 #1 (at 11), #4 (at 12), #6 (at 13), #7 (at 22) 组成一个平衡的最大的区间，大小为 22-11=11 个单位长度。 </div><br/>
-<div><img src="source/bzoj/1637/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8yMi5wbmc=.png" width="1156" height="142" alt=""/> </div><p></p></div>
+<div><img src="/source/bzoj/1637/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNy8yMi5wbmc=.png" width="1156" height="142" alt=""/> </div><p></p></div>
 
 # Source
 

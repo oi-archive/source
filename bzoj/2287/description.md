@@ -1,19 +1,17 @@
 
 # Description
 
-<div class="content"><p>
-</p><dd>
+<div class="content"><p></p><dd>
 <div>
 <p>ftiasch 有 <em>N</em> 个物品, 体积分别是 <em>W<sub>1</sub></em>, <em>W<sub>2</sub></em>, ..., <em>W<sub>N</sub></em>。 由于她的疏忽, 第 <em>i</em> 个物品丢失了。 “要使用剩下的 <em>N</em> - 1 物品装满容积为 <em>x</em> 的背包，有几种方法呢？” -- 这是经典的问题了。她把答案记为 <em>Count(i, x)</em> ，想要得到所有1 &lt;= i &lt;= N, 1 &lt;= x &lt;= M的 <em>Count(i, x)</em> 表格。</p>
-<p><img src="source/bzoj/2287/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMxOTdfMS5wbmc=.png" alt=""/></p>
+<p><img src="/source/bzoj/2287/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMxOTdfMS5wbmc=.png" alt=""/></p>
 </div>
 </dd>
 <p></p></div>
 
 # Input
 
-<div class="content"><p>
-</p><dt>  </dt>
+<div class="content"><p></p><dt>  </dt>
 <dd>
 <div>
 <p>第1行：两个整数 <em>N</em> (1 ≤ <em>N</em> ≤ 2 × 10<sup>3</sup>) 和 <em>M</em> (1 ≤ <em>M</em> ≤ 2 × 10<sup>3</sup>)，物品的数量和最大的容积。</p>
@@ -24,8 +22,7 @@
 
 # Output
 
-<div class="content"><p>
-</p><dt>  </dt>
+<div class="content"><p></p><dt>  </dt>
 <dd>
 <div>
 <p>一个 <em>N</em> × <em>M</em> 的矩阵， <em>Count(i, x)</em>的末位数字。</p>

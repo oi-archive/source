@@ -1,8 +1,8 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1553/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NTNfMS5qcGc=.jpg"/>
-<img border="0" src="source/bzoj/1553/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NTNfMi5qcGc=.jpg"/>  
+<div class="content"><img border="0" src="/source/bzoj/1553/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NTNfMS5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1553/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NTNfMi5qcGc=.jpg"/>  
 计算给定范围内有多少种输入可以使输出为1。
 我们假设3 &lt; n &lt; 100, 3 &lt; m &lt; 3000，而且网络中的门是用1到m之间的数任意编号的。
 

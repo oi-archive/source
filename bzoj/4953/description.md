@@ -7,7 +7,7 @@
 <div>种整数。每个像素原来的红色强度会被替换成最相近的可用强度。图像编辑工具会选择k个整数来最小化替换过程</div>
 <div>引起的平方误差之和。假设原图有n个像素,它们的红色取值是r1,···,rn,而 k 种可用整数为v1,···,vk ,那</div>
 <div>么平方误差之和被定义为</div>
-<div><img src="source/bzoj/4953/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80NC5wbmc=.png" width="267" height="120" alt=""/></div>
+<div><img src="/source/bzoj/4953/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC80NC5wbmc=.png" width="267" height="120" alt=""/></div>
 <div>你的任务是计算可以实现的最小平方误差之和,参数k和图片的红色强度会给出。</div></div>
 
 # Input

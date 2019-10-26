@@ -7,9 +7,9 @@
 <div>能从左向右发射，于是她就开始了行动。</div>
 <div>[式神-前鬼后鬼的守护]由 N波弹幕组成，每波弹幕都有一个落到板底的位置，第i波弹幕的落地位置为Xi。</div>
 <div>为了让弹幕能从左到右落地，蓝妈需要改变一些弹幕的落地位置，使得改变后的落地位置的坐标不递减，即</div>
-<div><img src="source/bzoj/5059/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC8xMS5wbmc=.png" width="287" height="54" alt=""/></div>
+<div><img src="/source/bzoj/5059/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC8xMS5wbmc=.png" width="287" height="54" alt=""/></div>
 <div>。然鹅改变弹幕的方向是很累的，蓝妈每将一波弹幕的坐标增加或减少1，就会花费一单位的能量，即</div>
-<div><img src="source/bzoj/5059/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC8yMi5wbmc=.png" width="237" height="54" alt=""/></div>
+<div><img src="/source/bzoj/5059/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC8yMi5wbmc=.png" width="237" height="54" alt=""/></div>
 <div>蓝妈想确定一个最终的修改方案使得他花费的能量最少，于是她将设计修改方案的任务交给了自己的式神八云橙。</div>
 <div>这可急坏了我们的橙喵，她只是连曼哈顿距离都不会算的年幼式神，你能帮助她完成这个任务吗？</div>
 </div>

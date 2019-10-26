@@ -64,7 +64,7 @@ Q 2 1 5<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" width="637" height="168" src="source/bzoj/3542/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC9hYSgxKS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img alt="" width="637" height="168" src="/source/bzoj/3542/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNC9hYSgxKS5qcGc=.jpg"/></p><br/>
 <p><span style="font-size: medium">样例还看不懂就看下图</span></p><br/>
 <p><span style="font-size: medium"><br/><br/>
 </span><span style="font-size: medium">【数据范围】<br/><br/>

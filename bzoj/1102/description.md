@@ -45,7 +45,7 @@ ws’（山峰），或者ws &lt; ws’（山谷）。你的任务是，对于�
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1102/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDIuanBn.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1102/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDIuanBn.jpg"/></p><p></p></div>
 
 # Source
 

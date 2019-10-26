@@ -4,7 +4,7 @@
 <div class="content"><div style="margin: 0cm 50.05pt 0pt 17.9pt; line-height: 23.4pt"><span style="font-size: 12pt; color: black">在训练中，一些臂力训练器材是少不了的，小龙在练习的时候发现举重器械</span><span style="font-size: 12pt; color: black">上的铁盘放置的非常混乱，并没有按照从轻到重的顺序摆放，这样非常不利于循</span><span style="font-size: 12pt; color: black">序渐进的锻炼。他打算利用一个非常省力气的办法来整理这些铁盘，即每次都拿</span><span style="font-size: 12pt; color: black">起最上面的若干个圆盘并利用器械的力量上下翻转，这样翻转若干次以后，铁盘</span><span style="font-size: 12pt; color: black">将会按照从小到大的顺序排列好。那么你能不能帮小龙确定，最少翻转几次就可</span><span style="font-size: 12pt; color: black">以使铁盘按从小到大排序呢？</span></div>
 <p><span style="font-size: 12pt; color: black">例如：下面的铁盘经过如图</span><span style="font-size: 12pt; color: black">2.1</span><span style="font-size: 12pt; color: black">所示的以下几个步骤的翻转后变为从小到大</span><span style="font-size: 12pt; color: black">排列。</span></p>
 <p></p>
-<p><img height="450" width="773" alt="" src="source/bzoj/2824/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDcpLmpwZw==.jpg"/></p></div>
+<p><img height="450" width="773" alt="" src="/source/bzoj/2824/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDcpLmpwZw==.jpg"/></p></div>
 
 # Input
 

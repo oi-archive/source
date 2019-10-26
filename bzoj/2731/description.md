@@ -12,7 +12,7 @@
 <div style="margin: 0cm -1.1pt 0pt 15.55pt; line-height: 11.25pt; text-align: left" align="left"><span style="font-size: medium"><span style="font-family: Arial"><span style="color: black">分别为(<i>x</i>, <i>y</i>), (<i>x</i> + <i>d</i>, <i>y</i>)</span><span style="color: black">和</span><span style="color: black">(<i>x</i>, <i>y</i> + <i>    d</i>)</span><span style="color: black">。要求计算这</span><i><span style="color: black">   N</span></i><span style="color: black">个三角形所覆盖的总面</span></span></span></div>
 <div style="margin: 0cm -1.1pt 0pt 15.55pt; line-height: 11.25pt; text-align: left" align="left"></div>
 <div style="margin: 0cm -1.1pt 0pt 15.55pt; line-height: 11.25pt; text-align: left" align="left"><span style="font-size: medium"><span style="font-family: Arial"><span style="color: black">积。例如，下图有</span><span style="color: black"> 3 个三角形，覆盖的总面积为 11.0。</span></span></span></div>
-<div style="margin: 0cm -1.1pt 0pt 15.55pt; line-height: 11.25pt; text-align: left" align="left"><span style="font-size: medium"><span style="font-family: Arial"><span style="color: black"><img height="217" width="236" alt="" src="source/bzoj/2731/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYSg0KS5qcGc=.jpg"/></span></span></span></div></div>
+<div style="margin: 0cm -1.1pt 0pt 15.55pt; line-height: 11.25pt; text-align: left" align="left"><span style="font-size: medium"><span style="font-family: Arial"><span style="color: black"><img height="217" width="236" alt="" src="/source/bzoj/2731/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9hYSg0KS5qcGc=.jpg"/></span></span></span></div></div>
 
 # Input
 

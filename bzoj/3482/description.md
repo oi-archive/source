@@ -11,7 +11,7 @@
 <div>间的所有可能的值。例如，在上述情况中，从星球2到星球1的最短路径所需时间可以取值5（如果x≥5），4，3，2</div>
 <div>，或1天（如果x&lt;5）</div>
 </div>
-<p class="MsoNormal" align="left" style="text-indent: 27pt; "><img src="source/bzoj/3482/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy9hYS5qcGc=.jpg" width="339" height="186" alt=""/></p>
+<p class="MsoNormal" align="left" style="text-indent: 27pt; "><img src="/source/bzoj/3482/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMy9hYS5qcGc=.jpg" width="339" height="186" alt=""/></p>
 <p class="MsoNormal" align="left" style="text-indent: 27pt; "></p>
 <p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US"> </span></span></p>
 <p class="MsoNormal" align="left" style="text-indent: 27pt; "></p></div>

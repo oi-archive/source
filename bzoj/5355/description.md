@@ -10,7 +10,7 @@
 <div>②l,r∈Z 且l,r∈[0,n]</div>
 <div>③val∈Z 且val∈[1,2*10^5]</div>
 </div>
-<div><img src="source/bzoj/5355/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNS8xMTExLnBuZw==.png" width="761" height="374" alt=""/></div>
+<div><img src="/source/bzoj/5355/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNS8xMTExLnBuZw==.png" width="761" height="374" alt=""/></div>
 <div></div>
 <p></p>
 <p></p></div>

@@ -30,8 +30,8 @@ R[i][1]。 再次提醒：每条小路连接两个不同的喷泉，两个喷泉
 
 # Input
 
-<div class="content"><p><img alt="" src="source/bzoj/2598/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8xKDIpLmpwZw==.jpg"/></p>
-<p><img alt="" src="source/bzoj/2598/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8yKDEpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img alt="" src="/source/bzoj/2598/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8xKDIpLmpwZw==.jpg"/></p>
+<p><img alt="" src="/source/bzoj/2598/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMi8yKDEpLmpwZw==.jpg"/></p></div>
 
 # Output
 

@@ -28,7 +28,7 @@
 <div></div>
 <div> </div>
 <div>图1：第一个样例输入的插图：球首先经过1,2号点，并在3号点时穿过了被摧毁的墙。</div>
-<div><img src="source/bzoj/4431/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy_ml6DmoIfpopgucG5n.png" width="467" height="241" alt=""/></div>
+<div><img src="/source/bzoj/4431/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy_ml6DmoIfpopgucG5n.png" width="467" height="241" alt=""/></div>
 <div>每当球碰到一堵墙，会发生：</div>
 <div>球的方向以通常的方式改变：入射角等于反射角。</div>
 <div>被球触碰的墙被破坏。 游戏逻辑规定，没有墙的废墟存在，认为它消失了。</div>

@@ -20,7 +20,7 @@
 <div>带着皆守哥…回到了我们的身边…</div>
 <div>水上由岐姐姐…温柔的姐姐</div>
 <div>曾经非常喜欢皆守哥的人……</div>
-<div> <img src="source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>回去的路上…</div>
 <div>平时不会经过的坡道…</div>
 <div>在登上那个坡道的途中…</div>
@@ -38,7 +38,7 @@
 <div>被夜晚的月光映照着的太阳。</div>
 <div>被染成碧蓝色的太阳…</div>
 <div>它的身影…我一直追寻着……</div>
-<div> <img src="source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>被月光照亮的天台上…</div>
 <div>一个人影…</div>
 <div>明明只是一个人影…却好像…在和什么东西对峙着一样…</div>
@@ -49,7 +49,7 @@
 <div>和七年前同样的姿势。</div>
 <div>唯一不同的是，那里的人影只有一个。</div>
 <div>那把小刀，好像是被他自己刺入体内。</div>
-<div> <img src="source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zKDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>是诅咒…</div>
 <div>这是理所当然的事…</div>
 <div>那并不是什么精神病…</div>
@@ -66,7 +66,7 @@
 <div>杀了由岐姐的…那个行为…</div>
 <div>他想要再一次实行…</div>
 <div>这次…和很多人一起…</div>
-<div> <img src="source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>不是…</div>
 <div>那是…我啊…</div>
 <div>是那个…坡道的事情啊…</div>
@@ -75,7 +75,7 @@
 <div>我想，如果到了那个坡道的前方，就能取回爸爸的灵魂…爸爸就会复生的…</div>
 <div>如果越过向日葵之路…向着向日葵所朝向的天空延伸的…那个大大的坡道的话…大概，就会有爸爸的灵魂…</div>
 <div>爸爸的故乡的…大大的坡道…</div>
-<div> <img src="source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5395/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>哥哥的身体浮在空中…</div>
 <div>我无言地跳了出去。</div>
 <div>啊啊…是这样啊…</div>

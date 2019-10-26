@@ -10,7 +10,7 @@
 <div>一条路径的长度指的是这条路径上的所有边的长度边权之和，一条路径的宽度指的是这条路径上的所有边的宽度边权的乘积。 </div>
 <div>当两个人s和t想要交流的时候，他们会选择长度最短的路径来交流。由于最短路可能有多个，我们称s到t的最短路的宽度为σst，是所有s到t的长度最短的路径的宽度和。同时，我们用σst(v)表示所有从s到t，且经过v的长度最短的路径的宽度和，即v对s,t的影响力。 </div>
 <div>一个人v在图中的传播力R(v)可以被定义为如下函数： </div>
-<div> <img src="source/bzoj/4055/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLkpQRw==.JPG" width="276" height="85" alt=""/></div>
+<div> <img src="/source/bzoj/4055/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLkpQRw==.JPG" width="276" height="85" alt=""/></div>
 <div>即对图中所有不包含v的点对，分别计算v对该点对的影响力除以该点对的最短路的宽度，再乘上这个点对中两个点的号召力，最后将所有点对的计算结果加和得到节点在图中的传播力。 </div>
 <div>B君想快速知道所有节点在图中的传播力。当他去问小强的时候，小强说：“我有一个绝妙的做法，可惜题面太短，写不下。” </div>
 <div>你知道怎么做吗？ </div></div>
@@ -48,7 +48,7 @@
 <div class="content"><p></p><p> 【评分标准】 </p><br/>
 <div>我们会将输出文件的每个数与参考答案进行比较，如果该数与参考答案的相对误差或绝对误差不超过10-6，则判定该数正确。对于参考答案为0的数，必须满足绝对误差不超过10-6才判定为正确。 </div><br/>
 <div>如果输出正确数的个数为q，那么你在该测试点上的得分是 </div><br/>
-<div><img src="source/bzoj/4055/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLkpQRw==.JPG" width="115" height="106" alt=""/></div><br/>
+<div><img src="/source/bzoj/4055/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLkpQRw==.JPG" width="115" height="106" alt=""/></div><br/>
 <div> </div><br/>
 <div></div><br/>
 <div>【数据规模和约定】 </div><br/>

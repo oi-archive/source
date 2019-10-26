@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="773" alt="" width="732" src="source/bzoj/3671/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8yMigzKS5qcGc=.jpg"/></p></div>
+<div class="content"><p><img height="773" alt="" width="732" src="/source/bzoj/3671/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8yMigzKS5qcGc=.jpg"/></p></div>
 
 # Input
 
@@ -26,7 +26,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><span style="font-size: large"><img height="425" alt="" width="731" src="source/bzoj/3671/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSg1KS5qcGc=.jpg"/></span></p><br/>
+<div class="content"><p></p><p><span style="font-size: large"><img height="425" alt="" width="731" src="/source/bzoj/3671/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSg1KS5qcGc=.jpg"/></span></p><br/>
 <p class="NOI" style="margin: 2.4pt 0cm; text-indent: 24pt"><span style="font-size: large"><span style="font-family: 宋体">本题的空间限制是 256 MB，请务必保证提交的代码运行时所使用的总内存空间不超过此限制。</span></span></p><br/>
 <p class="NOI" style="margin: 2.4pt 0cm; text-indent: 24pt"><span style="font-size: large"><span style="font-family: 宋体">一个32位整数（例如C/C++中的int和Pascal中的Longint）为4字节，因而如果在程序中声明一个长度为 1024×1024 的32位整型变量的数组，将会占用 4 MB 的内存空间。</span></span></p><br/>
 <div style="text-indent: 32px"><span style="font-size: large"><br/><br/>

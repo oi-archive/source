@@ -45,9 +45,9 @@
 
 <div class="content"><p></p><div><br/>
 <div>以第 2行第 1 列的空地格为例，其变为障碍物后的网格如下图，其中白色格子代表空地，黑色格子代表障碍物。</div><br/>
-<div><img src="source/bzoj/5205/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDEpLnBuZw==.png" width="200" height="104" alt=""/></div><br/>
+<div><img src="/source/bzoj/5205/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xKDEpLnBuZw==.png" width="200" height="104" alt=""/></div><br/>
 <div>15种方案如下图所示，不同颜色代表不同运输机的投放位置</div><br/>
-<div><img src="source/bzoj/5205/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8yLnBuZw==.png" width="400" height="400" alt=""/></div><br/>
+<div><img src="/source/bzoj/5205/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8yLnBuZw==.png" width="400" height="400" alt=""/></div><br/>
 </div><br/>
 <div>来自 CodePlus 2018 3 月赛，清华大学计算机科学与技术系学生算法与竞赛协会 荣誉出品。</div><br/>
 <div>Credit：idea/吕时清　命题/吕时清　验题/吕欣，王聿中</div><br/>

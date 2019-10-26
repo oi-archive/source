@@ -43,7 +43,7 @@
 
 <div class="content"><p></p><p></p><br/>
 <p></p><br/>
-<p><img height="432" width="528" alt="" src="source/bzoj/2881/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMC8xMSgxKS5qcGc=.jpg"/></p><br/>
+<p><img height="432" width="528" alt="" src="/source/bzoj/2881/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMC8xMSgxKS5qcGc=.jpg"/></p><br/>
 <p></p><br/>
 <p>数据范围与约定<br/><br/>
   对于10%数据 rins RP比较好<br/><br/>

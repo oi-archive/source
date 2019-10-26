@@ -11,7 +11,7 @@
 接下来n行，每行三个整数x[i],y[i],v[i](-10^9&lt;=x[i],y[i]&lt;=10^9,1&lt;=v[i]&lt;=10^9)，表示手办的坐标为(x[i],y[i])，价格为v[i]。<br/>
 接下来m行，格式同上，表示警卫的坐标为(x[i],y[i])，需接受贿赂的金额为v[i]。<br/>
 保证每个点最多只有一个手办或一个警卫。</p>
-<p><img height="224" alt="" width="210" src="source/bzoj/3716/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9tdXpyeXMtY3JvcC5naWY=.gif"/></p></div>
+<p><img height="224" alt="" width="210" src="/source/bzoj/3716/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9tdXpyeXMtY3JvcC5naWY=.gif"/></p></div>
 
 # Output
 

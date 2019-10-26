@@ -64,7 +64,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/5175/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgxKS5wbmc=.png" width="445" height="416" alt=""/></p><br/>
+<div class="content"><p></p><p><img src="/source/bzoj/5175/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgxKS5wbmc=.png" width="445" height="416" alt=""/></p><br/>
 <p>无SPJ，请不要提交！</p><br/>
 <p></p><p></p></div>
 

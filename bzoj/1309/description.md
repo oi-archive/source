@@ -33,7 +33,7 @@
 # Sample Output
 
 <div class="content"><span class="sampledata">4<br/>
-<img border="0" src="source/bzoj/1309/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMDkuanBn.jpg"/><br/>
+<img border="0" src="/source/bzoj/1309/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMDkuanBn.jpg"/><br/>
 </span></div>
 
 # Hint

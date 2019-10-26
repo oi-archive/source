@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img border="0" src="source/bzoj/1327/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjcuanBn.jpg" alt=""/> 游戏的棋盘是一个“井”字形棋盘，总共24个格子，这24个格子分别有8个1，8个2，8个3，每一次，你可以选择A,B,C,D,E,F,G,H这8个方向的一个方向旋转一格（具体旋转例子参见上图），使得最后最中间的8个格子上的数值相同。 现在希望你求出最少的旋转次数</p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1327/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjcuanBn.jpg" alt=""/> 游戏的棋盘是一个“井”字形棋盘，总共24个格子，这24个格子分别有8个1，8个2，8个3，每一次，你可以选择A,B,C,D,E,F,G,H这8个方向的一个方向旋转一格（具体旋转例子参见上图），使得最后最中间的8个格子上的数值相同。 现在希望你求出最少的旋转次数</p></div>
 
 # Input
 

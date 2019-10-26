@@ -67,7 +67,7 @@
 # Hint
 
 <div class="content"><p></p><p>输入文件给出的9个点和14条边描述的平面图如下所示：</p><br/>
-<p><img width="197" height="207" alt="" src="source/bzoj/4541/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMTEucG5n.png"/></p><br/>
+<p><img width="197" height="207" alt="" src="/source/bzoj/4541/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMTEucG5n.png"/></p><br/>
 <p>第一个开采计划，输入的第1个值为3，所以该开采计<br/><br/>
 划对应的多边形有(3+0) mod 8 +1=4个点，将接下的4个数3,0,4,7，分别代入(z_i+0) mod n + 1得到4个点的编号<br/><br/>
 为4,1,5,8。计算出第一个开采计划的分子为1，分母为1。类似地，可计算出余下开采计划的多边形的点数和点的<br/><br/>

@@ -31,7 +31,7 @@ X.r.......<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1114/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTQuanBn.jpg"/> </p><br/>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1114/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTQuanBn.jpg"/> </p><br/>
 <p>1.当出不去的时候 要输出&#34;NIE&#34;</p><br/>
 <p>2.船是关于横轴或竖轴对称的</p><br/>
 <p>3.船的宽度是严格从小到大，再从大到小的</p><p></p></div>

@@ -1,8 +1,8 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjRfMS5qcGc=.jpg"/>
-<img border="0" src="source/bzoj/1324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjRfMi5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjRfMS5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjRfMi5qcGc=.jpg"/>
 
 </div>
 

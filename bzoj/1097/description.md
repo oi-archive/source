@@ -53,7 +53,7 @@ FGD非常讨厌乘车的颠簸，他希望在满足他的要求的情况下，�
 
 # Hint
 
-<div class="content"><p></p><p><span style="font-size: medium;"><img border="0" alt="" src="source/bzoj/1097/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTcuanBn.jpg"/> 上面对应于题目中给出的例子。</span></p><p></p></div>
+<div class="content"><p></p><p><span style="font-size: medium;"><img border="0" alt="" src="/source/bzoj/1097/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEwOTcuanBn.jpg"/> 上面对应于题目中给出的例子。</span></p><p></p></div>
 
 # Source
 

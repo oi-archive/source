@@ -77,8 +77,8 @@
 
 # Hint
 
-<div class="content"><p></p><p><img width="572" height="371" alt="" src="source/bzoj/4364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xMS5HSUY=.GIF"/></p><br/>
-<p><img width="277" height="550" src="source/bzoj/4364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8zMy5naWY=.gif" alt=""/></p><br/>
+<div class="content"><p></p><p><img width="572" height="371" alt="" src="/source/bzoj/4364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8xMS5HSUY=.GIF"/></p><br/>
+<p><img width="277" height="550" src="/source/bzoj/4364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8zMy5naWY=.gif" alt=""/></p><br/>
 <p><!--[if gte mso 9]><xml><br />
 <w:WordDocument><br />
 <w:View>Normal</w:View><br />

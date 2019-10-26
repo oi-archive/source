@@ -27,7 +27,7 @@ E 1 100 -300</span></div>
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/4114/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS8xMS5qcGc=.jpg" width="651" height="268" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img src="/source/bzoj/4114/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS8xMS5qcGc=.jpg" width="651" height="268" alt=""/></p><p></p></div>
 
 # Source
 

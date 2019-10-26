@@ -4,10 +4,10 @@
 <div class="content"><div>公元3456年，表面积过小的地球再也不足以使得千亿人和平的生活在一起了。Interstellar Colonization Project with Cubes (ICPC)是一个试图将人类转移到太空殖民地来缓解人口压力的项目。ICPC获得了政府的支持，并很快利用低成本的标准立方块零件建立起太空殖民地。</div>
 <div>最大的殖民地看起来像一个魔方，它由 3×3×3 个标准立方块组成（如图A）。小的殖民地（如图B）与最大的殖民地相比则缺失了一些标准立方块。</div>
 <div>当我们开始用标准立方块建造殖民地时，我们会从一个简单的标准立方块开始，然后反复地将下一个立方块与已经存在的立方块完美地粘合，每个相贴合的面都会紧紧粘合。</div>
-<div> <img src="source/bzoj/4685/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9hMS5wbmc=.png" width="348" height="192" alt=""/></div>
+<div> <img src="/source/bzoj/4685/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9hMS5wbmc=.png" width="348" height="192" alt=""/></div>
 <div>然而，就在第一次发射前，我们发现了殖民地的一个设计缺陷。为此对于每个殖民地我们需要添加一根电缆连接殖民地上存在于表面的某两个点，但是短时间内我们无法改变每个标准立方块的内部。因此我们决定在殖民地的表面添加电缆。如果电缆的某一部分不在表面上，则这部分有可能会在发射中被剪断，因此我们必须使电缆完全在表面上。在上图B的虚线就是一个很好的例子。你需要写一个程序，通过给定的殖民地形状和一对在其表面上的点，计算出最短的可能的电缆长度。</div>
 <div>第三、四、五组样例如下图A、B、C所示。注意，如果两个表面有公共的交点，则你可以通过这个交点设置电缆。为了便于说明，一些块被部分透明地显示。</div>
-<div><img src="source/bzoj/4685/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9hMi5wbmc=.png" width="520" height="187" alt=""/></div></div>
+<div><img src="/source/bzoj/4685/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9hMi5wbmc=.png" width="520" height="187" alt=""/></div></div>
 
 # Input
 

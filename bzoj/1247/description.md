@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p>搭一个高度为H，包含N个积木块，并且底层为M个积木的高塔。这个高塔有一个特点，相邻两个塔的积木数相差1。比如当H=6,M=2,N=13： <img border="0" alt="" src="source/bzoj/1247/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDcuanBn.jpg"/> 我们可以这样表示一个高塔，从底层依次纪录每行的积木数，比如这个塔记录成2,3,2,3,2,1。现在任务是，求出至少使用N个砖块，且H和M给出的塔的个数，并且求出字典顺序第K小的塔。（注意不一定要使用完所有的砖块）</p></div>
+<div class="content"><p>搭一个高度为H，包含N个积木块，并且底层为M个积木的高塔。这个高塔有一个特点，相邻两个塔的积木数相差1。比如当H=6,M=2,N=13： <img border="0" alt="" src="/source/bzoj/1247/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyNDcuanBn.jpg"/> 我们可以这样表示一个高塔，从底层依次纪录每行的积木数，比如这个塔记录成2,3,2,3,2,1。现在任务是，求出至少使用N个砖块，且H和M给出的塔的个数，并且求出字典顺序第K小的塔。（注意不一定要使用完所有的砖块）</p></div>
 
 # Input
 

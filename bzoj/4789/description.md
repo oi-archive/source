@@ -6,7 +6,7 @@
 <div>1.一个恰好充满单个格子的正方形。</div>
 <div>2.一个内切于单个格子的圆。</div>
 <div>3.一个底边与格子重合的等边三角形。</div>
-<div><img src="source/bzoj/4789/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMuSlBH.JPG" width="418" height="105" alt=""/></div>
+<div><img src="/source/bzoj/4789/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMuSlBH.JPG" width="418" height="105" alt=""/></div>
 <div></div>
 <div>已知每个格子的边长都为1，请求出这些几何图形的凸包的周长。</div></div>
 

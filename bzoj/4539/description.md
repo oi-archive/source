@@ -9,10 +9,10 @@
 的结点按照在模板树中编号的顺序重新编号。例如，假设在进行2.2步之前大树有L个结点，模板树中以a为根的子<br/>
 树共有C个结点，那么新加入模板树的C个结点在大树中的编号将是L+1,L+2,…,L+C；大树中这C个结点编号的大小<br/>
 顺序和模板树中对应的C个结点的大小顺序是一致的。下面给出一个实例。假设模板树如下图：</p>
-<p><img width="312" height="165" alt="" src="source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSg0KS5wbmc=.png"/><br/>
+<p><img width="312" height="165" alt="" src="/source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSg0KS5wbmc=.png"/><br/>
 根据第(1)步，初始的大树与模板树是相同的。在(2.1)步，假设选择了a=4，b=3。运行(2.2)和(2.3)后，得到新的<br/>
 大树如下图所示<br/>
-<img width="340" height="232" alt="" src="source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMigyKS5wbmc=.png"/><br/>
+<img width="340" height="232" alt="" src="/source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMigyKS5wbmc=.png"/><br/>
 现在他想问你，树中一些结点对的距离是多少。</p></div>
 
 # Input
@@ -48,7 +48,7 @@
 # Hint
 
 <div class="content"><p></p><p>经过两次操作后，大树变成了下图所示的形状：<br/><br/>
-<img width="347" height="230" alt="" src="source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zMygxKS5wbmc=.png"/><br/><br/>
+<img width="347" height="230" alt="" src="/source/bzoj/4539/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8zMygxKS5wbmc=.png"/><br/><br/>
 结点6到9之间经过了6条边，所以距离为6；类似地，结点1到8之间经过了3条边；结点5到3之间也经过了3条边。</p><p></p></div>
 
 # Source

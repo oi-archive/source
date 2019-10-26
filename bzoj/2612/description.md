@@ -12,8 +12,7 @@
 # Output
 
 <div class="content"><div><span style="font-size: medium">输出<i>k</i>行. 第<i>i</i>行打印<tt>TAK</tt>, 如果 <i>b<sub>i</sub></i> 属于<i>A</i>&#39;, 否则打印<tt>NIE</tt>. </span></div>
-<p>
-<divre></divre>
+<p><divre></divre>
 </p></div>
 
 # Sample Input

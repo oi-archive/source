@@ -1,17 +1,17 @@
 
 # Description
 
-<div class="content"><p><img alt="" src="source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDgpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img alt="" src="/source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8xKDgpLmpwZw==.jpg"/></p></div>
 
 # Input
 
 <div class="content"><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">其中第一行是一个整数</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">n(1&lt;=n&lt;=18)</font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">，随后</span><span lang="EN-US" style="font-size: 12pt"><font face="Times New Roman">4n<sup>2</sup></font></span><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;">行，依次为三棱锥四个面上所填的数字。</span></p>
-<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><img alt="" src="source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDQpLmpwZw==.jpg"/></span></p></div>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 24pt"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;Times New Roman&#39;"><img alt="" src="/source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8yKDQpLmpwZw==.jpg"/></span></p></div>
 
 # Output
 
 <div class="content"><div style="text-indent: 24pt"><span style="font-size: 12pt">其中仅包含一个整数，表示最大的排序二叉树所含的节点数目。</span></div>
-<p><img alt="" src="source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8zKDIpLmpwZw==.jpg"/></p></div>
+<p><img alt="" src="/source/bzoj/2549/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMi8zKDIpLmpwZw==.jpg"/></p></div>
 
 # Sample Input
 

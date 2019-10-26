@@ -10,7 +10,7 @@
 <div>时，一块产生出的石板并不是任何所需要的大小，则此石板成为废料。菲迪亚斯想知道如何切割最初的石板，让所</div>
 <div>产生的废料最少。举例來說，下图中的原始石板宽度为 21 且高度为 11，而所需石板大小为 10×4,6×2, 7×5 </div>
 <div>及 15×10, 则最小废料总面积为 10。下图同时画出最小废料总面积为10 的切割方法</div>
-<div><img src="source/bzoj/5053/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xMSgxKS5qcGc=.jpg" width="297" height="182" alt=""/></div>
+<div><img src="/source/bzoj/5053/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xMSgxKS5qcGc=.jpg" width="297" height="182" alt=""/></div>
 <div>你的工作是写一个程序由给定的原始石板大小及所需要的各种石板大小计算出最小的废料总面积。</div></div>
 
 # Input

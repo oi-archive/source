@@ -9,7 +9,7 @@
 <div>2． 每条公路都要有巴士线路覆盖，这样村民们的出行就只需要换成巴士车就行了； </div>
 <div>3． 每条公路只被一条巴士线路覆盖，且只被覆盖一次，否则巴士公司觉得在成本上不划算； </div>
 <div>4． 巴士线路的总数应当最少，这样才能方便管理。例如，如果6个村庄之间的5条公路是这样的：</div>
-<p> <img border="0" alt="" src="source/bzoj/2027/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwMjcuanBn.jpg"/> </p>
+<p> <img border="0" alt="" src="/source/bzoj/2027/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwMjcuanBn.jpg"/> </p>
 <div>那么这样的3条巴士线路就能满足上面的条件：1-2-3，2-4，5-4-6。不过，居民们自然认为“巴士换乘”是不方便</div>
 <div>的，因此他们希望从在一个村庄乘车去另一个村庄的路上换乘次数的最大值尽可能少。例如上面这个线路安排中，</div>
 <div>从村庄1到村庄6需要换成2次，是最大的换乘次数。另一方面，巴士公司认为，一条公交线路越长意味着，如果巴</div>

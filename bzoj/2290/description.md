@@ -4,13 +4,12 @@
 <div class="content"><p></p>
 <p></p>
 <p></p>
-<p>
-</p><dd>
+<p></p><dd>
 <div>
 <p>lqp18_31和1tthinking虽然是两个性格完全不同的人, 但是他们都喜欢玩 &#39;Super Mario Bros&#39;.</p>
 <p>一天lqp18_31和1tthinking正玩得高兴，突然发现他们的Mac坏掉了。于是他们求助ftiasch，想借他的电脑。但是由于ftiasch使用的是Ubuntu，没有super mario bros这个游戏，ftiasch打算写一个mario给两个可怜的小朋友玩。</p>
 <p>不过写着写着，ftiasch就觉得不好玩了，跑去找她的姐妹们玩了。你能不能帮助ftiasch写这个游戏？</p>
-<p><img alt="" src="source/bzoj/2290/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDBfMS5wbmc=.png"/></p>
+<p><img alt="" src="/source/bzoj/2290/img/aHR0cDovL21lZGlhLm9wZW5qdWRnZS5jbi9pbWFnZXMvZzMyMDBfMS5wbmc=.png"/></p>
 </div>
 <p></p>
 </dd>
@@ -23,8 +22,7 @@
 <div class="content"><p></p>
 <p></p>
 <p></p>
-<p>
-</p><dt>  </dt>
+<p></p><dt>  </dt>
 <dd>
 <div>
 <p>第一行两个整数 <em>R</em> and <em>C</em>, 表示游戏地图的大小 (1 ≤ <em>R</em>, <em>C</em> ≤ 300)。</p>
@@ -110,8 +108,7 @@
 
 <div class="content"><p></p>
 <p>对于每个P，输出当前的地图以及一行得分情况 &#34;Mario : ? points&#34;。P与P之间输出一个空行</p>
-<p>
-</p><dd>
+<p></p><dd>
 <p></p>
 </dd>
 <p></p>

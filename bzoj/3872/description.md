@@ -14,7 +14,7 @@
 </div>
 <div></div>
 <div>
-<div style="font-family: Helvetica, &#39;Microsoft Yahei&#39;, verdana; font-size: 14px; line-height: 23px;"><img src="source/bzoj/3872/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9zLnBuZw==.png" width="305" height="228" alt=""/></div>
+<div style="font-family: Helvetica, &#39;Microsoft Yahei&#39;, verdana; font-size: 14px; line-height: 23px;"><img src="/source/bzoj/3872/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9zLnBuZw==.png" width="305" height="228" alt=""/></div>
 <div style="font-family: Helvetica, &#39;Microsoft Yahei&#39;, verdana; font-size: 14px; line-height: 23px;">一只饥饿的食蚁兽埋伏在一条边上，如果有一群蚂蚁通过这条边，并且数量恰为k只，它就会吞掉这群蚂蚁。请计算一共有多少只蚂蚁会被吞掉。</div>
 <div style="font-family: Helvetica, &#39;Microsoft Yahei&#39;, verdana; font-size: 14px; line-height: 23px;"></div>
 </div>

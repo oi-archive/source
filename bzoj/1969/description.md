@@ -6,7 +6,7 @@
 一些先遣飞船已经出发，在星球之间开辟探险航线。
 探险航线是双向的，例如从1号星球到3号星球开辟探险航线，那么从3号星球到1号星球也可以使用这条航线。
 例如下图所示：
-<img border="0" src="source/bzoj/1969/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NjkuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1969/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NjkuanBn.jpg"/> 
 在5个星球之间，有5条探险航线。
 A、B两星球之间，如果某条航线不存在，就无法从A星球抵达B星球，我们则称这条航线为关键航线。
 显然上图中，1号与5号星球之间的关键航线有1条：即为4-5航线。

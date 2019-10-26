@@ -10,7 +10,7 @@
 <div>低的位置，但不能往上爬。当然，太空猫也不能穿墙而过。在重力翻转的过程中，直到碰到地面之前，你都不能操</div>
 <div>控太空猫左右移动。太空猫的终点位于地图的最右端的下底边之上，请计算为了让太空猫到达终点，需要消耗能量</div>
 <div>的最小值。</div>
-<div><img src="source/bzoj/4884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS92djEuanBn.jpg" width="189" height="211" alt=""/></div></div>
+<div><img src="/source/bzoj/4884/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS92djEuanBn.jpg" width="189" height="211" alt=""/></div></div>
 
 # Input
 

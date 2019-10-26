@@ -9,8 +9,7 @@
 
 <div class="content"><p><span style="font-size: medium; ">* Line 1: A single integer, N. </span></p>
 <p><span style="font-size: medium; "> * Lines 2..N+1: Line i+1 contains two space-separated integers, h and         v, for the cow standing at location i.</span></p>
-<p>
-</p><p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">    </span><span style="font-family: 宋体; ">第</span><span lang="EN-US">1</span><span style="font-family: 宋体; ">行：一个正整数</span><span lang="EN-US">N.</span></span></p>
+<p></p><p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">    </span><span style="font-family: 宋体; ">第</span><span lang="EN-US">1</span><span style="font-family: 宋体; ">行：一个正整数</span><span lang="EN-US">N.</span></span></p>
 <p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">    </span><span style="font-family: 宋体; ">第</span><span lang="EN-US">2</span><span style="font-family: 宋体; ">到</span><span lang="EN-US">N+1</span><span style="font-family: 宋体; ">行：每行包括</span><span lang="EN-US">2</span><span style="font-family: 宋体; ">个用空格隔开的整数，分别代表站在队伍中第</span><span lang="EN-US">i</span><span style="font-family: 宋体; ">个位置的奶牛的身高以及她唱歌时的音量．</span></span></p>
 <p></p></div>
 

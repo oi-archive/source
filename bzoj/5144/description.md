@@ -6,20 +6,20 @@
 <div>我留下了如同美梦一般的回忆 不过时间到了</div>
 <div>最后我还想拜托你一件事</div>
 <div>希望你可以把我忘掉</div>
-<div> <img src="source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xKDQpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xKDQpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>在自己消失之前</div>
 <div>心怀不想消失的愿望</div>
 <div>希望让某个人记住我</div>
 <div>希望能留下羁绊</div>
 <div>我这么希望着，又有什么不可以的吗</div>
-<div> <img src="source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8yKDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8yKDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>香香甜甜的，真好闻</div>
 <div>看起来很好吃</div>
-<div> <img src="source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8zKDQpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8zKDQpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>我遵守了...</div>
 <div>约...约定</div>
 <div>我非常...非常努力哦...</div>
-<div> <img src="source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS80KDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS80KDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>欢迎回来，珂朵莉</div>
 <div>珂朵莉给了你一个长为n的序列a，有m次操作</div>
 <div>1.把区间[l,r]内所有数都加上x</div>

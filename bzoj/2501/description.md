@@ -35,8 +35,7 @@ ranges: <br/>
 <p></p>
 <p></p>
 <p align="left"><b><font color="#333399" size="5">Sample Output</font> </b></p>
-<p>
-</p><p></p>
+<p></p><p></p>
 <span id="1320118971464E" style="display: none"> </span><span style="font-size: medium"><font face="Times New Roman">
 <p><br/>
 As can be seen, the first, second and fourth cows share the point 5, <br/>

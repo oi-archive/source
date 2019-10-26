@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MzYxLmpwZw==.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MzYxLmpwZw==.jpg"/> 
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div class="content"><span class="sampledata">4<br/>
 2<br/>
-<img border="0" src="source/bzoj/1836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MzYyLmpwZw==.jpg"/> </span></div>
+<img border="0" src="/source/bzoj/1836/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MzYyLmpwZw==.jpg"/> </span></div>
 
 # Hint
 

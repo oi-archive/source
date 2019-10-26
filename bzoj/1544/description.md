@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1544/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NDQuanBn.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1544/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1NDQuanBn.jpg"/> 
 我们只考虑射向整点的光线，那么这样的光线一共有(s+1)*(s+1)条。这些光线经过一系列平板镜子的反射（如果没有镜子阻挡也是可能直接射穿的）之后最终会从立方镜子的某个面出来（上图已经将面编号，并给定坐标轴方向）。现在你的任务就是求每个面出来的光线条数以及这些光线的反射次数和。
 </div>
 

@@ -62,7 +62,7 @@ P, Q: 整数数组。利用这两个数组报告Aizhan完成对序列S排序的�
 
 # Hint
 
-<div class="content"><p></p><p><img width="589" height="482" src="source/bzoj/4371/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8zMygxKS5naWY=.gif" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img width="589" height="482" src="/source/bzoj/4371/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi8zMygxKS5naWY=.gif" alt=""/></p><p></p></div>
 
 # Source
 

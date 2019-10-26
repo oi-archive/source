@@ -49,7 +49,7 @@ roads will be a line) </div>
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1767/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjcuanBn.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1767/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjcuanBn.jpg"/> <br/>
 </p></div>
 
 # Source

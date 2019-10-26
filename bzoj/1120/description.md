@@ -28,7 +28,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" border="0" src="source/bzoj/1120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMjAuanBn.jpg"/> </p><br/>
+<div class="content"><p></p><p><img alt="" border="0" src="/source/bzoj/1120/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMjAuanBn.jpg"/> </p><br/>
 <p>感谢MT大牛贡献译文.</p><p></p></div>
 
 # Source

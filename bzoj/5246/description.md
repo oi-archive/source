@@ -11,7 +11,7 @@
 <div>帮助他找到最佳的方案。当所有操作完成之后，Adam和Brenda必须一人拿走恰好一组串在一起的钥匙环。当然，如</div>
 <div>果某个人并没有想拿的钥匙的话，他会什么也不拿走。每把钥匙必须恰好挂在一个钥匙环上，钥匙环可以不挂任何</div>
 <div>钥匙，这些钥匙环将被遗弃。</div>
-<div><img src="source/bzoj/5246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC9waWMucG5n.png" width="604" height="212" alt=""/></div>
+<div><img src="/source/bzoj/5246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC9waWMucG5n.png" width="604" height="212" alt=""/></div>
 <div>如上图，一共有4把钥匙、3个钥匙环，其中Adam希望给Brenda两把钥匙(N和R)，自己拿走剩下两把(A和B)。从左图</div>
 <div>摆弄两次钥匙和一次钥匙环就得到了右图。</div>
 </div>

@@ -8,7 +8,7 @@
 2:空气的影响忽略不计
 3:立方体完全放到水池中。
 4:立方体不会旋转且相互不会接触 。
-<img border="0" src="source/bzoj/1371/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNzQuanBn.jpg"/>
+<img border="0" src="/source/bzoj/1371/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNzQuanBn.jpg"/>
 </div>
 
 # Input

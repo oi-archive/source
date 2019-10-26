@@ -10,7 +10,7 @@
 <div>因为“信号错误”，火车已经随机地分配在线路上。作为交通经理，你的任务就是尽可能地保证火车重新被均匀地</div>
 <div>分配到线路上。现给出火车的位置，你需要编写一个程序，计算最少花费多少时间能达到目标。你能够命令火车在</div>
 <div>任何地方即时停止，或者改变方向。如果一辆火车改变了方向，它将会从自己原本的轨道移动到另一个轨道。</div>
-<p><img border="0" src="source/bzoj/1763/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjMuanBn.jpg" alt=""/>  Figure 1：</p>
+<p><img border="0" src="/source/bzoj/1763/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjMuanBn.jpg" alt=""/>  Figure 1：</p>
 <div>两条轨道长度均为100。在上面的例子当中，火车处于的位置为5,35,46,75和85。一个能使火车重新均匀地在轨道</div>
 <div>上行驶的方法就是，位置46的火车向左行驶1单位，然后改变方向。这样就花了一个单位时间。然而，这并不是最</div>
 <div>佳的方法；具体请看下面的样例1。</div></div>

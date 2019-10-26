@@ -4,7 +4,7 @@
 <div class="content"><div>小花买了一只很有意思的魔术眼镜盒。眼镜盒盖由两半组成，每半水平分割为若干条纸带，如图1所示（左半为盒</div>
 <div>子底部，右半为盒子顶部）。灰色表示盒子的表面，白色表示空白区域。下图的眼镜盒有3个纸带，每个纸带的长</div>
 <div>度均为50(mm)，但其他眼镜盒可能有不同数目的纸带，每条纸带的长度也不一定一样</div>
-<div><img src="source/bzoj/1156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDIpLnBuZw==.png" width="482" height="247" alt=""/></div>
+<div><img src="/source/bzoj/1156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDIpLnBuZw==.png" width="482" height="247" alt=""/></div>
 <div>眼镜盒的特别之处在于它有两种折法。图1的(a)和(b)就是它的两种折法，第一种折法把区域1，2，3暴露在盒子的</div>
 <div>表面，而第二种折法把区域4，5，6暴露在盒子的表面。如果一个眼镜盒有n条纸带，那么折法1暴露出来的区域编</div>
 <div>号为1，2，...，n，折法2暴露出来的区域编号为n+1，n+2，...，2n。第i个区域和第n+i个区域是全等的。在本题</div>
@@ -17,7 +17,7 @@
 <div>盒，盒子长度、宽度、纸带数目和每条纸带的长度都是可以任意修改的，即长度可以不是150，宽度也可以不是55</div>
 <div>。小花发现如果眼镜盒子尺寸不变，而换四条长度为40, 45, 55和10的纸带，所有纸片就都能放下了，如图2所示</div>
 <div>。</div>
-<div> <img src="source/bzoj/1156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yKDEpLnBuZw==.png" width="482" height="247" alt=""/></div>
+<div> <img src="/source/bzoj/1156/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yKDEpLnBuZw==.png" width="482" height="247" alt=""/></div>
 <div>面积越大的眼镜盒越贵，因此小花希望买一个面积不超过s的眼镜盒。应该如何选购眼镜盒、设计纸带和贴小纸片</div>
 <div>，使得眼镜盒上的小纸片总数尽量多？纸片最多的前提下，眼镜盒的面积最小是多大？ </div>
 <div></div></div>

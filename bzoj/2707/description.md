@@ -42,8 +42,7 @@
 <div align="left"><span style="font-size: medium">【样例输出3】</span></div>
 <div style="text-indent: 21pt" align="left"><span style="font-size: medium">INF</span></div>
 <div align="left"><span style="font-size: medium">【数据范围】</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
     <tbody>
         <tr style="height: 14.35pt">
             <td valign="top" width="142" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 14.35pt; background-color: transparent">

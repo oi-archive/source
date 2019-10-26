@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="369" width="771" alt="" src="source/bzoj/2698/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMSgxKS5qcGc=.jpg"/></p>
+<div class="content"><p><img height="369" width="771" alt="" src="/source/bzoj/2698/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xMSgxKS5qcGc=.jpg"/></p>
 <p></p></div>
 
 # Input
@@ -12,8 +12,7 @@
 # Output
 
 <div class="content"><p>  输出一行为期望值，保留3位小数。</p>
-<p>
-<table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
     <tbody>
         <tr>
             <td valign="top" width="60" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 45.2pt; padding-top: 0cm; border-bottom: black 1pt solid; background-color: transparent">

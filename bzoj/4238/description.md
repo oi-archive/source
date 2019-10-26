@@ -35,7 +35,7 @@
 # Hint
 
 <div class="content"><p></p><div>可以选择第一根电阻或第四根电阻。</div><br/>
-<div> <img src="source/bzoj/4238/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC9iYi5qcGc=.jpg" width="364" height="174" alt=""/></div><br/>
+<div> <img src="/source/bzoj/4238/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC9iYi5qcGc=.jpg" width="364" height="174" alt=""/></div><br/>
 <div>2&lt;=N&lt;=10^5</div><br/>
 <div>1&lt;=M&lt;=2*10^5</div><br/>
 <div>不保证图是连通的，不保证没有重边</div><br/>

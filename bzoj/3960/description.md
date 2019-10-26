@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>为了了解早期文明，考古学家们经常会研究古代语言的书籍。有这样一种语言，它在3000多年前古老的埃及曾经被使用，是一种基于象形符号的语言。图1表示了六种象形符号以及它们的名字。在这个问题中，你需要写一个程序去辨识这6个字符。</div>
-<div><img src="source/bzoj/3960/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8zMy5qcGc=.jpg" width="819" height="282" alt=""/></div>
+<div><img src="/source/bzoj/3960/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC8zMy5qcGc=.jpg" width="819" height="282" alt=""/></div>
 <div></div>
 <p></p></div>
 
@@ -32,7 +32,7 @@
 <div>Akhet: K</div>
 <div>对于每个输出的字符串，字符要按照字典序输出。请参照输出样例的格式。</div>
 <div>输入样例包含图2和图3所示的测试点。由于空间的限制，样例数据并没有显示完全。</div>
-<div><img src="source/bzoj/3960/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC80NC5qcGc=.jpg" width="165" height="201" alt=""/></div>
+<div><img src="/source/bzoj/3960/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC80NC5qcGc=.jpg" width="165" height="201" alt=""/></div>
 <div></div>
 </div>
 <p></p></div>

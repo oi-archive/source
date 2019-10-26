@@ -6,7 +6,7 @@
 作为问题的第一步，我们给出一些操作臂的旋转操作，而小Y需要模拟这些操作并且随时回答某些联结点的位置。
 以下我们给出操作臂旋转操作的详细定义，每次旋转操作包含3个参数：[0,N-1]中的整数idx、一个[0, 2 * pi]中的实数alpha和一个模大于0的三维向量P。这个操作的意义是，以第idx为参考点，将操作臂编号不小于idx所有部分，以P为对称轴，逆时针旋转alpha。简单起见，在此过程中，你可以假定操作臂的活动是不受阻碍的。
 
-<img border="0" src="source/bzoj/1466/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NjYuanBn.jpg"/>
+<img border="0" src="/source/bzoj/1466/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NjYuanBn.jpg"/>
 
  
 我们来解释一下旋转操作的方向。你很容易分清你的前后上下左右，那么，x轴的正方向是从前到后；y轴的正方向是从左到右；z轴的正方向是从下到上。那么，举例说明：

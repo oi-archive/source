@@ -4,7 +4,7 @@
 <div class="content"><div>给定一个n*n的矩阵，矩阵中的每个数可能为1或-1。定义一种变换操作：矩阵中的每个数都变成变换前它上下左右</div>
 <div>四个数字的乘积（如果某个数上下左右某个位置没有数字，那就取其他数字的乘积）。</div>
 <div>例如：</div>
-<div><img src="source/bzoj/5176/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgyKS5wbmc=.png" width="496" height="116" alt=""/></div>
+<div><img src="/source/bzoj/5176/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMSgyKS5wbmc=.png" width="496" height="116" alt=""/></div>
 <div>如果一个矩阵经过这样的变换操作后，得到的矩阵和原来的矩阵完全相同，那么我们称这样的矩阵是“优美”的。</div>
 <div>（相同指对应位置的数字都相等，不考虑旋转或翻转后的相同。）现在，毛明明在一个空的矩阵中先选了若干个位</div>
 <div>置填上了数字，现在他想知道，如果把其他的位置都继续填满，最后得到的矩阵有多少种是“优美”的。</div>
@@ -37,7 +37,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/5176/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yMigyKS5wbmc=.png" width="316" height="332" alt=""/></p><br/>
+<div class="content"><p></p><p><img src="/source/bzoj/5176/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yMigyKS5wbmc=.png" width="316" height="332" alt=""/></p><br/>
 <p></p><p></p></div>
 
 # Source

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>给下N,M,K.求</div>
-<div><img width="500" height="54" alt="" src="source/bzoj/4407/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi9hYS5wbmc=.png"/></div>
+<div><img width="500" height="54" alt="" src="/source/bzoj/4407/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi9hYS5wbmc=.png"/></div>
 <div></div>
 <div></div>
 <p></p></div>

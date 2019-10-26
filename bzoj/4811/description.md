@@ -16,7 +16,7 @@
 <div>每次询问包含三个数x,y,z,初始选定一个数v。然后v依次经过从x到y的所有节点，每经过一个点i，v就变成v opti</div>
 <div> xi，所以他想问你，最后到y时，希望得到的值尽可能大，求最大值？给定的初始值v必须是在[0,z]之间。每次修</div>
 <div>改包含三个数x,y,z，意思是把x点的操作修改为y，数值改为z</div>
-<div><img src="source/bzoj/4811/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djIucG5n.png" width="822" height="515" alt=""/></div>
+<div><img src="/source/bzoj/4811/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djIucG5n.png" width="822" height="515" alt=""/></div>
 <p></p></div>
 
 # Input

@@ -47,7 +47,7 @@
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1930/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MzAuanBn.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1930/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MzAuanBn.jpg"/> <br/>
 <br/>
 N &lt; = 2000</p></div>
 

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>某城市的街道呈网格状，左下角坐标为A(0, 0)，右上角坐标为B(n, m)，其中n &gt;= m。现在从A(0, 0)点出发，只能沿着街道向正右方或者正上方行走，且不能经过图示中直线左上方的点，即任何途径的点(x, y)都要满足x &gt;= y，请问在这些前提下，到达B(n, m)有多少种走法。</div>
-<div><img src="source/bzoj/3907/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9mZjEoMSkucG5n.png" width="412" height="334" alt=""/></div></div>
+<div><img src="/source/bzoj/3907/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMy9mZjEoMSkucG5n.png" width="412" height="334" alt=""/></div></div>
 
 # Input
 

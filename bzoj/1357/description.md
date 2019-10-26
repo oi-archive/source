@@ -42,7 +42,7 @@ output data2<br/>
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1357/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNTcuanBn.jpg"/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1357/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNTcuanBn.jpg"/></p></div>
 
 # Source
 

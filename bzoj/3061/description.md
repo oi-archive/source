@@ -28,7 +28,7 @@ OUTPUT DETAILS: Farmer John should build fences between columns 2 and 3 and betw
 
 # Hint
 
-<div class="content"><p></p><p><img height="119" width="504" alt="" src="source/bzoj/3061/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMi8xMS5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="119" width="504" alt="" src="/source/bzoj/3061/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMi8xMS5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

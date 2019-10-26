@@ -40,7 +40,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img alt="" src="source/bzoj/2614/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDQpLmpwZw==.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img alt="" src="/source/bzoj/2614/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDQpLmpwZw==.jpg"/></p><p></p></div>
 
 # Source
 

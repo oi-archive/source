@@ -1,15 +1,14 @@
 
 # Description
 
-<div class="content"><p><img alt="" src="source/bzoj/2341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi8xMTEuanBn.jpg"/></p></div>
+<div class="content"><p><img alt="" src="/source/bzoj/2341/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNi8xMTEuanBn.jpg"/></p></div>
 
 # Input
 
 <div class="content"><p class="p0" style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 21.3pt"><span style="font-size: 10.5pt; font-family: &#39;宋体&#39;; mso-spacerun: &#39;yes&#39;">第一行两个正整数，<font face="Times New Roman">N</font><font face="宋体">表示山的折线上的拐点数（包括端点在内），</font><font face="Times New Roman">M</font><font face="宋体">则是你收到的消息数。</font><font face="Times New Roman">3 &lt;= N &lt;= 100000</font><font face="宋体">，</font><font face="Times New Roman">0 &lt;= M &lt;= 100000</font><font face="宋体">。</font></span><span style="font-size: 10.5pt; font-family: &#39;宋体&#39;; mso-spacerun: &#39;yes&#39;"><o:p></o:p></span></p>
 <p class="p0" style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 21.3pt"><span style="font-size: 10.5pt; font-family: &#39;宋体&#39;; mso-spacerun: &#39;yes&#39;">后面<font face="Times New Roman">N</font><font face="宋体">行，第</font><font face="Times New Roman">i</font><font face="宋体">行有两个非负整数</font><font face="Times New Roman">Xi</font><font face="宋体">和</font><font face="Times New Roman">Yi</font><font face="宋体">，表示折线上第</font><font face="Times New Roman">i</font><font face="宋体">个拐点的坐标。</font></span><span style="font-size: 10.5pt; font-family: &#39;宋体&#39;; mso-spacerun: &#39;yes&#39;"><o:p></o:p></span></p>
 <p class="p0" style="margin-top: 0pt; margin-bottom: 0pt; text-indent: 21.3pt"><span style="font-size: 10.5pt; font-family: &#39;宋体&#39;; mso-spacerun: &#39;yes&#39;">后面<font face="Times New Roman">M</font><font face="宋体">行，每行是以下两种情况之一：</font></span><span style="font-size: 10.5pt; font-family: &#39;Times New Roman&#39;; mso-spacerun: &#39;yes&#39;"><o:p></o:p></span></p>
-<p>
-<table style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0pt; padding-top: 0pt; border-collapse: collapse; mso-table-layout-alt: fixed">
+<p><table style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0pt; padding-top: 0pt; border-collapse: collapse; mso-table-layout-alt: fixed">
     <tbody>
         <tr>
             <td valign="top" width="92" style="border-right: rgb(0,0,0) 0.5pt solid; padding-right: 5.4pt; border-top: rgb(0,0,0) 0.5pt solid; padding-left: 5.4pt; padding-bottom: 0pt; border-left: rgb(0,0,0) 0.5pt solid; width: 69.2pt; padding-top: 0pt; border-bottom: rgb(0,0,0) 0.5pt solid; mso-border-left-alt: 0.5000pt solid rgb(0,0,0); mso-border-right-alt: 0.5000pt solid rgb(0,0,0); mso-border-top-alt: 0.5000pt solid rgb(0,0,0); mso-border-bottom-alt: 0.5000pt solid rgb(0,0,0)">

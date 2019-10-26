@@ -25,7 +25,7 @@
 在这个图中，假设灰色部分一被割下，那么如果切出红色矩形，一共切出了4块。<br/>
 数据范围约定：N,m&lt;=1000,p&lt;=100000<br/>
 <br/>
-<img border="0" src="source/bzoj/1476/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NzYuanBn.jpg"/><br/>
+<img border="0" src="/source/bzoj/1476/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NzYuanBn.jpg"/><br/>
 <br/>
 </span></div>
 

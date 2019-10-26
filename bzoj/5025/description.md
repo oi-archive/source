@@ -5,7 +5,7 @@
 <div>调递增的。注意，路径由多条首尾相连的边组成，且可经过同一顶点多次。路径的长度为它包含的边数。举例来说</div>
 <div>：下图中 v2→v3→v1→v2 是一条单调上升路径，因为每条边的权值为 1,2,4。这条路径的长度为 3。更进一步的</div>
 <div>，你可以验证下图中所有的单调上升路径的长度都不超过 3。</div>
-<div> <img src="source/bzoj/5025/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xMS5wbmc=.png" width="228" height="189" alt=""/></div>
+<div> <img src="/source/bzoj/5025/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xMS5wbmc=.png" width="228" height="189" alt=""/></div>
 <div>下面的结论指出在某些图中总会存在一个比较长的单调上升路径：</div>
 <div>结论：假设带权无向图 G 有 100个节点 1000 条边，且所有权值各不相同。</div>
 <div>那么，G 中一定存在一个单调上升路径，它的长度大于等于 20。</div>

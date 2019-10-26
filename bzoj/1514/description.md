@@ -34,7 +34,7 @@ Byteasar已经知道青蛙们的出发位置和目的地位置, 所以他在田�
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1514/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1MTQuanBn.jpg"/><br/>
+<div class="content"><p><img border="0" src="/source/bzoj/1514/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1MTQuanBn.jpg"/><br/>
 </p></div>
 
 # Source

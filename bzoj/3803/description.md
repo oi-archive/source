@@ -6,7 +6,7 @@
 <div>交，同时连的边的并集是原节点连的所有边。第二种操作是合并节点A，B</div>
 <div>条件是A，B的度都是1.问有最少多少次操作可以将图变成一个环。</div>
 <div>0&lt;=N&lt;=1000,1&lt;=M&lt;=5*10^4</div>
-<div><img src="source/bzoj/3803/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi8xMS5wbmc=.png" width="841" height="192" alt=""/></div>
+<div><img src="/source/bzoj/3803/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMi8xMS5wbmc=.png" width="841" height="192" alt=""/></div>
 <div></div>
 <p></p></div>
 

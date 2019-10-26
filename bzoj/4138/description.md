@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>给定平面上n个点(x1,y1),...,(xn,yn)，找出2个半径相同的圆R1和R2，覆盖给定的n个点，且半径最小。</div>
-<div><img src="source/bzoj/4138/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi8xMS5wbmc=.png" width="740" height="224" alt=""/></div>
+<div><img src="/source/bzoj/4138/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi8xMS5wbmc=.png" width="740" height="224" alt=""/></div>
 <div></div>
 <div>设计一个算法，计算出所求最小覆盖双圆 R1 和 R2 的半径。</div>
 <div></div>

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>给出n个数qi，给出Fj的定义如下：</div>
-<div><img src="source/bzoj/3527/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMS8xMS5qcGc=.jpg" width="411" height="109" alt=""/></div>
+<div><img src="/source/bzoj/3527/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMS8xMS5qcGc=.jpg" width="411" height="109" alt=""/></div>
 <div>令Ei=Fi/qi，求Ei.</div>
 <div></div></div>
 

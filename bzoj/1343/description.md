@@ -6,7 +6,7 @@
 <div>他决定只要围墙能将主宅包围起来就足够了，还有一点就是围墙不能离庄园中的任何一个建筑太近。也就是说，每</div>
 <div>个建筑都被一个禁止矩形包围，在这个矩形内部不允许有任何围墙。矩形的边平行于x轴和y轴。围墙的每一部分也</div>
 <div>必须平行于x轴或者y轴。 请你帮助Leopold计算包围主宅的围墙的最小长度。</div>
-<p><img border="0" src="source/bzoj/1343/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNDMuanBn.jpg" alt=""/></p>
+<p><img border="0" src="/source/bzoj/1343/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNDMuanBn.jpg" alt=""/></p>
 <div>图1：有主宅（黑色）和其他三个建筑，每个建筑外面灰色的矩行是禁止矩形，粗的黑线表示这种情况下最小的围</div>
 <div>墙长度。</div></div>
 

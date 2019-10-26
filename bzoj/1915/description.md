@@ -10,7 +10,7 @@
    *除了0号格子之外，她在回来的时候，停留的格子必须是恰巧过去的时候停留的某个格子的前一格(当然，也可以跳过某些过去时候停留的格子)。简单点说，如果i号格子是回来
 停留的格子，i+1号就必须是过去停留的格子，如果i+1号格子是过去停留的格子，i号格子不一定要是回来停留的格子。(如果这里不太清楚的可以去看英文原文)她得到的钱就是所有停留过的格子中的数字的和，请你求出最多奶牛可以得到的钱数。
     在样例中，K=2，一行5个格子。
-   <img border="0" src="source/bzoj/1915/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTUuanBn.jpg"/> 
+   <img border="0" src="/source/bzoj/1915/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTUuanBn.jpg"/> 
 
 
 

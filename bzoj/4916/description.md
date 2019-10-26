@@ -14,7 +14,7 @@
 
 <div class="content"><div>请你输出一个整数A=\sum_{i=1}^N{\mu (i^2)};</div>
 <div>请你输出一个整数B=\sum_{i=1}^N{\varphi (i^2)};</div>
-<div><img src="source/bzoj/4916/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS8xMS5wbmc=.png" width="143" height="200" alt=""/></div>
+<div><img src="/source/bzoj/4916/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNS8xMS5wbmc=.png" width="143" height="200" alt=""/></div>
 <p></p></div>
 
 # Sample Input

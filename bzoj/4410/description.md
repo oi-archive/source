@@ -7,9 +7,9 @@
 <div>这样，平面被划成了(n+1)*(m+1)块。</div>
 <div>现在要去掉某些栅栏的一部分，使得每一块都连通。</div>
 <div>比如原来是这样：</div>
-<p><img width="131" height="163" alt="" src="source/bzoj/4410/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8xLmpwZw==.jpg"/></p>
+<p><img width="131" height="163" alt="" src="/source/bzoj/4410/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8xLmpwZw==.jpg"/></p>
 <div>可以去掉后变成这样：</div>
-<p><img width="135" height="177" alt="" src="source/bzoj/4410/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8yKDEpLmpwZw==.jpg"/></p>
+<p><img width="135" height="177" alt="" src="/source/bzoj/4410/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMi8yKDEpLmpwZw==.jpg"/></p>
 <div>求最少需要去掉多少长度的栅栏使得每一块都连通。</div></div>
 
 # Input

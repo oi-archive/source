@@ -7,7 +7,7 @@
 <div>我们把沙漠看成一个正方形的网格，你与木乃伊轮流移动（你走出第一步）。轮到你时，你可以移动到相邻的8个格子之一，或者站着不动。轮到木乃伊时，每个木乃伊会移动到其相邻的格子之一，使得他与你的欧几里得距离尽量小（假设你与木乃伊都站在格子的中心位置）。允许多个木乃伊同时占据同一个格子。</div>
 <div>在每个单位时间内，你先做出移动，然后木乃伊做出移动。如果你与任何一个木乃伊站在同一位置，你会被抓住。当然，你试图尽量长时间避免被抓住。经过多少单位时间你会被抓住呢？</div>
 <div>下图描述了你被4个木乃伊追逐的例子。H代表你的初始位置，而M代表木乃伊的初始位置。以你的初始位置为原点，则经过4个单位时间后，你被初始位置为(3,4)的木乃伊抓住。</div>
-<div><img src="source/bzoj/3958/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9SZXF1aXJlRmlsZV9kbygyKS5qcGc=.jpg" width="800" height="800" alt=""/></div>
+<div><img src="/source/bzoj/3958/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNC9SZXF1aXJlRmlsZV9kbygyKS5qcGc=.jpg" width="800" height="800" alt=""/></div>
 <div></div>
 <p></p></div>
 

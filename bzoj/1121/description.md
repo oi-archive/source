@@ -24,7 +24,7 @@
 2 -1<br/>
 2 0<br/>
 1 0<br/>
-<img border="0" src="source/bzoj/1121/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMjEuanBn.jpg"/></span></div>
+<img border="0" src="/source/bzoj/1121/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMjEuanBn.jpg"/></span></div>
 
 # Sample Output
 

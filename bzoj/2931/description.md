@@ -4,7 +4,7 @@
 <div class="content"><p><font face="宋体" size="3">一场溜冰比赛在<span lang="EN-US">Byteland</span>最大的溜冰场举行。溜冰场是一个大小为<span lang="EN-US">10000 * 10000</span>的正方形。一个选手在裁判选定的起点开始滑冰，他的任务是滑到由裁判选定的终点。起点和终点不相同。一个选手在滑冰场的平行赛道上滑行。在滑冰场上设置了一些障碍物。每一个障碍物是一个棱柱，它的底部是边与滑冰场的各边平行的多边形。底部的每两个相邻的边总是垂直的。障碍物没有公共点。每一个滑道完结于一个点，在一个选手首先碰到一个障碍物的垂直于滑道方向一面。换一句话说，仅当一个选手撞到墙或者到了终点才能停下来。摔到溜冰场外则取消参赛资格。选手可以沿着障碍物的墙滑行。</font></p>
 <p></p>
 <p></p>
-<p><img height="243" width="490" alt="" src="source/bzoj/2931/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSgxKS5qcGc=.jpg"/></p>
+<p><img height="243" width="490" alt="" src="/source/bzoj/2931/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSgxKS5qcGc=.jpg"/></p>
 <div>判断一个选手依照所给的规则是否可以到达终点，假设他从起点开始滑行。如果如此，那么他需要滑行的最少数目是多少？</div>
 <div style="margin: auto 0cm"><b><font size="3">任务</font></b></div>
 <div>写一个程序:</div>
@@ -68,7 +68,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="559" width="564" alt="" src="source/bzoj/2931/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8yMi5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="559" width="564" alt="" src="/source/bzoj/2931/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8yMi5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

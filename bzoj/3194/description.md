@@ -4,7 +4,7 @@
 <div class="content"><div class="ptx" lang="en-US"><span style="font-size: medium">Gnaileux Iew is attracted in Bioinformatics recently. He reads papers day and night and devotes all his mind in studying. Today he is going to review the basic problem in Bioinformatics: DNA sequence alignment. His purpose is to find a simple and effective algorithm that performs global alignment with two highly similar DNA sequences. <br/>
 <br/>
 A DNA sequence is presented as a sequence of characters, which may be &#39;A&#39;, &#39;G&#39;, &#39;C&#39; or &#39;T&#39;. To align two DNA sequences, some gaps may be inserted to sequences so that two sequences have the same length. And then it is counted up for every pair of matched characters by a score matrix. Gnaileux Iew uses a minimal-score matrix hence the total score of alignment should be minimized. Following is the score matrix Gnaileux Iew uses: <br/>
-</span><center><span style="font-size: medium"><img src="source/bzoj/3194/img/aHR0cDovL3Bvai5vcmcvaW1hZ2VzLzI1MjBfMS5qcGc=.jpg" alt=""/></span></center><span style="font-size: medium"><br/>
+</span><center><span style="font-size: medium"><img src="/source/bzoj/3194/img/aHR0cDovL3Bvai5vcmcvaW1hZ2VzLzI1MjBfMS5qcGc=.jpg" alt=""/></span></center><span style="font-size: medium"><br/>
 For example, an alignment for DNA sequences &#34;AAGACG&#34; and &#34;CAGAGCTC&#34; may be: <br/>
 -AAGA-C-G <br/>
 CA-GAGCTC <br/>

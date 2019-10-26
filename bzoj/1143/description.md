@@ -4,7 +4,7 @@
 <div class="content"><div>　　在遥远的东方，有一个神秘的民族，自称Y族。他们世代居住在水面上，奉龙王为神。每逢重大庆典， Y族都</div>
 <div>会在水面上举办盛大的祭祀活动。我们可以把Y族居住地水系看成一个由岔口和河道组成的网络。每条河道连接着</div>
 <div>两个岔口，并且水在河道内按照一个固定的方向流动。显然，水系中不会有环流（下图描述一个环流的例子）。</div>
-<p><img alt="" border="0" src="source/bzoj/1143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDMuanBn.jpg"/> </p>
+<p><img alt="" border="0" src="/source/bzoj/1143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDMuanBn.jpg"/> </p>
 <div>　　由于人数众多的原因，Y族的祭祀活动会在多个岔口上同时举行。出于对龙王的尊重，这些祭祀地点的选择必</div>
 <div>须非常慎重。准确地说，Y族人认为，如果水流可以从一个祭祀点流到另外一个祭祀点，那么祭祀就会失去它神圣</div>
 <div>的意义。族长希望在保持祭祀神圣性的基础上，选择尽可能多的祭祀的地点。</div></div>

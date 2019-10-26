@@ -6,7 +6,7 @@
 描述的街道，每一条这样的街道链接了两个相邻的自南向北的道路。当然自西向东和自东向西的道路可以重叠，那<br/>
 就是一个双向的街道了。<br/>
 </span></p>
-<p><span style="font-size: medium"> <img border="0" alt="" src="source/bzoj/1107/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDdfMS5qcGc=.jpg"/> </span></p>
+<p><span style="font-size: medium"> <img border="0" alt="" src="/source/bzoj/1107/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDdfMS5qcGc=.jpg"/> </span></p>
 <p><span style="font-size: medium">　　考生选择一个自南向北的道路作为他考试的起始点和另外一个自南向北的道路作为他考试的终止点。他们的考<br/>
 试项目是将车从开始的道路驾驶到作为终止点的道路。考生们总是选择一个可以到达所有其他街道的起始道路作为<br/>
 开始点。现在，考生们总是感到十分无趣因为他们只有很少的起始道路可以选择，所以教练们决定改造先有的考试<br/>
@@ -33,7 +33,7 @@
 3 3 1<br/>
 1 1 1<br/>
 3 3 0<br/>
-<img border="0" src="source/bzoj/1107/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDdfMi5qcGc=.jpg"/><br/>
+<img border="0" src="/source/bzoj/1107/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDdfMi5qcGc=.jpg"/><br/>
 </span></div>
 
 # Sample Output

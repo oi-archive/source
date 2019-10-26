@@ -7,7 +7,7 @@
 <div>JOI酱和IOI酱想要设立一个叫做“JOIOI座”的星座。首先。两个人决定使用红色、蓝色、黄色三种颜色的星各一个构成的三角形。他们将这样的三角形称作“好三角形”。</div>
 <div>两人将满足以下条件的好三角形无序二元组作为JOIOI座的候补：</div>
 <div>两个三角形没有公共点(包括内部和边界)。换言之，两个三角形之间既不相交，也不存在某个三角形包含另一个三角形。</div>
-<div> <img src="source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8xLmpwZw==.jpg" width="0" height="0" alt=""/><img src="source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8xKDEpLmpwZw==.jpg" width="617" height="235" alt=""/></div>
+<div> <img src="/source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8xLmpwZw==.jpg" width="0" height="0" alt=""/><img src="/source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8xKDEpLmpwZw==.jpg" width="617" height="235" alt=""/></div>
 <div>JOI酱和IOI酱想知道构成JOIOI座的候补一共有多少种方案。</div>
 <div>注意如果构成三角形的6个点一样但是构成三角形的方式不同，算作不同的方案。</div>
 <div>现在给出展望台上能观测到的星星的信息，请求出构成JOIOI座的候补一共有多少种方案</div>
@@ -42,7 +42,7 @@
 # Hint
 
 <div class="content"><p></p><div>样例中，JOIOI的候补有以下四种方案：</div><br/>
-<div> <img src="source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8yLmpwZw==.jpg" width="584" height="578" alt=""/></div><br/>
+<div> <img src="/source/bzoj/4246/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC8yLmpwZw==.jpg" width="584" height="578" alt=""/></div><br/>
 <div>6&lt;=N&lt;=3000</div><br/>
 <div>-10^5&lt;=Xi&lt;=10^5(1&lt;=i&lt;=N)</div><br/>
 <div>-10^5&lt;=Yi&lt;=10^5(1&lt;=i&lt;=N)</div><br/>

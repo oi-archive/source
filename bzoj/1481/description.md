@@ -19,7 +19,7 @@ S：暴风雨的咒符。走到这里所需的时间是正常情况的两倍。
 生存，或者死亡。全掌握在你的手中，不，是心中。
 （下面是一个例子，箭头标出了部分路线，并没有把可走的路全部标出）
 
-<img border="0" src="source/bzoj/1481/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0ODEuanBn.jpg"/></div>
+<img border="0" src="/source/bzoj/1481/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0ODEuanBn.jpg"/></div>
 
 # Input
 

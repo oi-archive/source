@@ -37,7 +37,7 @@ No</span></div>
 # Hint
 
 <div class="content"><p></p><div id="pcont1" style="margin-top: 20px; display: block; word-spacing: 0px; font: 12px ����, &#39;Times New Roman&#39;; text-transform: none; color: rgb(0,0,0); text-indent: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(255,255,255); text-align: left; orphans: 2; widows: 2; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px"><br/>
-<div class="pdcont" style="font-size: 14px; color: rgb(32,0,0); font-family: &#39;Times New Roman&#39;, ����"><img height="313" width="523" alt="" src="source/bzoj/2961/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSg2KS5qcGc=.jpg"/></div><br/>
+<div class="pdcont" style="font-size: 14px; color: rgb(32,0,0); font-family: &#39;Times New Roman&#39;, ����"><img height="313" width="523" alt="" src="/source/bzoj/2961/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xMSg2KS5qcGc=.jpg"/></div><br/>
 <div class="pdcont" style="font-size: 14px; color: rgb(32,0,0); font-family: &#39;Times New Roman&#39;, ����">对于100%的数据，n≤500000，所有坐标绝对值不超过10000。<br/><br/>
 　　输入数据保证圆心纵坐标为正，横坐标非零。<br/><br/>
 　　圆心坐标保留4位小数，询问点坐标保留6位小数，请选手注意控制精度。<br/><br/>

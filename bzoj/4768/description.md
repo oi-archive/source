@@ -6,7 +6,7 @@
 <div>(2):在当前字符串的后面删除若干个字符</div>
 <div>(3):询问字符串s在当前字符串中出现了几次？(作为连续子串)</div>
 <div>你必须在线支持这些操作。</div>
-<div><img src="source/bzoj/4768/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMy8xLnBuZw==.png" width="730" height="336" alt=""/></div>
+<div><img src="/source/bzoj/4768/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMy8xLnBuZw==.png" width="730" height="336" alt=""/></div>
 <p></p></div>
 
 # Input

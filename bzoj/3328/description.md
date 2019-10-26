@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="626" alt="" width="481" src="source/bzoj/3328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xKDEpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="626" alt="" width="481" src="/source/bzoj/3328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xKDEpLmpwZw==.jpg"/></p></div>
 
 # Input
 
@@ -26,7 +26,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="209" alt="" width="626" src="source/bzoj/3328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8yKDEpLmpwZw==.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="209" alt="" width="626" src="/source/bzoj/3328/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8yKDEpLmpwZw==.jpg"/></p><p></p></div>
 
 # Source
 

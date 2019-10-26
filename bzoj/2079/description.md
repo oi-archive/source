@@ -26,7 +26,7 @@
 # Sample Output
 
 <div class="content"><span class="sampledata">TAK<br/>
-<img border="0" src="source/bzoj/2079/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzkuanBn.jpg"/> <br/>
+<img border="0" src="/source/bzoj/2079/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzkuanBn.jpg"/> <br/>
 YYD的城市是圆圈,FSR的城市是菱形. </span></div>
 
 # Hint

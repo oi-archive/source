@@ -2,8 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium; ">Farmer John&#39;s N (1 &lt;= N &lt;= 500) cows are trying to select the milking team for the world-famous Multistate Milking Match-up (MMM) competition. As you probably know, any team that produces at least X (1 &lt;= X &lt;= 1,000,000) gallons of milk is a winner.  Each cow has the potential of contributing between -10,000 and 10,000 gallons of milk. (Sadly, some cows have a tendency to knock over jugs containing milk produced by other cows.)  The MMM prides itself on promoting family values. FJ&#39;s cows have no doubt that they can produce X gallons of milk and win the contest, but to support the contest&#39;s spirit, they want to send a team with as many parent-child relationships as possible (while still producing at least X gallons of milk). Not surprisingly, all the cows on FJ&#39;s farm are female.  Given the family tree of FJ&#39;s cows and the amount of milk that each would contribute, compute the maximum number of parent-child relationships that can exist in a winning team. Note that a set of cows with a grandmother-mother-daughter combination has two parent-child relationships (grandmother-mother, mother-daughter).</span></p>
-<p>
-</p><p class="MsoNormal"><span style="font-size: medium; "><br/>
+<p></p><p class="MsoNormal"><span style="font-size: medium; "><br/>
 </span></p>
 <p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">    </span><span style="font-family: 宋体; ">约翰的</span><span lang="EN-US">N(1</span><span style="font-family: 宋体; ">≤</span><span lang="EN-US">N</span><span style="font-family: 宋体; ">≤</span><span lang="EN-US">500)</span><span style="font-family: 宋体; ">头奶牛打算组队去参加一个世界级的产奶比赛</span><span lang="EN-US">(Multistate Milking</span></span></p>
 <p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">Match-up</span><span style="font-family: 宋体; ">，缩写为</span><span lang="EN-US">MMM)</span><span style="font-family: 宋体; ">．她们很清楚其他队的实力，也就是说，她们派出的队只要能产出至少</span><span lang="EN-US">X(I</span><span style="font-family: 宋体; ">≤</span><span lang="EN-US">X</span><span style="font-family: 宋体; ">≤</span><span lang="EN-US">1000000)</span><span style="font-family: 宋体; ">加仑牛奶，就能赢得这场比赛．</span><span lang="EN-US">    </span><span style="font-family: 宋体; ">每头牛都能为集体贡献一定量的牛奶，数值在</span><span lang="EN-US">-10000</span><span style="font-family: 宋体; ">到</span><span lang="EN-US">10000</span><span style="font-family: 宋体; ">之间（有些奶牛总是想弄翻装着其他奶牛产的奶的瓶子）．</span></span></p>
@@ -14,8 +13,7 @@
 # Input
 
 <div class="content"><p><span style="font-size: medium; ">* Line 1: Two space-separated integers, N and X.  * Lines 2..N+1: Line i+1 contains two space-separated integers         describing cow i. The first integer is the number of gallons         of milk cow i would contribute. The second integer (range         1..N) is the index of the cow&#39;s mother. If the cow&#39;s mother is         unknown, the second number is 0. The family information has no         cycles: no cow is her own mother, grandmother, etc. </span></p>
-<p>
-</p><div><span style="font-size: medium; "><br/>
+<p></p><div><span style="font-size: medium; "><br/>
 </span></div>
 <div>
 <p class="MsoNormal"><span style="font-size: medium; "><span lang="EN-US">    </span><span style="font-family: 宋体; ">第</span><span lang="EN-US">1</span><span style="font-family: 宋体; ">行：两个用空格隔开的整数</span><span lang="EN-US">N</span><span style="font-family: 宋体; ">和</span><span lang="EN-US">X.</span></span></p>

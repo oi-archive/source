@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><span style="font-size: medium"><img alt="" src="source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMS5qcGc=.jpg"/></span></p>
+<div class="content"><p><span style="font-size: medium"><img alt="" src="/source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMS5qcGc=.jpg"/></span></p>
 <div>格丁尼亚的中心位于Kacza河中的一座岛屿。每天清晨，成千上万辆汽车通过岛屿从西岸的住宅区（由桥连接岛的</div>
 <div>西部）到东岸的工业区（由桥连接岛的东部）。该岛类似于矩形，它的边平行于主方向。故可将它看作是笛卡尔坐</div>
 <div>标系中的一个A*B的矩形，它的对角分别为（0, 0）和（A, B）。岛上有n个交通节点，编号为1…n（junction, 此</div>
@@ -13,7 +13,7 @@
 
 # Input
 
-<div class="content"><p><img alt="" src="source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMi5qcGc=.jpg"/></p>
+<div class="content"><p><img alt="" src="/source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMi5qcGc=.jpg"/></p>
 <div>第1行包含4个整数n, m, A, B(1≤n≤300000, 0≤m≤900000,1≤A,B≤109)，</div>
 <div>分别表示格丁尼亚市中心的节点数，街道数和岛屿的尺寸。</div>
 <div>接下来的n行，每行包含两个整数xi，yi (0≤xi≤A,0≤yi≤B)，表示第i个节点的坐标。任意两个节点的坐标都不相同。</div>
@@ -24,7 +24,7 @@
 
 # Output
 
-<div class="content"><p><img height="100" alt="" width="886" src="source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMy5qcGc=.jpg"/></p>
+<div class="content"><p><img height="100" alt="" width="886" src="/source/bzoj/2387/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNy9lMy5qcGc=.jpg"/></p>
 <p><font size="4">为每个西岸节点输出1行，包括从这个节点出发能够到达东岸的节点数目</font></p></div>
 
 # Sample Input

@@ -35,7 +35,7 @@ NIE<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1141/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDFfMi5qcGc=.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1141/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExNDFfMi5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

@@ -7,7 +7,7 @@
 <div>During the adventure, the story may develop differently depending on the amount of a certain kind of energy. Sometimes there will be some CGs, but some of CGs may only appear in some certain sub-story.</div>
 <div>ZCC has played this game many times, but failed to collect some of the CGs. Now he wonders, How many kinds of CGs is collectable?</div>
 <div>The Scenario is given in the form of C++ like code.</div>
-<div><img src="source/bzoj/3842/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9hYSgxKS5qcGc=.jpg" width="576" height="204" alt=""/></div>
+<div><img src="/source/bzoj/3842/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9hYSgxKS5qcGc=.jpg" width="576" height="204" alt=""/></div>
 <div></div>
 <div></div>
 <div>As an explanation:</div>

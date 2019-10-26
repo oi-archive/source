@@ -3,7 +3,7 @@
 
 <div class="content"><div>特工Star历经千辛万苦，潜入了敌国的信息中心。在那里，他盗取了一份含有重要情报的文件。这份文件是一个整</div>
 <div>数序列{bi}，其长度为N。根据已知的信息，敌国的文件都由下列方式加密而成：</div>
-<div><img src="source/bzoj/5267/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8zNjczKDEpLnBuZw==.png" width="406" height="54" alt=""/></div>
+<div><img src="/source/bzoj/5267/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8zNjczKDEpLnBuZw==.png" width="406" height="54" alt=""/></div>
 <div>{ai}为加密前的序列，它和{bi}有着相同的长度；bitcount(x)含义为计算x二进制位中1的个数。现在，请你帮助S</div>
 <div>tar快速破译出加密前的序列{ai}。</div>
 <div></div>

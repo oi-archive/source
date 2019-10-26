@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"> <img border="0" src="source/bzoj/2077/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzcuanBn.jpg"/> 
+<div class="content"> <img border="0" src="/source/bzoj/2077/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzcuanBn.jpg"/> 
 </div>
 
 # Input
@@ -37,7 +37,7 @@
 
 # Hint
 
-<div class="content"><p> <img border="0" src="source/bzoj/2077/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzguanBn.jpg"/> <br/>
+<div class="content"><p><img border="0" src="/source/bzoj/2077/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwNzguanBn.jpg"/> <br/>
 </p></div>
 
 # Source

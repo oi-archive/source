@@ -1,8 +1,8 @@
 
 # Description
 
-<div class="content"><p><img alt="" src="source/bzoj/2806/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8xKDQpLmpwZw==.jpg"/></p>
-<p><img alt="" src="source/bzoj/2806/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8yKDIpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img alt="" src="/source/bzoj/2806/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8xKDQpLmpwZw==.jpg"/></p>
+<p><img alt="" src="/source/bzoj/2806/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNS8yKDIpLmpwZw==.jpg"/></p></div>
 
 # Input
 

@@ -8,7 +8,7 @@
 <div>3.棋盘的每一列至少有一个小方格被染色。</div>
 <div>4.种颜色都在棋盘上出现至少一次。</div>
 <div>以下是一些将3×3棋盘染成C=3种颜色（红、黄、蓝）的例子：</div>
-<p><img width="512" height="150" src="source/bzoj/4487/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9hYSgxKS5wbmc=.png" alt=""/></p>
+<p><img width="512" height="150" src="/source/bzoj/4487/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9hYSgxKS5wbmc=.png" alt=""/></p>
 <p>请你求出满足要求的不同的染色方案总数。只要存在一个位置的颜色不同，<br/>
 即认为两个染色方案是不同的</p></div>
 

@@ -43,7 +43,7 @@
 
 # Hint
 
-<div class="content"><p></p><p> <img src="source/bzoj/5248/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8xMS5qcGc=.jpg" width="378" height="512" alt=""/></p><p></p></div>
+<div class="content"><p></p><p> <img src="/source/bzoj/5248/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC8xMS5qcGc=.jpg" width="378" height="512" alt=""/></p><p></p></div>
 
 # Source
 

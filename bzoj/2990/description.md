@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><img height="192" alt="" width="800" src="source/bzoj/2990/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xLmpwZw==.jpg"/></p>
+<div class="content"><p><img height="192" alt="" width="800" src="/source/bzoj/2990/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMi8xLmpwZw==.jpg"/></p>
 <p></p></div>
 
 # Input

@@ -67,7 +67,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/5307/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92djEoMykuanBn.jpg" width="501" height="260" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img src="/source/bzoj/5307/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNC92djEoMykuanBn.jpg" width="501" height="260" alt=""/></p><p></p></div>
 
 # Source
 

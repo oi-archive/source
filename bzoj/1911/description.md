@@ -1,17 +1,17 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMS5qcGc=.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMS5qcGc=.jpg"/> 
 </div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMi5qcGc=.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMi5qcGc=.jpg"/> 
 </div>
 
 # Output
 
-<div class="content"><img border="0" src="source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMy5qcGc=.jpg"/> 
+<div class="content"><img border="0" src="/source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfMy5qcGc=.jpg"/> 
 </div>
 
 # Sample Input
@@ -26,7 +26,7 @@
 
 # Hint
 
-<div class="content"><p><img border="0" src="source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfNC5qcGc=.jpg"/> </p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1911/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5MTFfNC5qcGc=.jpg"/> </p></div>
 
 # Source
 

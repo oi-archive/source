@@ -57,7 +57,7 @@
 
 # Hint
 
-<div class="content"><p></p><p> <img src="source/bzoj/4792/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMoMikuanBn.jpg" width="425" height="421" alt=""/></p><br/>
+<div class="content"><p></p><p> <img src="/source/bzoj/4792/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC9waWMoMikuanBn.jpg" width="425" height="421" alt=""/></p><br/>
 <p>区间[3,29]、[33,33]和[36,37]组成最优3近似，其覆盖住的总面积为30。</p><p></p></div>
 
 # Source

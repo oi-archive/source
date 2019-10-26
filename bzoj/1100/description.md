@@ -52,7 +52,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" alt="" src="source/bzoj/1100/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDAuanBn.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img border="0" alt="" src="/source/bzoj/1100/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMDAuanBn.jpg"/></p><p></p></div>
 
 # Source
 

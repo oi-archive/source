@@ -35,7 +35,7 @@
 # Hint
 
 <div class="content"><p></p><div>所有满足要求的田地由下图所示：</div><br/>
-<div> <img src="source/bzoj/4237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC9hYS5qcGc=.jpg" width="549" height="186" alt=""/></div><br/>
+<div> <img src="/source/bzoj/4237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOC9hYS5qcGc=.jpg" width="549" height="186" alt=""/></div><br/>
 <div>1&lt;=N&lt;=2*10^5</div><br/>
 <div>0&lt;=Xi&lt;=10^9(1&lt;=i&lt;=N)</div><br/>
 <div>0&lt;=Yi&lt;=10^9(1&lt;=i&lt;=N)</div><br/>

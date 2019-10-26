@@ -51,7 +51,7 @@ output 2<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/4356/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9hYS5qcGc=.jpg" width="512" height="236" alt=""/></p><br/>
+<div class="content"><p></p><p><img src="/source/bzoj/4356/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9hYS5qcGc=.jpg" width="512" height="236" alt=""/></p><br/>
 <p></p><p></p></div>
 
 # Source

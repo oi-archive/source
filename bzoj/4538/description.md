@@ -86,7 +86,7 @@
 # Hint
 
 <div class="content"><p></p><p>样例给出的树如下所示：<br/><br/>
-<img width="403" height="185" alt="" src="source/bzoj/4538/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMjIucG5n.png"/><br/><br/>
+<img width="403" height="185" alt="" src="/source/bzoj/4538/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMjIucG5n.png"/><br/><br/>
 解释其中的部分询问；下面的解释中用(a,b;t,v)表示在t时刻出现的服务器a和b之间的重<br/><br/>
 要度为v的请求：<br/><br/>
 对于第一个询问（在时刻1），此时没有任何请求，输出-1。<br/><br/>

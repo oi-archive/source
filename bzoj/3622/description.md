@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><p><img height="399" alt="" width="861" src="source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8xKDUpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="399" alt="" width="861" src="/source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8xKDUpLmpwZw==.jpg"/></p></div>
 
 # Input
 
-<div class="content"><p><img height="123" alt="" width="862" src="source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8yKDQpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="123" alt="" width="862" src="/source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8yKDQpLmpwZw==.jpg"/></p></div>
 
 # Output
 
-<div class="content"><p><img height="123" alt="" width="862" src="source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8zKDQpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="123" alt="" width="862" src="/source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS8zKDQpLmpwZw==.jpg"/></p></div>
 
 # Sample Input
 
@@ -24,7 +24,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="139" alt="" width="866" src="source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS80KDEpLmpwZw==.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="139" alt="" width="866" src="/source/bzoj/3622/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNS80KDEpLmpwZw==.jpg"/></p><br/>
 <p>输入的2*n个数字保证全不相同。</p><br/>
 <div style="font-family: Helvetica, &#39;Microsoft Yahei&#39;, verdana; font-size: 14px; line-height: 15.333333015441895px;">还有输入应该是第二行是糖果，第三行是药片</div><br/>
 <p></p><p></p></div>

@@ -15,7 +15,7 @@
 <div>5. 交换两小列。</div>
 <div>6. 左上到右下沿斜对称轴的翻转。</div>
 <div>（如下图）</div>
-<div><img src="source/bzoj/4495/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMigxKS5wbmc=.png" width="329" height="328" alt=""/></div>
+<div><img src="/source/bzoj/4495/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8yMigxKS5wbmc=.png" width="329" height="328" alt=""/></div>
 <div></div>
 <div>因此你需要帮助 Kopi 找到他的数据库中的相似的数独</div>
 <div></div>

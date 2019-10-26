@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>我方现在有N个据点，司令部建立这些点围成的区域中。现在敌人准备爆掉其中一些点。使得无论我方将司令部建在哪里，最终都不会在剩下的点围成的区域中。</p>
-<p><img height="255" width="715" alt="" src="source/bzoj/2642/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8zOTY4XzEuSlBH.JPG"/></p></div>
+<p><img height="255" width="715" alt="" src="/source/bzoj/2642/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8zOTY4XzEuSlBH.JPG"/></p></div>
 
 # Input
 

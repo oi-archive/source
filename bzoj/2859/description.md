@@ -6,7 +6,7 @@
 <div>道路走，每个地点最多被经过一次，并且你走过的道路对应的线段只能在公共端点处相交。但是有时候允许一些特</div>
 <div>例，具体说就是你走过的某条道路可以和最初走的道路相交最多一次。</div>
 <div>你的任务是求出最多能走过的道路数，并给出一个可行的起点。</div>
-<div><img src="source/bzoj/2859/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xMS5qcGc=.jpg" width="338" height="358" alt=""/></div></div>
+<div><img src="/source/bzoj/2859/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xMS5qcGc=.jpg" width="338" height="358" alt=""/></div></div>
 
 # Input
 

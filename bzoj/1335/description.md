@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>给定一个三边已知的三角形，和一根绳长固定的绳子，求绳子在三角形内部形成的图形面积最大值</p>
-<div><img src="source/bzoj/1335/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC9hYS5wbmc=.png" width="341" height="255" alt=""/></div></div>
+<div><img src="/source/bzoj/1335/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC9hYS5wbmc=.png" width="341" height="255" alt=""/></div></div>
 
 # Input
 

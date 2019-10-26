@@ -5,8 +5,7 @@
 <p>We will also assume that for each team there exists a number between 0 and 1, inclusive, denoting the skill level of that team, such that each penalty shot taken by that team results in a goal with probability equal to that number. You can assume that all shots are independent.</p>
 <p>Your friend, an eager sports better, tells you that he knows that team 1 will win with probability <b>p1</b>%, team 2 will win with probability <b>p2</b>%, and the probability of a draw is <b>pDraw</b>%. You need to check if such a probability distribution is possible. In other words, can there exist two teams with valid skill levels such that those three outcomes would happen with the given probabilities?</p>
 <p>Given ints <b>p1</b>, <b>pDraw</b>, <b>p2</b> and <b>k</b>, return &#34;YES&#34; if such a distribution is possible, and &#34;NO&#34; otherwise (quotes for clarity only).</p>
-<p>
-<table>
+<p><table>
     <tbody>
         <tr>
             <td class="statText" colspan="2">

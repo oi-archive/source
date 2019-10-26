@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span lang="EN-US"><font face="Verdana">Bytel </font></span><span style="font-family: 宋体; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana">公司开始生产一种串</span><span lang="EN-US"><font face="Verdana">-</font></span><span style="font-family: 宋体; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana">并联电路，每个这样的电路包含很多相连的电子单元以及两个电源，一个串</span><span lang="EN-US"><font face="Verdana">-</font></span><span style="font-family: 宋体; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana">并联电路可能有以下组成</span><span lang="EN-US"><font face="Verdana">: </font></span></p>
-<p><span lang="EN-US"><font face="Verdana"><img height="457" width="487" alt="" src="source/bzoj/2609/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDMpLmpwZw==.jpg"/></font></span></p>
+<p><span lang="EN-US"><font face="Verdana"><img height="457" width="487" alt="" src="/source/bzoj/2609/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy8xKDMpLmpwZw==.jpg"/></font></span></p>
 <p><span lang="EN-US"><font face="Verdana">
 </font></span></p><p><font face="Verdana"><span style="font-size: medium"><span style="font-family: 宋体; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana">这些电路都将组装在一个双面的电路板上。现在的问题就是要确定哪些电路印在正面和哪些印在反面。因为一些技术原因电路应该尽量多的印在反面，但是要求每个单元至少要有一条连接的线路印在正面。求怎样规划使得印在正面的线路最少。</span></span></font></p><font face="Verdana">
 </font><p></p></div>

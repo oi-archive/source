@@ -32,7 +32,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="189" width="813" alt="" src="source/bzoj/1689/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMSgxKS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="189" width="813" alt="" src="/source/bzoj/1689/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8xMSgxKS5qcGc=.jpg"/></p><br/>
 <p></p><p></p></div>
 
 # Source

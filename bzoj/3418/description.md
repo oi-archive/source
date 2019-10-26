@@ -83,7 +83,7 @@ C<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img height="265" width="198" alt="" src="source/bzoj/3418/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS9hZmYoNSkuanBn.jpg"/></p><p></p></div>
+<div class="content"><p></p><p><img height="265" width="198" alt="" src="/source/bzoj/3418/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS9hZmYoNSkuanBn.jpg"/></p><p></p></div>
 
 # Source
 

@@ -21,7 +21,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" src="source/bzoj/1505/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1MDUuanBn.jpg" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img border="0" src="/source/bzoj/1505/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE1MDUuanBn.jpg" alt=""/></p><p></p></div>
 
 # Source
 

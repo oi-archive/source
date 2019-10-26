@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div><span style="font-size: medium">给定带权无向图，求出一颗方差最小的生成树，方差的定义如下：</span></div>
-<div><span style="font-size: medium"><img height="142" width="309" alt="" src="source/bzoj/3080/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMSg1KS5qcGc=.jpg"/></span></div></div>
+<div><span style="font-size: medium"><img height="142" width="309" alt="" src="/source/bzoj/3080/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMSg1KS5qcGc=.jpg"/></span></div></div>
 
 # Input
 

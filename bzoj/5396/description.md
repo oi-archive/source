@@ -12,7 +12,7 @@
 <div>飞出悬崖的羽咲。</div>
 <div>身体浮在半空中。</div>
 <div>在下一瞬间，便听任自由落体定律…径直坠下陡峭的悬崖</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8xKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>细长的双眼…注视着我的眼睛。</div>
 <div>这是幻觉吗…还是现实…</div>
 <div>卓司的指尖捅破了头盖骨…</div>
@@ -24,11 +24,11 @@
 <div>我的意识仍朦胧起来…</div>
 <div>已经无法与这个世界保持联系了…</div>
 <div>&#34;我…收下皆守哥哥的身体了哦…&#34;</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDMpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8yKDMpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>司空见惯的风景。</div>
 <div>比之前看到的风景更让人眼熟。</div>
 <div>我所熟悉的风景…</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi8zKDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>&#34;我会把他带走的…所以你走吧…&#34;</div>
 <div>&#34;卓司…那个电波小子，就让我把他带走…&#34;</div>
 <div>&#34;所以你就前进吧…&#34;</div>
@@ -36,7 +36,7 @@
 <div>&#34;你不能停滞不前，必须前去迎接小羽&#34;</div>
 <div>&#34;好啦，打起精神来…皆守&#34;</div>
 <div>&#34;在这里告别吧…&#34;</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80KDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi80KDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>轻飘飘的感觉。</div>
 <div>瞬间，感觉到了周围空气的急速变冷。</div>
 <div>扬起的灰尘伴随月光的照耀，在空中飞舞。</div>
@@ -58,13 +58,13 @@
 <div>夜空上的神，正嘲弄着我们。</div>
 <div>就像把空瓶子扔在地上的天真的孩子一样…</div>
 <div>世界变得一片空虚。</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81KDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi81KDIpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>望不到尽头的坡道…</div>
 <div>遥远而模糊的坡道…</div>
 <div>宛如…我们就漫步在这样的世界中一般…</div>
 <div>就算在意坡道的前方也毫无用处。</div>
 <div>我们就在这坡道上快乐地走着。</div>
-<div> <img src="source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi82KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
+<div> <img src="/source/bzoj/5396/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwNi82KDEpLnBuZw==.png" width="558" height="419" alt=""/></div>
 <div>您在打galgame，突然听说苏联解体了，于是您发现您永远看不到一个活着的苏联人了，很郁闷，于是开始写一道数据结构题：</div>
 <div>这是一道模(du)拟(liu)题。  </div>
 <div>你需要维护一棵包含n个结点有根有序树（也就是说每个点的孩子是有&#34;从左到右&#34;的顺序的），初始根为1，支持以下几个操作：  </div>

@@ -3,8 +3,7 @@
 
 <div class="content"><div style="text-indent: 23.25pt"><span style="font-size: 12pt">你有一个N*N的棋盘，每个格子内有一个整数，初始时的时候全部为0，现在需要维护两种操作：</span></div>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 23.25pt"><span lang="EN-US" style="font-size: 12pt; font-family: 宋体; mso-bidi-font-family: 黑体; mso-font-kerning: 0pt"><o:p> </o:p></span></p>
-<p>
-<table class="MsoNormalTable" cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-border-alt: solid black .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black">
+<p><table class="MsoNormalTable" cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-border-alt: solid black .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black">
     <tbody>
         <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
             <td valign="top" width="189" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 142pt; padding-top: 0cm; border-bottom: black 1pt solid; background-color: transparent; mso-border-alt: solid black .5pt">

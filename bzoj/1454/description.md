@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1454/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NTQuanBn.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1454/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0NTQuanBn.jpg"/>
 N个Cache, 每个Cache的大小为Size[i]
 下面有若干行，是下列格式的一种:
 ADDR X 表示访问元素X

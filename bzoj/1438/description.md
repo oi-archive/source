@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>有一张a*b的纸片，问可否完全剪成若干张c*d的纸片</div>
-<div><img src="source/bzoj/1438/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDcpLnBuZw==.png" width="340" height="243" alt=""/></div>
+<div><img src="/source/bzoj/1438/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xKDcpLnBuZw==.png" width="340" height="243" alt=""/></div>
 <div>上图对应a=9,b=6,c=2,d=3的一组方案</div>
 <div>数据组数t&lt;=100000,a,b,c,d&lt;=10^9</div></div>
 

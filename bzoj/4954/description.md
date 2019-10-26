@@ -6,13 +6,13 @@
 <div>的一组单元被填充为需要复制的细胞副本。进过一系列离散的步骤,网格中的每个单元会根据自身及附近的八个单</div>
 <div>元的状态同步进行细胞状态更新。如果这九个单元中有奇数个位置的细胞是满的,那么这个单元的下一个状态也是</div>
 <div>满的,否则会是空的。图1显示了一个由三个满细胞的单元组成的简单模式在复制过程中的几个步骤。</div>
-<div><img src="source/bzoj/4954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC81NS5wbmc=.png" width="837" height="184" alt=""/></div>
+<div><img src="/source/bzoj/4954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC81NS5wbmc=.png" width="837" height="184" alt=""/></div>
 <div></div>
 <div>图1. 复制过程。</div>
 <div>然而,一个bug已经蛰伏在工艺中了。在每次更新单元状态之后,网格中某一个单元的状态可能自动变化。例如,图2</div>
 <div>显示了可能的变化,其中一个细胞在第一次状态更新后出现了自动变化,另一个细胞在第三次状态更新后出现了自动</div>
 <div>变化。</div>
-<div><img src="source/bzoj/4954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC82Ni5wbmc=.png" width="853" height="195" alt=""/></div>
+<div><img src="/source/bzoj/4954/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC82Ni5wbmc=.png" width="853" height="195" alt=""/></div>
 <div></div>
 <div>图2. 复制过程中的错误。该图对应样例输入1。</div>
 <div>很不幸,最初的细胞模式丢失了,只有 (可能受到bug影响的) 复制结果保留了下来。你能否编个程序确定可能的最</div>

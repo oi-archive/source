@@ -7,7 +7,7 @@
 <div>气球，从而最大化定点的总光照强度。下图给出了第一组样例的情况，由于所有的光源、气球中心和定点的 z 轴</div>
 <div>坐标都是 0 ，所以下图显示的是 xy 平面。在图中，光源被表示成星星，气球被表示成圆。定点在原点，你可以</div>
 <div>移走至多 4 个气球。对于这组数据，一种可能的方案是移走图中的虚线圆圈所对应的气球。</div>
-<div><img src="source/bzoj/4691/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9nZy5wbmc=.png" width="232" height="228" alt=""/></div>
+<div><img src="/source/bzoj/4691/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwOC9nZy5wbmc=.png" width="232" height="228" alt=""/></div>
 <p></p></div>
 
 # Input

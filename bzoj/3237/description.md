@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><p><img height="120" width="773" alt="" src="source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8xKDMpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="120" width="773" alt="" src="/source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8xKDMpLmpwZw==.jpg"/></p></div>
 
 # Input
 
-<div class="content"><p><img height="305" width="774" alt="" src="source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8yKDEpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="305" width="774" alt="" src="/source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8yKDEpLmpwZw==.jpg"/></p></div>
 
 # Output
 
-<div class="content"><p><img height="117" width="750" alt="" src="source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8zKDEpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="117" width="750" alt="" src="/source/bzoj/3237/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNi8zKDEpLmpwZw==.jpg"/></p></div>
 
 # Sample Input
 

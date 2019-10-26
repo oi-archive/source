@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><div>给你一个长度为N的序列ai，1≤i≤N和q组询问，每组询问读入l1,r1,l2,r2，需输出<img src="source/bzoj/5016/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xLnBuZw==.png" width="254" height="70" alt=""/></div>
+<div class="content"><div>给你一个长度为N的序列ai，1≤i≤N和q组询问，每组询问读入l1,r1,l2,r2，需输出<img src="/source/bzoj/5016/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOS8xLnBuZw==.png" width="254" height="70" alt=""/></div>
 <div></div>
 <div>get(l,r,x)表示计算区间[l,r]中，数字x出现了多少次。</div>
 <p></p></div>

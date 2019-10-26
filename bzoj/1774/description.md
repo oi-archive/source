@@ -23,7 +23,7 @@
 和t_i（1 &lt;= s_i &lt;= N; 1 &lt;= t_i &lt;= N; s_i != t_i），表示起点和终点的草地。
 
 考虑下面这个包含5片草地的样例图像:
-<img border="0" src="source/bzoj/1774/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NzQuanBn.jpg"/>
+<img border="0" src="/source/bzoj/1774/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NzQuanBn.jpg"/>
 
 从草地1到草地3的道路的“边过路费”为3，草地2的“点过路费”为5。
 

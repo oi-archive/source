@@ -7,7 +7,7 @@
 <div class="p"><!----></div>
 <p>We denote a network switch in layer j by S(j). A switch S(0) consists of one input, one output and a cable connecting the input to the output. A switch S(j) with j &gt; 0 consists of 2<sup>j</sup> inputs, 2<sup>j</sup> outputs and two switches S(j−1). Input i of S(j) (0 ≤ i &lt; 2<sup>j</sup>) is connected via a cable to the inputs i mod 2<sup>j−1</sup> of each of the two switches S(j−1). Similarly, output i of S(j) is connected to the outputs i mod 2<sup>j−1</sup> of each of the two switches S(j−1).</p>
 <div>一个电话公司想在城市中搭建一个电话网络，他们的目标是让每两个人之间都能够通话。当然，在每两个用户之间直接搭一根电话线是不大可能的事情。于是公司采用了分层网络来解决这个问题。我们令第j层网络由开关S(j)来控制。开关S(0)包含一个输入，一个输出和一条将输入和输出连起来的电话线。开关S(j) (j&gt;0)包含2<sup>j</sup> 个输入，2<sup>j</sup> 个输出和两个S(j-1)级的开关。S(j)的第i个输入是用线连接到S(j-1)的 i mod 2<sup>j−1</sup> 上。同样，输出也是这么连接的。</div>
-<p><img alt="" src="source/bzoj/2267/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOF8xLnBuZw==.png"/></p>
+<p><img alt="" src="/source/bzoj/2267/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOF8xLnBuZw==.png"/></p>
 <p>We are considering a network with one switch S(n) in the outermost layer. It can be shown that any input and output of switch S(n) has a unique connection path to any of the S(0) switches. Therefore, any input of S(n) can be connected to any of its outputs, and the connection path is uniquely determined by specifying through which switch S(0) the connection is established.</p>
 <div class="p"><!----></div>
 <p>We number the switches S(0) belonging to the switch S(n) from 0 to 2<sup>n</sup>−1. The i-th switch S(0) is defined as follows. Write the number i in binary as b<sub>n−1</sub>b<sub>n−2</sub>…b<sub>0</sub>. This defines a path from an input of S(n) to the i-th switch S(0) via the following procedure: for each j, b<sub>j</sub>=0 indicates that the path extends from S(j+1) to the first S(j) switch to which it is directly connected, and b<sub>j</sub>=1 indicates that the path extends to the second S(j) switch. Note that regardless of which input of S(n) is selected, this path arrives at the same S(0) switch, which is given the number i. See also the figure below the sample data for details of how the numbering works.</p>
@@ -90,7 +90,7 @@ Hint<br/>
 <div class="content"><p></p><p> </p><br/>
 <p> </p><br/>
 <p> </p><br/>
-<p><img alt="" src="source/bzoj/2267/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOF8yLnBuZw==.png"/></p><p></p></div>
+<p><img alt="" src="/source/bzoj/2267/img/aHR0cDovL3V2YS5vbmxpbmVqdWRnZS5vcmcvY29udGVzdHMvMjY3LTRmZWVkNTgzL2ltYWdlcy9wOF8yLnBuZw==.png"/></p><p></p></div>
 
 # Source
 

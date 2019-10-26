@@ -13,7 +13,7 @@
 <div>k]行第j[k]列的土陶盒，jk必须满足(m/2+j[k]-w/2)（整个表达式取下整）&lt;=a，其中k&gt;=1,且当j[k]=j[k-1]的时</div>
 <div>候,i[k]必须满足i[k]-i[k-1]&gt;=d1,当j[k]!=j[k-1]时,i[k]必须满足i[k]-i[k-1]&gt;=d2，其中k&gt;=2.</div>
 <p></p>
-<p><img src="source/bzoj/1184/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNi9hYS5wbmc=.png" width="336" height="273" alt=""/></p></div>
+<p><img src="/source/bzoj/1184/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNi9hYS5wbmc=.png" width="336" height="273" alt=""/></p></div>
 
 # Input
 

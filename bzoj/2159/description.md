@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p>Crash 小朋友最近迷上了一款游戏——文明5(Civilization V)。在这个游戏中，玩家可以建立和发展自己的国家，通过外交和别的国家交流，或是通过战争征服别的国家。现在Crash 已经拥有了一个N 个城市的国家，这些城市之间通过道路相连。由于建设道路是有花费的，因此Crash 只修建了N-1 条道路连接这些城市，不过可以保证任意两个城市都有路径相通。在游戏中，Crash 需要选择一个城市作为他的国家的首都，选择首都需要考虑很多指标，有一个指标是这样的： <img alt="" border="0" src="source/bzoj/2159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNTkuanBn.jpg"/> 其中S(i)表示第i 个城市的指标值，dist(i, j)表示第i 个城市到第j 个城市需要经过的道路条数的最小值，k 为一个常数且为正整数。因此Crash 交给你一个简单的任务：给出城市之间的道路，对于每个城市，输出这个城市的指标值，由于指标值可能会很大，所以你只需要输出这个数mod 10007 的值。</p></div>
+<div class="content"><p>Crash 小朋友最近迷上了一款游戏——文明5(Civilization V)。在这个游戏中，玩家可以建立和发展自己的国家，通过外交和别的国家交流，或是通过战争征服别的国家。现在Crash 已经拥有了一个N 个城市的国家，这些城市之间通过道路相连。由于建设道路是有花费的，因此Crash 只修建了N-1 条道路连接这些城市，不过可以保证任意两个城市都有路径相通。在游戏中，Crash 需要选择一个城市作为他的国家的首都，选择首都需要考虑很多指标，有一个指标是这样的： <img alt="" border="0" src="/source/bzoj/2159/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNTkuanBn.jpg"/> 其中S(i)表示第i 个城市的指标值，dist(i, j)表示第i 个城市到第j 个城市需要经过的道路条数的最小值，k 为一个常数且为正整数。因此Crash 交给你一个简单的任务：给出城市之间的道路，对于每个城市，输出这个城市的指标值，由于指标值可能会很大，所以你只需要输出这个数mod 10007 的值。</p></div>
 
 # Input
 

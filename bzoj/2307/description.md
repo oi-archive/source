@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><a href="/JudgeOnline/upload/201105/file/cc.jpg"><img alt="" src="source/bzoj/2307/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS9jYy5qcGc=.jpg"/></a></p></div>
+<div class="content"><p><a href="/JudgeOnline/upload/201105/file/cc.jpg"><img alt="" src="/source/bzoj/2307/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS9jYy5qcGc=.jpg"/></a></p></div>
 
 # Input
 

@@ -5,8 +5,7 @@
 <div><span style="font-size: medium">　　受校门外的树这道经典问题的启发，A君根据基本的离散数学的知识，抽象出5种运算维护集合S(S初始为空)并最终输出S。现在，请你完成这道校门外的树之难度增强版——校门外的区间。</span></div>
 <div><span style="font-size: medium"> </span></div>
 <div><span style="font-size: medium">　　5种运算如下：</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; margin: auto auto auto 25.55pt; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; margin: auto auto auto 25.55pt; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
     <tbody>
         <tr>
             <td valign="top" width="52" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 39.05pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
@@ -53,8 +52,7 @@
 </p>
 <div><span style="font-size: medium"> </span></div>
 <div><span style="font-size: medium">　　基本集合运算如下：</span></div>
-<p>
-<table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; margin: auto auto auto 25.55pt; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
+<p><table cellspacing="0" cellpadding="0" border="1" style="border-right: medium none; border-top: medium none; margin: auto auto auto 25.55pt; border-left: medium none; border-bottom: medium none; border-collapse: collapse">
     <tbody>
         <tr>
             <td valign="top" width="63" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 47.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">

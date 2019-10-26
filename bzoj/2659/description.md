@@ -6,7 +6,7 @@
 曾经有一个老掉牙的游戏放在我面前，我没有珍惜。直到这个游戏停产才追悔莫及。人世间最痛苦的事情莫过于此，如果上天给我一个再玩一次的机会，我一定要，通关！<br/>
 题目描述：<br/>
 如果你真的很想玩这个游戏，那么就先看看我的题目吧，搞不定这些的话是没办法通关的哟。第一关其实很简单，只有一个关闭的有密码锁的大门。这大门上写着一个奇怪的算式，估计是要你利用它算出密码来开门吧（果然是老掉牙的情节）。<br/>
-传说中这个式子中的p和q是两个奇质数，等号右边算出来应该就是密码了吧，你是真的算不出来么？<img height="122" alt="" width="212" src="source/bzoj/2659/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xKDEpLmpwZw==.jpg"/></span></p></div>
+传说中这个式子中的p和q是两个奇质数，等号右边算出来应该就是密码了吧，你是真的算不出来么？<img height="122" alt="" width="212" src="/source/bzoj/2659/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC8xKDEpLmpwZw==.jpg"/></span></p></div>
 
 # Input
 

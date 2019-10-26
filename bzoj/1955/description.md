@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><p><img border="0" src="source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMS5qcGc=.jpg" alt=""/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMS5qcGc=.jpg" alt=""/></p></div>
 
 # Input
 
-<div class="content"><p><img border="0" src="source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMi5qcGc=.jpg" alt=""/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMi5qcGc=.jpg" alt=""/></p></div>
 
 # Output
 
-<div class="content"><p><img border="0" src="source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMy5qcGc=.jpg" alt=""/></p>
+<div class="content"><p><img border="0" src="/source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfMy5qcGc=.jpg" alt=""/></p>
 <p>注意输出时：每行输出一个结果，行与行之间不要空行....</p></div>
 
 # Sample Input
@@ -42,7 +42,7 @@ Case 4: -1 </span></div>
 
 # Hint
 
-<div class="content"><p></p><p><img border="0" src="source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfNC5qcGc=.jpg" alt=""/></p><br/>
+<div class="content"><p></p><p><img border="0" src="/source/bzoj/1955/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5NTVfNC5qcGc=.jpg" alt=""/></p><br/>
 <p>(刘汝佳与唐文斌合著此题)</p><p></p></div>
 
 # Source

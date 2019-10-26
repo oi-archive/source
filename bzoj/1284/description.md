@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p>在平面上有n个平行于坐标轴的矩形障碍物, 现需要将一个半径为r的圆从A点移动到B点. 请计算最短路. (n &lt;= 30) <img border="0" src="source/bzoj/1284/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODQuanBn.jpg" alt=""/></p></div>
+<div class="content"><p>在平面上有n个平行于坐标轴的矩形障碍物, 现需要将一个半径为r的圆从A点移动到B点. 请计算最短路. (n &lt;= 30) <img border="0" src="/source/bzoj/1284/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEyODQuanBn.jpg" alt=""/></p></div>
 
 # Input
 

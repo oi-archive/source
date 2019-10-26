@@ -8,7 +8,7 @@
 <div>给你一个序列a，长度为n，有m次操作，每次询问一个区间是否可以选出两个数它们的差为x，或者询问一个区间是</div>
 <div>否可以选出两个数它们的和为x，或者询问一个区间是否可以选出两个数它们的乘积为x ，这三个操作分别为操作1</div>
 <div>,2,3选出的这两个数可以是同一个位置的数</div>
-<div><img src="source/bzoj/4810/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djEoNCkuanBn.jpg" width="363" height="655" alt=""/></div>
+<div><img src="/source/bzoj/4810/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwNC92djEoNCkuanBn.jpg" width="363" height="655" alt=""/></div>
 <p></p></div>
 
 # Input

@@ -6,7 +6,7 @@
 下面是6个节点的电话网络(无根树)：
      
 
-<img border="0" src="source/bzoj/1785/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODUuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1785/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3ODUuanBn.jpg"/> 
 
 在叶子节点1,3,5和6中有四头奶牛，如果奶牛1和奶牛3，奶牛5和奶牛6通话，那么同时通话的最大数目是2(2对奶牛同时通话)。
 </div>

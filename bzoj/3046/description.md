@@ -2,11 +2,11 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">忘川沧月的小水塘的水面是一片由以下两种图形组成的图案：<br/>
-<img height="102" alt="" width="204" src="source/bzoj/3046/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS9sYWdvb24xLmpwZw==.jpg"/></span></p>
+<img height="102" alt="" width="204" src="/source/bzoj/3046/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS9sYWdvb24xLmpwZw==.jpg"/></span></p>
 <p><span style="font-size: medium">这两种图形都由一个边长为2的正方形和两个半径为1的1/4圆组成，圆心在正方形的两个对角顶点上。<br/>
 小水塘左上角坐标为(0,0)，右下角坐标为(2*n,2*m)。水面上每一个顶点坐标为偶数的2*2正方形，都是上面两个图形中的一种。如果我们往水塘中的某个位置倒一桶污水，那么这桶污水会像画图中的油漆桶一样扩散开来，占据一片连续的区域，但是在线条边界处会停止扩散。注意如果倒在了线条上，扩散面积为0。<br/>
 如下图所示，就是一个由4行4列上述图形组成的、左上角坐标(0,0)、右下角坐标(8,8)、某些位置倒了污水的水塘（白色部分为线条边界，线条实际宽度认为是0，为了明显、美观，此处加粗显示）：<br/>
-<img height="360" alt="" width="362" src="source/bzoj/3046/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS9sYWdvb24yLmpwZw==.jpg"/></span></p>
+<img height="360" alt="" width="362" src="/source/bzoj/3046/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMS9sYWdvb24yLmpwZw==.jpg"/></span></p>
 <p></p>
 <p><span style="font-size: medium">现在给出一个n行m列的由上述两种图形组成的水塘，起初水塘中全部为净水。给定q个往某个坐标上(x,y)倾倒污水的操作，对于每次操作，请求出在(x,y)上倾倒的污水最终会扩散多大的面积。</span></p></div>
 

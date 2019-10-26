@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>给你一个L形的图形，其右下角那个块为黑，其它两个块为白，现在要用它来覆盖一个字符矩阵，问是否可行..</p>
-<p><img height="220" alt="" width="199" src="source/bzoj/2641/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy9mZigyKS5qcGc=.jpg"/></p></div>
+<p><img height="220" alt="" width="199" src="/source/bzoj/2641/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwMy9mZigyKS5qcGc=.jpg"/></p></div>
 
 # Input
 

@@ -52,7 +52,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><a href="http://main.edu.pl/images/OI18/tem.gif"><img alt="" src="source/bzoj/2276/img/aHR0cDovL21haW4uZWR1LnBsL2ltYWdlcy9PSTE4L3RlbS5naWY=.gif"/></a></p><p></p></div>
+<div class="content"><p></p><p><a href="http://main.edu.pl/images/OI18/tem.gif"><img alt="" src="/source/bzoj/2276/img/aHR0cDovL21haW4uZWR1LnBsL2ltYWdlcy9PSTE4L3RlbS5naWY=.gif"/></a></p><p></p></div>
 
 # Source
 

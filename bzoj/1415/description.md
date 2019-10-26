@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1415/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTVfMS5qcGc=.jpg"/></div>
+<div class="content"><img border="0" src="/source/bzoj/1415/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTVfMS5qcGc=.jpg"/></div>
 
 # Input
 
@@ -59,7 +59,7 @@
 第二种是停在景点4，不被吃掉。概率为 。<br/>
 到第二个时刻，聪聪向更靠近可可(景点4)的景点走动，只需要走一步即和可可在同一景点。因此这种情况下聪聪会在两步吃掉可可。<br/>
 所以平均的步数是1* +2* =1.5步。<br/>
-<img border="0" src="source/bzoj/1415/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTVfMi5qcGc=.jpg"/><br/>
+<img border="0" src="/source/bzoj/1415/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MTVfMi5qcGc=.jpg"/><br/>
 <br/>
 对于所有的数据，1≤N,E≤1000。<br/>
 对于50%的数据，1≤N≤50。<br/>

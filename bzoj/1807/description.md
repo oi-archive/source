@@ -3,7 +3,7 @@
 
 <div class="content">Mirko 和 Slavko 正在玩动物玩具的游戏。 首先，他们要在下图给出的三种玩具模板中选择一种。三种模板分别由一维、二维和三维的网格点（在图中用圆圈表示）组成。
 
-<img border="0" src="source/bzoj/1807/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDcuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1807/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDcuanBn.jpg"/> 
  
 接下来Mirko 把 N 个小动物玩具放到选中的模板的网格点上。
 动物玩具可以走一步到达与它相邻的网格点上（在图中相邻的点之间有一条小短线相连）。两个网格点之间的距离定义为从一个网格点到另一个网格点所需要移动的最小步数。

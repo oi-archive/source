@@ -56,7 +56,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="256" alt="" width="622" src="source/bzoj/1681/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS80NCg0KS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="256" alt="" width="622" src="/source/bzoj/1681/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS80NCg0KS5qcGc=.jpg"/></p><br/>
 <p></p><p></p></div>
 
 # Source

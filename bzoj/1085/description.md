@@ -6,7 +6,7 @@
 位上。 给定一个初始的棋盘，怎样才能经过移动变成如下目标棋盘： 为了体现出骑士精神，他们必须以最少的步<br/>
 数完成任务。<br/>
 </span></p>
-<p><span style="font-size: medium"><img width="279" height="276" alt="" src="source/bzoj/1085/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy9hYS5qcGc=.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img width="279" height="276" alt="" src="/source/bzoj/1085/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy9hYS5qcGc=.jpg"/></span></p></div>
 
 # Input
 

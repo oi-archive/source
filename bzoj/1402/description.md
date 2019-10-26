@@ -3,7 +3,7 @@
 
 <div class="content">给一张地图，地图上有一些城市，城市之间可能有线路连通，我们用一个无向图来表示以简化概念，每条边有个权值，表示选择这条边需要花费的费用。给定4对顶点(可能重复)，求一个权值最小的边集，使得任意一对顶点可以由选出的边集中的边相连。
 按照惯例，下面给出一个例子：
-<img border="0" src="source/bzoj/1402/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MDIuanBn.jpg"/>
+<img border="0" src="/source/bzoj/1402/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE0MDIuanBn.jpg"/>
 </div>
 
 # Input

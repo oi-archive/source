@@ -4,7 +4,7 @@
 <div class="content"><div>在三维空间中指定一些(x,y,z)，将[x,x+1]*[y,y+1]*[z,z+1]的方块填充，得到一些方块。</div>
 <div>这些方块不需要连通，也不需要符合重力。</div>
 <div>给定它们在Oxy，Oxz，Oyz三个平面上的投影面积，请构造一种合法方案。</div>
-<div><img src="source/bzoj/5202/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xLnBuZw==.png" width="200" height="201" alt=""/></div>
+<div><img src="/source/bzoj/5202/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMy8xLnBuZw==.png" width="200" height="201" alt=""/></div>
 <div></div>
 <p></p></div>
 

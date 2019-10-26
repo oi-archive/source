@@ -41,7 +41,7 @@
 # Hint
 
 <div class="content"><p>下图对应样例 <br/>
-<img border="0" src="source/bzoj/1364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjQuanBn.jpg"/></p></div>
+<img border="0" src="/source/bzoj/1364/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjQuanBn.jpg"/></p></div>
 
 # Source
 

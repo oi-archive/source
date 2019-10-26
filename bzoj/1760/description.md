@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><img border="0" src="source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMS5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMS5qcGc=.jpg"/>
 
-<img border="0" src="source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMi5qcGc=.jpg"/>
+<img border="0" src="/source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMi5qcGc=.jpg"/>
 
 </div>
 
 # Input
 
-<div class="content"><img border="0" src="source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMy5qcGc=.jpg"/>
+<div class="content"><img border="0" src="/source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfMy5qcGc=.jpg"/>
 
 输入数据包含了一个正确的三角剖分结果。
 
@@ -38,10 +38,10 @@ input 2<br/>
 # Sample Output
 
 <div class="content"><span class="sampledata">output 1<br/>
-<img border="0" src="source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfNC5qcGc=.jpg"/><br/>
+<img border="0" src="/source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfNC5qcGc=.jpg"/><br/>
 <br/>
 output 2<br/>
-<img border="0" src="source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfNS5qcGc=.jpg"/></span></div>
+<img border="0" src="/source/bzoj/1760/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE3NjBfNS5qcGc=.jpg"/></span></div>
 
 # Hint
 

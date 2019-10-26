@@ -41,7 +41,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="1047" width="561" alt="" src="source/bzoj/3666/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSgzKS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="1047" width="561" alt="" src="/source/bzoj/3666/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwNy8xMSgzKS5qcGc=.jpg"/></p><br/>
 <p class="a" style="margin: 0cm 0cm 10pt; mso-line-height-alt: 11.0pt"><span lang="EN-US" style="font-size: 16pt; font-family: 宋体">T&lt;=2*10^5,N&lt;=100000,</span><span style="font-size: 16pt; font-family: 宋体">所有的数据满足<span lang="EN-US">m&lt;=10<sup>5</sup> </span>其余的数据属于<span lang="EN-US">[-10<sup>9</sup>..10<sup>9</sup>],</span>误差小于<span lang="EN-US">1e-5</span>则答案正确。<span lang="EN-US"><o:p></o:p></span></span></p><p></p></div>
 
 # Source

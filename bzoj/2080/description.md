@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p>一个铁路包含两个侧线1和2，右边由A进入，左边由B出去（看下面的图片）</p>
-<p><img border="0" src="source/bzoj/2080/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwODAuanBn.jpg" alt=""/></p>
+<p><img border="0" src="/source/bzoj/2080/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIwODAuanBn.jpg" alt=""/></p>
 <p>有n个车厢在通道A上，编号为1到n，它们被安排按照要求的顺序（a1,a2,a3,a4....an）进入侧线，进去还要出来，它们要按照编号顺序（1，2，3，4，5。。。。n）从通道B出去。他们从A到1或2，然后经过一系列转移从B出去，不用考虑容量问题。</p></div>
 
 # Input

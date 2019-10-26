@@ -32,7 +32,7 @@
 # Hint
 
 <div class="content"><p></p><p>样例解释<br/><br/>
-<img alt="" src="source/bzoj/2403/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMSgxKS5qcGc=.jpg"/></p><p></p></div>
+<img alt="" src="/source/bzoj/2403/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwOC8xMSgxKS5qcGc=.jpg"/></p><p></p></div>
 
 # Source
 

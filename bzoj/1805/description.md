@@ -7,7 +7,7 @@
 
 所有帆的任意一种位置组合的推动力折扣总和等于在该位置下所有帆的推动力折扣的总和。
   
-<img border="0" src="source/bzoj/1805/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDUuanBn.jpg"/> 
+<img border="0" src="/source/bzoj/1805/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE4MDUuanBn.jpg"/> 
 前                                                                                               后
 这条船上有6个旗杆，从前（图上的左边）到后的高度分别是3，5，4，2，4和3。图中所示的帆的位置组合的总推动力折扣是10。上图给出了每张帆自己的推动力折扣。
 

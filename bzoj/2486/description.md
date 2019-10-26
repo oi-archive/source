@@ -7,7 +7,7 @@ four cards whose value is p: Spade(S), Heart(H), Club(C) and Diamond(D). There a
 Given two positive integers n and k, how many ways can you pick up at most k cards whose values sum to n? For <br/>
 example, if n=15 and k=3, one way is 3H + 4S + 8H, shown below:  </span></p>
 <p></p>
-<p><span style="font-size: medium"><img alt="" src="source/bzoj/2486/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMC8xLmpwZw==.jpg"/></span></p></div>
+<p><span style="font-size: medium"><img alt="" src="/source/bzoj/2486/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTExMC8xLmpwZw==.jpg"/></span></p></div>
 
 # Input
 

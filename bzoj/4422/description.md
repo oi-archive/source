@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>一个10^6行10^6列的网格图，上面有一些牛、花和一些矩形围栏，围栏在格子的边界上，牛和花在格子里，牛只能向下或向右走，牛也不能穿过围栏和地图边界，求每头牛它能到达的花的数量。注意栅栏不会相交</div>
-<div><img width="486" height="492" alt="" src="source/bzoj/4422/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYS5wbmc=.png"/></div>
+<div><img width="486" height="492" alt="" src="/source/bzoj/4422/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwMy9hYS5wbmc=.png"/></div>
 <div></div>
 <p class="MsoNormal"></p>
 <p></p></div>

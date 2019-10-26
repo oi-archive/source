@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>在神秘的东方有一棵奇葩的树，它有一个固定的根节点（编号为1）。树的每条边上都是一个字符，字符为a,b,c中的一个，你可以从树上的任意一个点出发，然后沿着远离根的边往下行走，在任意一个节点停止，将你经过的边的字符依次写下来，就能得到一个字符串，例如：</div>
-<div><img src="source/bzoj/3756/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9jY2MuZ2lm.gif" width="213" height="244" alt=""/></div>
+<div><img src="/source/bzoj/3756/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9jY2MuZ2lm.gif" width="213" height="244" alt=""/></div>
 <div> </div>
 <div>在这棵树中我们能够得到的字符串是：</div>
 <div>c, cb, ca, a, b, a</div>

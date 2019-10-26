@@ -28,7 +28,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="269" alt="" width="307" src="source/bzoj/3076/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMS5qcGc=.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="269" alt="" width="307" src="/source/bzoj/3076/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMS5qcGc=.jpg"/></p><br/>
 <p>数据范围：<br/><br/>
 </p><br/>
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt"><font face="Calibri"><span style="mso-spacerun: yes"> </span>1&lt;=N&lt;=100000,<span style="mso-spacerun: yes">  </span>0&lt;=x1,y1,x2,y2&lt;=10<sup>9</sup></font><o:p></o:p></span></p><p></p></div>

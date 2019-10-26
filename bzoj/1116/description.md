@@ -19,13 +19,13 @@
 1 3<br/>
 3 4<br/>
 1 4<br/>
-<img border="0" src="source/bzoj/1116/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTZfMS5qcGc=.jpg"/><br/>
+<img border="0" src="/source/bzoj/1116/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTZfMS5qcGc=.jpg"/><br/>
 </span></div>
 
 # Sample Output
 
 <div class="content"><span class="sampledata">TAK<br/>
-<img border="0" src="source/bzoj/1116/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTZfMi5qcGc=.jpg"/><br/>
+<img border="0" src="/source/bzoj/1116/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzExMTZfMi5qcGc=.jpg"/><br/>
 上图给出了一种连接方式.</span></div>
 
 # Hint

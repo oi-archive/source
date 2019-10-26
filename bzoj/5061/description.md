@@ -3,7 +3,7 @@
 
 <div class="content"><div>经过多番打探，小奇得知大科学家打算出门旅行，而他的旅行计划保存在他的电脑中。小奇偷来了这台电脑，发现</div>
 <div>电脑设置了两道密码。小奇请你来帮助它破解密码。第一道密码给出三个数m,n,x,你需要求出</div>
-<div><img src="source/bzoj/5061/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC80NCgyKS5wbmc=.png" width="695" height="84" alt=""/></div>
+<div><img src="/source/bzoj/5061/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcxMC80NCgyKS5wbmc=.png" width="695" height="84" alt=""/></div>
 <div></div>
 <div></div>
 <p></p></div>

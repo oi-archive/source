@@ -5,7 +5,7 @@
 <div>这则故事的真实性到今天已经没有意义了，然而我们关注的是那一条精美的爱之项链。这是一条由N个精致的戒指与一块特殊纪念品相连而成的环形，如下图中的爱心符号正是一种特殊纪念品。(据说是2012年情人节时zyg特意托人订制的)上面的每一枚戒指又是由M个带磁性的特殊彩色球状物组成的环形。也许你会认为，这所谓的戒指，更像是一条条小项链。 </div>
 <div>下图给出了一种可行的方案，其中左边描述的是单一的一枚戒指，右图描述的是项链。 </div>
 <div> </div>
-<div><img src="source/bzoj/4330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMS8zNDU0LmpwZw==.jpg" width="425" height="324" alt=""/></div>
+<div><img src="/source/bzoj/4330/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMS8zNDU0LmpwZw==.jpg" width="425" height="324" alt=""/></div>
 <div></div>
 <div></div>
 <div>这里，所有带磁性的特殊彩色球状物的颜色只有R种，这里我们用1到R来表示。如果一枚戒指可以通过顺时针或逆时针的旋转后与另外一枚戒指相同，则认为这是两枚相同的戒指。 </div>

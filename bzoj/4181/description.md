@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>给定一个 d 维空间椭球：</div>
-<div><img src="source/bzoj/4181/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9zLmdpZg==.gif" width="174" height="42" alt=""/></div>
+<div><img src="/source/bzoj/4181/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9zLmdpZg==.gif" width="174" height="42" alt=""/></div>
 <div></div>
 <div>求其与原点 0 的最近距离。</div>
 <p></p></div>

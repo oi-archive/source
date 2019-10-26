@@ -47,7 +47,7 @@ replacementSeq: 一个足够大的能存下替换序列的数组；你应当将�
 
 # Hint
 
-<div class="content"><p></p><p><img width="661" height="1279" src="source/bzoj/4365/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9hYS5wbmc=.png" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img width="661" height="1279" src="/source/bzoj/4365/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUxMi9hYS5wbmc=.png" alt=""/></p><p></p></div>
 
 # Source
 

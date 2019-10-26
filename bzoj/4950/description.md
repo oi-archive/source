@@ -12,9 +12,9 @@
 <div>片显示了每一行最高的那堆箱子的高度,侧置相机显示了每一列最高的那堆箱子的高度,顶置相机显示了每个位置是</div>
 <div>否存在一堆箱子。如果安保系统发现任何一张照片出现了变化,它会立即拉响警报。一旦 Patrick 进去了,他会确</div>
 <div>定每堆箱子的高度并且发给你。图1显示了一种网格可能的放置,以及每台相机会得到的视图。</div>
-<div><img src="source/bzoj/4950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yMi5wbmc=.png" width="856" height="240" alt=""/></div>
+<div><img src="/source/bzoj/4950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8yMi5wbmc=.png" width="856" height="240" alt=""/></div>
 <div>图 1. 网格的高度值与对应的相机视图。</div>
-<div><img src="source/bzoj/4950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zMy5wbmc=.png" width="244" height="240" alt=""/></div>
+<div><img src="/source/bzoj/4950/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwOC8zMy5wbmc=.png" width="244" height="240" alt=""/></div>
 <div>图 2. 洗劫后网格可能的高度值。</div>
 <div></div>
 <div>Patrick想尽可能多偷走一些箱子。由于他不能弄坏安保系统,他准备重新安排剩余每堆箱子的放置,使得下一次相</div>

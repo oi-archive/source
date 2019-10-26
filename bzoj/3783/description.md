@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><div>求<img src="source/bzoj/3783/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9iYWNrLkdJRg==.GIF" width="166" height="100" alt=""/></div>
+<div class="content"><div>求<img src="/source/bzoj/3783/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQxMS9iYWNrLkdJRg==.GIF" width="166" height="100" alt=""/></div>
 <div>其中A,B,C,L,R均为给定正整数。由于答案可能很大</div>
 <div>输出答案Mod1,000,000,007的值.</div>
 <div></div>

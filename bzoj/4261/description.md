@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><div>现在有一大块土地，可以看成N*M的方格。在这块土地上，有些格子内是崎岖的山地，无法建造任何东西；其他格子都是平原。现在打算在这块土地上建设一个游乐园。游乐园由若干条闭合的过山车轨道组成，每个平原格子都要铺一截轨道，为下列 6 种类型中的一种：</div>
-<div><img src="source/bzoj/4261/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYi5qcGc=.jpg" width="576" height="208" alt=""/></div>
+<div><img src="/source/bzoj/4261/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwOS9mYi5qcGc=.jpg" width="576" height="208" alt=""/></div>
 <div>（每张图表示一块平原格子，图内网格线为辅助线，无实际意义。）</div>
 <div></div>
 <div>其中前 2 种为直轨道，后 4 种为弯轨道。显然对游客来说，弯轨道更加刺激。</div>

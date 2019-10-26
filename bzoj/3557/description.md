@@ -5,7 +5,7 @@
 <div>而是由一定法则生成的伪随机数。 </div>
 <div>某一天，露露了解了一种生成随机数的方法，成为Mersenne twister。给定初始参数m∈Z+，x∈Z+∩[0,2m)和初值M0∈Z+∩[0,2m)，</div>
 <div>它通过下列递推式构造伪随机数列{Mn}: </div>
-<div><img src="source/bzoj/3557/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yODQ5LmpwZw==.jpg" width="621" height="89" alt=""/></div>
+<div><img src="/source/bzoj/3557/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yODQ5LmpwZw==.jpg" width="621" height="89" alt=""/></div>
 <div> 其中XOR是二进制异或运算（C/C++中的^运算）。而参数x的选取若使得该数列在长度趋于无穷时，近似等概率地在Z+∩(0,2m)中取值，</div>
 <div>就称x为好的。例如，在m&gt;1时x=0就显然不是好的。 </div>
 <div>在露露向伙伴们介绍了Mersenne twister之后，花花想用这一些经典的随机性测试来检验它的随机性强度。为此，花花使用计算机计算</div>

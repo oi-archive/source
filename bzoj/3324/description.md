@@ -7,10 +7,10 @@
 <p></p>
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="font-size: 12pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">注意：每个数字占据的宽度和摆放方式是固定的，故以下情况均不合法。</span></b></p>
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"></p>
-<p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="font-size: 12pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><img height="303" alt="" width="762" src="source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8zLmpwZw==.jpg"/></span></b></p>
+<p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="font-size: 12pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><img height="303" alt="" width="762" src="/source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8zLmpwZw==.jpg"/></span></b></p>
 <p class="MsoNormal" align="left" style="margin: 0cm 0cm 0pt; text-align: left; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"></p>
 <p></p>
-<div align="left"><b><span style="font-size: 12pt"><img height="200" alt="" width="814" src="source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xLmpwZw==.jpg"/></span></b></div>
+<div align="left"><b><span style="font-size: 12pt"><img height="200" alt="" width="814" src="/source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8xLmpwZw==.jpg"/></span></b></div>
 <p></p>
 <div align="left"></div>
 <div align="left"></div>
@@ -21,7 +21,7 @@
 <div align="left"><b><span style="font-size: 12pt">注意：火柴棍对于Fish 来说是很贵重的物品，所以不允许折断或丢弃火柴棍。</span></b></div>
 <div align="left"><b><span style="font-size: 12pt">注意：火柴头的方向不影响数字的辨识，例如下面几种情况都是数字1         </span></b></div>
 <div align="left"> </div>
-<div align="left"><img height="196" alt="" width="600" src="source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8yLmpwZw==.jpg"/></div></div>
+<div align="left"><img height="196" alt="" width="600" src="/source/bzoj/3324/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMxMi8yLmpwZw==.jpg"/></div></div>
 
 # Input
 

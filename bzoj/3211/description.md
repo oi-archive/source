@@ -1,12 +1,12 @@
 
 # Description
 
-<div class="content"><p><img height="226" width="691" alt="" src="source/bzoj/3211/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDE2KS5qcGc=.jpg"/></p>
+<div class="content"><p><img height="226" width="691" alt="" src="/source/bzoj/3211/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDE2KS5qcGc=.jpg"/></p>
 <p></p></div>
 
 # Input
 
-<div class="content"><p><img height="336" width="676" alt="" src="source/bzoj/3211/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8yKDUpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="336" width="676" alt="" src="/source/bzoj/3211/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8yKDUpLmpwZw==.jpg"/></p></div>
 
 # Output
 

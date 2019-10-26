@@ -8,7 +8,7 @@
 <div>≤wi≤1000)和高度（你可以理解为该平台顶离约翰挖的地基的高度）Hi.（1≤Hi≤1000000）来描述的．所有平台</div>
 <div>的高度都是独一无二的．湖的边缘可以视为无限高的平台．下面给出了一张约翰的设计图：</div>
 </div>
-<div><img height="361" width="285" alt="" src="source/bzoj/1595/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxMykuanBn.jpg"/></div>
+<div><img height="361" width="285" alt="" src="/source/bzoj/1595/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwMS8yMigxMykuanBn.jpg"/></div>
 <div> 按约翰的设想，在坑挖好后，他会以1单位每分钟的速度往最低的那个平台上注水．水在离开水管后立即下落，直</div>
 <div>到撞到平台顶或是更早些时候注入的水然后，与所有常温下的水一样，它会迅速地流动、扩散．简单起见，你可以</div>
 <div>认为这些都是在瞬间完成的．约翰想知道，对于每一个平台，它的顶部是从哪个时刻开始，与水面的距离至少为1</div>

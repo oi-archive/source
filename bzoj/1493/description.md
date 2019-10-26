@@ -7,9 +7,9 @@
 <div>项链。该系统的硬件系统已经完成，而软件系统尚未开发，T公司的人找到了正在参加全国信息学竞赛的你，你能</div>
 <div>帮助T公司编写一个软件模拟系统吗？一条项链包含 N 个珠子，每个珠子的颜色是 1，2，…，c 中的一种。项链</div>
 <div>被固定在一个平板上，平板的某个位置被标记位置 1 ，按顺时针方向其他位置被记为 2，3，…，N。</div>
-<div><img src="source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mZmYoMSkucG5n.png" width="211" height="239" alt=""/></div>
+<div><img src="/source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mZmYoMSkucG5n.png" width="211" height="239" alt=""/></div>
 <div>你将要编写的软件系统应支持如下命令：</div>
-<div><img src="source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mYS5wbmc=.png" width="572" height="427" alt=""/></div></div>
+<div><img src="/source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9mYS5wbmc=.png" width="572" height="427" alt=""/></div></div>
 
 # Input
 
@@ -41,7 +41,7 @@ CS 4 1</span></div>
 
 <div class="content"><p></p><div>注意旋转命令旋转“珠子”但不改变“位置”的编号，而反转命令始终以位置 1 为对称轴。例如当 N=10 时，项</div><br/>
 <div>链上的位置编号如图1：</div><br/>
-<div><img src="source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9jYy5wbmc=.png" width="366" height="214" alt=""/></div><br/>
+<div><img src="/source/bzoj/1493/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC9jYy5wbmc=.png" width="366" height="214" alt=""/></div><br/>
 <div><br/>
 <div>但注意此时项链上的位置编号仍然如图1所示，于是翻转的对称轴不变。因而再执行一次“F”命令时，项链的颜色</div><br/>
 <div>如图4所示。</div><br/>

@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p> 给出一个数字N</p>
-<div><img src="source/bzoj/4804/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMy8xLmpwZw==.jpg" width="334" height="133" alt=""/></div></div>
+<div><img src="/source/bzoj/4804/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTcwMy8xLmpwZw==.jpg" width="334" height="133" alt=""/></div></div>
 
 # Input
 

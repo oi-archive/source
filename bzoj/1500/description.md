@@ -3,7 +3,7 @@
 
 <div class="content"><div>请写一个程序，要求维护一个数列，支持以下 6 种操作：</div>
 <div>请注意，格式栏 中的下划线‘ _ ’表示实际输入文件中的空格</div>
-<div><img src="source/bzoj/1500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMTEoMikucG5n.png" width="594" height="299" alt=""/></div></div>
+<div><img src="/source/bzoj/1500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8xMTEoMikucG5n.png" width="594" height="299" alt=""/></div></div>
 
 # Input
 
@@ -39,7 +39,7 @@ MAX-SUM</span></div>
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/1500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yMigxKS5wbmc=.png" width="569" height="861" alt=""/></p><p></p></div>
+<div class="content"><p></p><p><img src="/source/bzoj/1500/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMi8yMigxKS5wbmc=.png" width="569" height="861" alt=""/></p><p></p></div>
 
 # Source
 

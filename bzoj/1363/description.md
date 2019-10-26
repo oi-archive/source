@@ -29,7 +29,7 @@
 0.5 6.5<br/>
 <br/>
 <br/>
-<img border="0" src="source/bzoj/1363/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjMuanBn.jpg"/></span></div>
+<img border="0" src="/source/bzoj/1363/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzNjMuanBn.jpg"/></span></div>
 
 # Hint
 

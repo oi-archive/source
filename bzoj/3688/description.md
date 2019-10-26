@@ -2,7 +2,7 @@
 # Description
 
 <div class="content"><p><span style="font-size: medium">二维平面上有n个点(xi, yi)，现在这些点中取若干点构成一个集合S，对它们按照x坐标排序，顺次连接，将会构成一些连续上升、下降的折线，设其数量为f(S)。如下图中，1-&gt;2,2-&gt;3,3-&gt;5,5-&gt;6（数字为下图中从左到右的点编号），将折线分为了4部分，每部分连续上升、下降。<br/>
- <img height="290" width="389" alt="" src="source/bzoj/3688/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9hYS5qcGc=.jpg"/><br/>
+ <img height="290" width="389" alt="" src="/source/bzoj/3688/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTQwOS9hYS5qcGc=.jpg"/><br/>
 现给定k，求满足f(S) = k的S集合个数。</span></p>
 <p></p></div>
 

@@ -7,20 +7,20 @@
 <div>在海风中摇曳，</div>
 <div>在凉风中舞动，</div>
 <div>仿佛要将谁的心带走一样--</div>
-<div> <img src="source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xKDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8xKDMpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>不可原谅</div>
 <div>我......</div>
 <div>......我、绝对、不会原谅你</div>
 <div>现在、就出发......</div>
 <div>我一定......一定要，把你......！</div>
-<div> <img src="source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8yKDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8yKDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>实现愿望。</div>
 <div>只留下这个事实，然后我们两人就会分别。</div>
 <div>就是希望着这一点，我们才会两个人一起走到今天。</div>
 <div>是这样吧？</div>
-<div> <img src="source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8zKDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS8zKDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>来，出发吧，去选择那独一无二的明天</div>
-<div> <img src="source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS80KDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
+<div> <img src="/source/bzoj/5143/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgwMS80KDIpLnBuZw==.png" width="1024" height="640" alt=""/></div>
 <div>二阶堂真红给了你一个长为n的序列a，有m次操作</div>
 <div>1.把区间[l,r]中大于x的数减去x</div>
 <div>2.查询区间[l,r]中x的出现次数</div>

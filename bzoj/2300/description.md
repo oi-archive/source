@@ -71,10 +71,10 @@ mso-bidi-language:#0400;}
 <div>你需要对每次询问作出回答。注意单位1长度的防线花费为1。</div>
 <div>A国的地形是这样的，形如下图，x轴是一条河流，相当于一条天然防线，不需要你再修建</div>
 <div>A国总是有两个城市在河边，一个点是(0,0)，一个点是(n,0)，其余所有点的横坐标均大于0小于n，纵坐标均大于0。A国有一个不在(0,0)和(n,0)的首都。(0,0),(n,0)和首都这三个城市是一定需要保护的。</div>
-<p class="MsoNormal"><span style="font-size: 12pt; font-family: 宋体;"><img height="255" width="307" src="source/bzoj/2300/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzAwXzEuanBn.jpg" alt=""/></span></p>
+<p class="MsoNormal"><span style="font-size: 12pt; font-family: 宋体;"><img height="255" width="307" src="/source/bzoj/2300/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzAwXzEuanBn.jpg" alt=""/></span></p>
 <p class="MsoNormal" style="text-align: left;">上图中，A,B,C,D,E点为A国城市，且目前都要保护，那么修建的防线就会是A-B-C-D，花费也就是线段AB的长度+线段BC的长度+线段CD的长度,如果，这个时候撤销B点的保护，那么防线变成下图</p>
 <p class="MsoNormal" style="text-indent: 24pt;"></p>
-<p class="MsoNormal" style="text-indent: 24pt;"><span style="font-size: 12pt; font-family: 宋体;"><img height="271" width="325" src="source/bzoj/2300/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzAwXzIuanBn.jpg" alt=""/></span></p>
+<p class="MsoNormal" style="text-indent: 24pt;"><span style="font-size: 12pt; font-family: 宋体;"><img height="271" width="325" src="/source/bzoj/2300/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTEwNS9pbWFnZS8yMzAwXzIuanBn.jpg" alt=""/></span></p>
 <p align="center" class="MsoNormal" style="text-align: center; text-indent: 24pt;"><span lang="EN-US" style="font-size: 12pt;"><br/>
 </span></p></div>
 

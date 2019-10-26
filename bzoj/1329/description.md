@@ -13,7 +13,7 @@
 
 # Sample Input
 
-<div class="content"><span class="sampledata"><img border="0" src="source/bzoj/1329/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjkuanBn.jpg"/></span></div>
+<div class="content"><span class="sampledata"><img border="0" src="/source/bzoj/1329/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzEzMjkuanBn.jpg"/></span></div>
 
 # Sample Output
 

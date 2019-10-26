@@ -5,7 +5,7 @@
 <div>游戏：棋盘上有3颗棋子，分别在a，b，c这三个位置。我们要通过最少的跳动把他们的位置移动成x，y，z。（棋</div>
 <div>子是没有区别的）跳动的规则很简单，任意选一颗棋子，对一颗中轴棋子跳动。跳动后两颗棋子距离不变。一次只</div>
 <div>允许跳过1颗棋子。</div>
-<p><img alt="" border="0" src="source/bzoj/2144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNDQuanBn.jpg"/></p>
+<p><img alt="" border="0" src="/source/bzoj/2144/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzIxNDQuanBn.jpg"/></p>
 <p>写一个程序，首先判断是否可以完成任务。如果可以，输出最少需要的跳动次数。</p></div>
 
 # Input

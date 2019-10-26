@@ -3,7 +3,7 @@
 
 <div class="content"><div>After beats all opponents in 3-dimension-world OI, ZCC feels bored and sets about going to other universes. In a universe with D dimension(s), ZCC finds D segments floating in the air. To be more precise: if we build a rectangular coordinate system with D axis, each of the segments is parallel with one axis, whose endpoints have a coordination of which all components belong to the set {x∈Z|0≤x＜N}. For each axis, there is exactly one segment parallel with it.</div>
 <div>Each of the D segments changes location every second. Read the pseudo code below for more details:</div>
-<div><img src="source/bzoj/3841/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9hYS5qcGc=.jpg" width="555" height="290" alt=""/></div>
+<div><img src="/source/bzoj/3841/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwMS9hYS5qcGc=.jpg" width="555" height="290" alt=""/></div>
 <div></div>
 <div></div>
 <div></div>

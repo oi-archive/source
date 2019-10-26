@@ -7,10 +7,10 @@
 <div>（2）组合两个已有的零件G1，G2，且G2的顶点数m&gt;=G1的顶点数n，得到新的零件G。G的顶点集合是G1、G2顶点集合的并</div>
 <div>集，并且G2的顶点i(0&lt;=i&lt;m)被重新标号为n+i。G的边集是G1、G2边集的并集再对所有标号为a(a&gt;=n)的顶点添加一</div>
 <div>条连接(a,a mod n)的无向边。</div>
-<div><img src="source/bzoj/4594/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgucG5n.png" width="447" height="356" alt=""/></div>
+<div><img src="/source/bzoj/4594/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgucG5n.png" width="447" height="356" alt=""/></div>
 <div>现在SHTSC正在思考，对于一个给定的零件，能否由零件组装机生产组装得到。注意：零件是带标号的，这意味着</div>
 <div>两个零件即使仅有标号不同也被视为不同的零件。为了帮助你理解问题，SHTSC特地给了你顶点数&lt;=5的零件的图例。</div>
-<div><img src="source/bzoj/4594/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgyLnBuZw==.png" width="656" height="563" alt=""/></div>
+<div><img src="/source/bzoj/4594/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNS_ml6DmoIfpopgyLnBuZw==.png" width="656" height="563" alt=""/></div>
 <div></div></div>
 
 # Input

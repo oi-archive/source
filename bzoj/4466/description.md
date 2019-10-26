@@ -5,7 +5,7 @@
 维情况下退化成线段）。在理论计算机科学领域里，超立方体往往可以和 2 进制<br/>
 编码联系到一起。对理论计算机科学颇有研究的 Will 自然也会对超立方体有着<br/>
 自己的思考。 <br/>
-<img width="471" height="209" alt="" src="source/bzoj/4466/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSgxKS5wbmc=.png"/><br/>
+<img width="471" height="209" alt="" src="/source/bzoj/4466/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTYwNC8xMSgxKS5wbmc=.png"/><br/>
 上图就是在 0～4 维空间内超立方体所对应的图形。显然我们可以把超立方<br/>
 体的每个顶点看成一个点，每一条棱看成一条边，这样就会得到一个无向图，我<br/>
 们称之为超立方图。 <br/>

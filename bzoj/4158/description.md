@@ -50,7 +50,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/4158/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9waWMucG5n.png" width="365" height="213" alt=""/></p><br/>
+<div class="content"><p></p><p><img src="/source/bzoj/4158/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNy9waWMucG5n.png" width="365" height="213" alt=""/></p><br/>
 <p></p><p></p></div>
 
 # Source

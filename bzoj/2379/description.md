@@ -14,7 +14,7 @@
 <div align="center"><span style="font-size: medium"><span style="color: black">......</span></span></div>
 <div><span style="font-size: medium"><span style="color: black">可以由下面三种方案覆盖。还有其它的方案，但是没有仅用一条不构成环的蛇就覆盖整个网格的方案。</span></span></div>
 <div></div>
-<div><span style="font-size: medium"><span style="color: black"><img height="189" width="440" alt="" src="source/bzoj/2379/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMSgyKS5qcGc=.jpg"/></span></span></div>
+<div><span style="font-size: medium"><span style="color: black"><img height="189" width="440" alt="" src="/source/bzoj/2379/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwMy8xMSgyKS5qcGc=.jpg"/></span></span></div>
 <div></div>
 <div></div>
 <div><span style="font-size: medium"><span style="color: black">

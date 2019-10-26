@@ -10,11 +10,11 @@
 
 # Input
 
-<div class="content"><p> <img src="source/bzoj/4090/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLmpwZw==.jpg" width="836" height="114" alt=""/></p></div>
+<div class="content"><p> <img src="/source/bzoj/4090/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLmpwZw==.jpg" width="836" height="114" alt=""/></p></div>
 
 # Output
 
-<div class="content"><p> <img src="source/bzoj/4090/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLmpwZw==.jpg" width="839" height="166" alt=""/></p></div>
+<div class="content"><p> <img src="/source/bzoj/4090/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLmpwZw==.jpg" width="839" height="166" alt=""/></p></div>
 
 # Sample Input
 

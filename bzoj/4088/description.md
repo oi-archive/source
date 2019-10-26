@@ -5,11 +5,11 @@
 <div>平光源照射下的立体图，并请你帮他在平面上画出来。小渊有一块面积为m*n的矩形区域，上面有m*n个边长为1的</div>
 <div>格子，每个格子上堆了一些同样大小的积木（积木的长宽高都是1）。为了方便阐述，我们假设这块区域是坐北朝</div>
 <div>南的，下面我们给出一个例子。</div>
-<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLnBuZw==.png" width="740" height="520" alt=""/></p>
+<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="/source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8xLnBuZw==.png" width="740" height="520" alt=""/></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><span style="text-indent: 2em; line-height: 23px;"><font face="sans-serif" size="2">小渊想请你打印出这些格子的立体图。我们定义每个积木为如下格式，并且不会做任何翻转旋转，只会严格以这一</font></span></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><font face="sans-serif" size="2"><span style="line-height: 23px;">种形式摆放（左侧是应该打印出来的图样，右侧为对应每一个位置符号的十进制ASCII，其中ASCII为32的符号为空</span></font></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"></p>
-<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLnBuZw==.png" width="740" height="266" alt=""/></p>
+<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="/source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8yLnBuZw==.png" width="740" height="266" alt=""/></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><span style="text-indent: 2em; line-height: 23px;"><font face="sans-serif" size="2">在良好的光学环境下，小渊将T束平行光同时照射在这些积木上。这些平行光首先满足一定是红绿蓝三基色之一，</font></span></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><font face="sans-serif" size="2"><span style="line-height: 23px;">其次入射角度满足：与x轴y轴的夹角度数均为45的倍数；且与z轴正方向的夹角或为45度，或为0度，或为315度。</span></font></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><font face="sans-serif" size="2"><span style="line-height: 23px;">具体来说，我们最多会考虑9个方向的不同平行光，它们的入射方向可以被描述为：</span></font></p>
@@ -18,7 +18,7 @@
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><font face="sans-serif" size="2"><span style="line-height: 23px;">   西南方45度仰角  正南方45度仰角  东南方45度仰角</span></font></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"><font face="sans-serif" size="2"><span style="line-height: 23px;">对于每一个单位积木来说，可以打印出来的三个表面被分为12个小三角形，如下图所示（下图中用符号0,1,2,。。</span></font></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; text-indent: 2em;"></p>
-<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8zLnBuZw==.png" width="425" height="416" alt=""/></p>
+<p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><img src="/source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS8zLnBuZw==.png" width="425" height="416" alt=""/></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;"><span style="font-family: Arial, Verdana, sans-serif; font-size: 12px;"> </span><span style="line-height: 23px; text-indent: 2em;">红绿蓝三基色分别用字母RGB来表示。</span></p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;">而二次叠加后的三种颜色青黄紫，分别用YCP来表示。</p>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; text-indent: 2em; font-family: sans-serif; line-height: 23px;">对于三次叠加后的颜色，也就是白色，用W来表示。</p>
@@ -124,7 +124,7 @@ R*G<br/>
 # Hint
 
 <div class="content"><p></p><p> </p><br/>
-<p><img src="source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS81LnBuZw==.png" width="456" height="300" alt=""/></p><br/>
+<p><img src="/source/bzoj/4088/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNS81LnBuZw==.png" width="456" height="300" alt=""/></p><br/>
 <p><span style="background-color: transparent; font-family: sans-serif; font-size: 14px; line-height: 23px; text-indent: 2em;">对于15%的数据，1&lt;=n,m&lt;=100,没有入射光。</span></p><br/>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-color: transparent; text-indent: 2em; font-family: sans-serif; line-height: 23px;">对于40%的数据，1&lt;=n,m&lt;=100,入射光只有一束，且入射方向一定是东南方。</p><br/>
 <p style="margin: 7px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-color: transparent; text-indent: 2em; font-family: sans-serif; line-height: 23px;">对于100%的数据，1&lt;=n,m&lt;=100，每一个位置堆放的积木总数不超过100,入射光颜色可能是RGB中的任何一种颜色，最多可以有9束入射光。</p><br/>

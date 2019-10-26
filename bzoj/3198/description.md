@@ -1,16 +1,16 @@
 
 # Description
 
-<div class="content"><p><img height="462" alt="" width="781" src="source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDEwKS5qcGc=.jpg"/></p>
+<div class="content"><p><img height="462" alt="" width="781" src="/source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8xKDEwKS5qcGc=.jpg"/></p>
 <p></p></div>
 
 # Input
 
-<div class="content"><p><img height="105" alt="" width="775" src="source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8yKDIpLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="105" alt="" width="775" src="/source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8yKDIpLmpwZw==.jpg"/></p></div>
 
 # Output
 
-<div class="content"><p><img height="75" alt="" width="767" src="source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8zLmpwZw==.jpg"/></p></div>
+<div class="content"><p><img height="75" alt="" width="767" src="/source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS8zLmpwZw==.jpg"/></p></div>
 
 # Sample Input
 
@@ -26,7 +26,7 @@
 
 # Hint
 
-<div class="content"><p></p><p><img height="77" alt="" width="766" src="source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS81LmpwZw==.jpg"/></p><br/>
+<div class="content"><p></p><p><img height="77" alt="" width="766" src="/source/bzoj/3198/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTMwNS81LmpwZw==.jpg"/></p><br/>
 <p>Dragonite修正数据</p><p></p></div>
 
 # Source

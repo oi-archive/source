@@ -22,8 +22,7 @@
 
 <div class="content"><p style="text-align: left"><font face="Times New Roman" size="3">M行，每行一个数，为每个询问的答案。 <br/>
 </font></p>
-<p>
-</p><p></p>
+<p></p><p></p>
 <pre></pre>
 <p></p>
 <pre></pre></div>

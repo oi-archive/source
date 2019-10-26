@@ -32,7 +32,7 @@ PPPPPPPPPPPGGGLDDLLLLLGPPGLLLDDLLLGGGPPPPPPPPPPGLLLLLLLLLLLDDDDD<br/>
 
 # Hint
 
-<div class="content"><p></p><p><img src="source/bzoj/4148/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi9QaWxsYXJzU2FtcGxlLkpQRw==.JPG" width="334" height="192" alt=""/> </p><p></p></div>
+<div class="content"><p></p><p><img src="/source/bzoj/4148/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTUwNi9QaWxsYXJzU2FtcGxlLkpQRw==.JPG" width="334" height="192" alt=""/> </p><p></p></div>
 
 # Source
 

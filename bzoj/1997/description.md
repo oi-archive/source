@@ -1,15 +1,15 @@
 
 # Description
 
-<div class="content"><p><img border="0" src="source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMS5qcGc=.jpg" alt=""/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMS5qcGc=.jpg" alt=""/></p></div>
 
 # Input
 
-<div class="content"><p><img border="0" src="source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMi5qcGc=.jpg" alt=""/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMi5qcGc=.jpg" alt=""/></p></div>
 
 # Output
 
-<div class="content"><p><img border="0" src="source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMy5qcGc=.jpg" alt=""/></p></div>
+<div class="content"><p><img border="0" src="/source/bzoj/1997/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvaW1hZ2VzLzE5OTdfMy5qcGc=.jpg" alt=""/></p></div>
 
 # Sample Input
 

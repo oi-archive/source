@@ -3,7 +3,7 @@
 
 <div class="content"><div style="line-height: 150%">今后，农民就不必依靠原始的稻草人来驱赶偷吃农作物的鸟类了。一种全新的发明电子稻草人将使鸟类远离田地。</div>
 <div style="line-height: 150%">       如果你有三个电子稻草人，摆放在田里的三个位置，那么鸟儿就不能飞进这三个稻草人组成的三角形内，因为这里面有他们发出的激光。同理，如果有多个稻草人摆放在田里，那么他们所围成的区域（通常称之为凸包）将被保护。例如下图：</div>
-<div style="line-height: 150%"><img height="226" alt="" width="277" src="source/bzoj/2897/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMS8xLmpwZw==.jpg"/></div>
+<div style="line-height: 150%"><img height="226" alt="" width="277" src="/source/bzoj/2897/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIxMS8xLmpwZw==.jpg"/></div>
 <div style="line-height: 150%">      </div>
 <div style="line-height: 150%">       图中的黑点代表电子稻草人，阴影部分为收到保护的区域。</div>
 <div style="line-height: 150%">       这个发明听起来不错，但是他又两个缺点：一是电子稻草人十分昂贵，所以农夫不能卖的起很多电子稻草人；二是他们十分沉重，必须放在坚实的地基上，这就限制的摆放稻草人的位置。</div>

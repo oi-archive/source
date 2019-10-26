@@ -1,7 +1,7 @@
 
 # Description
 
-<div class="content"><p><span style="font-size: medium"><img height="376" alt="" width="542" src="source/bzoj/2694/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9mYSgxKS5qcGc=.jpg"/></span></p>
+<div class="content"><p><span style="font-size: medium"><img height="376" alt="" width="542" src="/source/bzoj/2694/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTIwNC9mYSgxKS5qcGc=.jpg"/></span></p>
 <p><span style="font-size: medium"><!--StartFragment --></span></p>
 <div><span style="font-size: medium">对于任意的&gt;1的n gcd(a, b)不是n^2的倍数<br/>
 也就是说gcd(a, b)没有一个因子的次数&gt;=2<br/>
