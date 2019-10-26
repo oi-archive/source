@@ -6,7 +6,7 @@
 <div>1.若 x 没有子结点，那么它的权值会在输入里给出，保证这类点中每个结点的权值互不相同。</div>
 <div>2.若 x 有子结点，那么它的权值有 px的概率是它的子结点的权值的最大值，有 1?px的概率是它的子结点的权值的最小值。</div>
 <div>现在小 C 想知道，假设 1 号结点的权值有 m 种可能性，权值第 i 小的可能性的权值是 Vi，它的概率为 Di，求：</div>
-<div> <img src="source/bzoj/5461/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8xMTEucG5n.png" width="376" height="105" alt=""/></div>
+<div> <img src="/source/bzoj/5461/img/aHR0cHM6Ly9seWRzeS5jb20vSnVkZ2VPbmxpbmUvdXBsb2FkLzIwMTgxMS8xMTEucG5n.png" width="376" height="105" alt=""/></div>
 <p></p></div>
 
 # Input
