@@ -1,0 +1,20 @@
+# 
+描述
+给定被除数和除数，求整数商及余数。
+
+此题中请使用默认的整除和取余运算，无需对结果进行任何特殊处理。看看程序运行结果与数学上的定义有什么不同？
+
+输入
+一行，包含两个整数，依次为被除数和除数（除数非零），中间用回车隔开。
+输出
+一行，包含两个整数，依次为整数商和余数，中间用一个空格隔开。# 样例数据
+<style>
+        table,table tr th, table tr td { border:1px solid #0094ff; }
+        table { width: 200px; min-height: 25px; line-height: 25px; text-align: center; border-collapse: collapse;}   
+    </style>
+<table>
+	<tr>
+		<td>输入样例</td>
+		<td>输出样例</td>
+	</tr>
+<tr><td>10 3</td><td>3 1</td></tr></table>

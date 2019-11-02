@@ -1,0 +1,18 @@
+# 
+描述：
+声明两个变量，a的值是50,b的值是4，输出a除以b的余数。
+
+输入：
+空
+输出：
+2# 样例数据
+<style>
+        table,table tr th, table tr td { border:1px solid #0094ff; }
+        table { width: 200px; min-height: 25px; line-height: 25px; text-align: center; border-collapse: collapse;}   
+    </style>
+<table>
+	<tr>
+		<td>输入样例</td>
+		<td>输出样例</td>
+	</tr>
+<tr><td></td><td>2</td></tr></table>
