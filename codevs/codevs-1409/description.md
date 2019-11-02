@@ -1,0 +1,72 @@
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+题目描述
+<small>Description</small>
+</span></div>
+<div class="panel-body">
+
+<p>一场战争正在A国与B国之间如火如荼的展开。<br> B国凭借其强大的经济实力开发出了无数的远程攻击导弹，B国的领导人希望，通过这些导弹直接毁灭A国的指挥部，从而取得战斗的胜利！当然，A国人民不会允许这样的事情发生，所以这个世界上还存在拦截导弹。<br> 现在，你是一名A国负责导弹拦截的高级助理。<br> B国的导弹有效的形成了三维立体打击，我们可以将这些导弹的位置抽象三维中间的点（大小忽略），为了简单起见，我们只考虑一个瞬时的状态，即他们静止的状态。<br> 拦截导弹设计非常精良，可以精准的引爆对方导弹而不需要自身损失，但是A国面临的一个技术难题是，这些导弹只懂得直线上升。精确的说，这里的直线上升指xyz三维坐标单调上升。<br> 给所有的B国导弹按照1至N标号，一枚拦截导弹可以打击的对象可以用一个xyz严格单调上升的序列来表示，例如：<br> B国导弹位置：(0, 0, 0) (1, 1, 0) (1, 1, 1), (2, 2, 2)<br><br> 一个合法的打击序列为：{1, 3, 4}<br> 一个不合法的打击序列为{1, 2, 4}<br> A国领导人将一份导弹位置的清单交给你，并且向你提出了两个最简单不过的问题（假装它最简单吧）：<br> 1．一枚拦截导弹最多可以摧毁多少B国的导弹？<br> 2．最少使用多少拦截导弹才能摧毁B国的所有导弹？<br> 不管是为了个人荣誉还是国家容易，更多的是为了饭碗，你，都应该好好的把这个问题解决掉！</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+输入描述
+<small>Input Description</small>
+</span></div>
+<div class="panel-body">
+<p>第一行一个整数N给出B国导弹的数目。<br> 接下来N行每行三个非负整数Xi, Yi, Zi给出一个导弹的位置，你可以假定任意两个导弹不会出现在同一位置。</p>
+
+</div>
+</div>
+<div  class="panel panel-default">
+<div class="area-title">
+<span>
+输出描述
+<small>Output Description</small>
+</span></div>
+<div class="panel-body">
+
+<p>输出文件有且仅有两行。<br /> 第一行输出一个整数P，表示一枚拦截导弹之多能够摧毁的导弹数。<br /> 第二行输出一个整数Q，表示至少需要的拦截导弹数目。</p>
+
+</div>
+</div>
+
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输入
+<small>Sample Input</small>
+</span></div>
+<div class="panel-body">
+<p>4 <br>0 0 0 <br>1 1 0<br>1 1 1<br>2 2 2</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输出
+<small>Sample Output</small>
+</span></div>
+<div class="panel-body">
+<p>3<br>2</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+数据范围及提示
+<small>Data Size & Hint</small>
+</span></div>
+<div class="panel-body">
+<p>所有的坐标都是[0，10^6]的整数<br> 对于30%的数据满足N &lt; 31<br> 对于50%的数据满足N &lt; 101<br> 对于100%的数据满足N &lt; 1001</p>
+</div>
+</div>

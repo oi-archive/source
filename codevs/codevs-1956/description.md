@@ -1,0 +1,77 @@
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+题目描述
+<small>Description</small>
+</span></div>
+<div class="panel-body">
+
+<p>一堆木头棍子共有n根，每根棍子的长度和宽度都是已知的。棍子可以被一台机器一个接一个地加工。机器处理一根棍子之前需要准备时间。准备时间是这样定义的：</p>
+<p>第一根棍子的准备时间为1分钟；</p>
+<p>如果刚处理完长度为L，宽度为W的棍子，那么如果下一个棍子长度为Li，宽度为Wi，并且满足L&gt;＝Li，W&gt;＝Wi，这个棍子就不需要准备时间，否则需要1分钟的准备时间；</p>
+<p>计算处理完n根棍子所需要的最短准备时间。比如，你有5根棍子，长度和宽度分别为(4, 9)，(5, 2)，(2, 1)，(3, 5)，(1, 4)，最短准备时间为2(按(4, 9)、(3, 5)、(1, 4)、(5, 2)、(2, 1)的次序进行加工)。</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+输入描述
+<small>Input Description</small>
+</span></div>
+<div class="panel-body">
+<p>第一行是一个整数n(n&lt;＝5000)，第2行是2n个整数，分别是L1，W1，L2，w2，…，Ln，Wn。L和W的值均不超过10000，相邻两数之间用空格分开。</p>
+
+</div>
+</div>
+<div  class="panel panel-default">
+<div class="area-title">
+<span>
+输出描述
+<small>Output Description</small>
+</span></div>
+<div class="panel-body">
+
+<p class="p0">仅一行，一个整数，所需要的最短准备时间。</p>
+
+</div>
+</div>
+
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输入
+<small>Sample Input</small>
+</span></div>
+<div class="panel-body">
+<p>5</p>
+<p>4 9 5 2 2 1 3 5 1 4</p>
+<p>2</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输出
+<small>Sample Output</small>
+</span></div>
+<div class="panel-body">
+<p>2</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+数据范围及提示
+<small>Data Size & Hint</small>
+</span></div>
+<div class="panel-body">
+<p>(n&lt;＝5000)</p>
+</div>
+</div>

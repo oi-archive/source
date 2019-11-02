@@ -1,0 +1,126 @@
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+题目描述
+<small>Description</small>
+</span></div>
+<div class="panel-body">
+
+<p>Alice家里有一盏很大的吊灯。所谓吊灯，就是由很多个灯泡组成。只有一个灯泡是挂在天花板上的，剩下的灯泡都是挂在其他的灯泡上的。也就是说，整个吊灯实际上类似于一棵树。其中编号为1的灯泡是挂在天花板上的，剩下的灯泡都是挂在编号小于自己的灯泡上的。</p>
+<p>现在，Alice想要办一场派对，她想改造一下这盏吊灯，将灯泡换成不同的颜色。她希望相同颜色的灯泡都是相连的，并且每一种颜色的灯泡个数都是相同的。</p>
+<p>Alice希望你能告诉她，总共有哪些方案呢？</p>
+<p>Alice是一个贪心的孩子，如果她发现方案不够多，或者太多了，就会很不高兴，于是她会尝试调整。对于编号为x(x≠1)的灯泡，如果原来是挂在编号为f[x]的灯泡上，那么Alice会把第x个灯泡挂到第 ( f[x] + 19940105 ) mod (x-1) + 1 个灯泡上。</p>
+<p>由于九在古汉语中表示极大的数，于是，Alice决定只调整9次。对于原始状态和每一次调整过的状态，Alice希望你依次告诉她每种状态下有哪些方案。</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+输入描述
+<small>Input Description</small>
+</span></div>
+<div class="panel-body">
+<p>第一行一个整数n，表示灯泡的数量。</p>
+<p>接下来一行，有n-1个整数Ui，第i个数字表示第i+1个灯泡挂在了Ui个的下面。保证编号为1的灯泡是挂在天花板上的。数字之间用逗号‘，’隔开且最后一个数字后面没有逗号。</p>
+
+</div>
+</div>
+<div  class="panel panel-default">
+<div class="area-title">
+<span>
+输出描述
+<small>Output Description</small>
+</span></div>
+<div class="panel-body">
+
+<p class="p0">对于10种状态下的方案，需要按照顺序依次输出。</p>
+<p class="p0">对于每一种状态，需要先输出单独的一行，表示状态编号，如样例所示。</p>
+<p class="p0">之后若干行，每行1个整数，表示划分方案中每种颜色的灯泡个数。</p>
+<p class="p0">按升序输出。</p>
+
+</div>
+</div>
+
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输入
+<small>Sample Input</small>
+</span></div>
+<div class="panel-body">
+<p>6</p>
+<p>1,2,3,4,5</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输出
+<small>Sample Output</small>
+</span></div>
+<div class="panel-body">
+<p>Case #1:</p>
+<p>1</p>
+<p>2</p>
+<p>3</p>
+<p>6</p>
+<p>Case #2:</p>
+<p>1</p>
+<p>2</p>
+<p>6</p>
+<p>Case #3:</p>
+<p>1</p>
+<p>3</p>
+<p>6</p>
+<p>Case #4:</p>
+<p>1</p>
+<p>3</p>
+<p>6</p>
+<p>Case #5:</p>
+<p>1</p>
+<p>3</p>
+<p>6</p>
+<p>Case #6:</p>
+<p>1</p>
+<p>2</p>
+<p>6</p>
+<p>Case #7:</p>
+<p>1</p>
+<p>2</p>
+<p>3</p>
+<p>6</p>
+<p>Case #8:</p>
+<p>1</p>
+<p>6</p>
+<p>Case #9:</p>
+<p>1</p>
+<p>2</p>
+<p>6</p>
+<p>Case #10:</p>
+<p>1</p>
+<p>3</p>
+<p>6</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+数据范围及提示
+<small>Data Size & Hint</small>
+</span></div>
+<div class="panel-body">
+<p>对于20%的数据，n&lt;=3*10^3。</p>
+<p>对于40%的数据，n&lt;=5*10^4。</p>
+<p>对于50%的数据，n&lt;=1*10^5。</p>
+<p>对于60%的数据，n&lt;=3*10^5。</p>
+<p>对于70%的数据，n&lt;=7*10^5。</p>
+<p>对于100%的数据，n&lt;=1.2*10^6。</p>
+</div>
+</div>

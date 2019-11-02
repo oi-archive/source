@@ -1,0 +1,85 @@
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+题目描述
+<small>Description</small>
+</span></div>
+<div class="panel-body">
+
+<p>Z<span style="">国的骑士团是一个很有势力的组织，帮会中汇聚了来自各地的精英。他们劫富济贫，惩恶扬善，受到社会各界的赞扬。</span></p>
+<p>最近发生了一件可怕的事情，邪恶的<span style="font-family: 'Times New Roman';">Y</span><span style="">国发动了一场针对</span><span style="font-family: 'Times New Roman';">Z</span><span style="">国的侵略战争。战火绵延五百里，在和平环境中安逸了数百年的</span><span style="font-family: 'Times New Roman';">Z</span><span style="">国又怎能抵挡的住</span><span style="font-family: 'Times New Roman';">Y</span><span style="">国的军队。于是人们把所有的希望都寄托在了骑士团的身上，就像期待有一个真龙天子的降生，带领正义打败邪恶。</span></p>
+<p>骑士团是肯定具有打败邪恶势力的能力的，但是骑士们互相之间往往有一些矛盾。每个骑士都有且仅有一个自己最厌恶的骑士（当然不是他自己），他是绝对不会与自己最厌恶的人一同出征的。</p>
+<p>战火绵延，人民生灵涂炭，组织起一个骑士军团加入战斗刻不容缓！国王交给了你一个艰巨的任务，从所有的骑士中选出一个骑士军团，使得军团内没有矛盾的两人（不存在一个骑士与他最痛恨的人一同被选入骑士军团的情况），并且，使得这支骑士军团最具有战斗力。</p>
+<p>为了描述战斗力，我们将骑士按照<span style="font-family: 'Times New Roman';">1</span><span style="">至</span>N编号，给每名骑士一个战斗力的估计，一个军团的战斗力为所有骑士的战斗力总和。</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+输入描述
+<small>Input Description</small>
+</span></div>
+<div class="panel-body">
+<p>第一行包含一个正整数N，描述骑士团的人数。</p>
+<p>接下来N行，每行两个正整数，按顺序描述每一名骑士的战斗力和他最痛恨的骑士。</p>
+
+</div>
+</div>
+<div  class="panel panel-default">
+<div class="area-title">
+<span>
+输出描述
+<small>Output Description</small>
+</span></div>
+<div class="panel-body">
+
+<p class="p0">应包含一行，包含一个整数，表示你所选出的骑士军团的战斗力。</p>
+
+</div>
+</div>
+
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输入
+<small>Sample Input</small>
+</span></div>
+<div class="panel-body">
+<p>3</p>
+<p>10 2</p>
+<p>20 3</p>
+<p>30 1</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+样例输出
+<small>Sample Output</small>
+</span></div>
+<div class="panel-body">
+<p>30</p>
+
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="area-title">
+<span>
+数据范围及提示
+<small>Data Size & Hint</small>
+</span></div>
+<div class="panel-body">
+<div>
+<p>对于<span style="font-family: 'Times New Roman';">30%</span><span style="">的测试数据，满足</span>N ≤  10<span style="">；</span></p>
+<p>对于60%<span style="">的测试数据，满足</span>N ≤  100<span style="">；</span></p>
+<p>对于80%<span style="">的测试数据，满足</span>N ≤  10 000<span style="">。</span></p>
+<p>对于100%<span style="">的测试数据，满足</span>N ≤ 1 000 000<span style="">，每名骑士的战斗力都是不大于   </span><span style="font-family: 'Times New Roman';">1 000 000</span><span style="">的正整数。</span></p>
+</div>
+</div>
+</div>
