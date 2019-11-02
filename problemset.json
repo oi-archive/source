@@ -34,5 +34,13 @@
   {
     "name": "Lutece (UESTC OJ)",
 	"id": "lutece"
+  },
+  {
+    "name": "JoyOI",
+	"id": "joyoi"
+  },
+  {
+    "name": "CodeVS",
+	"id": "codevs"
   }
 ]
