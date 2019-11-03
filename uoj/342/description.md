@@ -14,7 +14,7 @@
 <p> <img src="/source/uoj/342/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWViYTA3MGZmMi5wbmc=.png" alt="img" align="middle" width="423" height="122"/></p>
 <p>每次移动可以选取一个青蛙，向这只青蛙的前方移动一格到空格子中或跳过前方的<strong>一个不同朝向</strong>的青蛙并移动到空格子中。</p>
 <p> <img src="/source/uoj/342/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWViYTJjZTZhMC5wbmc=.png" alt="img" align="middle" width="423" height="118"/></p>
-<p> <img src="https://i.loli.net/2018/09/19/5ba1eba2d00ae.png" alt="img" align="middle" width="423" height="153"/></p>
+<p> <img src="/source/uoj/342/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWViYTJkMDBhZS5wbmc=.png" alt="img" align="middle" width="423" height="153"/></p>
 <p>为了使你更好地理解这个游戏，我们下发了一个游戏demo作为参考（<strong>注意</strong>：这个demo中的棋盘大小和题目中并不相同）。</p>
 <p>这个游戏本身当然难不倒小d，小d轻松地就解决了这个游戏。但是一个人玩游戏实在是太寂寞了，于是小d找到了小m和他一起玩耍。小d规定，自己只能操控向右的青蛙，小m只能操控向左的青蛙。</p>
 <p>小d很快发现，这个游戏想要做到双方轮流行动，就无法达到交换所有青蛙的游戏结局。于是，小d打开了<code>m</code>个游戏，并规定双方轮流行动，每次选择其中一个游戏并控制自己的青蛙行动一步（不能不动）。小d发现，这么做的话就能够使大部分的游戏最终都交换所有的青蛙了。</p>
