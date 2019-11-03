@@ -9,13 +9,13 @@ One integer $T$ on the first line indicates the number of cases.
 
 Then followed by $T$ cases, every case contains $8$ lines. Each line contains $3$ integers $A$, $B$, $C$ describing the view from one corner of the dice (look at the picture for details). 
 
-![.*](/images/problem/121/201402011233525444.png)
+![.*](/source/lutece/guess-the-dice/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvMTIxLnBuZw==.png)
 
 It's not guaranteed that the order of the $8$ views is given in the same way as the sample input.
 
 # Standard Output
 
-For each case, print $6$ integers separated by space on a line. The $i\_{th}$ number indicates the number on the opposite side of $i$.
+For each case, print $6$ integers separated by space on a line. The $i$-th number indicates the number on the opposite side of $i$.
 
 # Samples
 

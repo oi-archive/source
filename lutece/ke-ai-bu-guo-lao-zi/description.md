@@ -3,7 +3,7 @@
 
 一开始你有$n$个字符串$str_i$，每一个字符串有一个权值$a_i$。接下来由$m$个询问，每个询问包含一个字符串$S$和他的权值$k$，对于每一个询问你需要回答
 
-$$\sum_{i=1}^{n}{LCP(str_i,S)*{ka_i}}\ \ mod\ \ 1000000007$$
+$$\sum_{i=1}^{n}{LCP(str_i,S)*{ka_i}} \bmod 1000000007$$
 
 $LCP(S1,S2)$表示字符串$S1$和字符串$S2$的最长公共前缀的长度。
 
@@ -57,8 +57,6 @@ laamofinigxis 3
 好吃不过老子，可爱不过饺子。
 
 ——DumpeLargling
-
-![](http://xr1s.me/wp-content/uploads/2018/06/VJ5408F_SMT1ECE0E.jpg)
 
 # Source
 

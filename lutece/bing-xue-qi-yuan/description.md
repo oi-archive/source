@@ -11,21 +11,21 @@
 
 # Standard Input
 
-第一行一个整数$n$，表示有$n$个冰砖先后定入了冻土之中。
+第一行一个整数 $n$，表示有 $n$ 个冰砖先后定入了冻土之中。
 
 冻土上刚开始并没有冰砖。
 
-接下来$n$行，每行$6$个整数，$x\_{1i},h\_{1i},x\_{2i},h\_{2i},l\_i,r\_i$。
+接下来 $n$ 行，每行六个整数，$x_{1i},h_{1i},x_{2i},h_{2i},l_i,r_i$。
 
-表示一次如图所示的冰砖下落，并询问在这之后，落在$[l\_i,r\_i]$内冰砖的总面积。
+表示一次如图所示的冰砖下落，并询问在这之后，落在 $[l_i,r_i]$ 内冰砖的总面积。
 
-$2 \leq n \leq 100000,-10^8 \leq l\_i<r\_i \leq 10^8,-10^8 \leq x\_{1i}<x\_{2i} \leq 10^8, 0 \leq h\_{1i},h\_{2i} \leq 10000,x\_{2i}-x\_{1i} \leq 10^5$
+$2 \leq n \leq 100000,-10^8 \leq l_i<r_i \leq 10^8,-10^8 \leq x_{1i}<x_{2i} \leq 10^8, 0 \leq h_{1i},h_{2i} \leq 10000,x_{2i}-x_{1i} \leq 10^5$
 
-![title](/images/problem/843/201404190923333893.png)
+![title](/source/lutece/bing-xue-qi-yuan/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvODQzLnBuZw==.png)
 
 # Standard Output
 
-输出$n$行，每行输出一个浮点数，作为对该询问的回答。误差小于1e-6的回答都被当作正确回答。
+输出 $n$ 行，每行输出一个浮点数，作为对该询问的回答。误差小于 $10^{-6}$ 的回答都被当作正确回答。
 
 # Samples
 
