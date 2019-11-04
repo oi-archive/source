@@ -9,6 +9,8 @@ In addition, there were two different versions of the lowercase letter $s$: the 
 3. Long $s$ is used everywhere else, except...
 4. It is possible that a compound word consists of a word ending in a double s followed by a word beginning with s (this is the only situation where the sequence `sss` occurs in English text). In this case, the middle s is set short and the other two are set long: crossstitch, crossstaff. (croſsﬅitch, croſsﬅaﬀ) 
 
+![title](/source/lutece/old-fashioned-typesetting/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvMzQxLnBuZw==.png)
+
 Note that a `word` is not the same thing as an `identifier.` While identifiers can contain punctuation marks such as `_` or `$`, words can contain only letters (at least as far as typographers are concerned). Therefore, identifiers like `radius3` and `adios_amigo` would be typeset as `radius3` and `adios_amigo,` respectively, rather than `radiuſ3` and `adioſ_amigo.`
 
 # Standard Input
@@ -17,11 +19,11 @@ The first line of input contains a single integer $P$, ($1\leq P\leq 1000$), whi
 
 # Standard Output
 
-For each data set, print the data set number, a space, and the input string, with the appropriate ligature and `long s` codes substituted into the string. The table on the next page shows the code strings to use for each symbol or ligature (note that the short s remains unchanged on output; note also that `Æ` and `Œ` are the only uppercase ligatures):
+For each data set, print the data set number, a space, and the input string, with the appropriate ligature and `long s` codes substituted into the string.
 
-![title](/images/problem/341/2014041016252101515.jpg)
+The table on the above shows the code strings to use for each symbol or ligature (note that the short s remains unchanged on output; note also that `Æ` and `Œ` are the only uppercase ligatures):
 
-Note that the rules for the use of long and short s can combine with these ligatures in interesting (and not always obvious) ways. For example, the input word `crossstitch` becomes `cro[longs]s[longst]itch,` not `cro[longs]s[longs]titch,`
+**Note** that the rules for the use of long and short s can combine with these ligatures in interesting (and not always obvious) ways. For example, the input word `crossstitch` becomes `cro[longs]s[longst]itch,` not `cro[longs]s[longs]titch,`
 
 # Samples
 

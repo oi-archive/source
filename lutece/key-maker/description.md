@@ -1,13 +1,13 @@
 
 # Content
 
-<img src="https://odzkskevi.qnssl.com/624110f0d3df256058183a2a74960810?v=1519872362"  width = "400" />
+Hassan is a happy key maker. Every customer arrives with a safe-box key, and asks him to create some copies of the key. Each key has several cuts of different depths. The picture below shows a safe-box key with $3$ cuts. To make a copy, Hassan needs to make the same number of cuts with exactly the same sequence of depths in a new blank key.
 
-$Hassan$ is a happy key maker. Every customer arrives with a safe-box key, and asks him to create some copies of the key. Each key has several cuts of different depths. The picture below shows a safe-box key with $3$ cuts. To make a copy, $Hassan$ needs to make the same number of cuts with exactly the same sequence of depths in a new blank key.
+![key](/source/lutece/key-maker/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvMTY2Mi5wbmc=.png)
 
-In the first days of his job, $Hassan$ wasted many blank keys to make copies. Most of the copied keys, however, did not match the customer keys and he could not sell them. He collected those copied keys in a trash-box, and now he is thinking of recycling them.
+In the first days of his job, Hassan wasted many blank keys to make copies. Most of the copied keys, however, did not match the customer keys and he could not sell them. He collected those copied keys in a trash-box, and now he is thinking of recycling them.
 
-When a new customer arrives, $Hassan$ looks into the trash-box, collects all keys with the same number of cuts as the customer’s key, and counts the keys that can match the customer’s key. A key can match the customer’s key if it already has exactly the same sequence of cut depths, or the depth of some of its cuts can be increased to reach the same sequence. Since this job is too hard for him, he has asked your help. For simplicity, you can assume that in any two keys with the same number of cuts, the position of the cuts along the keys are identical.
+When a new customer arrives, Hassan looks into the trash-box, collects all keys with the same number of cuts as the customer’s key, and counts the keys that can match the customer’s key. A key can match the customer’s key if it already has exactly the same sequence of cut depths, or the depth of some of its cuts can be increased to reach the same sequence. Since this job is too hard for him, he has asked your help. For simplicity, you can assume that in any two keys with the same number of cuts, the position of the cuts along the keys are identical.
 
 # Standard Input
 

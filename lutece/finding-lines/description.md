@@ -9,17 +9,15 @@ There is just one problem. The game master can draw the points in a way such tha
 
 The input consists of:
 
->#####one line with one integer n $(1≤n≤10^5)$, the number of points the game master has drawn;
->#####one line with one integer p $(20≤p≤100)$, the percentage of points which need to lie on the line;
->#####n lines each with two integers x and y $(0≤x,y≤10^9)$, the coordinates of a point.
+one line with one integer $n\ (1≤n≤10^5)$, the number of points the game master has drawn;  
+one line with one integer $p \ (20≤p≤100)$, the percentage of points which need to lie on the line;  
+n lines each with two integers $x$ and $y \ (0≤x,y≤10^9)$, the coordinates of a point.
 
 No two points will coincide.
 
 # Standard Output
 
-Output one line containing either “possible” if it is possible to find a suitable line or “impossible” otherwise.
-
-![title](/images/problem/1117/2015051616032896272.jpg)
+Output one line containing either `possible` if it is possible to find a suitable line or `impossible` otherwise.
 
 # Samples
 
@@ -53,7 +51,7 @@ Output one line containing either “possible” if it is possible to find a sui
 
 # Note
 
-
+![title](/source/lutece/finding-lines/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvMTExNy5wbmc=.png)
 
 # Source
 
