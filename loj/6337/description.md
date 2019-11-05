@@ -3,13 +3,13 @@
 
 现在你有一个函数：
 
-```
-inline int f(int x){
+```cpp
+inline int f(int x) {
     int tot = 0, alr = 0, now;
-    while(alr<x) {
-        now = rand(x)+1;
+    while (alr<x) {
+        now = rand(x) + 1;
         tot++;
-        if(!v[now]) alr++, v[now] = 1;
+        if (!v[now]) alr++, v[now] = 1;
     }
     return tot;
 }
@@ -45,11 +45,11 @@ inline int f(int x){
 
 对于 $20\%$ 的数据，$N\le 100$；
 
-对于 $40\%$ 的数据，$N\le 1000$；
+对于 $40\%$ 的数据，$N\le 10^3$；
 
-对于 $60\%$ 的数据，$N\le 300000$；
+对于 $60\%$ 的数据，$N\le 3\times 10^5$；
 
-对于 $80\%$ 的数据，$N\le 10000000$；
+对于 $80\%$ 的数据，$N\le 10^7$；
 
-对于 $100\%$ 的数据，$N\le 1000000000$。
+对于 $100\%$ 的数据，$N\le 10^9$。
 
