@@ -11,8 +11,8 @@ as a game room of their desired type, $1$ if the nearest game room of the desire
 # Standard Input
 
 The first line of the input gives the number of test cases, $T$($1\leq T\leq 100$). $T$ test cases follow. Each test case begins with one line with an integer $N$($2\leq N\leq 4000$),
-the number of floors in the building. $N$ lines follow, each consists of $2$ integers, $T\_i$ and $P\_i$($1\leq T\_i, P\_i\leq 10^9$), the number of table tennis and pool players on
-the $i\_{th}$ floor. The lines are given in increasing order of floor number, starting with floor $1$ and going upward.
+the number of floors in the building. $N$ lines follow, each consists of $2$ integers, $T_i$ and $P_i$($1\leq T_i, P_i\leq 10^9$), the number of table tennis and pool players on
+the $i$ - th floor. The lines are given in increasing order of floor number, starting with floor $1$ and going upward.
 
 # Standard Output
 

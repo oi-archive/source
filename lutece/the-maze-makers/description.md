@@ -19,16 +19,19 @@ The input consists of the descriptions of one or more candidate mazes.  Each maz
 
 For each candidate maze, the program should output the first one of the following statements that applies: 
 
-![title](/images/problem/1081/2015041823583493630.jpg)
+NO SOLUTION  
+UNREACHABLE CELL  
+MULTIPLE PATHS  
+MAZE OK  
 
 The classification statements are defined formally as follows:
 
->#####NO SOLUTION - There is no path through the interior of the maze between the two exterior openings. 
->#####UNREACHABLE CELL - There is at least one cell in the maze that is not reachable by following passageways from either of the openings in the exterior walls of the maze. 
->#####MULTIPLE PATHS - There exists a pair of cells in the maze that have more than one simple path between them. Two simple paths are considered to be distinct if any part of the paths differ. 
->#####MAZE OK - None of the above problems exist.
+`NO SOLUTION` - There is no path through the interior of the maze between the two exterior openings.   
+`UNREACHABLE CELL` - There is at least one cell in the maze that is not reachable by following passageways from either of the openings in the exterior walls of the maze.   
+`MULTIPLE PATHS` - There exists a pair of cells in the maze that have more than one simple path between them. Two simple paths are considered to be distinct if any part of the paths differ.   
+`MAZE OK` - None of the above problems exist.
 
-Note well that for the second case given in the following examples, there is no path between the start and finish and there is an unreachable cell; the correct output should simply be NO SOLUTION, because that error message is listed first in the above list. Similarly, in the fourth example given, UNREACHABLE CELL is reported because that error has priority over the multiple paths.
+Note well that for the second case given in the following examples, there is no path between the start and finish and there is an unreachable cell; the correct output should simply be `NO SOLUTION`, because that error message is listed first in the above list. Similarly, in the fourth example given, `UNREACHABLE CELL` is reported because that error has priority over the multiple paths.
 
 # Samples
 
