@@ -67,7 +67,7 @@ David 是一个很讨厌等待的人，他在等待过长时间后会有挫败�
 
 # 数据范围与提示
 
-$2 \leq n \leq 2\times 10^5,$ $1 \leq m \leq 2\times 10^5,$ $1 \leq u_i,v_i \leq n,$ $0 \leq s_i , v_i \leq 10^6$。
+$2 \leq n \leq 2\times 10^5,$ $1 \leq m \leq 2\times 10^5,$ $1 \leq u_i,v_i \leq n,$ $0 \leq s_i , e_i \leq 10^6$。
 
 数据保证不存在两个航班起飞时间相同，保证不存在两个航班到达时间相同。
 
