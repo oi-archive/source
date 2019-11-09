@@ -11,7 +11,7 @@
 
 现在 SHTSC 正在思考，对于一个给定的零件，能否由零件组装机生产组装得到。注意：零件是带标号的，这意味着两个零件即使仅有标号不同也被视为不同的零件。为了帮助你理解问题，SHTSC 特地给了你顶点数 $\leq 5$ 的所有零件的图例。
 
-![gadget_desc_2.png](/source/loj/2040/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5YTk0ODRhNTkucG5n.png)
+![gadget_desc_2.png](https://ooo.0o0.ooo/2017/04/20/58f89a9484a59.png)
 
 # 输入格式
 

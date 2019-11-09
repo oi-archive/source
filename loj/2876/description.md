@@ -57,7 +57,7 @@ JOI 君因为各种各样的事情，必须在各个建筑物之间往返。虽�
 #### 样例说明 1
 初始状态如下：
 
-<img src="/source/loj/2876/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTAvMTQvNWJjMzA0YzNhMzU1Ny5wbmc=.png" width="30.5%" />
+<img src="https://i.loli.net/2018/10/14/5bc304c3a3557.png" width="30.5%" />
 
 其中■表示墙，含有数字的区域表示建筑，其他区域为原野。
 

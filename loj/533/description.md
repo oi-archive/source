@@ -71,7 +71,7 @@
 
 <br>
 
-<center><img alt='sample_2_scaled.png' src="/source/loj/533/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTAvMjEvNTllYWUzM2VjNWUzZi5wbmc=.png" width='300px' /></center>
+<center><img alt='sample_2_scaled.png' src='https://i.loli.net/2017/10/21/59eae33ec5e3f.png' width='300px' /></center>
 <br>
 <div style='text-align: center; color: #999'>
 <img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExYTg5M2E3LnN2Zw==.svg" alt="svg_k10.svg" title="svg_k10.svg" /> 即 
