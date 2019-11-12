@@ -36,12 +36,12 @@ $$f(n) = \left( \sum_{i = 1}^n \left\lfloor \frac ni \right\rfloor^2 g(i) \right
 
 # 样例
 
-#### 输入样例 1
+#### 样例输入 1
 ```plain
 5
 ```
 
-#### 输出样例 1
+#### 样例输出 1
 ```plain
 61
 ```
@@ -59,12 +59,12 @@ $f(5) = 25 \times g(1) + 4 \times g(2) + 1 \times g(3) + 1 \times g(4) + 1 \time
 
 答案为 $1 \oplus 7 \oplus 14 \oplus 30 \oplus 43 = 61$。
 
-#### 输入样例 2
+#### 样例输入 2
 ```plain
 10
 ```
 
-#### 输出样例 2
+#### 样例输出 2
 ```plain
 207
 ```
@@ -72,12 +72,12 @@ $f(5) = 25 \times g(1) + 4 \times g(2) + 1 \times g(3) + 1 \times g(4) + 1 \time
 #### 样例解释 2
 答案为 $1 \oplus 7 \oplus 14 \oplus 30 \oplus 43 \oplus 81 \oplus 100 \oplus 137 \oplus 165 \oplus 235 = 207$。
 
-#### 输入样例 3
+#### 样例输入 3
 ```plain
 10000
 ```
 
-#### 输出样例 3
+#### 样例输出 3
 ```plain
 287416092
 ```
