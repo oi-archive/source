@@ -7,8 +7,7 @@
 2. 选出一个参数 $W$ ；
 3. 对于一个区间 $[L_i,R_i]$ ，计算矿石在这个区间上的检验值 $Y_i$：
 
-<center> $Y_i=\sum_j1 \cdot \sum_j{v_j},\ j\in[L_i,R_i]$ 且 $w_j\geq W,\ j$ 是矿石编号 </center>
-<br>
+$$Y_i=\sum_j1 \cdot \sum_j{v_j},\ j\in[L_i,R_i] 且 w_j\geq W, j 是矿石编号 $$
 
 这批矿产的检验结果 Y 为各个区间的检验值之和，即 $Y=\sum_{i=1}^m{Y_i}$。
 
