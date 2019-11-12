@@ -1,0 +1,56 @@
+# 题目描述
+
+
+<h3>
+	【题目描述】
+</h3>
+<p>
+	<br/>
+</p>
+<p>
+	一本书的页数为<span>N</span><span>，页码从</span><span>1</span><span>开始编起，请你求出全部页码中，用了多少个</span><span>0</span><span>，</span><span>1</span><span>，</span><span>2</span><span>，…，</span><span>9</span><span>。其中—个页码不含多余的</span><span>0</span><span>，如</span><span>N</span><span>＝</span><span>1234</span><span>时第</span><span>5</span><span>页不是</span><span>0005</span><span>，只是</span><span>5</span><span>。</span> 
+</p>
+<p>
+	<br/>
+</p>
+<h3>
+	【输入格式】
+</h3>
+<p>
+	<br/>
+</p>
+<p>
+	一个正整数<span>N</span>($N \le 10^9$)，表示总的页码。
+</p>
+<p>
+	<br/>
+</p>
+<h3>
+	【输出格式】
+</h3>
+<p>
+	<br/>
+</p>
+<p>
+	共十行：第<span>k</span><span>行为数字</span><span>k</span>-1<span>的个数。</span> 
+</p>
+<p>
+	<br/>
+</p>
+<h3>
+	【样例输入】
+</h3>
+<pre>11</pre>
+<h3>
+	【样例输出】
+</h3>
+<pre>1
+4
+1
+1
+1
+1
+1
+1
+1
+1</pre>
