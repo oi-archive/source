@@ -135,5 +135,5 @@ $$\large\begin{bmatrix}2&4\\3&1\end{bmatrix}\Rightarrow\begin{bmatrix}2&\\3&1\en
 
 <!-- END: Migrated markdown table -->
 
-数据保证每一个事件满足$1\leq x \leq n,1\leq y \leq m$
+数据保证每一个事件满足 $1\leq x \leq n,1\leq y \leq m$
 

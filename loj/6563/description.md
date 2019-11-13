@@ -50,5 +50,7 @@ $\text{CAROLE & TUESDAY}$ 出道时就已经积累的一定的好评 $w$，巡�
 
 # 数据范围与提示
 
+![](/source/loj/6563/img/aHR0cHM6Ly9hZTAxLmFsaWNkbi5jb20va2YvSDNmNmMwZTM2NzQyYjQyMTBhNWNlYmE0N2E3MzQ5NjY1WC5wbmc=.png)
+
 对于 $100\%$ 的数据，保证 $n,m\le2\times10^5,\;s_i,x_i,w\le2^{30}-1$
 
