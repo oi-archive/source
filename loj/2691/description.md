@@ -33,7 +33,7 @@
 9 10
 10 5
 ```
-![ran1.gif](/source/loj/2691/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzExLzU5MTQ1MzcyMDczYTAuZ2lm.gif)
+![ran1.gif](https://ooo.0o0.ooo/2017/05/11/59145372073a0.gif)
 
 #### 样例输出
 ```plain
