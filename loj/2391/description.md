@@ -89,31 +89,8 @@ JOI 港口放置集装箱的结构可视为两个本质不同的栈。每天从�
 
 对于所有数据，$1\le N\le 10^6, 1\le A_i, B_i\le 2N(1\le i\le N), A_1\ldots A_N$ 和 $B_1\ldots B_N$ 这 $2N$ 个整数互不相同。
 
-<table class="ui celled table">
-<thead>
-<tr>
-  <th>Subtask \# </th>
-  <th>1</th>
-  <th>2</th>
-  <th>3</th>
-  <th>4</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>$N\le$ </td>
-  <td>$20$ </td>
-  <td>$2000$ </td>
-  <td>$2\times 10^5$ </td>
-  <td>$10^6$ </td>
-</tr>
-<tr>
-  <td>分值</td>
-  <td>10</td>
-  <td>12</td>
-  <td>56</td>
-  <td>22</td>
-</tr>
-</tbody>
-<table>
+|子任务 #|1|2|3|4|
+|:-:|:-:|:-:|:-:|:-:|
+|$N\le$|$20$|$2000$|$2×10^5$|$10^6$|
+|分值|10|12|56|22|
 

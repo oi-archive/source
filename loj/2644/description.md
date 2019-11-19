@@ -39,7 +39,7 @@ W 教授在 T 大学计算机系里开了一门「数字逻辑」课，主要讲
 
 要求你设计的译码电路是一个有四个输入端和四个输出端的逻辑电路，该译码电路的输入和输出关系通过功能表给出，即给出每种输入组合下的四个输出端的情况。显然，一共有 $2^4=16$ 种输入组合。比如，一个由前述「与门」构成的 $2$ 输入，$2$ 输出的简单译码电路如下图所示（其中，A1, A2 是输入端，Y1, Y2 是输出端）
 
-![digilog_7.png](https://i.loli.net/2019/02/14/5c6563e4b7208.png)
+![digilog_7.png](/source/loj/2644/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTQvNWM2NTYzZTRiNzIwOC5wbmc=.png)
 
 |A1|A2|Y1|Y2|
 |:-:|:-:|:-:|:-:|

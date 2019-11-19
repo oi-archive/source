@@ -13,7 +13,7 @@ ZQC 对屏幕上不断滚动的嵌套截图消息十分感兴趣，他想让你�
 
 而这条消息可以表示为 $ (B,(A,\mathrm{NIL})) $：
 
-![2.png](https://ooo.0o0.ooo/2017/06/14/5940d1787d0f2.png)
+![2.png](/source/loj/502/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzE0LzU5NDBkMTc4N2QwZjIucG5n.png)
 
 如果设第一条消息为 $ S=(A,\mathrm{NIL}) $，第二条消息也可以表示为 $ (B,S) $。
 
