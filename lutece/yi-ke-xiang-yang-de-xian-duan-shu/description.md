@@ -1,12 +1,12 @@
 
 # Content
 
-设 $ \mathrm{xem}$ 表示集合中最小的未出现的正整数，
-如 $ \mathrm{xem}\\{\\} = 1$，$ \mathrm{xem}\\{1,3,4\\} = 2$.
+设 $\mathrm{xem}$ 表示集合中最小的未出现的正整数，
+如 $\mathrm{xem}\{\} = 1$，$\mathrm{xem}\{1,3,4\} = 2$.
 
 定义
 
-$b_i = \mathrm{xem}\\{b_{i-c_i}, b_{i-c_i+1}, ..., b_{i-1}\\}, \quad i = 1, 2, ..., n$
+$b_i = \mathrm{xem}\{b_{i-c_i}, b_{i-c_i+1}, ..., b_{i-1}\}, \quad i = 1, 2, ..., n$
 
 特别的，$b_0 = 1$.
 

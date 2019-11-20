@@ -1,7 +1,7 @@
 
 # Content
 
-<img src="/source/lutece/san-cheng-mei-qin-de-xin-li-zhi-you-xue-xi/img/aHR0cDovLzViMDk4OGU1OTUyMjUuY2RuLnNvaHVjcy5jb20vaW1hZ2VzLzIwMTgwMTE5LzYzNDNlOGI3YzJlMjQ1YWQ4NmJkZTZlNmNmM2I5ODdjLmpwZWc=.jpeg" width = "400" />
+![6343e8b7c2e245ad86bde6e6cf3b987c.jpeg](/source/lutece/san-cheng-mei-qin-de-xin-li-zhi-you-xue-xi/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMjAvbzlBaW1DUVlCMm55SXU3LmpwZw==.jpg)
 
 三澄美琴是一个热爱学习的法医，今天晚上她准备下载很多很多法医论文资料。下面有三个操作
 
@@ -13,8 +13,10 @@ $3\ t_i$ 查询在$t_i$时刻队列首位的任务编号，无下载任务输出
 
 # Standard Input
 
-第一行一个$n$ $(1\le n\le 1e5)$  
-接下来$n$行，每行$j(1\le j\le 3),t_i(1\le t_i\le 1e9,升序输出)$，当 $j = 1$ 时，$ t_i$ 后会跟 $a_i(1\le ai \le n)$, $b_i(1\le b_i\le 1e4)$
+第一行一个$n$ $(1\le n\le 10^5)$  
+接下来$n$行，每行$j(1\le j\le 3),t_i(1\le t_i\le 10^9)$，当 $j = 1$ 时，$t_i$ 后会跟 $a_i(1\le a_i \le n)$, $b_i(1\le b_i\le 10^4)$
+
+保证 $t_i$ 为升序。
 
 # Standard Output
 
