@@ -15,11 +15,11 @@ So what's the expectation of the numbers of round played?
 
 First line of input consists of a single integer containing the number of test cases $T$ ( equal to around $500000$)
 
-each of the following $T$ lines contain two integer$ x$,$ y$.($0<y<=x<=3*y<1000000000$)
+each of the following $T$ lines contain two integer $x$,$y$.($0<y\le x\le 3y<1000000000$)
 
 # Standard Output
 
-ans the absolute error should be less than 10^(-6).
+ans the absolute error should be less than $10^{-6}$.
 
 # Samples
 
