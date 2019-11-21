@@ -12,7 +12,7 @@
 你的任务是将结点重新编号，使得图中坏的边的数量尽量少。  
 对于上图中的树，按照下图中的方式将结点重新编号，会只剩一条坏的边 $(3, 6)$ 。
 
-![](/source/loj/2817/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMTcvNWI3NjMzYTRjZmViZi5wbmc=.png)
+![](https://i.loli.net/2018/08/17/5b7633a4cfebf.png)
 
 重新编号后，坏的边越少，你的得分越高。
 
