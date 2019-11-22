@@ -7,7 +7,7 @@
 
 判断两棵树是否同构的伪代码如下：
 
-<img src="https://ooo.0o0.ooo/2017/04/30/590588bc1af25.png">
+<img src="/source/loj/2105/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzMwLzU5MDU4OGJjMWFmMjUucG5n.png">
 
 # 输入格式
 
