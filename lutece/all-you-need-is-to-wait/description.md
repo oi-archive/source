@@ -26,7 +26,8 @@ After each second, the number of the kingdoms and the size of each kingdom might
 
 If all the cities are occupied, the Game will get into the second part.
 
-####For the second Part: 
+#### For the second Part: 
+
 Since there are no unoccupied cities on the map, two countries start to invade each other!
 
 In each second, every kingdom will start to invade all the kingdoms that is directly connected to that kingdom, whose size is smaller, and belongs to the other country. And the invading will always succeed instantly, and all the cities of that kingdom will be captured. But all the invading happen at the same time, so while kingdom B is invading kingdom C, kingdom B’s original cities might be captured by kingdom A.

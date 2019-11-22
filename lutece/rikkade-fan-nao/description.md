@@ -3,7 +3,7 @@
 
 #### 你这快乐的王子，我难道不可以做你的小燕子吗？——$Hishikawa\,Rikka$    
 
-<img src="/source/lutece/rikkade-fan-nao/img/aHR0cDovL2kyNDkucGhvdG9idWNrZXQuY29tL2FsYnVtcy9nZzIyNC9ha2k5NjExMDMvUHJlY3VyZS9MZW9wYXJkLVJhd3NEb2tpZG9raVByZWN1cmUtMDFSQVdFWDEyODB4NzIweDI2NEFBQzE4LTQ3LTQ4X3pwczE4ZTlhZjIwLmpwZw==.jpg" width=409 height=230 />
+![](/source/lutece/rikkade-fan-nao/img/aHR0cDovL2kyNDkucGhvdG9idWNrZXQuY29tL2FsYnVtcy9nZzIyNC9ha2k5NjExMDMvUHJlY3VyZS9MZW9wYXJkLVJhd3NEb2tpZG9raVByZWN1cmUtMDFSQVdFWDEyODB4NzIweDI2NEFBQzE4LTQ3LTQ4X3pwczE4ZTlhZjIwLmpwZw==.jpg)
 
 $Rikka$想要和$Mana$在一起，然而$Mana$依然到处收着她的后宫。即使$Rikka$是$Cure\,Diamond$，钻石之心也是会受伤的！$Rikka$只得玩卡片游戏暂时缓解心中的烦恼。     
 然而今天$Rikka$在玩卡片游戏时遇到了麻烦，需要你的帮助。    
@@ -17,8 +17,8 @@ $Rikka$有时候会修改某张卡片上的数字。
 第二行是一个长度为$n$的整数序列$a$，第$i$个数代表第$i$张卡片上初始的数字，    
 第三行是一个整数$m$，    
 接下来$m$行，每行首先有一个整数$op$，    
-然后，若$op=0$，则之后有两个整数$p$，$v$，代表将$ a\_p$的值加上$ v $，    
-若$ op=1 $，则之后有两个整数$x\_0$，$d$，代表询问$max\\{a\_{x\_0},a\_{x\_0+d},a\_{x\_0+2d},{\ldots},a\_{x\_0+kd}\\}(x\_0+(k+1)d>n)$。
+然后，若$op=0$，则之后有两个整数$p$，$v$，代表将$a_p$的值加上$v$，    
+若$op=1$，则之后有两个整数$x_0$，$d$，代表询问$\max \{a_{x_0},a_{x_0+d},a_{x_0+2d},{\ldots},a_{x_0+kd}\}(x_0+(k+1)d>n)$。
 
 # Standard Output
 

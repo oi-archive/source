@@ -17,7 +17,7 @@ Note: Q wants the $f(k)$ as large as possible when $k$ from $1$ to $n$ and $k$ i
 
 # Standard Input
 
-The first line contains an integer $n$ ,
+The first line contains an integer $n$.
 
 then $n$ lines are as follows: every line contains an integer $a[i]$, which means i-person's charm value.
 
@@ -27,7 +27,7 @@ $\ n\leq 50000$,$\ a[i]\leq 100000$;
 
 There are $n$ lines , the i-th line outputs the $f(k)$ when $k=i$ .
 
-Note again: The $f(k) $ should be maximized.
+Note again: The $f(k)$ should be maximized.
 
 # Samples
 
@@ -54,11 +54,11 @@ Note again: The $f(k) $ should be maximized.
 
 # Note
 
-$\ f(1)=max (   gcd(1),gcd(2),gcd(4)    ) =4$ ;
+$f(1)=\max\{\gcd(1),\gcd(2),\gcd(4)\} =4$ ;
 
-$\ f(2)=max(gcd(1,2),gcd(2,4),gcd(1,4))=2$;
+$f(2)=\max\{\gcd(1,2),\gcd(2,4),\gcd(1,4)\}=2$;
 
-$\ f(3)=max(gcd(1,2,4))=1$;
+$f(3)=\max\{\gcd(1,2,4)\}=1$;
 
 Here is the gcd function :
 ``` c++
