@@ -1,7 +1,7 @@
 
 # Content
 
-<img src="/source/lutece/ga-yan-huan-zhe/img/aHR0cDovL3d4Mi5zaW5haW1nLmNuL2xhcmdlLzAwNmtudXdQZ3kxZnJkY3kwenowY2czMDk1MDduZTgxLmdpZj9pZD0wP2lkPTA=.gif" width = "400" />
+![](/source/lutece/ga-yan-huan-zhe/img/aHR0cDovL3d4Mi5zaW5haW1nLmNuL2xhcmdlLzAwNmtudXdQZ3kxZnJkY3kwenowY2czMDk1MDduZTgxLmdpZj9pZD0wP2lkPTA=.gif)
 
 $Huyyt$是$UESTC$知名的嘎癌患者,据悉其患病时间已长达$6$年.神奇的是,只要两个嘎癌患者相识则必互为情敌.
 

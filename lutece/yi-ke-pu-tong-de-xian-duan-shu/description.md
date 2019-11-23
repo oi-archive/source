@@ -1,7 +1,7 @@
 
 # Content
 
-<img src="/source/lutece/yi-ke-pu-tong-de-xian-duan-shu/img/aHR0cHM6Ly9naXRodWIuY29tL0FicmV0by9pbWcvcmF3L21hc3Rlci9tYXh3ZWxsLmpwZw==.jpg" width = "512" style="border:black solid 1px" />
+![](/source/lutece/yi-ke-pu-tong-de-xian-duan-shu/img/aHR0cHM6Ly9naXRodWIuY29tL0FicmV0by9pbWcvcmF3L21hc3Rlci9tYXh3ZWxsLmpwZw==.jpg)
 
 出题人明天就要半期考试了，课程是《火葬场与波》.
 出题人倒在血泊中，一双有力的手摇晃着出题人的肩膀：
