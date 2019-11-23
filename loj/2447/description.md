@@ -15,7 +15,7 @@
 
 ![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2MGIwZC5wbmc=.png)
 
-![](https://i.loli.net/2018/06/11/5b1e029d6886a.png)
+![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ2ODg2YS5wbmc=.png)
 
 ![](/source/loj/2447/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTEvNWIxZTAyOWQ3ZjNiOS5wbmc=.png)
 
