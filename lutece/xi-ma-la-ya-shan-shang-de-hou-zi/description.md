@@ -1,8 +1,6 @@
 
 # Content
 
-![](/source/lutece/xi-ma-la-ya-shan-shang-de-hou-zi/img/aHR0cHM6Ly9zczEuYmRzdGF0aWMuY29tLzcwY0Z2WFNoX1ExWW54R2twb1dLMUhGNmhoeS9pdC91PTI1MDYzMjQyMzIsMzkwODcyMjQwNyZmbT0yNyZncD0wLmpwZw==.jpg)
-
 余周周告诉我喜马拉雅山上有猴子，他们知道点石成金的方法。我不信，于是余周周带我去喜马拉雅山拜访猴子。
 
 喜马拉雅山上有n个猴子聚落，不妨叫它们1,2，…n号聚落；它们之间有m条**单向**道路(这意味着如果一条路从1号聚落到2号聚落，那么你不能通过这条路从2号聚落到1号聚落)，每条道路连接2个聚落，且拥有不同的长度。可能有两条道路的起点和终点相同，但没有一条道路的起点和终点是同一个聚落。
