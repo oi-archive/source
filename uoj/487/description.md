@@ -5,14 +5,14 @@
 
 
 <p>给你一张 $n$ 个点 $m$ 条边构成的有向图 $G=(V, E)$，其中第 $i$ 条边的起点为 $from(i)$，终点为 $to(i)$，有容量 $cap(i)$ 和费用 $cost(i)$ 两个属性。并且，图中存在两个特殊点，源点 $s$ 和汇点 $t$，$s$ 点没有入边，$t$ 点没有出边。</p>
-<p>定义流函数 $f:E\rightarrow N$，满足以下条件：</p>
+<p>定义流函数 $f:E\rightarrow N$ 为满足以下条件的任一函数（即 $f(i)$ 表示 $i$ 这条边的流量）：</p>
 <ol><li><p>$\forall i\in E, 0\le f(i)\le cap(i)$（每条边的流量不超过容量）。</p>
 </li>
-<li><p>$\forall u\in (V-\{s, t\}), \sum\limits_{from(i) = u\ }f(i)=\sum\limits_{to(i) = u\ }f(i)$（除源汇外每个点的流入量等于流出量）。</p>
+<li><p>$\forall u\in (V\setminus\{s, t\}), \sum\limits_{from(i) = u\ }f(i)=\sum\limits_{to(i) = u\ }f(i)$（除源汇外每个点的流出量等于流入量）。</p>
 </li>
 </ol><p>定义一个流函数的流量为 $s$ 流出的流量：$flow(f)=\sum_{from(i)=s\ \ \,}f(i)$。</p>
 <p>定义一个流函数的总费用为每条边的流量与费用乘积之和：$totalcost(f)=\sum_{i\in E\;}f(i)cost(i)$。</p>
-<p>请求出最大流（$flow(f)$ 的最大值），以及最大流前提下的最小费用（在 $flow(f)$ 取到最大值的前提下 $totalcost(f)$ 的最小值）。</p>
+<p>请求出最大流（$flow(f)$ 的最大值），以及最大流前提下的最小费用（即 $\min\{totalcost(f)|flow(f)=\max\{flow(i)|i\text{ is a flow of }G\}\}$）。</p>
 
 # 输入格式
 
@@ -25,7 +25,7 @@
 
 <p>输出包含两个整数，分别表示最大流和最大流前提下的最小费用。</p>
 
-# 样例
+# 样例一
 
 
 <h4>input</h4>
@@ -37,6 +37,19 @@
 1 3 40 5</code></pre>
 <h4>output</h4>
 <pre><code class="sh_plain">50 280</code></pre>
+<h4>explanation</h4>
+<p>用 $f(u, v)$ 代指 $u$ 到 $v$ 这条边的流量，那么取到最大流前提下的最小费用时，$f(4, 2)=30$, $f(4, 3)=20$, $f(2, 3)=20$, $f(2, 1)=10$, $f(1, 3)=10$ 。</p>
+
+# 样例二
+
+
+<h4>input</h4>
+<pre><code class="sh_plain">3 1 1 3
+2 2 1 -1</code></pre>
+<h4>output</h4>
+<pre><code class="sh_plain">0 -1</code></pre>
+<h4>explanation</h4>
+<p>一个合法的流只需满足容量限制与流量平衡，一个与 $s$, $t$ 不连通的环也可以有流量。</p>
 
 # 限制与约定
 
