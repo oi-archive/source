@@ -33,6 +33,7 @@
 # Note
 
 4 mod 1 + 4 mod 2 + 4 mod 3 + 4 mod 4 + 4 mod 5 + 4 mod 6 = 0 + 0 + 1 + 0 + 4 + 4 = 9
+
 1<=N,K<=10^9
 
 # Source

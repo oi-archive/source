@@ -13,9 +13,9 @@
 
 数据保证:
 
-* $ 1 \leq T \leq 200$
+* $1 \leq T \leq 200$
 
-* $ 1 \leq N \leq 200$
+* $1 \leq N \leq 200$
 
 # Standard Output
 

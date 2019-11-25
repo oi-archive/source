@@ -1,7 +1,8 @@
 
 # Content
 
-<img src="/source/lutece/yao-jiang-de-xian-xing-dai-shu-ke-tang-er/img/aHR0cDovL2ltYWdlcy5jbmJsb2dzLmNvbS9jbmJsb2dzX2NvbS9hdXRza3ktamFkZWsvMTA3NzIxNi9vXyVlNSU4ZCU4MyVlNiU5YiU5YzMuanBn.jpg"  width=240 height=282>    
+![o_千曜3.jpg](/source/lutece/yao-jiang-de-xian-xing-dai-shu-ke-tang-er/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMjEvcEZLR1ViUFJNM2ZOd0lWLmpwZw==.jpg)
+
 千歌回家以后，望着点缀着点点繁星的夜空，轻轻哼唱起：   
 总感觉难以入眠 整夜都在翻来覆去    
 始终都在思念的心一直躁动不安    
