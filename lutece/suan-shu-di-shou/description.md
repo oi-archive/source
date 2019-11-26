@@ -2,23 +2,23 @@
 # Content
 
 ### define
-定义一种新的运算'$\*$'.
+定义一种新的运算'$*$'.
 
-'$\*$'运算满足对于任意的两个数$x, y$, 都有:
+'$*$'运算满足对于任意的两个数$x, y$, 都有:
 
 ![a](/source/lutece/suan-shu-di-shou/img/aHR0cHM6Ly9hY20udWVzdGMuZWR1LmNuL21lZGlhL2ltYWdlL3Byb2JsZW0vMTg0Ny8yMDE4MDMwMzE1MDEzNTMxMTguanBlZw==.jpeg)
 
-'$\*$'运算也满足结合率.
+'$*$'运算也满足结合率.
 ***
 
 ### define
 定义一种'字句'$w$, 满足后面关系: 
 
-$w = a \* (w')$ 或 $w = (w') \* a$ 或 $w = a \* b$
+$w = a * (w')$ 或 $w = (w') * a$ 或 $w = a * b$
 
 (其中的$a$和$b$可以为任意变量('a' - 'z'))
 
-举例: $w = d\*(((a\*b)\*a)\*c)$
+举例: $w = d*(((a*b)*a)*c)$
 ***
 
 ### Task
