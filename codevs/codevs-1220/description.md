@@ -8,7 +8,7 @@
 
 <p><span>如图所示的数字三角形，从顶部出发，在每一结点可以选择向左走或得向右走，一直走到底层，要求找出一条路径，使路径上的值最大。</span></p>
 
-<img src="/source/codevs/codevs-1220/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMjIwL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMjIwLmdpZg==.gif" style="max-width:700px">
+<img src="/source/codevs/codevs-1220/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEyMjAuZ2lm.gif" style="max-width:700px">
 
 </div>
 </div>

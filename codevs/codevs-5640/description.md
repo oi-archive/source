@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p>简单的题目，简单的题面，请问下面程序的输出次数是多少呢？</p><p><img src="/source/codevs/codevs-5640/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01NjQwL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE2MTIwMTEzNDExOV81MTUucG5n.png" title=""></p>
+<p>简单的题目，简单的题面，请问下面程序的输出次数是多少呢？</p><p><img src="/source/codevs/codevs-5640/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTYxMjAxMTM0MTE5XzUxNS5wbmc=.png" title=""></p>
 
 </div>
 </div>

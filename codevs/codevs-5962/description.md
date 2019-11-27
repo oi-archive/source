@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><span style="">Copyright ©2017 神犇(shenben)</span></p><p><img src="/source/codevs/codevs-5962/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTYyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMTEwMDIyOV8yOTEucG5n.png" title=""></p>
+<p><span style="">Copyright ©2017 神犇(shenben)</span></p><p><img src="/source/codevs/codevs-5962/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDExMTAwMjI5XzI5MS5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -18,7 +18,7 @@
 <small>Input Description</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-5962/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTYyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMTEwMDI1Nl81MjAucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-5962/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDExMTAwMjU2XzUyMC5wbmc=.png" title=""></p>
 
 </div>
 </div>

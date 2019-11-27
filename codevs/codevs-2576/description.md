@@ -14,7 +14,7 @@
 <p>  最美观的排版要求版面中不出现非必要的长空格。例如图6最多只出现了两个连续空格，而图1中出现了三个连续空格，因此图6的排版比图1的排版美观。你的任务是对给定的文章和稿纸宽度，计算最美观的排版。</p>
 <p> </p>
 
-<img src="/source/codevs/codevs-2576/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yNTc2L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yNTc2LnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-2576/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI1NzYucG5n.png" style="max-width:700px">
 
 </div>
 </div>

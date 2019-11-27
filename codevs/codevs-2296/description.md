@@ -8,7 +8,7 @@
 
 <p>　　作为体育委员，C君负责这次运动会仪仗队的训练。仪仗队是由学生组成的N * N的方阵，为了保证队伍在行进中整齐划一，C君会跟在仪仗队的左后方，根据其视线所及的学生人数来判断队伍是否整齐(如下图)。</p><p>　　现在，C君希望你告诉他队伍整齐时能看到的学生人数。</p><p> </p><p> </p>
 
-<img src="/source/codevs/codevs-2296/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yMjk2L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yMjk2LnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-2296/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzIyOTYucG5n.png" style="max-width:700px">
 
 </div>
 </div>
