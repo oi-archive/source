@@ -25,21 +25,16 @@
 		<td>Output</td>
 	</tr>
 <tr><td>5 3
-
 000
-
 001
-
 110
-
 000
-
 010</td><td>1</td></tr></table>
 
 
 # Constraints
 
-n*m&le;80
+$nm\le 80$
 
 # Note
 
