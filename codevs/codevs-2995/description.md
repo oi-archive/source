@@ -8,7 +8,7 @@
 
 <p>地平线(x轴)上有n个矩(lou)形(fang)，用三个整数h[i],l[i],r[i]来表示第i个矩形：矩形左下角为(l[i],0)，右上角为(r[i],h[i])。地平线高度为0。在轮廓线长度最小的前提下，从左到右输出轮廓线。</p>
 
-<img src="/source/codevs/codevs-2995/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yOTk1L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yOTk1LmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-2995/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI5OTUuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>
