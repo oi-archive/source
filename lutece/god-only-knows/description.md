@@ -47,7 +47,7 @@ Case #3: 14</td></tr></table>
 
 # Note
 
-A substring of a string $S$ is a continuous string taken from $S$. For example if we take out the letters from the $L\_{th}$ to the $R\_{th}$ of the string, then the substring will be ($S\_L, S\_{L+1}\cdots S\_R$). 
+A substring of a string $S$ is a continuous string taken from $S$. For example if we take out the letters from the $L_{th}$ to the $R_{th}$ of the string, then the substring will be ($S_L, S_{L+1}\cdots S_R$). 
 
 The original string is a substring of itself.
 

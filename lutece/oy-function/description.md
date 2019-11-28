@@ -3,7 +3,7 @@
 
 数学天才oy想到了一个函数，取名为oy function
 
-$f(n)=\sum_{i=1}^{n}\sum_{j=1}^n \varphi(gcd(i,j))$
+$f(n)=\sum_{i=1}^{n}\sum_{j=1}^n \varphi(\gcd(i,j))$
 
 其中$\varphi$为欧拉函数
 
