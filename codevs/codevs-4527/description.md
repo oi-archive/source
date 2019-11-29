@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p style=""><span style="text-decoration: none;">费马点是一个经典问题，其问题是：</span></p><p style="">给定一个长方形ABCD，找出任意两个点X,Y，使得AX+BX+CY+DY+XY最小。</p><p><img src="/source/codevs/codevs-4527/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy00NTI3L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MTEyMjIxMzExNV84ODUucG5n.png" title=""></p>
+<p style=""><span style="text-decoration: none;">费马点是一个经典问题，其问题是：</span></p><p style="">给定一个长方形ABCD，找出任意两个点X,Y，使得AX+BX+CY+DY+XY最小。</p><p><img src="/source/codevs/codevs-4527/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUxMTIyMjEzMTE1Xzg4NS5wbmc=.png" title=""></p>
 
 </div>
 </div>
