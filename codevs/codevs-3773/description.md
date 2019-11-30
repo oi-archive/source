@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzczL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUxNTIwNTgxNV81NzkucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTE1MjA1ODE1XzU3OS5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -18,7 +18,7 @@
 <small>Input Description</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzczL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUxNTIwNTkwNl8yMzYucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTE1MjA1OTA2XzIzNi5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -30,7 +30,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzczL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUxNTIwNTg1NV81NzEucG5n.png" title="" alt="blob.png"/></p>
+<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTE1MjA1ODU1XzU3MS5wbmc=.png" title="" alt="blob.png"/></p>
 
 </div>
 </div>
@@ -67,6 +67,6 @@
 <small>Data Size & Hint</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzczL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUxNTIwNTkzMV81NzcucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3773/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTE1MjA1OTMxXzU3Ny5wbmc=.png" title=""></p>
 </div>
 </div>

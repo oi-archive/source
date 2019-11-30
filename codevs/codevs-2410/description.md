@@ -21,7 +21,7 @@
 <li>Query a b：询问[a,b]之间的字符串至少要改变多少位才能变成合法的括号序列。改变某位是指将该位的‘(’变成‘)’或‘)’变成‘(’。注意执行操作 Query 并不改变当前的括号序列。例如：假设原来的字符串为：))())())(，那么执行操作Query 3 6的结果为2，因为要将位置5的‘)’变成‘(’并将位置6的‘(’变成‘)’。 </li>
 </ol>
 
-<img src="/source/codevs/codevs-2410/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yNDEwL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yNDEwLmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-2410/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI0MTAuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>

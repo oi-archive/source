@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><img src="/source/codevs/codevs-3732/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzMyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUwMjE3MDk1NF8zODcucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3732/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTAyMTcwOTU0XzM4Ny5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -67,6 +67,6 @@
 <small>Data Size & Hint</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3732/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNzMyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDUwMjE3MTMzOV85MTgucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3732/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNTAyMTcxMzM5XzkxOC5wbmc=.png" title=""></p>
 </div>
 </div>
