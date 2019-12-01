@@ -3,7 +3,7 @@
 
 这是一道 ~~OJ 测试题~~ 模板题。  
 
-给定 $n$ 次多项式 $F(x)$，求 $G(x)$ 满足 $\displaystyle G(x) \equiv \left({\left({1+\ln\left({2+F(x)-F(0)-{\exp\left({\int\frac{1}{\sqrt{F(x)}}\textrm{d}x}\right)}}\right)}\right)^k}\right)^\prime \pmod {x^n}$，保证常数项是模 $998244353$ 的二次剩余。
+给定 $n$ 次多项式 $F(x)$，求 $G(x)$ 满足 $\displaystyle G(x) \equiv \left({\left({1+\ln\left({2+F(x)-F(0)-{\exp\left({\int_0^x\frac{1}{\sqrt{F(t)}}\textrm{d}t}\right)}}\right)}\right)^k}\right)^\prime \pmod {x^n}$，保证常数项是模 $998244353$ 的二次剩余。
 
 注意 $\pm\sqrt{F(x)}$ 均为合法解，你只需要输出 $\sqrt{F(x)}$，舍去 $-\sqrt{F(x)}$，我们认为两个解中常数项较小的解为 $\sqrt{F(x)}$。
 
