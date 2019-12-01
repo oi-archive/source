@@ -12,7 +12,7 @@
 <p>上图具体的分值分布是：最里面一格（黄色区域）为 10 分，黄色区域外面的一圈（红<br>色区域）每个格子为9 分，再外面一圈（蓝色区域）每个格子为8 分，蓝色区域外面一圈（棕<br>色区域）每个格子为7 分，最外面一圈（白色区域）每个格子为6 分，如上图所示。比赛的<br>要求是：每个人必须完成一个给定的数独（每个给定数独可能有不同的填法），而且要争取<br>更高的总分数。而这个总分数即每个方格上的分值和完成这个数独时填在相应格上的数字<br>的乘积的总和。如图，在以下的这个已经填完数字的靶形数独游戏中，总分数为2829。游<br>戏规定，将以总分数的高低决出胜负。</p>
 <p>由于求胜心切，小城找到了善于编程的你，让你帮他求出，对于给定的靶形数独，能<br>够得到的最高分数。</p>
 
-<img src="/source/codevs/codevs-1174/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMTc0L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMTc0LnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-1174/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzExNzQucG5n.png" style="max-width:700px">
 
 </div>
 </div>

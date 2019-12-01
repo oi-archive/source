@@ -9,7 +9,7 @@
 <p>有一个N×M的单位方格中，其中有些方格是水塘，其他方格是陆地。如果要用1×2的矩阵区覆盖（覆盖过程不容许有任何部分重叠）这个陆地，那么最多可以覆盖多少陆地面积。</p>
 <p> </p>
 
-<img src="/source/codevs/codevs-1022/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMDIyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMDIyLmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-1022/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEwMjIuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>
