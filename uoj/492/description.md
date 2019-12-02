@@ -66,11 +66,6 @@
 <h4>output</h4>
 <pre><code class="sh_plain">4972194419293431240859891640</code></pre>
 
-# 样例4,5
-
-
-<p>见下发文件</p>
-
 # 限制与约定
 
 
@@ -106,4 +101,4 @@
 # 关于Hack数据
 
 
-<h1>本题的hack数据对于$type = 0$需满足$1 \le n \le 500000$，对于$type = 2$需满足$2 \le n \le 40,000,000$。 ——matthew99</h1>
+<p>本题的hack数据对于$type = 0$需满足$1 \le n \le 500000$，对于$type = 1$需满足$2 \le n \le 40,000,000$。 ——matthew99</p>
