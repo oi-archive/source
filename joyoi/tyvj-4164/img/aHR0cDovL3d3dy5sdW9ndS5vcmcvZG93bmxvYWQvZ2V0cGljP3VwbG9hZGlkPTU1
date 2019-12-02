@@ -11,11 +11,11 @@ LuoguFramework\HttpFoundation\Controller\Exception\HttpException\NotFoundHttpExc
 <title>出错了 - 洛谷</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="renderer" content="webkit">
-<meta name="csrf-token" content="1574788016:RpU0Qrj7vLL7BfDuLOd5gRajyp13F19Zwtv0AXh/n6o=">
+<meta name="csrf-token" content="1575392533:uKKHevfsGed3g+53fwGtapUVDfczrOOsyTJ/UYLf3HQ=">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" media="screen"/>
-<link rel="stylesheet" href="https://cdn.luogu.com.cn/fe/loader.css?ver=20191124-1">
-<script>window._feInjection = JSON.parse(decodeURIComponent("%7B%22code%22%3A404%2C%22currentTemplate%22%3A%22InternalError%22%2C%22currentData%22%3A%7B%22errorType%22%3A%22LuoguFramework%5C%5CHttpFoundation%5C%5CController%5C%5CException%5C%5CHttpException%5C%5CNotFoundHttpException%22%2C%22errorMessage%22%3A%22%5Cu8be5%5Cu9875%5Cu9762%5Cu672a%5Cu627e%5Cu5230%22%2C%22errorTrace%22%3A%22%22%7D%2C%22currentTitle%22%3A%22%5Cu51fa%5Cu9519%5Cu4e86%22%2C%22currentTheme%22%3Anull%7D"));window._feConfigVersion=1574587227;</script>
-<script src="https://cdn.luogu.com.cn/fe/loader.js?ver=20191124-1" charset="utf-8" defer></script>
+<link rel="stylesheet" href="https://cdn.luogu.com.cn/fe/loader.css?ver=20191201-6">
+<script>window._feInjection = JSON.parse(decodeURIComponent("%7B%22code%22%3A404%2C%22currentTemplate%22%3A%22InternalError%22%2C%22currentData%22%3A%7B%22errorType%22%3A%22LuoguFramework%5C%5CHttpFoundation%5C%5CController%5C%5CException%5C%5CHttpException%5C%5CNotFoundHttpException%22%2C%22errorMessage%22%3A%22%5Cu8be5%5Cu9875%5Cu9762%5Cu672a%5Cu627e%5Cu5230%22%2C%22errorTrace%22%3A%22%22%7D%2C%22currentTitle%22%3A%22%5Cu51fa%5Cu9519%5Cu4e86%22%2C%22currentTheme%22%3Anull%7D"));window._feConfigVersion=1575301797;</script>
+<script src="https://cdn.luogu.com.cn/fe/loader.js?ver=20191201-6" charset="utf-8" defer></script>
 </head>
 <body>
 <div id="app">
