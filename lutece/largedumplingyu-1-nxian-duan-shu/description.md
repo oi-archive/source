@@ -1,7 +1,8 @@
 
 # Content
 
-<img src="/source/lutece/largedumplingyu-1-nxian-duan-shu/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgwNDI3LzMwNDcyMV8xNTI0NzYyMjU2MDY3X0E5N0UwMUMzMTRGMTY2RUI3Q0VEODIyRjNCNUI5RkU2" width = "400" /><img src="/source/lutece/largedumplingyu-1-nxian-duan-shu/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgwNDI5LzMwNDcyMV8xNTI0OTY0ODM5MTY3XzI4RTFGQUZCMTYxOTNCMTc1MTUyNUZGRUNBMkU2MkRC" width = "400" />
+![tree1](/source/lutece/largedumplingyu-1-nxian-duan-shu/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgwNDI3LzMwNDcyMV8xNTI0NzYyMjU2MDY3X0E5N0UwMUMzMTRGMTY2RUI3Q0VEODIyRjNCNUI5RkU2)
+![tree2](/source/lutece/largedumplingyu-1-nxian-duan-shu/img/aHR0cHM6Ly91cGxvYWRmaWxlcy5ub3djb2Rlci5jb20vaW1hZ2VzLzIwMTgwNDI5LzMwNDcyMV8xNTI0OTY0ODM5MTY3XzI4RTFGQUZCMTYxOTNCMTc1MTUyNUZGRUNBMkU2MkRC)
 
 传言,$UESTC$清水河校区里有一种神秘的树,叫作$1/N$线段树.某一天英才犇$LargeDumpling$无意间发现在被$1/N$线段树包围的区域(如图中绿色小方块)做题会有智商$+1 BUFF$.
 
