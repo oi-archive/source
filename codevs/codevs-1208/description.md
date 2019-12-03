@@ -8,7 +8,7 @@
 
 <p>到了难得的暑假，为了庆祝Eric在数学考试不及格，Kevin决定带Eric出去旅游~~<br>经过一番抉择，两人决定将T国作为他们的目的地。T国的国土可以用一个凸N边形来表示，N个顶点表示N个入境/出境口。T国包含N-2个城市，每个城市都是顶点均为N边形顶点的三角形(换而言之，城市组成了关于T国的一个三角剖分)。两人的旅游路线可以看做是连接N个顶点中不相邻两点的线段。<br>为了能够买到最好的纪念品，Eric希望旅游路线上经过的城市尽量多。作为Kevin的好友，你能帮帮Kevin吗？</p>
 
-<img src="/source/codevs/codevs-1208/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMjA4L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMjA4LnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-1208/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEyMDgucG5n.png" style="max-width:700px">
 
 </div>
 </div>

@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p>　　Alice<span style="">和</span>Bob<span style="">玩了一个古老的游戏：首先画一个</span>n * n<span style="">的点阵（下图</span>n = 3<span style="">）</span> <span style="">　　接着，他们两个轮流在相邻的点之间画上红边和蓝边：</span></p><p><span style="">     <img src="/source/codevs/codevs-5972/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTcyL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMjIwMDYyM182MDcucG5n.png" title=""></span></p><p>    <span style="">直到围成一个封闭的圈（面积不必为</span>1<span style="">）为止，“封圈”的那个人就是赢家。因为棋盘实在是太大了</span>(n &lt;= 200)<span style="">，他们的游戏实在是太长了！他们甚至在游戏中都不知道谁赢得了游戏。于是请你写一个程序，帮助他们计算他们是否结束了游戏？</span></p>
+<p>　　Alice<span style="">和</span>Bob<span style="">玩了一个古老的游戏：首先画一个</span>n * n<span style="">的点阵（下图</span>n = 3<span style="">）</span> <span style="">　　接着，他们两个轮流在相邻的点之间画上红边和蓝边：</span></p><p><span style="">     <img src="/source/codevs/codevs-5972/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDEyMjAwNjIzXzYwNy5wbmc=.png" title=""></span></p><p>    <span style="">直到围成一个封闭的圈（面积不必为</span>1<span style="">）为止，“封圈”的那个人就是赢家。因为棋盘实在是太大了</span>(n &lt;= 200)<span style="">，他们的游戏实在是太长了！他们甚至在游戏中都不知道谁赢得了游戏。于是请你写一个程序，帮助他们计算他们是否结束了游戏？</span></p>
 
 </div>
 </div>
