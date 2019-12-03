@@ -5,6 +5,7 @@
 每个魔法少女都拥有一定的人气，他们中的每个人的人气计算方式如下：
 假设某个魔法少女的学号为*a*,学号从1到*a*-1的共*a*-1位同学都会为她应援，学号为*i*的同学能让这位魔法少女增加gcd(*a*,*i*)的人气值。
 这*N*位魔法少女最终能否拯救我们的学校呢，试着计算一下他们的总人气值吧！
+
 ![title](/source/lutece/wei-liao-wo-men-xin-ai-de-jing-dian/img/aHR0cHM6Ly9hY20udWVzdGMuZWR1LmNuL21lZGlhL2ltYWdlL3Byb2JsZW0vMTcyNC8yMDE3MDYxOTIzMDAwNTUwMDYuZ2lm.gif)
 
 # Standard Input

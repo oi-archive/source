@@ -1,7 +1,7 @@
 
 # Content
 
-<img src="/source/lutece/handsome-yhynolu-xing/img/aHR0cDovL2ltZzEuZ3RpbWcuY29tL2NvbWljL3BpY3MvaHYxLzI0MS8yMzkvMjE1NC8xNDAxMjUwMzYuanBn.jpg" width = "400" />
+![](/source/lutece/handsome-yhynolu-xing/img/aHR0cDovL2ltZzEuZ3RpbWcuY29tL2NvbWljL3BpY3MvaHYxLzI0MS8yMzkvMjE1NC8xNDAxMjUwMzYuanBn.jpg)
 
 $TQL!!!$ 刷了一天的题后,集训队最 帅气/可爱 的$handsomeyhy$决定去春熙路散散步.
 
@@ -16,13 +16,13 @@ $TQL!!!$ 刷了一天的题后,集训队最 帅气/可爱 的$handsomeyhy$决定
 第一个数字$Case$表示样例数
 
 对于每个样例
-第一行三个数字$N$ $M$ $T$  表示有$N$个散步点 ($2 \le N \le 50$ ) $M$条道路 ($1 \le M \le 50$ ) 和时间$T$   ($1 \le T \le 1e18$ )
+第一行三个数字$N$ $M$ $T$  表示有$N$个散步点 ($2 \le N \le 50$ ) $M$条道路 ($1 \le M \le 50$ ) 和时间$T$   ($1 \le T \le 10^{18}$ )
 
-接下来$M$行 每行有$Ai$ $Bi$ $Ci$ 表示标号为$Ai$与$Bi$的两个不同点之间($1 \le Ai,Bi \le N$ )有一条道路 通过它一次需要$Ci$ ($1 \le Ci \le 10000$ )的时间.
+接下来$M$行 每行有$A_i$ $B_i$ $C_i$ 表示标号为$A_i$与$B_i$的两个不同点之间($1 \le A_i,B_i \le N$ )有一条道路 通过它一次需要$Ci$ ($1 \le C_i \le 10000$ )的时间.
 
 # Standard Output
 
-对于每个样例存在满足条件的走法则输出$Yes$ 否则输出$No$
+对于每个样例存在满足条件的走法则输出 `Yes` 否则输出 `No`
 
 # Samples
 
@@ -48,7 +48,7 @@ $TQL!!!$ 刷了一天的题后,集训队最 帅气/可爱 的$handsomeyhy$决定
 
 # Note
 
-$1到2$   $2到3$   $3到1$   $1到3$
+$1\to 2$,$2\to 3$,$3\to 1$,$1\to 3$
 
 # Source
 
