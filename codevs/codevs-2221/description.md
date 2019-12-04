@@ -15,7 +15,7 @@
 </ul>
 <p>为了节省搬运的距離，小明希望你替他写出一个程序，根据上述方式将雕像重新摆放在收藏台上且搬动的总距離为最短。本题假设任二相邻收藏台的距離为1 公尺。 <br> 以下为一个范例，假设有 5 个收藏台，雕像 Si (1 ≤ i ≤ 5) 的高度和重量以(hi, wi)表示，并依序为(5,20) ，(10,25) ，(78,40) ，(25,25) ，(5,15) 。一种搬动方式如图(a)所示，搬动的总距離为 12公尺，而另一种搬动方式如图(b)所示，搬动的总距離为8 公尺，是所有符合搬动方式中的最短距離。</p>
 
-<img src="/source/codevs/codevs-2221/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yMjIxL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yMjIxLnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-2221/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzIyMjEucG5n.png" style="max-width:700px">
 
 </div>
 </div>

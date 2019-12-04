@@ -10,7 +10,7 @@
 <p>让一个直径略小于d的小球中心正对着最上面的钉子在板上自由滚落，小球每碰到一个钉子都可能落向左边或右边（概率各1/2），且球的中心还会正对着下一颗将要碰上的钉子。例如图2就是小球一条可能的路径。</p>
 <p>现在的问题是计算拔掉某些钉子后，小球落在编号为m的格子中的概率pm。假定最下面一排钉子不会被拔掉。例如图3是某些钉子被拔掉后小球一条可能的路径。</p>
 
-<img src="/source/codevs/codevs-2885/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yODg1L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yODg1XzEucG5n.png" style="max-width:700px">
+<img src="/source/codevs/codevs-2885/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI4ODVfMS5wbmc=.png" style="max-width:700px">
 
 </div>
 </div>
