@@ -1,7 +1,7 @@
 
 # Content
 
-<img src="/source/lutece/zhong-sheng-ping-deng-letme/img/aHR0cDovL3d4NC5zaW5haW1nLmNuL2xhcmdlLzAwNVBCMkdpZ3kxZnJmdTg1eWFzdmczMDh3MDZvenFsLmdpZj9pZD0wP2lkPTA=.gif" width = "400" />
+![](/source/lutece/zhong-sheng-ping-deng-letme/img/aHR0cDovL3d4NC5zaW5haW1nLmNuL2xhcmdlLzAwNVBCMkdpZ3kxZnJmdTg1eWFzdmczMDh3MDZvenFsLmdpZj9pZD0wP2lkPTA=.gif)
 
 让男夺冠了!!! 
 
