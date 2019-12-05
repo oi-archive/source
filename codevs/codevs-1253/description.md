@@ -10,7 +10,7 @@
 <p> </p>
 <p>输入输出数据如下图：</p>
 
-<img src="/source/codevs/codevs-1253/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMjUzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMjUzLmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-1253/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEyNTMuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>
