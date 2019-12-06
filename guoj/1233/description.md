@@ -57,7 +57,7 @@
 3 4 5 7
 ```
 
-![](/source/guoj/1233/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyMzMvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjhkMjk2ZGQzZTU1OTg3LnBuZw==.png)
+![](/source/guoj/1233/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjAvNWQwYjhkMjk2ZGQzZTU1OTg3LnBuZw==.png)
 
 # 数据范围与提示
 
