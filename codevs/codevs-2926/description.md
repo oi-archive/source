@@ -13,7 +13,7 @@
 <p><br>一开始，小可可觉得这项实验很有意思，他知道n=2时有两个本质不同的漆绘方案，n=4时也只有四个本质不同的漆绘方案。小可可还把这些漆绘方案画了出来。</p>
 <p> 但是后来小可可发现在变大的过程中，漆绘方案的数目增长很快，在n=14的时候，居然有6760803201217259503457555972096种不同的漆绘方案。这果然是一项非常艰巨的实验。因此他决定请你编写程序帮他求解本质不同的漆绘方案数</p>
 
-<img src="/source/codevs/codevs-2926/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yOTI2L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yOTI2LmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-2926/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI5MjYuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>
