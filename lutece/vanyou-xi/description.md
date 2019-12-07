@@ -29,7 +29,6 @@
 		<td>Output</td>
 	</tr>
 <tr><td>eom
-
 6
 1 3 5 3 4 2
 1 2

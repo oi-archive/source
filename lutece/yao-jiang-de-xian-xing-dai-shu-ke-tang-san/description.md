@@ -1,7 +1,8 @@
 
 # Content
 
-<img src="/source/lutece/yao-jiang-de-xian-xing-dai-shu-ke-tang-san/img/aHR0cDovL2ltYWdlcy5jbmJsb2dzLmNvbS9jbmJsb2dzX2NvbS9hdXRza3ktamFkZWsvMTA3NzIxNi9vXyVlNSU4ZCU4MyVlNiU5YiU5YzQuanBn.jpg"  width=240 height=259>    
+![](/source/lutece/yao-jiang-de-xian-xing-dai-shu-ke-tang-san/img/aHR0cDovL2ltYWdlcy5jbmJsb2dzLmNvbS9jbmJsb2dzX2NvbS9hdXRza3ktamFkZWsvMTA3NzIxNi9vXyVlNSU4ZCU4MyVlNiU5YiU5YzQuanBn.jpg)
+
 曜不但是学园偶像团体Aqours的一员，还参加着高中生信息学竞赛。    
 今天，她刚好学到了图论中用来解决生成树计数问题的Matrix-tree定理，这个定理与行列式脱不开联系。   
 于是，她在课后给千歌的辅导中，问她：你能求解一个给定行列式的值吗？    
