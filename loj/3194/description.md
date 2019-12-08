@@ -71,4 +71,5 @@ $$\tt ababaabaababaaba\\aba\ \ aba\ \ aba\ \ \ \\\ \ aba\ \ \ aba\ \ aba$$
 |12|14|$\color{#0a5}{10^5}$|$\color{#068}{2000}$|$\color{#a50}{10^{10}}$||
 |13|9|$\color{#790}{2×10^5}$|$\color{#085}{10^4}$|$\color{#e30}{10^{15}}$||
 
+对于所有子任务，保证 $\sum |w_i|\le 2\times 10^5$。
 
