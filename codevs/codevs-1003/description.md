@@ -8,7 +8,7 @@
 
 <p>一个国家有n个城市。若干个城市之间有电话线连接，现在要增加m条电话线（电话线当然是双向的了），使得任意两个城市之间都直接或间接经过其他城市有电话线连接，你的程序应该能够找出最小费用及其一种连接方案。</p>
 
-<img src="/source/codevs/codevs-1003/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMDAzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMDAzLnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-1003/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEwMDMucG5n.png" style="max-width:700px">
 
 </div>
 </div>

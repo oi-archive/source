@@ -8,7 +8,7 @@
 
 <p>现代数学的著名证明之一是Georg Cantor证明了有理数是可枚举的。他是用下面这一张表来证明这一命题的： 1/1 1/2 1/3 1/4 1/5 … 2/1 2/2 2/3 2/4 … 3/1 3/2 3/3 … 4/1 4/2 … 5/1 … … 我们以Z字形给上表的每一项编号。第一项是1/1，然后是1/2，2/1，3/1，2/2，…</p>
 
-<img src="/source/codevs/codevs-1083/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMDgzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMDgzLnBuZw==.png" style="max-width:700px">
+<img src="/source/codevs/codevs-1083/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEwODMucG5n.png" style="max-width:700px">
 
 </div>
 </div>
