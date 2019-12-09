@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p style=""><span style="">星期日的早上，铃木财团的顾问，铃木次郎吉再次在新闻上对基德发出了挑战。从18点开到始24点为止，将在锦座4丁目交叉路口的中央进行宝石的展示。宝物是100克拉的紫水晶装饰的凉鞋。寺井劝说快斗不要去偷，但快斗说只要有时间就可以去挑战，于是，快斗想到了瞬间移动的好方法。</span></p><p><span style="">但现在基德遇到了一些困难，想请你来帮忙。整个魔术过程可以用N个移动点与M条连接两个不同的移动点的无向通道来描述。移动点被标号为1到N，每条通道有各自的长度。所有移动点一定是连通的，并且可能存在若干个环路，但是，出于美观考虑，每个移动点最多只会属于一个简单环路。</span></p><p><span style=""></span></p><p><span style="">你需要回答多个这样的询问：假如基德处在点x，最终要移动到y点，基德最短需要走多少距离才能到达最终移动点？</span></p><p><span style=""></span><img src="/source/codevs/codevs-5153/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01MTUzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvMjAxNDA4MTMxNjMyMjhfaG1MUHoudGh1bWIuNzAwXzBfMjAxNjA3MTcxMTAwMjZfNDY4LmpwZWc=.jpeg" title=""></p><p><span style=""></span></p><p><br></p>
+<p style=""><span style="">星期日的早上，铃木财团的顾问，铃木次郎吉再次在新闻上对基德发出了挑战。从18点开到始24点为止，将在锦座4丁目交叉路口的中央进行宝石的展示。宝物是100克拉的紫水晶装饰的凉鞋。寺井劝说快斗不要去偷，但快斗说只要有时间就可以去挑战，于是，快斗想到了瞬间移动的好方法。</span></p><p><span style="">但现在基德遇到了一些困难，想请你来帮忙。整个魔术过程可以用N个移动点与M条连接两个不同的移动点的无向通道来描述。移动点被标号为1到N，每条通道有各自的长度。所有移动点一定是连通的，并且可能存在若干个环路，但是，出于美观考虑，每个移动点最多只会属于一个简单环路。</span></p><p><span style=""></span></p><p><span style="">你需要回答多个这样的询问：假如基德处在点x，最终要移动到y点，基德最短需要走多少距离才能到达最终移动点？</span></p><p><span style=""></span><img src="/source/codevs/codevs-5153/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS8yMDE0MDgxMzE2MzIyOF9obUxQei50aHVtYi43MDBfMF8yMDE2MDcxNzExMDAyNl80NjguanBlZw==.jpeg" title=""></p><p><span style=""></span></p><p><br></p>
 
 </div>
 </div>

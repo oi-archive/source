@@ -12,7 +12,7 @@
 <p><span style="">2)马只能向右跳</span></p>
 <p><span style="">问给定起点x1,y1和终点x2,y2，求出马从x1,y1出发到x2,y2的合法路径条数。</span></p>
 
-<img src="/source/codevs/codevs-1219/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xMjE5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xMjE5LmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-1219/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzEyMTkuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>

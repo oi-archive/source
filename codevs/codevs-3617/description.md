@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><span style="">在一个地面有</span>N(1 &lt;= N &lt;= 100000)<span style="">根贴在一起的柱子，每根柱子的高度为</span>H[i]<span style="">，当发生水灾时，水会慢慢淹没这些柱子，使得连续的没有被水完全淹没的柱子会形成一些孤岛。例如右图形成</span>4<span style="">个岛，左图形成两个岛。</span></p><p><br><img src="/source/codevs/codevs-3617/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zNjE3L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvY2xpcF9pbWFnZTAwMV8yMDE1MDMyNzE2MDY1N180MzIuZ2lm.gif" title=""></p><p> </p><p>         <span style="">现在想知道从没有淹水开始，一直到水淹过所有柱子之间，最多的时刻形成了多少个岛。</span></p>
+<p><span style="">在一个地面有</span>N(1 &lt;= N &lt;= 100000)<span style="">根贴在一起的柱子，每根柱子的高度为</span>H[i]<span style="">，当发生水灾时，水会慢慢淹没这些柱子，使得连续的没有被水完全淹没的柱子会形成一些孤岛。例如右图形成</span>4<span style="">个岛，左图形成两个岛。</span></p><p><br><img src="/source/codevs/codevs-3617/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9jbGlwX2ltYWdlMDAxXzIwMTUwMzI3MTYwNjU3XzQzMi5naWY=.gif" title=""></p><p> </p><p>         <span style="">现在想知道从没有淹水开始，一直到水淹过所有柱子之间，最多的时刻形成了多少个岛。</span></p>
 
 </div>
 </div>
