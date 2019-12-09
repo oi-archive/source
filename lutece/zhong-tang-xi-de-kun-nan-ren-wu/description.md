@@ -20,7 +20,7 @@ $$
 # Standard Input
 
 共有$t$组数据
-$t\le 100,n\le 1e5$, 总共的$N\le 1e5,1\le A_i\le 1e4$, $A_{i+1} \le A_i$
+$t\le 100,n\le 1e5$, 总共的$N\le 10^5,1\le A_i\le 10^4$, $A_{i+1} \le A_i$
 
 # Standard Output
 
