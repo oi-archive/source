@@ -9,7 +9,7 @@
 <p>众所周知，LOL这款伟大的游戏，有个叫盖伦的英雄。他的伟大之处在于他特别喜欢蹲草丛阴人（XL：蹲草阴人也算英雄？！CZQ：没办法，个个都是这么玩的）。某日，德玛西亚与诺克萨斯之间又发生了一场战斗，嘉文四世希望盖伦能带领一支K人的德玛西亚军队出战。</p>
 <p>战斗发生在召唤师峡谷。整个召唤师峡谷被分割成M行N列的一个矩阵，矩阵中有空地和几片草丛。这几片草丛中有些很大、有些很小。一个1×1的草丛能容纳3个士兵，盖伦坚信蹲草偷袭战术能战胜诺克萨斯军队，所以他希望他的军队能全部蹲进草丛里。当然，为了不影响盖伦的作战，盖伦需要单独霸占连起来的一片草丛（不管草丛有多大）。</p>
 
-<img src="/source/codevs/codevs-2801/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0yODAxL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8yODAxLmpwZw==.jpg" style="max-width:700px">
+<img src="/source/codevs/codevs-2801/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzI4MDEuanBn.jpg" style="max-width:700px">
 
 </div>
 </div>

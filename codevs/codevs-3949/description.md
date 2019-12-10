@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDcyNjE2MjkyNV8zMTUucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNzI2MTYyOTI1XzMxNS5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -18,7 +18,7 @@
 <small>Input Description</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDcyNjE2Mjk0Ml85MTUucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNzI2MTYyOTQyXzkxNS5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -30,7 +30,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDcyNjE2Mjk1NV84MjgucG5n.png" title="" alt="blob.png"/></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNzI2MTYyOTU1XzgyOC5wbmc=.png" title="" alt="blob.png"/></p>
 
 </div>
 </div>
@@ -43,7 +43,7 @@
 <small>Sample Input</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vc3RhdGljL3VlZGl0b3IvdGhlbWVzL2RlZmF1bHQvaW1hZ2VzL3NwYWNlci5naWY=.gif" title="正在上传..."></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9zdGF0aWMvdWVkaXRvci90aGVtZXMvZGVmYXVsdC9pbWFnZXMvc3BhY2VyLmdpZg==.gif" title="正在上传..."></p>
 
 </div>
 </div>
@@ -55,7 +55,7 @@
 <small>Sample Output</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDcyNjE2MzAxOF80ODUucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNzI2MTYzMDE4XzQ4NS5wbmc=.png" title=""></p>
 
 </div>
 </div>
@@ -67,6 +67,6 @@
 <small>Data Size & Hint</small>
 </span></div>
 <div class="panel-body">
-<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0zOTQ5L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE1MDcyNjE2MzE1N184NzcucG5n.png" title=""></p>
+<p><img src="/source/codevs/codevs-3949/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTUwNzI2MTYzMTU3Xzg3Ny5wbmc=.png" title=""></p>
 </div>
 </div>

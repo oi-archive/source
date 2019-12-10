@@ -10,7 +10,7 @@
 <p> </p>
 <p>然而这些人在服装上有明显区别<span style="font-family: 'Times New Roman';">——</span><span style="">一部分穿冬季校服，其他的穿夏季校服。 </span><br>现在给出每个人的着衣情况，请你求穿夏季校服的同学所构成的最大正三角形，输出所含人数。 </p>
 
-<img src="/source/codevs/codevs-1848/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy0xODQ4L2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvaW1hZ2UvcHJvYmxlbS8xODQ4LmdpZg==.gif" style="max-width:700px">
+<img src="/source/codevs/codevs-1848/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9pbWFnZS9wcm9ibGVtLzE4NDguZ2lm.gif" style="max-width:700px">
 
 </div>
 </div>
