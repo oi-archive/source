@@ -57,3 +57,9 @@
 <p>对于 $100\%$ 的数据，$1\le n, m\le 500$，$1\le s, t\le n$，$s\ne t$，$1\le from(i), to(i)\le n$，$from(i)\ne t$，$to(i)\ne s$，$1\le cap(i)\le 10^9$，$-2\cdot 10^6\le cost(i)\le 2\cdot 10^6$。</p>
 <p><strong>时间限制:</strong> $5\texttt{s}$</p>
 <p><strong>空间限制:</strong> $512\texttt{MB}$</p>
+
+# 提示
+
+
+<p>常见费用流算法的复杂度为 $O(nmf)$ (其中 $f$ 表示最大流的大小)，可能无法通过此题。</p>
+<p>一种可行的解决方案是使用 <a href="https://ouuan.github.io/%E5%9F%BA%E4%BA%8E-Capacity-Scaling-%E7%9A%84%E5%BC%B1%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%9C%80%E5%B0%8F%E8%B4%B9%E7%94%A8%E6%B5%81%E7%AE%97%E6%B3%95/">基于 Capacity Scaling 的弱多项式复杂度最小费用流算法</a> 。</p>
