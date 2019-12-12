@@ -101,4 +101,4 @@
 # 关于Hack数据
 
 
-<p>本题的hack数据对于$type = 0$需满足$1 \le n \le 500000$，对于$type = 1$需满足$2 \le n \le 40,000,000$。 ——matthew99</p>
+<p>本题的hack数据对于$type = 0$需满足$2 \le n \le 500000$，对于$type = 1$需满足$2 \le n \le 40,000,000$。 ——matthew99</p>
