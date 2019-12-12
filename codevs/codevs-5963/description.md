@@ -6,7 +6,7 @@
 </span></div>
 <div class="panel-body">
 
-<p><span style="">Copyright ©2017 神犇(shenben)</span></p><p><img src="/source/codevs/codevs-5963/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDExMTAwNjA0XzU5My5wbmc=.png" title=""><img src="/source/codevs/codevs-5963/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDExMTAwNjI0Xzg1OC5wbmc=.png" title=""><img src="/source/codevs/codevs-5963/img/aHR0cDovL2NvZGV2cy5jbi9tZWRpYS9ibG9iXzIwMTcwNDExMTAwNjQxXzgzNi5wbmc=.png" title=""></p>
+<p><span style="">Copyright ©2017 神犇(shenben)</span></p><p><img src="/source/codevs/codevs-5963/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTYzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMTEwMDYwNF81OTMucG5n.png" title=""><img src="/source/codevs/codevs-5963/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTYzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMTEwMDYyNF84NTgucG5n.png" title=""><img src="/source/codevs/codevs-5963/img/aHR0cDovL3d3dy5qb3lvaS5jbi9wcm9ibGVtL2NvZGV2cy01OTYzL2h0dHA6Ly9jb2RldnMuY24vbWVkaWEvYmxvYl8yMDE3MDQxMTEwMDY0MV84MzYucG5n.png" title=""></p>
 
 </div>
 </div>
