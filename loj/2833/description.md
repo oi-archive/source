@@ -45,7 +45,7 @@ JOI 君想知道在露营地上搭起至少一顶帐篷的合法方案数。两�
 
 如下图所示，共有 $9$ 种搭帐篷的方式。图中字母 $E,W,S,N$ 分别代表出入口朝向东、西、南、北的帐篷。
 
-![](https://dn-coding-net-production-file.qbox.me/45f47fc0-a686-11e8-85be-7dab6dba1bca.png?attname=JOISC+2018+Day1+T3-1.png&e=1535448307&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:Dwm4H_S3o9-2SRpmwnBYeFIBSnY=)
+![tents.png](/source/loj/2833/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMi8wNy81ZGViYzIwNTM2MjgwLnBuZw==.png)
 
 #### 输入样例 2
 ```plain
