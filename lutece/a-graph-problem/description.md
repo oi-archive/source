@@ -11,7 +11,7 @@ You should output the number of edges you can delete.
 
 # Standard Input
 
-The first line contains three integers, $n (1 \le n \le 15)$ , $m (0 \le m \le n\*(n-1)/2)$ , $k (0 \le k \le n\*(n-1)/2)$
+The first line contains three integers, $n (1 \le n \le 15)$ , $m (0 \le m \le n*(n-1)/2)$ , $k (0 \le k \le n*(n-1)/2)$
 
 On the next $m$ lines , each line contains two integers $a$, $b$, denoting the $i^{th}$ edge.
 

@@ -17,9 +17,9 @@ For each test case:
 
 The first line contains two positive integers $N$ .( $1 \leq N\leq 2000$  ) . represents there are $N$ vertexs.
 
-The next $N-1$ line, each line contains two integers $u$ , $v$( $1 \leq u , v  \leq N $) , indicating there is an edge between $u$ and $v$.
+The next $N-1$ line, each line contains two integers $u$ , $v$( $1 \leq u , v  \leq N$) , indicating there is an edge between $u$ and $v$.
 
-The next line contains $N$ integers , represents the elements of $zhu[i]$.( $1 \leq zhu[i]  \leq 10^9 $) 
+The next line contains $N$ integers , represents the elements of $zhu[i]$.( $1 \leq zhu[i]  \leq 10^9$) 
 
 You may assume that there are no more than $25$ test cases with $1000 < N  \leq 2000$ .
 

@@ -25,12 +25,12 @@
 
  数据保证:
 
-* $1 \leq N \leq 500 $
+* $1 \leq N \leq 500$
 
-* $1\leq d{_i}\leq 10000 $
-* $ 0 \leq u，v < N$
-* $1 \leq q \leq 1000 $ 
-* $ 0 \leq x \leq 5000000$
+* $1\leq d{_i}\leq 10000$
+* $0 \leq u，v < N$
+* $1 \leq q \leq 1000$ 
+* $0 \leq x \leq 5000000$
 
 # Standard Output
 
