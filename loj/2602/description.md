@@ -5,7 +5,7 @@
 
 在密码学中，我们称需要加密的信息为明文，用 $M$ 表示；称加密后的信息为密文，用 $C$ 表示；而密钥是一种参数，是将明文转换为密文或将密文转换为明文的算法中输入的数据，记为 $K$。在 Vigenère 密码中，密钥 $K$ 是一个字符串，$K = k_1k_2 \dots k_n$。当明文 $M = m_1m_2 \dots m_n$ 时，得到的密文 $C = c_1c_2 \dots c_n$，其中 $c_i = m_i \mathbin{®} k_i$，运算 $®$ 的规则如下表所示： 
 
-![如图片失效请下载附加文件](/source/loj/2602/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjAyL3Rlc3RkYXRhL2Rvd25sb2FkL3ZpZ2VuZXJlLnBuZw==.png)
+![如图片失效请下载附加文件](https://loj.ac/problem/2602/testdata/download/vigenere.png)
 
 Vigenère 加密在操作时需要注意：
 

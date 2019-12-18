@@ -55,7 +55,7 @@
 #### 样例解释
 初始时，贝壳的排布如下所示：
 
-![CCO2015D2T3Pic1](/source/loj/2797/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTYvYWFhNmQ4NmYucG5n.png)
+![CCO2015D2T3Pic1](http://miao.su/images/2018/08/16/aaa6d86f.png)
 
 我们将用铲子挖至多 $2\times 2$ 的格子，因此我们有 $9$ 种可能的挖掘。
 当没有蛋出现时，$8$ 种挖掘包含至少两种贝壳，$3$ 种挖掘包含三种贝壳。
