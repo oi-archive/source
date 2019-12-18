@@ -5,7 +5,7 @@ As we know, Bi Luo is a magic boy, he always has some excited questions , now a 
 
 You are given two sequences $A$ and $B$ ,  he wants to caculate the $Excited$ $Value$ of two sequences.
 
-*  $Excited$ $Value$ = $\sum\_{i=1}^{N}\sum\_{j=1}^M | A_i {\bigoplus} (-B_j) + 2\ast \( A_i \& (-B_j) \) | \ast|i-j|  $
+*  $Excited$ $Value$ = $\sum_{i=1}^{N}\sum_{j=1}^M | A_i \oplus (-B_j) + 2\ast ( A_i \& (-B_j) ) | \ast|i-j|$
 
 # Standard Input
 

@@ -1,7 +1,7 @@
 
 # Content
 
-![image](/source/lutece/wei-shi-yao-ni-zhe-yao-shou-lian-a/img/d2e4debcaf90a6036020d37b217881f6.jpg)
+![image](/source/lutece/wei-shi-yao-ni-zhe-yao-shou-lian-a/img/aHR0cDovL2hpcGhvdG9zLmJhaWR1LmNvbS9mZWVkL3BpYy9pdGVtLzI2N2Y5ZTJmMDcwODI4MzhmNWQ3Y2I1ZWI1OTlhOTAxNGQwOGYxYTYuanBn.jpg)
 
 冬马和纱有一首长度为$N$节的乐谱，乐谱每一节有$a_i$个音符，冬马和纱在乐谱里隐藏了一些信息，想传达给北原春希，她每次询问四个数字$l_1,l_2,r_1,r_2$，要求北原春希计算$\sum_{x=0}^{\infty}\text{get}(l_1,r_1,x)\text{get}(l_2,r_2,x)$ ，$get(l,r,x)$表示区间$[l,r]$中，数字$x$出现的次数
 
