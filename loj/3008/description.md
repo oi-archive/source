@@ -47,7 +47,7 @@
 
 #### 样例解释 1
 
-<img src="/source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWVhY2JmOS5wbmc=.png" width = 200, height = 180 />
+<img src="https://i.loli.net/2018/11/11/5be7dc1eacbf9.png" width = 200, height = 180 />
 
 最大的对称二叉子树为以节点 $2$ 为树根的子树，节点数为 $1$。
 
@@ -76,7 +76,7 @@
 
 #### 样例解释 2
 
-<img src="/source/loj/3008/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMTEvNWJlN2RjMWZhMGU3Mi5wbmc=.png" width = 261 height = 300 />
+<img src="https://i.loli.net/2018/11/11/5be7dc1fa0e72.png" width = 261 height = 300 />
 
 最大的对称二叉子树为以节点 $7$ 为树根的子树，节点数为 $3$。
 

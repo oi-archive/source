@@ -56,7 +56,7 @@
 
 在第三组数据中，能够生成的树有 $6$ 种,如下图所示。其中第二、三、四棵(第一排中间三棵)是同构的,其余两两不同构。因此生成的两棵树同构的概率为 $\displaystyle\frac{1}{3}$ ，在模$998244353$ 意义下为 $332748118$。
 
-![explain1.png](/source/loj/2528/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjgvNWFlNDJkZTZjNTM5OS5wbmc=.png)
+![explain1.png](https://i.loli.net/2018/04/28/5ae42de6c5399.png)
 
 # 数据范围与提示
 
