@@ -46,7 +46,7 @@ Case #2: 15</td></tr></table>
 
 需使用$64$位整型，一个`A+B`的例子
 
-####for GNU C++
+#### for GNU C++
 ```
 #include <iostream>
 using namespace std;
@@ -58,7 +58,7 @@ int main()
   return 0;
 }
 ```
-####for GNU C
+#### for GNU C
 ```
 #include <stdio.h>
 int main()
