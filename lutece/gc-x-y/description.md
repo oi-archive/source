@@ -3,14 +3,14 @@
 
 One positive integer can be represented by the product of some prime numbers.
 
-Sort the prime numbers, such like $60=2\*2\*3\*5$, $180=2\*2\*3\*3\*5$.
+Sort the prime numbers, such like $60=2*2*3*5$, $180=2*2*3*3*5$.
 
 The $GCP$(Greatest Common Prefix) of two positive integers is defined as the longest prefix of the multiplication of sorted prime numbers.
 
-For example, $GCP(60,180)=Longest\\\_Prefix(2\*2\*3\*5,2\*2\*3\*3\*5)=2\*2\*3=12$.
+For example, $GCP(60,180)=Longest\_Prefix(2*2*3*5,2*2*3*3*5)=2*2*3=12$.
 
-Now, for a given array $A\_i$, calculate
-$\sum\_{1\leq i<j\leq N}{GCP(A\_i,A\_j)}$.
+Now, for a given array $A_i$, calculate
+$\sum_{1\leq i<j\leq N}{GCP(A_i,A_j)}$.
 
 # Standard Input
 
