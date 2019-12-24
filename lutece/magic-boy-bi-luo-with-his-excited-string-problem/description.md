@@ -15,7 +15,7 @@ First Line is an positive integer $T$ , ( $1 \leq T \leq 70$ ) , represents ther
 
 For each test case: 
 
-The first line contains one positive integers $N$.( $1 \leq N\leq 15 $ ) . represents there are $N$ excited strings.
+The first line contains one positive integers $N$.( $1 \leq N\leq 15$ ) . represents there are $N$ excited strings.
 
 The next $N$ lines , each line will contains one excited string $S$. ( $|S| \leq 10$ )
 
@@ -62,7 +62,7 @@ Case #5: 17576
 
 You can esay to caculate the answer of the fitst sample input in following processing:
 
-$Answer = \lim\_{n\rightarrow+\infty} \sum\_{i=1}^{n}{i\ast(\frac{25}{26})^{i-1}\ast\frac{1}{26}} =  26$
+$Answer = \lim_{n\rightarrow+\infty} \sum_{i=1}^{n}{i\ast(\frac{25}{26})^{i-1}\ast\frac{1}{26}} =  26$
 
 # Source
 
