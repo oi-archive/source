@@ -3,7 +3,7 @@
 
 **题目译自 [PA 2019](https://sio2.mimuw.edu.pl/c/pa-2019-1/dashboard/) Runda 2 [Desant](https://sio2.mimuw.edu.pl/c/pa-2019-1/p/des/)**
 
-给定一个 $ 1 $ 到 $ n $ 的排列 $ a_1, a_2, \dots, a_n $，它有 $ 2^{n - 1} $ 个非空子序列。
+给定一个 $ 1 $ 到 $ n $ 的排列 $ a_1, a_2, \dots, a_n $，它有 $ 2^n - 1 $ 个非空子序列。
 
 请对于每个 $ k $（$1 \le k \le n$），找到一个长度为 $ k $ 的子序列，使得这个子序列的逆序对数量最少，并输出逆序对数量最少的子序列的数量。
 
