@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2016 US Open Contest, Platinum](http://usaco.org/index.php?page=open16results) Problem 1. [262144](http://usaco.org/index.php?page=viewproblem2&cpid=648)**
+
 Bessie 正在玩一个游戏，规则如下。  
 开始时有一个 $N$ 个正整数的数列，每个数在 $1$ 到 $40$ 之间。  
 每次操作，Bessie 可以把两个**相邻且相同**的数替换成比他们值大 $1$ 的数，例如两个相邻的 $7$ 替换成 $8$。当无法再合并时，游戏结束。游戏目标是使游戏结束时数列中的最大值尽可能大。  
