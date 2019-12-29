@@ -7,7 +7,7 @@ $m$个不同的桥，每一个桥连接着两个不同的城堡，并且已知�
 # Standard Input
 
 第一行输入两个值$n$（$2\le n\le 2000$）,$m$ ($n \le m \le 200000$)
-接下来$m$行，每一行输入三个值$ a$ ($1\le a\le n$)，$b$($1\le b\le n$)，$v$($1\le v\le 10^{18}$),其中$a!=b$
+接下来$m$行，每一行输入三个值$ a$ ($1\le a\le n$)，$b$($1\le b\le n$)，$v$($1\le v\le 10^{18}$),其中$a\neq b$
 
 # Standard Output
 
