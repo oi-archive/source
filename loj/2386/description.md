@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2018 January Contest, Platinum](http://usaco.org/index.php?page=jan18results) Problem 2. [Cow at Large](http://usaco.org/index.php?page=viewproblem2&cpid=793)**
+
 贝茜被农民们逼进了一个偏僻的农场。农场可视为一棵有 $N$ 个结点的树，结点分别编号为 $1\ldots N$。每个叶子结点都是出入口。  
 开始时，每个出入口都可以放一个农民（也可以不放）。每个时刻，贝茜和农民都可以移动到相邻的一个结点。如果某一时刻农民与贝茜相遇了（在边上或点上均算），则贝茜将被抓住。抓捕过程中，农民们与贝茜均知道对方在哪个结点。  
 请问：对于结点 $i\,(1\le i\le N)$，如果开始时贝茜在该结点，最少有多少农民，她才会被抓住。
