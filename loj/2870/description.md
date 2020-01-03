@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2018 US Open Contest, Platinum](http://usaco.org/index.php?page=open18results) Problem 2. [Train Tracking](http://usaco.org/index.php?page=viewproblem2&cpid=841)**
+
 每天早晨特快列车会经过农场，开往大城市，每天下午它又会折回来，回到郊区。今天，Bessie 会花时间观察它，早晨和下午都会。
 
 Bessie 提前知道，列车有 $N$ 节车厢，方便起见，将其编号为 $0\sim N−1$。车厢 $i$ 有一个 ID $c_i$。在早晨和下午，所有的数字都是可见的，所以对于每节车厢 Bessie 有两次机会观察它的 ID。也就是说，当列车早晨经过的时候，Bessie 能够观察 $c_0$，然后是 $c_1$，直到 $c_{N−1}$。当列车下午驶回的时候，她又一次能够观察 $c_0$，然后是 $c_1$，直到 $c_{N−1}$。 

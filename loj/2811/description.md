@@ -1,7 +1,7 @@
 
 # 题目描述
 
- **译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/l) T5.** ***STOGOVI***
+**译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/) T5.** ***[STOGOVI](https://hsin.hr/coci/archive/2014_2015/contest3_tasks.pdf)***
 
 Mirko 正在玩栈。游戏开始时，他有一个编号为 $0$ 的空栈。在游戏中的第 $i$ 步，他会选择一个存在的编号为 $v$ 的栈，将它复制一份并进行以下其中一种操作：
 
