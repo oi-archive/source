@@ -1,7 +1,7 @@
 
 # 题目描述
 
- **译自 [COCI 2014.11.08](http://www.hsin.hr/coci/archive/2014_2015/) T6.** ***NORMA***
+**译自 [COCI 2014.11.08](http://www.hsin.hr/coci/archive/2014_2015/) T6.** ***[NORMA](https://hsin.hr/coci/archive/2014_2015/contest2_tasks.pdf)***
 
 在 Mirko 生日那天，他收到了祖母送他的一个数列 $A$。Mirko 居住的小镇上有一户人家专门收购数列（~~什么人啊~~）。对于一个数列 $L$，它的价值 $v_L=\min\{L_i\}\times \max\{L_i\}\times \mathit{len}_L$（即数列的最小值，最大值与长度的积）。Mirko 计算了 $A$ 的所有子串的价值之和。  
 为了检查他的结果，你也要这么做。答案对 $10^9$ 取模。

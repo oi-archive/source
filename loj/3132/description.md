@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 [COCI 2018/2019 Contest #4](https://hsin.hr/coci/archive/2018_2019/) T5「[Akvizna](https://hsin.hr/coci/archive/2018_2019/contest4_tasks.pdf)」**
+
 Mirko 面临 $n$ 名参赛者的挑战，最终要将他们全部战胜。
 
 每一轮中，都会淘汰一些选手。你会得到这一轮奖金池中被淘汰者人数除以这一轮对手总数比例的奖金。
