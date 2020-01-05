@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2018 January Contest, Platinum](http://usaco.org/index.php?page=jan18results) Problem 3. [Sprinklers](http://usaco.org/index.php?page=viewproblem2&cpid=794)**
+
 农夫约翰有块田，这块田可视为一个 $N×N$ 的正方形网格。西南角为 $(0,0)$，东北角为 $(N-1, N-1)$。  
 在某些格子中有双头喷头，每一个都能够同时喷洒水和肥料。一个位于 $(i,j)$ 的双头喷头会
 * 将水洒在所有满足 $N≥x≥i,$ $N≥y≥j$ 的格子 $(x,y)$ 上；

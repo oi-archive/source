@@ -3,7 +3,7 @@
 
 给定一个 $n \times m$ 的网格，请计算三点都在格点上的三角形共有多少个。下图为 $4 \times 4$ 的网格上的一个三角形。
 
-<img src="/source/loj/2240/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkxODY3ZWViZGEucG5n.png">
+<img src="https://ooo.0o0.ooo/2017/05/03/59091867eebda.png">
 
 **注意**：三角形的三点不能共线。
 

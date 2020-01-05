@@ -1,7 +1,7 @@
 
 # 题目描述
 
- **译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/) T6.** ***KAMIONI***
+**译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/) T6.** ***[KAMIONI](https://hsin.hr/coci/archive/2014_2015/contest3_tasks.pdf)***
 
 有一条马路，我们将其视为一条数轴。马路上有 $N$ 辆卡车，开始时，卡车都在整点上。所有卡车一起开始移动，并且都以**同样的速率**移动。**没有卡车保持静止**。每辆卡车花 $1$ 分钟可以移动 $1$ 个单位距离。
 

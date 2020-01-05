@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #4](http://www.hsin.hr/coci/contest4_tasks.pdf) T4「Slagalica」**
+**译自 [COCI 2018/2019 Contest #4](https://hsin.hr/coci/archive/2018_2019/) T4「[Slagalica](https://hsin.hr/coci/archive/2018_2019/contest4_tasks.pdf)」**
 
 自从 Jurica 学会解魔方之后，他开始对这种谜题有了兴趣，并且自己创造了一个神秘的玩具。他的谜题是一个平行四边形形状的三角形网格，其网格的节点是 $N$ 行 $M$ 列，**从下至上编号，同行从左至右编号**。如下图所示。
 

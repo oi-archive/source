@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #5](http://www.hsin.hr/coci/contest5_tasks.pdf) T4「Parametriziran」**
+**译自 [COCI 2018/2019 Contest #5](https://hsin.hr/coci/archive/2018_2019/) T4「[Parametriziran](https://hsin.hr/coci/archive/2018_2019/contest5_tasks.pdf)」**
 
 给你 $N$ 个长为 $M$ 的字符串，每个字符串仅由小写字母和 `?` 组成，问有多少对字符串满足存在一种将问号填为小写字母的方案，使得两个字符串相同。
 

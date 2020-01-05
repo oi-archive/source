@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2018 US Open Contest, Platinum](http://usaco.org/index.php?page=open18results) Problem 1. [Out of Sorts](http://usaco.org/index.php?page=viewproblem2&cpid=840)**
+
 奶牛 Bessie 正在为它将来在农场外的职业规划作打算。它正在大型同性交友网站 [LibreOJ](https://loj.ac) 上学习算法。它最喜欢的两个算法是「冒泡排序」和「快速排序」，但 Bessie 一不小心就把它们弄混淆了，实现了一种混合算法。
 
 如果数组 $A$ 中前 $i$ 个数的最大值不大于第 $i+1$ 个数之后的数的最小值，则把 $i \ldots i+1$ 之间的位置称为「分隔点」。Bessie 记得快速排序的步骤之一是重排数组使得它有一个「分隔点」，然后将分隔点两边的数组递归排序。但它发现它也能在线性时间内找出所有的「分隔点」，导致它忘记快速排序如何重排数组来创造出一个「分隔点」。它决定用冒泡排序来解决这个问题。这可能是排序算法历史上发生过最严重的错误。
