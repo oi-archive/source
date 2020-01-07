@@ -2,7 +2,10 @@
 # Content
 
 这是一道微积分题目！  
-求椭圆$$\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$  
+求椭圆
+
+$$\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$
+
 在$x=L$和$x=R$之间的面积。
 
 # Standard Input
