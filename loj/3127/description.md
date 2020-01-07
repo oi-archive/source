@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #2](http://www.hsin.hr/coci/contest2_tasks.pdf) T4「Maja」**
+**译自 [COCI 2018/2019 Contest #2](https://hsin.hr/coci/archive/2018_2019/) T4「[Maja](https://hsin.hr/coci/archive/2018_2019/contest2_tasks.pdf)」**
 
 Maja 是一只蜜蜂，她要给一片魔法草地授粉，这片草地是一个 $N$ 行 $M$ 列的网格。第 $i$ 行 $j$ 列的田地上有 $C_{ij}$ 朵未授粉的花。
 

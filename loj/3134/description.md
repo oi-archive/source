@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #5](http://www.hsin.hr/coci/contest5_tasks.pdf) T5「Transport」**
+**译自 [COCI 2018/2019 Contest #5](https://hsin.hr/coci/archive/2018_2019/) T5「[Transport](https://hsin.hr/coci/archive/2018_2019/contest5_tasks.pdf)」**
 
 某个遥远的国度一共有 $N$ 个城市，这些城市由恰好 $N-1$ 条路径连接，使得所有城市相互连通。每个城市都有且仅有一个加油站。已知每条路径的长度和每个加油站具有的燃料分量。
 
