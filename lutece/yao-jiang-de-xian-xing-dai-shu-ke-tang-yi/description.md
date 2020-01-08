@@ -1,7 +1,7 @@
 
 # Content
 
-![o_千曜2.jpg](/source/lutece/yao-jiang-de-xian-xing-dai-shu-ke-tang-yi/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMjEvaWRKMzRyYXo3blhTQ1BrLmpwZw==.jpg)
+![o_千曜2.jpg](https://i.loli.net/2019/11/21/idJ34raz7nXSCPk.jpg)
 
 千歌是浦之星女子学院高中二年级的学生，虽然她是广受欢迎的学园偶像，然而她的数学很差。   
 这天，在线性代数课堂上，老师教给了她们如何求一个矩阵的**逆矩阵**，笨蛋千歌怎么也学不会。     
