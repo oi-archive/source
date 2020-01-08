@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2014/2015 Contest #4](http://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf) T4「MRAVI」**
+**译自 [COCI 2014/2015 Contest #4](https://www.hsin.hr/coci/archive/2014_2015/) T4「[MRAVI](https://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf)」**
 
 小 Bobi 每天起床后的首要任务是给他的宠物蚂蚁喂食。
 
