@@ -3,7 +3,7 @@
 
 #### 你这快乐的王子，我难道不可以做你的小燕子吗？——$Hishikawa\,Rikka$    
 
-![](http://i249.photobucket.com/albums/gg224/aki961103/Precure/Leopard-RawsDokidokiPrecure-01RAWEX1280x720x264AAC18-47-48_zps18e9af20.jpg)
+![](/source/lutece/rikkade-fan-nao/img/aHR0cDovL2kyNDkucGhvdG9idWNrZXQuY29tL2FsYnVtcy9nZzIyNC9ha2k5NjExMDMvUHJlY3VyZS9MZW9wYXJkLVJhd3NEb2tpZG9raVByZWN1cmUtMDFSQVdFWDEyODB4NzIweDI2NEFBQzE4LTQ3LTQ4X3pwczE4ZTlhZjIwLmpwZw==.jpg)
 
 $Rikka$想要和$Mana$在一起，然而$Mana$依然到处收着她的后宫。即使$Rikka$是$Cure\,Diamond$，钻石之心也是会受伤的！$Rikka$只得玩卡片游戏暂时缓解心中的烦恼。     
 然而今天$Rikka$在玩卡片游戏时遇到了麻烦，需要你的帮助。    
