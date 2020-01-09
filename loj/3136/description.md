@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #6](http://hsin.hr/coci/contest6_tasks.pdf) T5「Mobitel」，感谢北京省选前集训 / 罗剑桥提供翻译。** 
+**译自 [COCI 2018/2019 Contest #6](https://hsin.hr/coci/archive/2018_2019/) T5「[Mobitel](https://hsin.hr/coci/archive/2018_2019/contest6_tasks.pdf)」，感谢北京省选前集训 / 罗剑桥提供翻译。** 
 
 Nikola 小朋友最近在学乘法口诀。  
 为了记得更牢，他决定做一个游戏进行练习。

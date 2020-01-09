@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**本题为 BalticOI 2019 Day2 T2.** ***[Necklace](https://loj.ac/problem/3203)*** **一题的特殊数据版本，内存限制为 3 MB。**
+**本题为 BalticOI 2019 Day2 T2.** ***[Necklace](/problem/3205)*** **一题的特殊数据版本，内存限制为 3 MB。**
 
 Jill 和 Jane 是姐妹，去年圣诞节他们每个人都得到了一串彩色珠子。我们可以将每种颜色描述为小写英文字母（$\texttt{a}\ldots \texttt{z}$），并将每串珠子描述为一个单词。
 

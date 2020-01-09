@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #1](http://www.hsin.hr/coci/contest1_tasks.pdf) T4「Strah」**
+**译自 [COCI 2018/2019 Contest #1](https://hsin.hr/coci/archive/2018_2019/) T4「[Strah](https://hsin.hr/coci/archive/2018_2019/contest1_tasks.pdf)」**
 
 对于 Mirko 来说，他最害怕的事情就是找位置种草莓。Mirko 有 $N \times M$ 块田地，有的位置适合种草莓而有的不适合，因为有杂草。一个合适矩形是指这个矩形中的每一块田地都是适合种草莓的。Mirko 对每一块田地的潜力值很感兴趣。一块田地的潜力值是有多少个合适矩形覆盖它。
 
