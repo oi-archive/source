@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #2](http://www.hsin.hr/coci/contest2_tasks.pdf) T5「Sunčanje」**
+**译自 [COCI 2018/2019 Contest #2](https://hsin.hr/coci/archive/2018_2019/) T5「[Sunčanje](https://hsin.hr/coci/archive/2018_2019/contest2_tasks.pdf)」**
 
 小 Slavko 有一个不寻常的梦想。在一个阳光明媚的早晨，$N$ 个白色的长方形依次爬上了 Slavko 房子上的长方形屋顶。它们准备去夏威夷晒日光浴。它们会找一个位置躺下，边与屋顶的边平行。有可能后来的长方形的身体挡住了之前的长方形的身体部分。每个长方形，已知其长 $A_i$、宽 $B_i$，以及到屋顶左边的距离 $X_i$和到屋顶底部的距离 $Y_i$。
 

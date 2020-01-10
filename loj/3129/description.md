@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #3](http://www.hsin.hr/coci/contest3_tasks.pdf) T4「NLO」**
+**译自 [COCI 2018/2019 Contest #3](https://hsin.hr/coci/archive/2018_2019/) T4「[NLO](https://hsin.hr/coci/archive/2018_2019/contest3_tasks.pdf)」**
 
 Žabnik 村已经被不明飞行物（UFO）所创造的麦田怪圈所困扰了数年。其问题主要在夏季割草的时候显现出来。
 
