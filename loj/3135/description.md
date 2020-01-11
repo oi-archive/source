@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #6](http://www.hsin.hr/coci/contest6_tasks.pdf) T4「Simfonija」**
+**译自 [COCI 2018/2019 Contest #6](https://hsin.hr/coci/archive/2018_2019/) T4「[Simfonija](https://hsin.hr/coci/archive/2018_2019/contest6_tasks.pdf)」**
 
 给两个长度为 $N$ 的数列 $A,B$ 以及一个整数 $K$，你首先可以将 $A$ 数列的整体加上一个整数 $X$，然后修改其中 $K$ 个数，请最小化
 
