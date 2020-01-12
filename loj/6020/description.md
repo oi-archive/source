@@ -47,7 +47,7 @@ LCT（Link-Cut Tree）：一种用于解决动态树问题的数据结构，支�
 
 # 数据范围与提示
 
-<img src="https://ooo.0o0.ooo/2017/04/16/58f2dafe53e85.bmp">
+<img src="/source/loj/6020/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE2LzU4ZjJkYWZlNTNlODUuYm1w.bmp">
 
 #### 注
 
