@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #1](http://www.hsin.hr/coci/contest1_tasks.pdf) T5「Teoretičar」**
+**译自 [COCI 2018/2019 Contest #1](https://hsin.hr/coci/archive/2018_2019/) T5「[Teoretičar](https://hsin.hr/coci/archive/2018_2019/contest1_tasks.pdf)」**
 
 有这样一个二分图上的问题：给你一个二分图，请用尽量少的颜色给边染色，使得每个顶点的出边颜色互不相同。
 
