@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2018 January Contest, Platinum](http://usaco.org/index.php?page=jan18results) Problem 1. [Lifeguards](http://usaco.org/index.php?page=viewproblem2&cpid=792)**
+
 农夫约翰为他的奶牛们开了一个游泳池。简单起见，泳池每天在时刻 $1$ 开门，一直到时刻 $10^9$ 才关闭。  
 为确保奶牛的安全，他雇佣了 $N$ 只救生牛，分别编号为 $1,2,\ldots,N$。  
 每只救生牛都有固定的工作时段。救生牛 $i(1\le i\le N)$ 的工作时段可以用两个整数 $s_i, t_i$ 描述，表示救生牛 $i$ 的工作时段为 $(s_i, t_i]$ 。例如，一个救生牛的 $s_i=4, t_i=7$，则它在时刻 $4+1=5$ 开始工作，在时刻 $7$ 结束工作，共覆盖三个时刻（**不含起始时刻，含结束时刻**）。  

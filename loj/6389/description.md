@@ -53,7 +53,7 @@
 #### 样例解释
 下面是 $3$ 个点的所有好的图：
 
-<img src="https://i.loli.net/2018/05/14/5af990dbcfbc0.png" alt="1.png" title="1.png" />
+<img src="/source/loj/6389/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTkwZGJjZmJjMC5wbmc=.png" alt="1.png" title="1.png" />
 
 # 数据范围与提示
 
