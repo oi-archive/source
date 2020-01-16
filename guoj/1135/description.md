@@ -7,7 +7,7 @@ JYY 和探险队顺利完成了火星上的任务。在离开前，探险队正�
 
 下图展示了一串气球 `cbbadbcd` 在进行到第 $5$ 个节目时的情形，此时在庆典环上的气球是 `cbbad`。
 
-![ballons](/source/guoj/1135/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvYmFsbG9vbnMucG5n.png)
+![ballons](/source/guoj/1135/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzExMzUvaHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvYmFsbG9vbnMucG5n.png)
 
 为了让每个节目都更好看，火星人希望在每个节目开始前调整气球在环上的顺序，使得每个节目的气球排布都最美观。对于一组气球(一个字符串)，火星人认为最美观的字符串是庆典圆环上按绳子方向读出**字典序最小的字符串**，例如对于 `cbbad`，共有 $5$ 个读出字符串的位置：
 
