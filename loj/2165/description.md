@@ -35,7 +35,7 @@ the correct result is:
 ```plain
 1
 ```
-![](https://ooo.0o0.ooo/2017/04/19/58f6b9a47e28d.gif)
+![](/source/loj/2165/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjZiOWE0N2UyOGQuZ2lm.gif)
 
 Explanation of the example: We light the fuses in chambers 3 and 5. The charge in chamber 3 explodes at time zero, and the charges in chambers 1, 4, 6 and 7 explode after a single time unit.
 
