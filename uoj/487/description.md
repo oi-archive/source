@@ -55,8 +55,8 @@
 
 
 <p>对于 $100\%$ 的数据，$1\le n, m\le 500$，$1\le s, t\le n$，$s\ne t$，$1\le from(i), to(i)\le n$，$from(i)\ne t$，$to(i)\ne s$，$1\le cap(i)\le 10^9$，$-2\cdot 10^6\le cost(i)\le 2\cdot 10^6$。</p>
-<p><strong>时间限制:</strong> $5\texttt{s}$</p>
-<p><strong>空间限制:</strong> $512\texttt{MB}$</p>
+<p><strong>时间限制：</strong>$5\texttt{s}$</p>
+<p><strong>空间限制：</strong>$512\texttt{MB}$</p>
 
 # 提示
 
