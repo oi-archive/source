@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2016 US Open Contest, Platinum](http://usaco.org/index.php?page=open16results) Problem 3. [Landscaping](http://usaco.org/index.php?page=viewproblem2&cpid=650)**
+
 FJ 正修建一个漂亮的花园。花园由 $N$ 个花圃组成，花圃 $i$ 初始时有 $A_i$ 立方米的泥土。他想重建花园使得花圃 $i$ 有 $B_i$ 立方米的泥土。  
 他有几种操作方式：  
 1. 选择一个花圃，买一立方米泥土放进去，花费为 $x$；
