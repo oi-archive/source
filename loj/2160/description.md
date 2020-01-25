@@ -3,36 +3,40 @@
 
 **译自 POI 2011 Round 2. Day 0. A「[Strongbox](https://szkopul.edu.pl/problemset/problem/gk8ruZQzdgjzJoQ4eEOdpf68/site/?key=statement)」**
 
-Byteasar is a famous safe-cracker, who renounced his criminal activity and got into testing and certifying anti-burglary devices. He has just received a new kind of strongbox for tests: a combinatorial safe. A combinatorial safe is something different from a combination safe, even though it is opened with a rotary dial. The dial can be set in $ n $ different positions, numbered from $ 0 $ to $ n - 1 $. Setting the dial in some of these positions opens the safe, while in others it does not. And here is the combinatorial property, from which the name comes from: if $ x $ and $ y $ are opening positions, then so is $ (x + y) \mathrm{mod} \ n $ too; note that is holds for $ x = y $ as well.
+Byteasar 是一个有名的保险柜盗贼，但他最近宣布金盆洗手，并从事测试和认证防盗装置的工作。他刚刚收到一种新型保险柜并将要测试，这种保险柜是一种组合式保险柜，虽然都是用类似拨号盘的圆盘打开，但与一般组合保险柜有一些不同。拨号盘指针可以置于 $n$ 个不同的位置上，编号为 $0$ 到 $n-1$。将指针转至某些位置就能打开保险柜，转至其他位置就打不开。而对于这种组合式保险柜，如果指针转至 $x$ 和 $y$ 的时候能打开保险柜，那么转至 $(x+y)\bmod n$ 处也能打开保险柜。注意这里 $x=y$ 时也满足条件。
 
-Byteasar tried $ k $ different positions of the dial: $ m_1, m_2, \ldots, m_k $. The positions $ m_1, m_2, \ldots, m_{k - 1} $ did not open the safe, only the last position $ m_k $ did. Byteasar is already tired from checking these $ k $ positions and has thus absolutely no intention of trying the remaining ones. He would like to know however, based on what he already knows about the positions he tried, what is the maximum possible number of positions that open the safe. Help him by writing an appropriate program!
-
+Byteasar 尝试了拨号盘上 $k$ 个不同的位置：$m_1,m_2,\ldots ,m_k$。当转至 $ m_1, m_2, \ldots, m_{k - 1} $ 时，保险柜没有打开，只有转到 $m_k$ 时保险柜打开了。Byteasar 已经试了 $k$ 次，他已经不想继续试下去了。基于他已经试过的位置信息，他想知道最多可能有多少位置当指针转至此位置时能打开保险柜。请写一个程序帮助他解决这个问题。
 
 # 输入格式
 
-The first line of the standard input gives two integers $ n $ and $ k $, separated by a single space, $ 1 \le k \le 250000 $, $ k \le n \le 10^{14} $. The second line holds $ k $ different integers, also separated by single spaces, $ m_1, m_2, \ldots, m_k $, $ 0 \le m_i \lt n $. You can assume that the input data correspond to a certain combinatorial safe that complies with the description above.
+第一行两个整数 $n,k$；
 
-In tests worth approximately $ 70\% $ of the points it holds that $ k \le 1000 $. In some of those tests, worth approximately $ 20\% $ of the points, the following conditions hold in addition: $ n \le 10^8 $ and $ k \le 100 $.
+接下来 $k$ 个不同的整数 $m_1,m_2,\ldots ,m_k$。
 
 
 # 输出格式
 
-Your program should print out to the first and only line of the standard output a single integer: the maximum number of the dial's positions that can open the safe.
-
+输出一个整数，表示最后所求答案。
 
 # 样例
 
-For the input data:
+#### 样例输入
 ```plain
 42 5
 28 31 10 38 24
 ```
-the correct result is:
+#### 样例输出
 ```plain
 14
 ```
 
 # 数据范围与提示
+
+对于全部数据，$ 1 \le k \le 250000, k \le n \le 10^{14} $。
+
+对于 $70\%$ 的分数，保证 $k\le 1000$；
+
+在这 $70\%$ 的分数中，有 $20\%$ 的分数保证 $n\le 10^8,k\le 100$。
 
 Task author: Marian M. Kedzierski.
 

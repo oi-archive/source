@@ -1,53 +1,45 @@
 
 # 题目描述
 
-**译自 POI 2011 Round 2. Day 2. A「[Tree Rotations](https://szkopul.edu.pl/problemset/problem/b0BM0al2crQBt6zovEtJfOc6/site/?key=statement)」**
+**译自 POI 2011 Round 2. Day 2. A「[Tree Rotations](https://szkopul.edu.pl/problemset/problem/sUe3qzxBtasek-RAWmZaxY_p/site/?key=statement)」**
 
-~~*This task is a harder version of task Tree Rotations from the second stage of 18th Polish OI. It wasn't used in the contest itself.*~~  
-本题的一个加强版将限制改为 $ 2 \le n \le 1000000 $。测评仍使用原题数据，即 $ 2 \leq n \leq 200000 $。
+园丁 Byteasar 正在种植一种叫 Rotatus Informatikus 的珍稀树种。它有一些有趣的特性：
+- 树包含直的树枝，分叉和叶子。从地上长出来的树干也算树枝；
+- 每根树枝要么以一个分叉点结束，要么以在顶端的一片叶子结束；
+- 从一根树枝末端的分叉点恰好长出两根树枝——左树枝和右树枝；
+- 树上每片叶子都用 $1\ldots n$ 范围内的整数编号。叶子编号两两不同；
+- 通过一些园艺操作，在每个分叉点处可以进行一种叫「旋转」的操作，可以交换从这个分叉点长出的左右树枝。
 
-本题严重卡常，请务必使用快读。
+**树冠**是从左到右读取叶子上的数而得到的序列。
 
-Byteasar the gardener is growing a rare tree called Rotatus Informatikus. It has some interesting features:
+Byteasar 是 Byteburg 人，就像所有真正的 Byteburg 人一样，他赞美整洁和秩序。他想知道进行一些旋转操作后，他的树会变得多整洁。树的整洁度用树冠的逆序对数表示。即序列 $a_1,a_2,\ldots ,a_n$ 中满足 $1\le i<j\le n,a_i\gt a_j$ 的数对 $(i,j)$ 的个数。
 
-* The tree consists of straight branches, bifurcations and leaves. The trunk stemming from the ground is also a branch.
-* Each branch ends with either a bifurcation or a leaf on its top end.
-* Exactly two branches fork out from a bifurcation at the end of a branch - the left branch and the right branch.
-* Each leaf of the tree is labelled with an integer from the range $ 1 \ldots n $. The labels of leaves are unique.
-* With some gardening work, a so called rotation can be performed on any bifurcation, swapping the left and right branches that fork out of it.
+![rys-crop.gif](/source/loj/2163/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vc1VlM3F6eEJ0YXNlay1SQVdtWmF4WV9wL3NpdGUvaW1hZ2VzL09JMTgvcnlzLWNyb3AuZ2lm.gif)
 
-*The corona of the tree* is the sequence of integers obtained by reading the leaves' labels from left to right.
+左边原树的树冠 $3,1,2$ 有两个逆序对。在一次旋转过后变成右边的数，树冠是 $1,3,2$，只有一个逆序对。这两棵树都有 $5$ 根树枝。
 
-Byteasar is from the old town of Byteburg and, like all true Byteburgers, praises neatness and order. He wonders how neat can his tree become thanks to appropriate rotations. The neatness of a tree is measured by the number of inversions in its corona, i.e. the number of pairs $ (i, j) $, such that $ a_i \gt a_j $ in the corona $ a_i, a_2, \ldots, a_n $.
-
-![rys-crop.gif](/source/loj/2163/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg0NWRjMTkyNjguZ2lm.gif)
-
-The original tree (on the left) with corona $ 3, 1, 2 $ has two inversions. A single rotation gives a tree (on the right) with corona $ 1, 3, 2 $, which has only one inversion. Each of these two trees has $ 5 $ branches.
-
-Write a program that determines the minimum number of inversions in the corona of Byteasar's tree that can be obtained by rotations.
-
+写一个程序，求出 Byteasar 的树经过旋转后树冠的最少逆序对数。
 
 # 输入格式
 
-In the first line of the standard input there is a single integer $ n $ ($ 2 \le n \le 200000 $) that denotes the number of leaves in Byteasar's tree. Next, the description of the tree follows. The tree is defined recursively:
+第一行一个整数 $n$，表示表示 Byteasar 的树的叶子数。
 
-* if there is a leaf labelled with $ p $ ($ 1 \le p \le n $) at the end of the trunk (i.e., the branch from which the tree stems), then the tree's description consists of a single line containing a single integer $ p $,
-* if there is a bifurcation at the end of the trunk, then the tree's description consists of three parts:
-     * the first line holds a single number $ 0 $,
-     * then the description of the left subtree follows (as if the left branch forking out of the bifurcation was its trunk),
-     * and finally the description of the right subtree follows (as if the right branch forking out of the bifurcation was its trunk).
-
-In tests worth at least 30% of the points it additionally holds that $ n \le 5000 $.
+接下来描述这棵树，这棵树利用递归定义：
+- 如果在树干末端是一片标有 $p$ 的叶子（即，直接从地上长出来的树枝），那么对于这棵树的描述只包含一行一个整数 $p$；
+- 如果在树干末端有分叉，那么这棵树的描述包含以下三部分：
+    - 第一行包含一个整数 $0$；
+    - 接下来是对左子树的描述（假设从分叉点分出的左树枝是左子树的树干）；
+    - 最后是对右子树的描述（假设从分叉点分出的右树枝是右子树的树干）。
 
 
 # 输出格式
 
-In the first and only line of the standard output a single integer is to be printed: the minimum number of inversions in the corona of the input tree that can be obtained by a sequence of rotations.
+一行一个整数，表示树冠的最少逆序对数。
 
 
 # 样例
 
-For the input data:
+#### 样例输入
 ```plain
 3
 0
@@ -56,14 +48,20 @@ For the input data:
 1
 2
 ```
-the correct result is:
+#### 样例输出
 ```plain
 1
 ```
-Explanation of the example: Figure 1 illustrates the tree given in the example.
+#### 样例说明
+树与旋转情况如「题目描述」中所示。
 
 
 # 数据范围与提示
+
+对于全部数据，$1\le n\le 2\times 10^5,1\le p\le n$；
+
+对于 $30\%$ 的分数，保证 $n\le 5\times 10^3$。
+
 
 Task authors: Tomasz Kociumaka, Tomasz Walen.
 
