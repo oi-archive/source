@@ -3,24 +3,26 @@
 
 **译自 POI 2011 Round 3. Day 0. A「[Dynamite](https://szkopul.edu.pl/problemset/problem/Xg9hVYries5K7yMcyZYI4NLc/site/?key=statement)」**
 
-The Byteotian Cave is composed of $ n $ chambers and $ n-1 $ corridors that connect them. For every pair of chambers there is unique way to move from one of them to another without leaving the cave. Dynamite charges are set up in certain chambers. A fuse is laid along every corridor. In every chamber the fuses from the adjacent corridors meet at one point, and are further connected to the dynamite charge if there is one in the chamber. It takes exactly one unit of time for the fuse between two neighbouring chambers to burn, and the dynamite charge explodes in the instant that fire reaches the chamber it is inside.
+Byteotia 山洞由 $n$ 个洞穴和连接这些洞穴的 $n-1$ 条过道组成。对于每一对洞穴，从一个洞穴到达另一个都有唯一的路径，并且不需要离开山洞。炸药放在了某些山洞中。每条过道都放了引线。在每个洞穴中，相邻过道的引线交于一点，如果洞穴中有炸药，那么它们会与炸药相连。相邻两个洞穴之间的引线燃尽都恰好需要一单位时间。并且只要火传到了有炸药的洞穴中，炸药就会立即爆炸。
 
-We would like to light the fuses in some $ m $ chambers (at the joints of fuses) in such a way that all the dynamite charges explode in the shortest time possible since the fuses are lit. Write a program that will determine the minimum such time possible.
+我们希望点燃 $m$ 个洞穴的引线（在引线的交点处点燃），使得引线引燃后，所有炸药在最短时间内爆炸。写一个程序求出这个最小可能时间。
 
 
 # 输入格式
 
-The first line of the standard input holds two integers $ n $ and $ m $ ($ 1 \le m \le n \le 300000$), separated by a single space, that denote, respectively, the number of chambers in the cave and the number of chambers in which fire can be set to the fuses. The chambers are numbered from $ 1 $ to $ n $. The next line contains $ n $ integers $ d_1, d_2, \ldots, d_n $ ($ d_i \in \{0, 1\} $), separated by single spaces. If $ d_i = 1 $, then there is dynamite in the $ i $-th chamber, and if $ d_i = 0$, there is none. The following $ n-1 $ lines specify the corridors of the cave. Each of them holds two integers $ a $, $ b $ ($ 1 \le a \lt b \le n $), separated by a single space, denoting that there is a corridor connecting the chambers $ a $ and $ b $. Every corridor appears exactly once in the description.
+第一行包含两个整数 $n,m$，分别表示山洞中洞穴的个数和可以点火的引线数；
 
-You may assume that in tests worth 10% of the points it holds additionally that $ n \le 10 $, while in tests worth 40% of the points it holds that $ n \le 1000 $.
+接下来一行 $n$ 个整数 $d_i$，如果 $d_i=1$ 则 $i$ 号山洞中有炸药，如果 $d_i=0$ 则没有。
+
+接下来 $n-1$ 行，每行两个整数 $a,b$，表示一条过道连接洞穴 $a$ 和洞穴 $b$。
 
 # 输出格式
 
-The first and only line of the standard output should hold a single integer, equal to the minimum time it takes from lighting the fuses to the explosion of all the charges.
+一行一个整数，表示引爆所有炸药所需的最短时间。
 
 # 样例
 
-For the input data:
+#### 样例输入
 ```plain
 7 2
 1 0 1 1 0 1 1
@@ -31,15 +33,24 @@ For the input data:
 5 6
 5 7
 ```
-the correct result is:
+#### 样例输出
 ```plain
 1
 ```
-![](/source/loj/2165/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjZiOWE0N2UyOGQuZ2lm.gif)
 
-Explanation of the example: We light the fuses in chambers 3 and 5. The charge in chamber 3 explodes at time zero, and the charges in chambers 1, 4, 6 and 7 explode after a single time unit.
+##### 样例说明
+
+![](/source/loj/2165/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vWGc5aFZZcmllczVLN3lNY3laWUk0TkxjL3NpdGUvaW1hZ2VzL09JMTgvZHluemFkMS5naWY=.gif)
+
+我们可以点燃洞穴 $3,5$ 中的引线。洞穴 $3$ 的炸药在时间 $0$ 时被引爆，洞穴 $1,4,6,7$ 内的炸药都在一单位之间后被引爆。
 
 # 数据范围与提示
+
+对于所有数据，$ 1 \le m \le n \le 3\times 10^5,d_i \in \{0, 1\},1 \le a \lt b \le n $；
+
+对于 $10\%$ 的分数，$n\le 10$；
+
+对于 $40\%$ 的分数，$n\le 10^3$。
 
 Task author: Jacek Tomasiewicz.
 

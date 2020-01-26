@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**题目译自 [USACO 2016 US Open Contest, Platinum](http://usaco.org/index.php?page=open16results) Problem 2. [Bull in a China Shop](http://usaco.org/index.php?page=viewproblem2&cpid=649)**
+
 > A bull in a China Shop 是一个英语俗语，表示与他人打交道时行为笨拙的人。
 
 农夫 John 想买一个玻璃牛。它可用一个 $N\times M$ 的字符矩阵表示，如下图所示。小写字母是玻璃牛上不同的颜色，而 `.` 则表示背景。
