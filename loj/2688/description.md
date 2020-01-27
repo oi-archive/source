@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2015 Stage 3. Day 1「[Car washes](https://szkopul.edu.pl/problemset/problem/kYVp05sX8lzHWNwn93xjcYwH/site/?key=statement)」**
+
 有 $n$ 家洗车店从左往右排成一排，编号为 $1\sim n$，每家店都有一个正整数价格 $p_i$。
 
 有 $m$ 个人要来消费，第 $i$ 个人会驶过从第 $a_i$ 个开始一直到第 $b_i$ 个洗车店，且会选择这些店中最便宜的一个进行一次消费。但是如果这个最便宜的价格大于 $c_i$，那么这个人就不洗车了。

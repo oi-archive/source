@@ -1,8 +1,10 @@
 
 # 题目描述
 
- Byteasar 有 $n$ 个由小写字母组成的字符串，他称一个字符串是优美的，当且仅当他由小写字母组成，且 Byteasar 的 $n$ 个字符串在这个字符串中出现了至少 $m$ 次（同一个字符串可以重复出现多次， $A$ 在 $B$ 中出现等价于 $A$ 是 $B$ 的子串）。  
- Byteasar 想知道，最短的优美字符串有多长。
+**译自 POI 2010 Stage 2. Day 1「[Hamsters](https://szkopul.edu.pl/problemset/problem/qQGtOc61vnHgCrs01ORC7iD1/site/?key=statement)」**
+
+Byteasar 有 $n$ 个由小写字母组成的字符串，他称一个字符串是优美的，当且仅当他由小写字母组成，且 Byteasar 的 $n$ 个字符串在这个字符串中出现了至少 $m$ 次（同一个字符串可以重复出现多次， $A$ 在 $B$ 中出现等价于 $A$ 是 $B$ 的子串）。  
+Byteasar 想知道，最短的优美字符串有多长。
 
 # 输入格式
 

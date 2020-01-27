@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 1.「[Intelligence Test](https://szkopul.edu.pl/problemset/problem/Arkza0f7GKKb-m1YZJulnlMk/site/?key=statement)」**
+
 给出一个母串 $a_1,a_2,a_3,\cdots ,a_n$ ，若干次询问，每次询问给出一个子串 $b_1,b_2,\cdots b_m$ ，请你求出这个子串是不是母串的子序列。
 
 

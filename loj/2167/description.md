@@ -3,33 +3,32 @@
 
 **译自 POI 2011 Round 3. Day 1. B「[Inspection](https://szkopul.edu.pl/problemset/problem/bLHHUzy1-byoiJSbilgpI6Dc/site/?key=statement)」**
 
-The railway network of the Byteotian Railways (BR) consists of bidirectional tracks connecting certain pairs of stations. Each pair of stations is connected by at most one segment of tracks. Furthermore, there is a unique route from every station to every other station. (The route may consist of several segments of tracks, but it may not pass through any station more than once.)
+Byteotia 铁路网包含了一些连接着火车站的双向铁路。每一对车站至多被一段铁路相连。此外，从任意一个火车站出发，到另一个火车站有且只有一条路径。（这条路径可能包括一些段铁路，但是不会重复经过任何火车站）。
 
-Byteasar is an undercover inspector of the BR. His job is to pick one of the stations (denote it by $ S $) for centre of his operations and to travel to all other stations. His journey should be as follows:
+Byteasar 是 Byteotia 铁路（BR）的一名卧底检查员。他的工作是挑选一个火车站（记这个火车站为 $S$）作为他操作的中心，然后前往所有其他的车站。他的检查旅程如下所示：
+- Byteasar 从火车站 $S$ 出发；
+- 接下来，他会挑选一个他还没去过的车站，然后沿最短路径前往该车站（当然是乘火车），然后视察这个车站，最后回到 $S$；
+- BR 的不法员工会互相警告 Byteasar 的到来。为了瞒过他们，下一个车站 Byteasar 会到从 $S$ 出发并和上一次方向不同的车站视察，即，他会沿着与上次不同的铁路段离开 $S$；
+- 每个火车站（除了 $S$）都恰好被视察一次；
+- 在视察完最后一个车站后，Byteasar **不会回到** $S$。
 
-* Byteasar starts in station $ S $.
-* Next, he picks one of the stations he did not yet control and goes to it along the shortest path (by train, of course), inspects the station, and then goes back to $ S $.
-* The crooked employees of BR warn one another of Byteasar's comings. To deceive them, Byteasar picks the next station for control in such a way that he sets off from the station $ S $ in different direction than the last time, i.e., along a different segment of tracks leaving from $ S $.
-* Each station (except $ S $) is inspected exactly once.
-* After inspecting the last station Byteasar **does not come back** to $ S $.
+通过一段铁路的时间都相同：一小时。
 
-The travel time along every segment of tracks takes the same amount of time: one hour.
-
-Byteasar intends to consider all the stations as the initial station $ S $. For each of them he wants to know the order of inspecting the remaining stations that minimises the total travel time, provided that it is possible at all for that particular $ S $.
+Byteasar 打算把每一个车站作为起始车站 $S$。对于每个火车站，Byteasar 想知道按某种顺序视察除 $S$ 以外的车站所用的最小时间，或者不可能把这个车站作为起始车站。
 
 # 输入格式
 
-The first line of the standard input contains a single integer $ n $ ($ 1 \le n \le 1000000 $) that denotes the number of stations. These are numbered from $ 1 $ to $ n $. The following $ n-1 $ lines specify the track segments, one per line. Each of them holds two integers $ a, b $ ($ 1 \le a, b \le n $, $ a \neq b $), separated by a single space, indicating that there is a track segment connecting the stations and . Each track segments appears exactly once in the description.
+第一行一个整数 $n$，表示车站数，车站从 $1$ 到 $n$ 编号；
 
-In tests worth at least 30% of the points it holds additionally that $ n \le 2000 $.
+接下来 $n-1$ 行，每行两个整数 $a,b$，表示 $a,b$ 车站之间有一段铁路。每个铁路段恰好出现一次。
 
 # 输出格式
 
-Your program should print $ n $ lines on the standard output, each holding a single integer. The one in the $ i $-th line should be the minimum number of hours Byteasar has to spend travelling to inspect the stations when $ S = i $ - if inspecting them all is possible for $ S = i $; if it is not, the $ i $-th line should hold the number $ -1 $.
+输出 $n$ 行，每行包含一个整数。对于第 $i$ 行，如果 $i$ 号车站可以作为初始车站，则输出对于 $S=i$，视察所有车站的最小用时，否则输出 $-1$。
 
 # 样例
 
-For the input data:
+#### 样例输入
 ```plain
 9
 3 6
@@ -41,7 +40,7 @@ For the input data:
 8 9
 7 8
 ```
-the correct result is:
+#### 样例输出
 ```plain
 -1
 23
@@ -53,12 +52,16 @@ the correct result is:
 -1
 -1
 ```
+#### 样例说明
+![](/source/loj/2167/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vYkxISFV6eTEtYnlvaUpTYmlsZ3BJNkRjL3NpdGUvaW1hZ2VzL09JMTgvaW5zLWNyb3AuZ2lm.gif)
 
-![](/source/loj/2167/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE5LzU4ZjcxZTdiMzc1OTEuZ2lm.gif)
-
-The figure illustrates the railway network as specified in the example. It is possible to inspect all the stations only for $ S = 2 $. One optimal order of inspection is: $ 7, 4, 8, 6, 1, 5, 3, 9 $. It results in $ 23 $ hours of travel.
+上图展示了在样例中给出的铁路网。只有当 $S=2$ 时才有可能视察到所有车站。一种最优的视察顺序是：$ 7, 4, 8, 6, 1, 5, 3, 9 $。最小用时 $23$ 小时。
 
 # 数据范围与提示
+
+对于全部数据，$ 1 \le n \le 1000000, 1 \le a, b \le n , a \neq b $；
+
+对于 $30\%$ 的分数，$ n \le 2000 $。
 
 Task authors: Wojciech Rytter and Bartosz Szreder.
 

@@ -3,52 +3,57 @@
 
 **译自 POI 2011 Round 3. Day 1. C「[Periodicity](https://szkopul.edu.pl/problemset/problem/H6hUSie6S-cBVL4PG5rqQnmj/site/?key=statement)」**
 
-Byteasar, the king of Bitotia, has ordained a reform of his subjects' names. The names of Bitotians often contain repeating phrases, e.g., the name Abiabuabiab has two occurrences of the phrase abiab. Byteasar intends to change the names of his subjects to sequences of bits matching the lengths of their original names. Also, he would very much like to reflect the original repetitions in the new names.
+Bitotia 国外 Byteasar 宣布了要对他臣民的名字进行改革。Bitotia 人的名字经常包含重复的短语，例如名字「Abiabuabiab」中短语「abiab」出现了两次。Byteasar 试图将他的臣民的名字改成和他们之前名字一样长的 $01$ 串。并且他十分希望新名字也能反映之前名字的重复规律。
 
-In the following, for simplicity, we will identify the upper- and lower-case letters in the names. For any sequence of characters (letters or bits) $ w = w_1, w_2, \ldots, w_k $ we say that the integer $ p $ ($ 1 \le p \lt k $) is a period of $ w $ if $ w_i = w_{i+p} $ for all $ i = 1, \ldots, k - p $. We denote the set of all periods of $ w $ by $ \mathrm{Per}(w) $. For example, $ \mathrm{Per}(\mathrm{ABIABUABIAB})=\{6, 9\} $, $ \mathrm{Per}(\mathrm{01001010010})=\{5, 8, 10\} $, and $ \mathrm{Per}(\mathrm{0000})=\{1, 2, 3\} $.
+接下来，为了简化说明，我们将区分字母的大小写。对于任意字符（字母或 $0/1$）序列 $ w = w_1 w_2 \ldots w_k $，如果存在一个整数 $p\ (1 \le p \lt k)$，对于所有 $ i = 1, \ldots, k - p $ 都有 $ w_i = w_{i+p} $，则整数 $p$ 是 $w$ 的一个周期。我们记 $w$ 的所有周期的集合为 $ \mathrm{Per}(w) $。比如，$ \mathrm{Per}(\mathrm{ABIABUABIAB})=\{6, 9\} $，$ \mathrm{Per}(\mathrm{01001010010})=\{5, 8, 10\} $，$ \mathrm{Per}(\mathrm{0000})=\{1, 2, 3\} $。
 
-Byteasar has decided that every name is to be changed to a sequence of bits that:
+Byteasar 决定了每个名字都要变成一个满足以下条件的 $01$ 串：
+- 长度和原来的名字相同；
+- 和之前名字有相同的周期集合；
+- 在满足前两个条件的情况下字典序最小。
 
-* has length matching that of the original name,
-* has the same set of periods as the original name,
-* is the smallest (lexicographically1) sequence of bits satisfying the previous conditions.
+比如，`ABIABUABIAB` 这个名字应变为 `01001101001`，`BABBAB` 变为 `010010`，`BABURBAB` 变为 `01000010`。
 
-For example, the name `ABIABUABIAB` should be changed to `01001101001`, `BABBAB` to `010010`, and `BABURBAB` to `01000010`.
-
-Byteasar has asked you to write a program that would facilitate the translation of his subjects' current names into new ones. If you succeed, you may keep your current name as a reward!
-
+Byteasar 要求你写一个程序，以帮助他将其臣民的名字转换为新名字。如果你成功了，作为奖赏你可以保留你目前的名字！
 
 # 输入格式
 
-In the first line of the standard input there is a single integer $ k $- the number of names to be translated ($ 1 \le k \le 20 $). The names are given in the following lines, one in each line. Each name consists of no less than $ 1 $ and no more than $ 200000 $ upper-case (capital) letters (of the English alphabet).
+第一行包含一个整数 $k$，表示要转换的名字个数；
 
-In the test worth $ 30\% $ of the points each name consists of at most $ 20 $ letters.
+接下来 $k$ 行，每行一个要转换的名字。每个名字长度都在 $1$ 到 $2\times 10^5$ 之间，并且只包含英文大写字母。
 
 
 # 输出格式
 
-Your program should print $ k $ lines to the standard output. Each successive line should hold a sequence of zeroes and ones (without spaces in between) corresponding to the names given on the input. If an appropriate sequence of bits does not exists for some names, then "XXX" (without quotation marks) should be printed for that name.
-
+输出 $k$ 行，每行包含一个 $01$ 串，如果存在一个合法的转换方案，则输出字典序最小的一个，否则输出 `XXX`。
 
 # 样例
 
-For the input data:
+#### 样例输入
 ```plain
 3
 ABIABUABIAB
 BABBAB
 BABURBAB
 ```
-the correct result is:
+#### 样例输出
 ```plain
 01001101001
 010010
 01000010
 ```
-The sequence of bits $ x_1, x_2, \ldots, x_k $ is lexicographically smaller than the sequence of bits $ y_1 y_2 \cdots y_k $ if for some $ i $, $ 1 \le i \le k $, we have $ x_i \lt y_i $ and for all $ j = 1, \ldots, i - 1 $ we have $ x_j = y_j $.
 
 
 # 数据范围与提示
 
+对于全部数据，$ 1 \le k \le 20 $
+
+对于 $30$ 分的数据，每个名字最多只包含 $20$ 个字母。
+
 Task author: Wojciech Rytter.
+
+---
+
+注：对于 $01$ 串 $ x_1 x_2 \ldots, x_k $，它的字典序比 $01$ 串 $ y_1 y_2 \ldots y_k $ 小，当且仅当 $\exists i\in [1,k]$，有 $x_i\lt y_i$ 且对于 $j=1,\ldots ,i-1$ 有 $x_j=y_j$。
+
 

@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 2. Day 2「[Okropny wiersz](https://szkopul.edu.pl/problemset/problem/h9erYqBkPcC8KtSvLhMzhgjw/site/?key=statement)」**
+
 给定由小写英文字母组成的字符串 $S$，有 $q$ 个询问，每次询问给定 $S$ 的一个子串，求其最短循环节。
 
 如果字符串 $A$ 可以由字符串 $B$ 重复若干次得到，则字符串 $B$ 是字符串 $A$ 的一个循环节。

@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 1「[The Minima Game](https://szkopul.edu.pl/problemset/problem/3buviDQZWLE83AxVhvJJurgU/site/?key=statement)」**
+
 Alice 和 Bob 玩一个游戏。Alice 先手，两人轮流进行操作，每轮一个玩家可以选择若干张牌（至少一张），并获得相当于这些牌上所写数字的最小值的分数，直到没有牌为止。两人都希望自己的分数与对方分数之差最大。若两个玩家都使用最佳策略，求游戏的最终结果。
 
 # 输入格式

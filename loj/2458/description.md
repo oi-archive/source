@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 2「[Ones](https://szkopul.edu.pl/problemset/problem/ttMOxHYN1BPMG8oXYiIzIXB9/site/?key=statement)」**
+
 设 $x$ 是一个由 01 组成的序列。一个 UFO 指的是序列中第一个 1 或者最后一个 1 且不和任何一个 1 相邻。例如 10001010 有两个 UFO，1101011000 没有 UFO，1000 只有一个 UFO。
 
 设 $1$ 到 $n$ 的数的二进制表示中 UFO 的总数为 $sks(n)$。例如，$sks(5) = 5, sks(64) = 59, sks(128) = 122, sks(256) = 249$。

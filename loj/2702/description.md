@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 3. Day 2「[Bezpieczeństwo minimalistyczne](https://szkopul.edu.pl/problemset/problem/aSbIC_LB4H-CGMYPEVue5jFw/site/?key=statement)」**
+
 给定一张无向图，点有点权 $p(v)$，边有边权 $b(u,v)$，初始时保证对每条边有 $p(u) + p(v) \ge b(u,v)$。
 
 现在需要减少一部分点的点权，使得对每条边都恰有 $p(u) + p(v) = b(u,v)$.

@@ -1,9 +1,11 @@
 
 # 题目描述
 
- Byteasar 有一个凸多边形牧场，里面有一些羊。  
+**译自 POI 2010 Stage 2. Day 2「[Sheep](https://szkopul.edu.pl/problemset/problem/YjtAwdQrSiGcE_RLiEJpGiYE/site/?key=statement)」**
+
+Byteasar 有一个凸多边形牧场，里面有一些羊。  
 现在 Byteasar 想要把这个凸多边形划分成若干三角形（划分线不能在牧场中相交，只能在顶点相交），使得每一个三角形里面的羊都有偶数只。  
- Byteasar 想知道有多少种方案，你只要输出方案数对 $m$ 取余后的结果即可。
+Byteasar 想知道有多少种方案，你只要输出方案数对 $m$ 取余后的结果即可。
 
 # 输入格式
 

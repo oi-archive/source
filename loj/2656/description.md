@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 2. Day 2「[Megalopolis](https://szkopul.edu.pl/problemset/problem/big2NUEzhdCqgGj0wGBjbw14/site/?key=statement)」**
+
 Byteotia 在 $n$ 个村之间送信。村子之间是一个树形结构，任何两个村子之前恰有一条路径，随着经济发展，越来越多的土路被改造成公路。Byteotia 能回忆起他的送信路程和土路改造成公路的过程，你需要帮助 Byteotia 求出他每次行程经过的土路个数。
 
 # 输入格式
@@ -38,7 +40,6 @@ W 2
 A 1 2
 A 1 3
 ```
-![](/source/loj/2656/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vYmlnMk5VRXpoZENxZ0dqMHdHQmpidzE0L3NpdGUvaW1hZ2VzL09JMTQvbWVnemFkMS5naWY=.gif)
 
 #### 样例输出
 ```plain
@@ -47,6 +48,9 @@ A 1 3
 0
 1
 ```
+
+#### 样例说明
+![](/source/loj/2656/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vYmlnMk5VRXpoZENxZ0dqMHdHQmpidzE0L3NpdGUvaW1hZ2VzL09JMTQvbWVnemFkMS5naWY=.gif)
 
 # 数据范围与提示
 

@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 2. Day 2「[Tetris Attack](https://szkopul.edu.pl/problemset/problem/noPY-IL0vsAi2TiXF-v2f5Br/site/?key=statement)」**
+
 立方体大作战的游戏规则是这样的：给定一个有 $2n$ 个正整数的栈，每个正整数恰好出现两次。玩家每次可以交换两个相邻的正整数。如果两个相同的正整数相邻，则把这两个数从栈中移除。求最少的交换次数。
 
 # 输入格式

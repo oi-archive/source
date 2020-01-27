@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 2. Day 1「[Blocks](https://szkopul.edu.pl/problemset/problem/4BL9eUWjrvT7ecMUJcmSuJI3/site/?key=statement)」**
+
 给出 $n$ 个正整数 $a_1,a_2,\cdots a_n$ ，再给出一个正整数 $k$ ，现在可以进行如下操作：
 
 * 每次选择一个大于 $k$ 的正整数 $a_i $，将 $a_i$ 减去 $1$ ，选择 $a_{i-1}$ 和 $a_{i+1}$ 中的一个加上 $1$ 。
@@ -34,7 +36,7 @@
 
 # 数据范围与提示
 
-对于$100\%$的数据，有$1\le n\le 1\ 000\ 000,1\le m\le 50,1\le a_i,k\le 10^9$。
+对于 $100\%$ 的数据，有 $1\le n\le 1\ 000\ 000,1\le m\le 50,1\le a_i,k\le 10^9$。
 
 Translated by vincent163
 

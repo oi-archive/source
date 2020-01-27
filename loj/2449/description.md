@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 2. Day 2「[Teleportation](https://szkopul.edu.pl/problemset/problem/fKO3YZL0f_UM1nHQNDvw7mku/site/?key=statement)」**
+
 现在有 $n$ 个点，目前在 $1$ 号点和 $2$ 号点之间有一条无向边，长度为 $250\min$ 。  
 除此之外，还有 $m$ 条无向边，长度都为 $1\ \textrm{h}$ （即 $60\min$）， Byteasar 想知道，还能最多在添加多少条长度为 $1\ \textrm{h}$ 的无向边，使得新图无重边无自环，且 $1$ 号点到 $2$ 号点的最短路仍为 $250\min$ 。
 

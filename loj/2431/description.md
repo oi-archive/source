@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2014 Stage 1. 「[Hotel](https://szkopul.edu.pl/problemset/problem/gDw3iFkeVm7ZA3j_16-XR7jI/site/?key=statement)」**
+
 给定一张图，共有 $n$ 个点，且任意两点间有且仅有一条简单路径将它们联通。每条边的长度相等。
 
 选出三个不同的点，使得三个点之间距离两两相等。求方案数。
