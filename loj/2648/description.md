@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 1.「[Tourist Attractions](https://szkopul.edu.pl/problemset/problem/_L_YGzT5VYJO9zHTfVRwPjwh/site/?key=statement)」**
+
 给定 $n$ 个顶点和 $m$ 条边组成的一张图，边有长度，且要求按照一定的顺序停留 $2 \ldots k+1$ 共 $k$ 个点（可以经过这些点但不停留），求最短的符合要求的从 $1$ 出发到 $n$ 的路径。保证存在这样的路径。
 
 
@@ -50,7 +52,7 @@
 ```
 
 #### 样例解释
-![](/source/loj/2648/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9hdHJ6YWQxLmdpZg==.gif)
+![](/source/loj/2648/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vX0xfWUd6VDVWWUpPOXpIVGZWUndQandoL3NpdGUvaW1hZ2VzL09JMTQvYXRyemFkMS5naWY=.gif)
 
 上图为与样例对应的图。要求在 $2,3,4,5$ 四个节点停留，且 $2$ 号点需要在 $3$ 号点之前停留，$4$ 号点和 $5$ 号点需要在 $3$ 号点之后停留。最短的从 $1$ 到 $n$ 的路径为 $1, 2, 4, 3, 4, 5, 8$ 且长度为 $19$。注意可以经过 $2,3,4,5$ 号点而不停留，这样就不会违反限制。
 

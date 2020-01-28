@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 2「[Pilots](https://szkopul.edu.pl/problemset/problem/lcU5m2RAICwNHsdzydb8JTQw/site/?key=statement)」**
+
 给定序列 $a_1, a_2, ..., a_n$ 和整数 $t$，求最长的子串 $a_i, ..., a_j$，使得对子串中任意两个元素 $a_k, a_l$，有 $|a_k - a_l| \le t$。
 
 # 输入格式

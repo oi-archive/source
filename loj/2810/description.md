@@ -1,7 +1,7 @@
 
 # 题目描述
 
- **译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/) T4.** ***COCI***
+**译自 [COCI 2014.11.29](http://www.hsin.hr/coci/archive/2014_2015/) T4.** ***[COCI](https://hsin.hr/coci/archive/2014_2015/contest3_tasks.pdf)***
 
 第三轮 COCI 来了！为了估分，我们猜测：如果选手 $\mathrm{A}$ 在前两轮比赛中分数都高于选手 $\mathrm{B}$，那么选手 $\mathrm{A}$ 第三轮的分数与选手 $\mathrm{B}$ 的分数**至少相等**。
 

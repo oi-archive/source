@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 1.「[Drzewa](https://szkopul.edu.pl/problemset/problem/Tct-kFAFTSZv6u50PBByDUcd/site/?key=statement)」**
+
 有 $n$ 棵树的高度分别为 $h_1, h_2, ..., h_n$。定义其不整齐程度为 $\lvert h_1 - h_2 \rvert + \lvert h_2 - h_3 \rvert \ldots \lvert h_{n-1} - h_n \rvert$。对其中每一棵树，求其与另一棵树交换（也可以不交换）后不整齐程度的最小值。
 
 # 输入格式
