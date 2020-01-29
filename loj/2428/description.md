@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 1.「[Divine Divisor](https://szkopul.edu.pl/problemset/problem/hOwg83Xw_OnTpfQ9SroS0OJA/site/?key=statement)」**
+
 给出一个 $n$ ，请你找出最大的 $k$ ，使得存在 $d>1$ ，满足 $d^k\mid n$ ，在此基础上，求出满足该条件的 $d$ 有多少个。
 
 # 输入格式
@@ -43,7 +45,7 @@
 
 # 数据范围与提示
 
-对于$100\%$的数据，$1\le m\le 600$，且$\forall 1\le i\le m$，有$1\le a_i\le 10^{18}$。
+对于$100\%$的数据，$1\le m\le 600$，且 $\forall 1\le i\le m$，有 $1\le a_i\le 10^{18}$。
 
 Translated By diamond_duke
 

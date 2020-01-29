@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 2. Day 1「[Skalniak](https://szkopul.edu.pl/problemset/problem/s5ECsFKlMHti0g29uVkdKlQw/site/?key=statement)」**
+
 Vicomte de Bajteaux 收藏了许多石头并准备把它们放到花园里。
 
 花园是一个正方形，边长为 $1\ 000\ 000\ 000$。Vicomte de Bajteaux 让他的仆人为他用石头布置花园。但他忘记告诉仆人坐标的顺序，以至于一些点的坐标以 $(x,y)$ 的形式给出，一些点的坐标以 $(y,x)$ 的形式给出，并且石头已经按这样的顺序放好了。
