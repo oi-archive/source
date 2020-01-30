@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 1. 「[Rendezvous](https://szkopul.edu.pl/problemset/problem/MZTXfOVnJmac175TTH5Lr9Q3/site/?key=statement)」**
+
 给定一个有 $n$ 个顶点的有向图，每个顶点有且仅有一条出边。每次询问给出两个顶点 $a_i$ 和 $b_i$，求满足以下条件的 $x_i$ 和 $y_i$：
 * 从顶点 $a_i$ 沿出边走 $x_i$ 步与从顶点 $b_i$ 沿出边走 $y_i$ 步到达的顶点相同。
 * $\max(x_i, y_i)$ 最小。

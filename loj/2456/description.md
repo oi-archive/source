@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 1「[Lamp](https://szkopul.edu.pl/problemset/problem/WXVRycanis3d1h5p63YZqYKs/site/?key=statement)」**
+
 在夜深人静的夜晚里，Bitratio 打开了 Byteasar 所在建筑物门口的灯。灯发出的强光导致 Byteasar 无法睡觉。尽管灯没有直接照在 Byteasar 的窗户上，却通过其他的窗户反射进入了 Byteasar 的卧室。Byteasar 由于无法睡觉而感到烦躁。他很好奇他的邻居是否也受到了同样的干扰，于是他来向你求助。你很了解他，因此你清楚地明白，在写出程序并解出这个问题之前你也无法入眠。
 
 Byteasar 住在建筑物 B 里，有 $n$ 个窗户。灯在这个建筑物最下方的一个墙上。在建筑物 $B$ 的对面恰好 $10$ 米有另一个建筑物 C，且这个建筑物的墙与 B 建筑物的墙平行。
@@ -49,7 +51,7 @@ Byteasar 住在建筑物 B 里，有 $n$ 个窗户。灯在这个建筑物最下
 
 # 数据范围与提示
 
-对于 $100\%$ 的数据， $-1000 \le x_{1,i} \lt x_{2,i} \le 1000,0 \le y_{1,i} < y_{2,i} \le 1000$ 。
+对于 $100\%$ 的数据， $1\le n,m\le 600,-1000 \le x_{1,i} \lt x_{2,i} \le 1000,0 \le y_{1,i} < y_{2,i} \le 1000$ 。
 
 Translated by vincent163
 

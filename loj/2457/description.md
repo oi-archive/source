@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 1「[Frog](https://szkopul.edu.pl/problemset/problem/qDH9CkBHZKHY4vbKRBlXPrA7/site/?key=statement)」**
+
 在 Byteotian 的小溪上有 $n$ 个岩石在水位线上，这些岩石到源头的距离分别为 $p_1, p_2, ..., p_n$。在其中的一个岩石上有一只小青蛙准备开始训练。每一次，它会选择距离它第 $k$ 近的岩石。严格地说，如果青蛙某时刻在 $p_i$ 位置，则它会选择 $p_j$ 位置使得同时满足：
 $$|{p_a:|p_a-p_i|<|p_j-p_i|}| \le k$$
 $$|{p_a:|p_a-p_i|\le|p_j-p_i|}| \gt k$$
@@ -31,7 +33,8 @@ $$|{p_a:|p_a-p_i|\le|p_j-p_i|}| \gt k$$
 
 #### 样例解释
 下图显示了从每个岩石开始经过一次跳跃到达的岩石。
-[![zab.gif](/source/loj/2457/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2NmMmNlMWUzZS5naWY=.gif)](https://i.loli.net/2018/03/29/5abccf2ce1e3e.gif)
+
+![](/source/loj/2457/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vcURIOUNrQkhaS0hZNHZiS1JCbFhQckE3L3NpdGUvaW1hZ2VzL09JMTcvemFiLmdpZg==.gif)
 
 # 数据范围与提示
 
