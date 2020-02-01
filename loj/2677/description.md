@@ -6,7 +6,7 @@
 本题中只有一种乐高积木—— $2 \times 2$ 的砖块。它有白（W）、灰（G）、黑（B）三种颜色。所有的积木都有无限个。  
 你在一个 $6 \times 6$ 的底板上砌砖块。砖块边缘必须平行于底板，且砖块不能延伸到地板的外面。每块积木必须有至少一块积木支持，也就是不能浮空（但没说不可以部分悬挂）。
 
-![](/source/loj/2677/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMDMvNWIxMzYwM2UwZTE0Yy5wbmc=.png)
+![](https://i.loli.net/2018/06/03/5b13603e0e14c.png)
 
 <div><p style='color: grey; font-size: 13px; text-align: center' >左：将积木放在另一个积木的顶部上的一种可行的方式。中：一种非法的方式（上层积木挂在空中）。右：另一种非法方式（上方的积木延伸到底板外）。</p></div>
 给出从两个角度拍摄的积木建筑的图片，试求：要建立它有多少种不同的方式。

@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2018/2019 Contest #3](http://www.hsin.hr/coci/contest3_tasks.pdf) T5「Praktični」**
+**译自 [COCI 2018/2019 Contest #3](https://hsin.hr/coci/archive/2018_2019/) T5「[Praktični](https://hsin.hr/coci/archive/2018_2019/contest3_tasks.pdf)」**
 
 给一个有权无向图，我们称一个图是好的，当且仅当其每个简单环上的权值的异或和为 $0$。你一次操作可以选定图的一个边集以及一个数 $X$，操作是将该边集包含的边的权值都异或上 $X$。请求出至少需要多少次操作可以使给定的图变好。
 

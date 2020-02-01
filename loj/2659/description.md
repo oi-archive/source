@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 3. Day 1「[Gas Pipelines](https://szkopul.edu.pl/problemset/problem/zWn2E-v-nn-bozeXQrykmCgD/site/?key=statement)」**
+
 平面上有 $n$ 个天然气井和中转站，从天然气井开始向 $x$ 轴正方向、$y$ 轴负方向建立管道连接到中转站，使得管道的总长度最小。
 
 # 输入格式
@@ -43,7 +45,7 @@
 ```
 
 #### 样例解释
-![](/source/loj/2659/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9nYXouZ2lm.gif)
+![](/source/loj/2659/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0velduMkUtdi1ubi1ib3plWFFyeWttQ2dEL3NpdGUvaW1hZ2VzL09JMTQvZ2F6LmdpZg==.gif)
 
 # 数据范围与提示
 
