@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 2. Day 1「[The Flood](https://szkopul.edu.pl/problemset/problem/VutzcR1iPvGuYRGZgvNksmV1/site/?key=statement)」**
+
 你有一张 $m \times n$ 的地图，地图上所有点都被洪水淹没了。你知道地图上每个网格的海拔高度，其中一部分点属于 Byteburg 城。你需要放置尽可能少的巨型抽水机，将 Byteburg 城从洪水中解救出来。巨型抽水机会抽干该格子的所有水，直到该格子不被洪水淹没为止。
 
 水会在有公共边的格子间从高向低流动。

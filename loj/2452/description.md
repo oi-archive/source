@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 2. Day 0「[Antisymmetry](https://szkopul.edu.pl/problemset/problem/EDxOyJiFZWb_PYVaYhhnhU0-/site/?key=statement)」**
+
 对于一个 $0/1$ 字符串，如果将这个字符串 $0$ 和 $1$ 取反后，再将整个串反过来和原串一样，就称作「反对称」字符串。比如 $00001111$ 和 $010101$ 就是反对称的，而 $1001$ 就不是。  
 现在给出一个长度为 $n$ 的 $0/1$ 字符串，求它有多少个子串是反对称的，注意这里相同的子串出现在不同的位置会被重复计算。
 

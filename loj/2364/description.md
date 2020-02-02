@@ -45,7 +45,7 @@ A
 #### 样例解释  
 对于第一组数据：  
 
-![gridgame1.gif](https://i.loli.net/2018/02/19/5a8ab4a17e247.gif)
+![gridgame1.gif](/source/loj/2364/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTkvNWE4YWI0YTE3ZTI0Ny5naWY=.gif)
 
 如果 $\text{A}$ 在前三次移动中移动到方格最右边，$\text{B}$ 将在前三次移动中向上移动。因此，在第三次移动中玩家 $\text{B}$ 将会到达 $\text{A}$ 的方块所在方格，并且给 $\text{B}$ 一次额外的移动机会。因此，$\text{B}$ 会首先到达 $\text{A}$ 的起点并且赢得游戏。   
 

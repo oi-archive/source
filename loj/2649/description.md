@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 1.「[Offices](https://szkopul.edu.pl/problemset/problem/G-ZVHDa7y3xWk2PQM27uNq3n/site/?key=statement)」**
+
 一个公司有 $n$ 个雇员，有 $m$ 对雇员互相留有电话。将雇员分进尽可能多的办公楼里，使得不同办公楼之间的雇员都留有电话，求最大的办公楼个数和对应方案。
 
 # 输入格式

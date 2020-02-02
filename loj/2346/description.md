@@ -53,7 +53,7 @@ IOI 文明灭亡后，它脚下的地层发生了 $Q$ 次运动。第 $i$ 次运
 2
 ```
 #### 样例解释 1
-![0fe14625e2fb78233cfd864dde8e1eda.png](http://www.z4a.net/images/2018/02/09/0fe14625e2fb78233cfd864dde8e1eda.png)
+![0fe14625e2fb78233cfd864dde8e1eda.png](/source/loj/2346/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE4LzAyLzA5LzBmZTE0NjI1ZTJmYjc4MjMzY2ZkODY0ZGRlOGUxZWRhLnBuZw==.png)
 
 #### 输入样例 2
 ```plain

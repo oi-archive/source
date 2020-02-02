@@ -1,9 +1,11 @@
 
 # 题目描述
 
+**译自 POI 2014 Stage 1. 「[Snake](https://szkopul.edu.pl/problemset/problem/3zwfwt3ZGc2f6NndNgzS3Dfu/site/?key=statement)」**
+
 一条蛇充满了一个 $3\times n$ 的板，蛇的每一段从 $1$ 到 $3 \times n$ 编号。相邻的两段所在的网格有一条相邻边。例如，一只蛇可以如下图所示充满一个 $3\times 9$ 的板：
 
-![wazrys.png](/source/loj/2464/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMTMvNWFhN2JkZWYyZDYwYi5wbmc=.png)
+![wazrys.png](/source/loj/2464/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vM3p3Znd0M1pHYzJmNk5uZE5nelMzRGZ1L3NpdGUvaW1hZ2VzL09JMjEvd2F6cnlzLnBuZw==.png)
 
 板中一部分位置的编号被擦除了，请重新还原出这只蛇的形态。
 
