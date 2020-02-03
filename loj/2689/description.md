@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 1. 「[Festival](https://szkopul.edu.pl/problemset/problem/p9uJo01RR9ouMLLAYroFuQ-7/site/?key=statement)」**
+
 一次比赛中，$n$ 个运动员的耗时分别为 $X_1, X_2, \ldots, X_n$ 秒，且满足 $m_1 + m_2$ 个条件：
 * 给定 $A$ 和 $B$，$A$ 运动员比 $B$ 运动员耗时恰好少一秒
 * 给定 $C$ 和 $D$，$C$ 运动员耗时不长于 $D$ 运动员

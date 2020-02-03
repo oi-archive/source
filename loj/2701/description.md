@@ -1,7 +1,9 @@
 
 # 题目描述
 
-给定一个长度为 $n$ 的数组，每次操作可以将一个区间的数增加或减少 $a$，或将一个区间的数增加或减少 $b$。求使整个数组变为 $0$ 的最小操作次数。若无解请输出 -1.
+**译自 POI 2012 Stage 3. Day 1「[Leveling Ground](https://szkopul.edu.pl/problemset/problem/W54iZIwStF1TYWRxa1bdVPQo/site/?key=statement)」**
+
+给定一个长度为 $n$ 的数组，每次操作可以将一个区间的数增加或减少 $a$，或将一个区间的数增加或减少 $b$。求使整个数组变为 $0$ 的最小操作次数。若无解请输出 $-1$。
 
 # 输入格式
 
