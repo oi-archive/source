@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 1. 「[Letters](https://szkopul.edu.pl/problemset/problem/7u_14yXL3mR3mO0seZLusF5U/site/?key=statement)」**
+
 给定两个长度相同且由大写英文字母组成的字符串 A 和 B，保证 A 和 B 中每种字母出现的次数相同。
 
 每次可以交换 A 中相邻两个字符，求最少需要交换多少次可以使得 A 变成 B。
