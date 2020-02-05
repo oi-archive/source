@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 1.「[Axes of Symmetry](https://szkopul.edu.pl/problemset/problem/ETArorvqQVqRUJRa4kx02f8D/site/?key=statement)」**
+
 给定一个多边形，不一定是凸多边形，但没有自交，即除了相邻的边在顶点上相交外没有两条边有公共点。
 
 求多边形的对称轴个数。

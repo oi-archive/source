@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2014 Stage 1.「[Salad Bar](https://szkopul.edu.pl/problemset/problem/d30xri2XGeuQ45CDrB7DWijK/site/?key=statement)」**
+
 桌面上有 $n$ 个水果，分别是苹果和橘子。Bytesar 需要从水果中选择连续的一个区间，并从左到右或从右到左拿水果，且两个过程中橘子的数量必须始终不小于苹果的数量。求最长的区间大小。
 
 # 输入格式

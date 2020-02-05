@@ -52,7 +52,7 @@ JOIRIS 的游戏区域名叫「井」，是一个宽度为 $N$，高度足够大
 ```
 
 #### 样例说明 1
-![JOI-Open-16-T1.png](https://www.z4a.net/images/2018/08/05/JOI-Open-16-T1.png)
+![JOI-Open-16-T1.png](/source/loj/2741/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNS9KT0ktT3Blbi0xNi1UMS5wbmc=.png)
 
 #### 样例输入 2
 ```plain

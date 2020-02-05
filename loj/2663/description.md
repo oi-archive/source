@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 3. Day 2「[Quaternary Balance](https://szkopul.edu.pl/problemset/problem/5UgslCU-C5vsermqgJGm_C5A/site/?key=statement)」**
+
 有无限个质量为 $4$ 的幂的砝码，给定正整数 $n$，在使用的砝码数量尽可能少的情况下，求称量重量为 $n$ 的金子的方案数。
 
 # 输入格式
