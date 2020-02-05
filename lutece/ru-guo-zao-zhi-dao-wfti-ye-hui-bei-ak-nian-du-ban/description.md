@@ -3,7 +3,7 @@
 
 预购特典：世界名画《阿伟在232》
 
-![Snipaste_2019-05-13_10-45-50](https://i.loli.net/2019/05/28/5cecd83b4876294723.jpg)
+![Snipaste_2019-05-13_10-45-50](/source/lutece/ru-guo-zao-zhi-dao-wfti-ye-hui-bei-ak-nian-du-ban/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDUvMjgvNWNlY2Q4M2I0ODc2Mjk0NzIzLmpwZw==.jpg)
 
 
 定义数列A由以下规则生成：\
