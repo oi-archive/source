@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2014/2015 Contest #4](http://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf) T6「STANOVI」**
+**译自 [COCI 2014/2015 Contest #4](https://www.hsin.hr/coci/archive/2014_2015/) T6「[STANOVI](https://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf)」**
 
 Stanko 的工作是某 996 建筑公司的苦逼工程师。  
 最近他接到一个任务：为一栋位于 Zagreb 的建筑物制定平面图。
