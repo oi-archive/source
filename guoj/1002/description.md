@@ -43,7 +43,7 @@
 
 **样例 1 解释**
 
-![1](/source/guoj/1002/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwMDIvaHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvY2hlc3MxLnBuZw==.png)
+![1](/source/guoj/1002/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvY2hlc3MxLnBuZw==.png)
 
 棋盘如图所示，双方都采用最优策略时，棋局如下：
 - 菲菲下在第 $1$ 行第 $1$ 列（这是第一步时唯一可以落子的格子）；
@@ -54,7 +54,7 @@
 - 牛牛下在第 $2$ 行第 $3$ 列（这是这一步时唯一可以落子的格子）；
 - 填满棋盘，游戏结束，盘面如下。
 
-![2](/source/guoj/1002/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEwMDIvaHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvY2hlc3MyLnBuZw==.png)
+![2](/source/guoj/1002/img/aHR0cDovL3d3dy53anl5eS50b3Avd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDQvY2hlc3MyLnBuZw==.png)
 
 菲菲的得分为： $2+9+1=12$；牛牛的得分为：$7+2+1=10$。
 
