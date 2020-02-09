@@ -11,7 +11,7 @@
 
 接下来输入 $n$ 行询问，每行输入四个数字 $\mathrm{opt}, l, r, c$，以空格隔开。
 
-若 $\mathrm{opt} = 0$，表示将位于 $[l, r]$ 的之间的数字都开方。对于区间中每个 $a_i(l\le i\le r),\: a_i ← \left\lfloor \sqrt{a_i}\right\rfloor$ 
+若 $\mathrm{opt} = 0$，表示将位于 $[l, r]$ 的之间的数字都开方。对于区间中每个 $a_i(l\le i\le r),\: a_i \leftarrow \left\lfloor \sqrt{a_i}\right\rfloor$ 
 
 若 $\mathrm{opt} = 1$，表示询问位于 $[l, r]$ 的所有数字的和。
 
