@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2014 Stage 2. Day 0「[Card](https://szkopul.edu.pl/problemset/problem/qpsk3ygf8MU7D_1Es0oc_xd8/site/?key=statement)」**
+
 桌面上有依次排列的 $n$ 张卡片，每张卡片有正反两面。共 $m$ 次操作，每次操作会交换两张卡片，询问交换后是否有可能通过改变卡片的正反来使卡片上的数不降。
 
 # 输入格式
