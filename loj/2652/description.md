@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 1.「[Queries](https://szkopul.edu.pl/problemset/problem/MVjuhH4JZu17rusHweyEdyJx/site/?key=statement)」**
+
 给定正整数 $a,b,d$，找出满足以下条件的正整数对 $(x,y)$ 的个数：
 * $1 \le x \le a$
 * $1 \le y \le b$

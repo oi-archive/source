@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 2. Day 1 「[Vouchers](https://szkopul.edu.pl/problemset/problem/xfTByTABS18uZ1lmg4wQkVf2/site/?key=statement)」**
+
 糖果店正在出售糖果，对每个正整数 $c$ 恰有一份含有 $c$ 个糖果的包装。
 
 糖果店正在进行活动，有 $m$ 份包装内藏有一个礼券。在 $n$ 天时间内第 $k$ 天会有 $a_k$ 个客人到来。他们每个人各会买走最小的糖果数量为 $a_k$ 的倍数的包装（共 $a_k$ 份包装，这样每个人都可以把自己的糖果均匀地分给其他人）。
