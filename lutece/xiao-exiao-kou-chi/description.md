@@ -3,7 +3,7 @@
 
 小E听说牛大爷从CTR那得到一块蛋糕，蛋糕糕形状是由n个节点组成的不规则多边形，保证多边形内任意一点都可以经由多边形内部的相邻点互相到达，多边形边上的点可以经由多边形边上相邻的点互相到达，多边形边上任意相邻的顶点p1(x1,y1)和p2(x2,y2)均保证:x1==x2 或者 y1==y2。现在小E非常想吃那块蛋糕，但牛大爷只允许小E获得以s(xs,ys)和t(xt,yt)为对角点的矩形内的蛋糕，由于小E是小口吃类型，所以他想知道，在牛大爷划分区域内，他最多可以吃多少口（小E一口最小可以吃1个单位面积的蛋糕）。如下图：
 
- ![image](/source/lutece/xiao-exiao-kou-chi/img/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2VtZW5nZGVhdGgvbWFya2Rvd25waG90by9tYXN0ZXIvMTIzLnBuZw==.png)
+ ![image](https://raw.githubusercontent.com/emengdeath/markdownphoto/master/123.png)
 
 黑色区域代表蛋糕，红色代表可吃区域，则小E最多可以吃10口。
 
