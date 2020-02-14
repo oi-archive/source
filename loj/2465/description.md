@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2014 Stage 2. Day 1「[Criminals](https://szkopul.edu.pl/problemset/problem/APWi6y6XTt5ujve8ynI_FNJ1/site/?key=statement)」**
+
 两个罪犯 Bitie 和 Bytie 抢劫 $n$ 个房子，每个房子有一个颜色，Bitie从低编号到高编号，Bytie从高编号到低编号，直到相遇为止。已知罪犯开始时所在房子颜色相同（但不知道是什么颜色），并且知道罪犯依次抢劫的所有房子的颜色，且每个罪犯对每种颜色的房子分别最多抢劫一次，求所有可能的相遇点。
 
 # 输入格式
@@ -46,5 +48,5 @@
 
 # 数据范围与提示
 
- 对于 $100\%$ 的数据， $3 \le n \le 1000000,1 \le k \le n,k \le n$ 。
+对于 $100\%$ 的数据， $3 \le n \le 1000000,1 \le k \le n,k \le n$ 。
 
