@@ -31,11 +31,11 @@ $12$ 个零件按珠子数分 $3$ 大类：
 
 符号为 **`I`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEwLnBuZw==.png)
 
-符号为 **`J`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzExLnBuZw==.png)
+符号为 **`J`**，形状为![](https://www.wjyyy.top/wp-content/uploads/2019/06/11.png)
 
 符号为 **`K`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEyLnBuZw==.png)
 
-符号为 **`L`**，形状为![](https://www.wjyyy.top/wp-content/uploads/2019/06/13.png)
+符号为 **`L`**，形状为![](/source/guoj/1243/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzEzLnBuZw==.png)
 
 ![](/source/guoj/1243/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzE0LnBuZw==.png)
 
