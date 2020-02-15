@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**原题来自：Asia 2000，题面可参考 [ZOJ 1420](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1420)。**
+**原题来自：Asia 2000，题面可参考 [ZOJ 1420](https://zoj.pintia.cn/problem-sets/91827364500/problems/91827364919)。**
 
 Tehran 的一家每天 $24$ 小时营业的超市，需要一批出纳员来满足它的需要。超市经理雇佣你来帮他解决问题——超市在每天的不同时段需要不同数目的出纳员（例如，午夜时只需要一小批，而下午则需要很多）为顾客提供优质服务。他希望雇佣最少数目的出纳员。
 

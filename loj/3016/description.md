@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2014/2015 Contest #4](http://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf) T5「SABOR」**
+**译自 [COCI 2014/2015 Contest #4](https://www.hsin.hr/coci/archive/2014_2015/) T5「[SABOR](https://www.hsin.hr/coci/archive/2014_2015/contest4_tasks.pdf)」**
 
 在一片遥远的土地上，有 $N$ 个国会议员。他们举行了一场混乱且热情高涨的辩论，内容是全民票决修改法律。  
 从周一到周五，每天议员们都高兴地来上班并且打一整天的嘴炮。

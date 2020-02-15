@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 1.「[Guilds](https://szkopul.edu.pl/problemset/problem/oTsXNiT3SD45VgVS2zqQWj7F/site/?key=statement)」**
+
 给定一个 $n$ 个城市 $m$ 条道路的某国地图，某国有两个工会。要求每个城市要么：
 
  - 有某个工会的办事处。  
