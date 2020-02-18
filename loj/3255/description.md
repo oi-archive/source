@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI 2020 Final](https://cms.ioi-jp.org/) T4「[オリンピックバス](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t4.pdf) / [Olympic Bus](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t4-en.pdf)」**
+**译自 [JOI 2020 Final](https://www.ioi-jp.org/joi/2019/2020-ho/index.html) T4「[オリンピックバス](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t4.pdf) / [Olympic Bus](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t4-en.pdf)」**
 
 JOI 王国共有 $N$ 个城市，这些城市从 $1$ 到 $N$ 编号。共有 $M$ 条公交线路连接这些城市，这些线路从 $1$ 到 $M$ 编号。第 $i\ (1\le i\le M)$ 条公交线是从城市 $U_i$ 到城市 $V_i$ 的，票价为 $C_i$ 日元。如果乘客乘坐第 $i$ 条公交线，他只能在城市 $U_i$ 上车，在城市 $V_i$ 下车。从一个城市到另一个城市可能有多条公交线。
 

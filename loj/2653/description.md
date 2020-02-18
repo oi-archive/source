@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2007 Stage 2. Day 0「[Ridges and Valleys](https://szkopul.edu.pl/problemset/problem/rd6H05Dm8ME79sO3U9_f_ga_/site/?key=statement)」**
+
 给定一个 $n \times n$ 的网格状地图，每个方格 $(i,j)$ 有一个高度 $w_{ij}$。如果两个方格有公共顶点，则它们是相邻的。
 
 定义山峰和山谷如下：
