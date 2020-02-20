@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2012 Stage 3. Day 2「[Warehouse Store](https://szkopul.edu.pl/problemset/problem/70gcrAV-ccXlJa6gMBpOqV1u/site/?key=statement)」**
+
 给定两个长为 $n$ 的序列，分别为 $a_1,a_2,\ldots,a_n$ 和 $b_1,b_2,\ldots,b_n$。一个商店第 $i$ 天上午进货 $a_i$ 个商品，下午会有一个客人购买 $b_i$ 个商品。如果存货足够，则可以选择是否给客人提供商品，但如果存货不足就无法提供商品。
 
 求能满足的客人数量最大值。
