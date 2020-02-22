@@ -34,11 +34,11 @@ TAK
 1 2 1 3
 ```
 
-### 样例解释 1
+#### 样例解释 1
 
 ![](/source/loj/3236/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMi8zMC81ZTA4ZWEyZWM1NWIzLnBuZw==.png)
 
-### 样例输入 2
+#### 样例输入 2
 
 ```plain
 2 3 1

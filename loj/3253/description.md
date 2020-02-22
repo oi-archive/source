@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI 2020 Final](https://cms.ioi-jp.org/) T2「[JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2.pdf) / [JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2-en.pdf)」**
+**译自 [JOI 2020 Final](https://www.ioi-jp.org/joi/2019/2020-ho/index.html) T2「[JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2.pdf) / [JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2-en.pdf)」**
 
 比太郎收到了一个长度为 $N$ 的字符串 $S$ 作为他的生日礼物，且这个字符串仅由 $\texttt J,\texttt O,\texttt I$ 组成。
 
