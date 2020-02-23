@@ -1,7 +1,9 @@
 
 # 题目描述
 
-_本题是来自 POI2010 第三阶段的[单调性](https://loj.ac/problem/2454)一题的加强版，但并没有在那次比赛中被使用。_
+_本题是来自 POI 2010 第三阶段的[单调性](https://loj.ac/problem/2454)一题的加强版，但并没有在那次比赛中被使用。_
+
+**译自 POI 2010 「[Monotonicity 2](https://szkopul.edu.pl/problemset/problem/0_pcwjQ6no8LDss0IWNLbb2_/site/?key=statement)」**
 
 对于一个整数序列 $a_1, a_2, ..., a_n$，我们定义其“单调序列"为一个由 $<$，$>$ 和 $=$ 组成的符号序列 $s_1, s_2, ... s_{n-1}$，其中符号 $s_i$ 表示 $a_i$ 和 $a_{i+1}$ 之间的关系。例如，数列 $2, 4, 3, 3, 5, 3$ 的单调序列为 $<, >, =, <, >$。
 

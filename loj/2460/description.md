@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 3. Day 2「[Bridges](https://szkopul.edu.pl/problemset/problem/gh2Yj6Ckrt4Lo_RojONuljuC/site/?key=statement)」**
+
 给定一个 $n$ 个点的无向图，每条边的两个方向各有一个权值，求一条从 1 号点出发，恰经过所有边一次并回到 1 号点的路线，使得权值的最大值最小。
 
 # 输入格式

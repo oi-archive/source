@@ -13,7 +13,7 @@
 
 下面给出一个实例。假设模板树如下图：
 
-<img src="/source/loj/2050/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIyZDU3OWZkYjkucG5n.png">
+<img src="https://ooo.0o0.ooo/2017/04/28/59022d579fdb9.png">
 
 根据第 (1) 步，初始的大树与模板树是相同的。在 (2.1) 步，假设选择了 $a=4$，$b=3$。运行 (2.2) 和 (2.3) 后，得到新的大树如下图所示
 
