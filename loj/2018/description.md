@@ -13,7 +13,7 @@ H 国是一个热爱写代码的国家，那里的人们很小去学校学习写
 作。
 5. 单旋删除最大值：先执行 3 号操作,然后把根删除。 操作代价同 3 号操作。
 
-![](/source/loj/2018/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzE3LzU4ZjRkZWYwM2FkYWMucG5n.png)
+![](https://ooo.0o0.ooo/2017/04/17/58f4def03adac.png)
 
 对于不是 H 国的人，你可能需要了解一些 spaly 的知识，才能完成国王的任务：
 

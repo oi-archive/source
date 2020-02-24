@@ -3,11 +3,11 @@
 
 一个边长为 $n$ 的正三角形可以被划分成若干个小的边长为 $1$ 的正三角形，称为单位三角形。如下图，边长为 $3$ 的正三角形被分成三层共九个小的正三角形，我们把它们从顶到底，从左到右以 $1 \sim 9$ 编号(见右图)。同理，边长为 $n$ 的正三角形可以划分成 $n^2$ 个单位三角形。
 
-![图1](/source/loj/2301/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIwLzU5NDkxNjg1ZTljZTIucG5n.png)
+![图1](https://ooo.0o0.ooo/2017/06/20/59491685e9ce2.png)
  
 四个这样的边长为 $n$ 的正三角形可以组成一个三棱锥。我们将正三棱锥的三个侧面依顺时针次序（从顶向底视角）编号为 $A, B, C$，底面编号为 $D$。侧面的 $A, B, C$ 号三角形以三棱锥的顶点为顶，底面的 $D$ 号三角形以它与 $A, B$ 三角形的交点为顶。下图为三棱锥展开后的平面图，每个面上标有圆点的是该面的顶，该图中侧面 $A,B,C$ 分别向纸内方向折叠即可还原成三棱锥。我们把这 $A$、$B$、$C$、$D$ 四个面各自划分成 $n^2$ 个单位三角形。
 
-![图2](/source/loj/2301/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIwLzU5NDkxNjg2MDQ2YmEucG5n.png)
+![图2](https://ooo.0o0.ooo/2017/06/20/59491686046ba.png)
 
 对于任意两个单位三角形，如有一条边相邻，则称它们为相邻的单位三角形，显然，每个单位三角形有三个相邻的单位三角形。现在，把 $1 \sim 4n^2$ 分别随机填入四个面总共 $4n^2$ 个单位三角形中。
 
@@ -72,10 +72,10 @@
 
 #### 样例图像
 
-![图像](/source/loj/2301/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIwLzU5NDkxNjg2MGEyYzkucG5n.png)
+![图像](https://ooo.0o0.ooo/2017/06/20/594916860a2c9.png)
 
 #### 答案二叉树
-![图像](/source/loj/2301/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIwLzU5NDkxNjg2MGEzYWYucG5n.png)
+![图像](https://ooo.0o0.ooo/2017/06/20/594916860a3af.png)
 
 # 数据范围与提示
 

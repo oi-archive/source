@@ -60,7 +60,7 @@
 ```
 
 #### 样例解释 1
-![sample1.png](/source/loj/508/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA3LzA2LzU5NWU0MTkwOGVmMDgucG5n.png)
+![sample1.png](https://ooo.0o0.ooo/2017/07/06/595e41908ef08.png)
 
 #### 更多样例
 见附加文件或[备用网盘链接](https://pan.baidu.com/s/1hswytLi)（提取码：`a795`）
