@@ -66,7 +66,7 @@
 #### 样例解释
 输入文件给出的 $ 9 $ 个点和 $ 14 $ 条边描述的平面图如下所示：
 
-<img src="/source/loj/2052/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIzNDYwMjI3ZDQucG5n.png">
+<img src="https://ooo.0o0.ooo/2017/04/28/59023460227d4.png">
 
 第一个开采计划，输入的第一个值为 $ 3 $，所以该开采计划对应的多边形有 $ (3+0)\bmod 8 \mathrel{+} 1 = 4 $ 个点，将接下的四个数 $3, 0, 4, 7$，分别代入 $ (z_i+0)\bmod n \mathrel{+} 1$ 得到四个点的编号为 $4, 1, 5, 8$。计算出第一个开采计划的分子为 $ 1 $，分母为 $ 1 $。
 

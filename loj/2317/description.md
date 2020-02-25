@@ -55,7 +55,7 @@ Yes
 
 #### 样例说明
 
-![](/source/loj/2317/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yMzE3L3Rlc3RkYXRhL2Rvd25sb2FkL3RtcC5wbmc=.png)
+![](/problem/2317/testdata/download/tmp.png)
 
 # 数据范围与提示
 

@@ -56,7 +56,7 @@
 #### 样例解释 1
 在这组样例中，球场、球员、球处于如图所示的状态。图中，黑框空心圆圈表示球员，实心圆表示球，你在 $(6,5)$。
 
-<img src="/source/loj/2335/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE3LzEyLzEwL0pPSTIwMTdUNC0xLnBuZw==.png" width = "25%" height = "25%" alt="初始状态" align=center />
+<img src="http://www.z4a.net/images/2017/12/10/JOI2017T4-1.png" width = "25%" height = "25%" alt="初始状态" align=center />
 
 最优解如下：
 1. 球员 $1$ 把球向东踢出 $3$ 米。疲劳度上升了 $1\times 3+3=6$，球移动到 $(1,4)$。
@@ -67,7 +67,7 @@
 
 此时，疲劳度之和为 $6+6+6+8=26$。没有更好的方案。
 
-<img src="/source/loj/2335/img/aHR0cDovL3d3dy56NGEubmV0L2ltYWdlcy8yMDE3LzEyLzEwL0pPSTIwMTdUNC0yLnBuZw==.png"  alt="最优解" align=center />
+<img src="http://www.z4a.net/images/2017/12/10/JOI2017T4-2.png"  alt="最优解" align=center />
 
 #### 样例输入 2
 ```plain

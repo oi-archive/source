@@ -7,11 +7,11 @@
 
 以下是跳跃高度为 $2$ 时，一次跳跃的示意图。
 
-<img src="/source/loj/2233/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkyMzM1NjcxMjMuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/05/03/5909233567123.jpg">
 
 以下是连跳数为 $2$ 连跳，跳跃高度为 $2$ 的跳跃方案：
 
-<img src="/source/loj/2233/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkyMzM1ODg0M2EuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/05/03/590923358843a.jpg">
 
 # 输入格式
 
