@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI 2020 Final](https://cms.ioi-jp.org/) T1「[長いだけのネクタイ](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t1.pdf) / [Just Long Neckties](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t1-en.pdf)」**
+**译自 [JOI 2020 Final](https://www.ioi-jp.org/joi/2019/2020-ho/index.html) T1「[長いだけのネクタイ](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t1.pdf) / [Just Long Neckties](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t1-en.pdf)」**
 
 你知道 Just Odd Inventions 公司吗？这个公司的业务是「只不过是奇妙的发明 / Just Odd Inventions」。这里简称为 JOI 公司。
 
