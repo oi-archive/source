@@ -39,7 +39,7 @@ JOI 村有一片荒地，上面竖着 $N$ 个稻草人。任意两个稻草人�
 #### 样例说明 1
 所有满足要求的田地如下图所示：
 
-<img src="http://z4a.net/images/2018/10/17/Snipaste_2018-10-17_20-10-29.png" width="80%"/>
+<img src="/source/loj/2880/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMC0xMC0yOS5wbmc=.png" width="80%"/>
 
 #### 样例输入 2
 ```plain
@@ -64,7 +64,7 @@ JOI 村有一片荒地，上面竖着 $N$ 个稻草人。任意两个稻草人�
 #### 样例说明 2
 样例如图所示：
 
-<img src="http://z4a.net/images/2018/10/17/Snipaste_2018-10-17_20-13-49.png" width="70%"/>
+<img src="/source/loj/2880/img/aHR0cDovL3o0YS5uZXQvaW1hZ2VzLzIwMTgvMTAvMTcvU25pcGFzdGVfMjAxOC0xMC0xN18yMC0xMy00OS5wbmc=.png" width="70%"/>
 
 
 # 数据范围与提示

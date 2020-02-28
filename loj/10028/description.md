@@ -5,7 +5,7 @@
 
 编写一个程序，计算一个骑士从棋盘上的一个格子到另一个格子所需的最小步数。骑士一步可以移动到的位置由下图给出。
 
-![Picture 1](http://miao.su/images/2018/07/04/aaaca493.png)
+![Picture 1](/source/loj/10028/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDcvMDQvYWFhY2E0OTMucG5n.png)
 
 
 

@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**译自 POI 2010 Stage 1.「[Kolej](https://szkopul.edu.pl/problemset/problem/TJVrS_hRC8W5Q6ZBW6mETAIm/site/?key=statement)」**
+
 一个铁路包含两个侧线 $1$ 和 $2$ ，左边由 $A$ 进入，右边由 $B$ 出去（如下图所示）。  
 
 ![捕获.JPG](/source/loj/2448/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTgvNWE4OTlmOWUzYTAzZS5qcGc=.jpg)
@@ -47,7 +49,7 @@ NIE
 
 # 数据范围与提示
 
-对于$100\%$的数据，有$n \le 1 \times 10^5$。
+对于 $100\%$ 的数据，有 $n \le 1 \times 10^5$。
 
 Translated by Diamond_duke
 
