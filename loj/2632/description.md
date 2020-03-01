@@ -4,7 +4,7 @@
 **译自 BalticOI 2011 Day1 T3「Switch the Lamp On」**  
 有一种正方形的电路元件，在它的两组相对顶点中，有一组会用导线连接起来，另一组则不会。  
 有 $N\times M$ 个这样的元件，你想将其排列成 $N$ 行 $M$ 列放在电路板上。电路板的左上角连接电源，右下角连接灯泡。  
-![](/source/loj/2632/img/aHR0cDovL3J1YW54LnB3L2J6b2pjaC9maWxlLzIzNDZfMC5qcGc=.jpg)  
+![](http://ruanx.pw/bzojch/file/2346_0.jpg)  
 试求：至少要旋转多少个正方形元件才能让电源与灯泡连通，若无解则输出 $\texttt{NO SOLUTION}$。
 
 Casper is designing an electronic circuit on a $N ×M$ rectangular grid plate. There are $N ×M$ square tiles that are aligned to the grid on the plate. Two (out of four) opposite corners of each tile are connected by a wire.  
