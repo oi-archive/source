@@ -42,7 +42,7 @@
 
 #### 样例说明
 
-![若图片失效请下载附加文件](/problem/2597/testdata/download/pic1.png)
+![若图片失效请下载附加文件](/source/loj/2597/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTk3L3Rlc3RkYXRhL2Rvd25sb2FkL3BpYzEucG5n.png)
 
 $2$ 人要住同样色调的客栈，所有可选的住宿方案包括：住客栈①③，②④，②⑤，④⑤。
 

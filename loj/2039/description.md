@@ -48,7 +48,7 @@
 #### 样例解释
 如图所示，激光依次被 $1$ 号和 $2$ 号偏转装置偏转。
 
-![laser_sample_1.png](https://ooo.0o0.ooo/2017/04/20/58f898a4088f0.png)
+![laser_sample_1.png](/source/loj/2039/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5OGE0MDg4ZjAucG5n.png)
 
 # 数据范围与提示
 
