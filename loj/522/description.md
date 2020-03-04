@@ -84,7 +84,7 @@ Rlc 设计了一个衡量监测器安装方案的安全程度的方法：
 以 $5$ 结尾的最优监测器安装序列：$3,4,5$  
 以 $6$ 结尾的最优监测器安装序列：$3,6$  
 
-![](/source/loj/522/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA2LzIyLzU5NGIxY2U4NGFkMDQucG5n.png)
+![](https://ooo.0o0.ooo/2017/06/22/594b1ce84ad04.png)
 
 # 数据范围与提示
 

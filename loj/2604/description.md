@@ -54,7 +54,7 @@
 
 #### 样例 1 解释
 
-![](/source/loj/2604/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjA0L3Rlc3RkYXRhL2Rvd25sb2FkL2RyaXZlLnBuZw==.png)
+![](/problem/2604/testdata/download/drive.png)
 
 各个城市的海拔高度以及两个城市间的距离如上图所示。
 
