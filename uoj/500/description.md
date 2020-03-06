@@ -1,6 +1,5 @@
 # 题目描述
 
-<p><strong>备注:本题为原定的 Goodbye Jihai D,由于撞题被临时替换。</strong></p>
 <p>给定 $n$ 次多项式</p>
 <p>\begin{equation}
 f(x) = \sum_{i=0}^{n} a_ix^i
