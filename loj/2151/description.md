@@ -5,7 +5,7 @@
 
 给定一个初始的棋盘，怎样才能经过移动变成如下目标棋盘：
 
-<img src="/source/loj/2151/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzI4LzU5MDIzOGY2ZDUxNjYuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/04/28/590238f6d5166.jpg">
 
 为了体现出骑士精神，他们必须以最少的步数完成任务。
 

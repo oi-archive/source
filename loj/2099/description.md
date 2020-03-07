@@ -3,7 +3,7 @@
 
 一家缩写为 LLL 的公司正在设计 logo，他们的初步方案是在一张方格上放置三个 L 形的图案以及一些额外的装饰性图形。例如：
 
-![](/source/loj/2099/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzMwLzU5MDUzMjUwYmE3NjYucG5n.png)
+![](https://ooo.0o0.ooo/2017/04/30/59053250ba766.png)
 
 （灰色区域表示装饰性图形）
 
