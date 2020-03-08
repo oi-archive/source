@@ -3,17 +3,17 @@
 
 在一个二维平面上，有一个镜面通道，由镜面 $AC$，$BD$ 组成，$AC$，$BD$ 长度相等，且都平行于 $x$ 轴，$B$ 位于 $(0,0)$。通道中有 $n$ 个外表面为镜面的光学元件，光学元件 $\alpha$ 为圆形，光学元件 $\beta$ 为矩形（这些元件可以与其他元件和通道有交集，具体看下图）。光线可以在 $AB$ 上任一点以任意角度射入通道，光线不会发生削弱。当出现元件与元件，元件和通道刚好接触的情况视为光线无法透过（比如两圆相切）。
 
-<img src="/source/loj/2235/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkyNTJlM2FjM2IuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/05/03/5909252e3ac3b.jpg">
 
 如上图，S到T便是一条合法线路。
 
 当然，显然存在光线无法透过的情况，下面举例说明：
 
-<img src="/source/loj/2235/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkyNTJlM2ViZTYuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/05/03/5909252e3ebe6.jpg">
 
 现在假设，取走中间那个矩形，那么就可以构造出一条穿过通道的光路，如图中的S到T。
 
-<img src="/source/loj/2235/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAzLzU5MDkyNTJlNGIwZjkuanBn.jpg">
+<img src="https://ooo.0o0.ooo/2017/05/03/5909252e4b0f9.jpg">
 
 现在给出通道中所有元件的信息（$\alpha$ 元件包括圆心坐标和半径 $(x_i,y_i),r_i$，$\beta$ 元件包括左下角和右上角坐标 $(x_1,y_1),(x_2,y_2)$），并交给你一个艰巨的任务：请求出至少拿走多少个光学元件后，存在一条光线线路可以从CD射出。
 

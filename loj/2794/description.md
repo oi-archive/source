@@ -50,7 +50,7 @@
 #### 样例解释
 飞机的航路示意图如下图所示。
 
-![CCO2015D1T3Pic1](http://miao.su/images/2018/08/15/aaa7e400.png)
+![CCO2015D1T3Pic1](/source/loj/2794/img/aHR0cDovL21pYW8uc3UvaW1hZ2VzLzIwMTgvMDgvMTUvYWFhN2U0MDAucG5n.png)
 
 询问 $1$ 是对于 $2$ 号飞机在 $[1,5]$ 范围内所提出的询问，当飞机在 $x\le 4$ 时可能会被飞机 $3$ 挡住，但是绝不是飞机 $1$。然而，但是当它的 $x>4$ 时可能会被其他所有飞机挡住，因此，该询问的答案即其他所有飞机的影响因素值之和，为 $5+6=11$。
 
