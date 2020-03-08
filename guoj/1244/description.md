@@ -88,7 +88,7 @@
 #### 样例 2 输出
 森林如下图所示：
 
-![](/source/guoj/1244/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDQvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTMyMS5wbmc=.png)
+![](/source/guoj/1244/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTMyMS5wbmc=.png)
 
 # 数据范围与提示
 
