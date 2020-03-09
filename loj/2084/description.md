@@ -11,9 +11,9 @@
 
 现在，蛐蛐国王希望，将某些（零个，一个或多个）跳蚤替换成蛐蛐，使得在此之后存在至少两只跳蚤不连通。
 
-例如：我们用图<img src="https://ooo.0o0.ooo/2017/05/01/59062816cb365.png">表示一只跳蚤，用图<img src="https://ooo.0o0.ooo/2017/05/01/59062816cedc7.png">表示一只蛐蛐，那么左图描述了一个 $n=4,$ $m=4,$ $c=2$ 的情况。
+例如：我们用图<img src="/source/loj/2084/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAxLzU5MDYyODE2Y2IzNjUucG5n.png">表示一只跳蚤，用图<img src="/source/loj/2084/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAxLzU5MDYyODE2Y2VkYzcucG5n.png">表示一只蛐蛐，那么左图描述了一个 $n=4,$ $m=4,$ $c=2$ 的情况。
 
-<img src="https://ooo.0o0.ooo/2017/05/01/590628173badc.png"><img src="https://ooo.0o0.ooo/2017/05/01/59062816e9441.png">
+<img src="/source/loj/2084/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAxLzU5MDYyODE3M2JhZGMucG5n.png"><img src="/source/loj/2084/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA1LzAxLzU5MDYyODE2ZTk0NDEucG5n.png">
 
 这种情况下蛐蛐国王可以通过将第二行第二列，和第三行第三列的两只跳蚤替换为蛐蛐，从而达成他的希望，如右图所示。并且，不存在更优的方案，但是可能存在其他替换两只跳蚤的方案。
 
