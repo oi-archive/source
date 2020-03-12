@@ -50,7 +50,7 @@ $$ (1 \times k_1)\ \text{xor}\ (2 \times k_2)\ \text{xor}\ (3 \times k_3)\ \text
 ```
 #### 样例解释 1
 树的形态如下图：
-![tree](/source/guoj/1335/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTkvc1BUbnllS054U3VtWll0LnBuZw==.png)
+![tree](/source/guoj/1335/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEzMzUvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTkvc1BUbnllS054U3VtWll0LnBuZw==.png)
 
 将根到 1 号结点的简单路径上的括号，按经过顺序排列所组成的字符串为 `(`，子串是合法括号串的个数为 $0$。
 

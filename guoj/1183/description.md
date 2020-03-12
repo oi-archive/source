@@ -43,7 +43,7 @@ S 城现有两座监狱，一共关押着 $N$ 名罪犯，编号分别为 $1$~$N
 
 罪犯之间的怨气值如下面左图所示，右图所示为罪犯的分配方法，市长看到的冲突事件影响力是 $3512$ （由 $2$ 号和 $3$ 号罪犯引发）。其他任何分法都不会比这个分法更优。 
 
-![298.png.jpg](/source/guoj/1183/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiMDkxNmFjOC5qcGc=.jpg)
+![298.png.jpg](/source/guoj/1183/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzExODMvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMjIvNWIwM2RiMDkxNmFjOC5qcGc=.jpg)
 
 # 数据范围与提示
 

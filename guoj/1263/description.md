@@ -7,7 +7,7 @@
 
 我们不妨把天空想象为一个平面直角坐标系，而云朵则抽象为线段(线段可能退化为点)：
 
-![](/source/guoj/1263/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDM0ZjFkMDM1ZDk4NDg5LnBuZw==.png)
+![](/source/guoj/1263/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNjMvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDM0ZjFkMDM1ZDk4NDg5LnBuZw==.png)
 
 如上图，不妨设天空的左界为 $0$，右界为 $len$。图中共有 $5$ 片云朵，其中标号为 $1$ 的云朵恰好改变方向向右运动，标号为 $2$ 的云朵恰好改变方向向左运动。
 
