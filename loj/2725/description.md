@@ -6,7 +6,7 @@
 JOI 君和 IOI 酱是双胞胎兄妹。 JOI 君最近闲暇时常常会做甜点。今天 JOI 君也烤了蛋糕吃，IOI 酱立马嗅到了蛋糕的香气于是跑来想分着吃。  
 蛋糕是圆形的，从蛋糕中某点开始将蛋糕放射状切为 $ N $ 块，按逆时针顺序编号为 $ 1 $ 到 $ N $ 。切了之后的第 $ i $ 块蛋糕的大小为 $ A_i $ 。由于切蛋糕的人刀功很不好，所以 $ A_i $ 互不相同。
 
-<img src="https://www.z4a.net/images/2018/08/04/5c83a03e0789dafd806d5f7e488b001d.png" width="40%">
+<img src="/source/loj/2725/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNC81YzgzYTAzZTA3ODlkYWZkODA2ZDVmN2U0ODhiMDAxZC5wbmc=.png" width="40%">
 
 JOI 君和 IOI 酱按照以下的方法分这 $N$ 块蛋糕：
 1. 首先 JOI 君从这 $ N $ 块蛋糕中任选一块取走；
