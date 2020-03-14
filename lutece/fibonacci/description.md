@@ -3,7 +3,7 @@
 
 In the Fibonacci integer sequence, $F\_0 = 0, F\_1 = 1,$ and $F\_n = F\_{n-1} + F\_{n-2}$ for $n \geq 2$. For example, the first ten terms of the Fibonacci sequence are:
 
-$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, \cdots $
+$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, \cdots$
 
 An alternative formula for the Fibonacci sequence is
 
