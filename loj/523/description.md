@@ -97,7 +97,7 @@ end for
 #### 样例解释 1
 样例中描述的二分图如下：
 
-![1.png](https://ooo.0o0.ooo/2017/07/25/597746087b0f8.png)
+![1.png](/source/loj/523/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA3LzI1LzU5Nzc0NjA4N2IwZjgucG5n.png)
 
 #### 样例输入 2
 ```plain
