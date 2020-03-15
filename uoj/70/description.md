@@ -2,7 +2,7 @@
 
 <p>甲午年即将过去，新的一年即将到来。此时此刻，不由得让人想起一些童年的回忆，比如说魔塔。</p>
 <p>魔塔是一种固定数值RPG游戏。下面是一张游戏截图：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/70/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS83MC9tdC1nYW1lLnBuZw==.png" alt="魔塔"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/70/mt-game.png" alt="魔塔"/></p>
 <p>这个游戏在一个 $n \times m$ 的棋盘上进行。行编号为 $1, \dots, n$，列编号为 $1, \dots, m$。</p>
 <p>为了简单起见，我们假设这个魔塔只有一层。</p>
 <p>我们用 $(x, y)$ 来表示第 $x$ 行第 $y$ 列的格子，</p>
@@ -152,7 +152,7 @@
 <p><code>./checker_linux64 3</code></p>
 <p>将测试tower3.out是否可以接受。（windows用户请使用<code>checker_win32 3</code>）（什么你是windows 64位？放心吧可以运行win32应用程序的。）</p>
 <p>当然我们有对应的linux 32位版本：<code>checker_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x checker_linux64</code>或<code>chmod +x checker_linux32</code>后重试。</p>
-<p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
+<p>其它操作系统请安装 <a href="//nodejs.org/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
 <h4>windows小白特别篇</h4>
 <p>首先你要下载数据和checker并解压，放在某个文件夹下。比如 D:\wahaha\tower。</p>

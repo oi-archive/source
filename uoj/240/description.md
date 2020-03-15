@@ -32,7 +32,7 @@
 <p>能够拍摄到所有 $5$ 个兴趣点的一种方法是拍这样两张照片：一张照片是选取大小为 $6 \times 6$ 的正方形并包含小方格 $(0, 0)$ 和 $(5, 5)$，另一张照片是选取大小为 $3 \times 3$ 的正方形并包含小方格 $(4, 4)$ 和 $(6, 6)$。如果我们拍摄这两张照片的话，卫星将传送 $41$ 个小方格的数据，这个不是最优解。</p>
 <p>在最优解中，一张照片拍摄一个大小为 $4\times 4$ 的正方形并包含小方格 $(0, 0)$ 和 $(3, 3)$，另一张照片则拍摄一个大小为 $3 \times 3$ 的正方形并包含小方格 $(4, 4)$ 和 $(6, 6)$。这样被拍摄到的小方格只有 $25$ 个，它是最优的，因此 <code>take_photos</code> 应该返回 $25$。</p>
 <p>注意：尽管小方格 $(4, 6)$ 上包含 $2$ 个兴趣点，但该小方格进需要被拍摄一次就足够。样例一的拍摄方法如下图所示。左边的图表示这个样例中对应的方格，中间的图表示一个次优解，它总共拍摄了 $41$ 个小方格。而右边的图则表示最优解。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMi5wbmc=.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/240/2.png" alt=""/></p>
 
 # 样例二
 
@@ -40,7 +40,7 @@
 <p><code>take_photos(2, 6, 2, [1, 4], [4, 1])</code></p>
 <p>在这个样例中有 $2$ 个对称的兴趣点：分别位于小方格 $(1, 4)$ 和小方格 $(4, 1)$。任何一张包含其中一个兴趣点的正确照片也必然包含另一个兴趣点，因此，拍摄一张照片便已经足够。</p>
 <p>下图表示了样例二和它的最优解，在这个解中卫星只拍摄了一张包含 $16$ 个小方格的照片。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/240/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDAvMS5wbmc=.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/240/1.png" alt=""/></p>
 
 # 子任务
 

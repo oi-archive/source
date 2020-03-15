@@ -59,9 +59,9 @@
 <ul><li>绿色代表静止的多边形能量最低时的形态，</li>
 <li>灰色代表原始多边形，</li>
 <li>蓝色为水面</li>
-</ul><p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMC5wbmc=.png" alt="fig0"/></p>
-<p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMS5wbmc=.png" alt="fig1"/></p>
-<p><img src="/source/uoj/159/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTkvZmlnMi5wbmc=.png" alt="fig2"/></p>
+</ul><p><img src="//img.uoj.ac/problem/159/fig0.png" alt="fig0"/></p>
+<p><img src="//img.uoj.ac/problem/159/fig1.png" alt="fig1"/></p>
+<p><img src="//img.uoj.ac/problem/159/fig2.png" alt="fig2"/></p>
 
 # 限制与约定
 

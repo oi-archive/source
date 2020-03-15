@@ -64,7 +64,7 @@
 
 <p>$1 \leq T \leq 18$</p>
 <p>你的得分是每个测试数据中得分最小的那个。</p>
-<p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
+<p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
 

@@ -38,11 +38,11 @@
 <p>从 $1$ 到 $4$ 的三种最小割如下图所示：</p>
 <div class="row">
 <div class="col-sm-4">
-<img class="img-responsive center-block" src="/source/uoj/85/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS84NS8xLnBuZw==.png" alt="1"/></div>
+<img class="img-responsive center-block" src="//img.uoj.ac/problem/85/1.png" alt="1"/></div>
 <div class="col-sm-4">
-<img class="img-responsive center-block" src="/source/uoj/85/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS84NS8yLnBuZw==.png" alt="2"/></div>
+<img class="img-responsive center-block" src="//img.uoj.ac/problem/85/2.png" alt="2"/></div>
 <div class="col-sm-4">
-<img class="img-responsive center-block" src="/source/uoj/85/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS84NS8zLnBuZw==.png" alt="3"/></div>
+<img class="img-responsive center-block" src="//img.uoj.ac/problem/85/3.png" alt="3"/></div>
 </div>
 
 

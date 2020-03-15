@@ -16,7 +16,7 @@
 s(x) = \frac{1}{1 + e^{-x}}
 \end{equation}
 $s(x)$ 的函数图像如下图所示：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/224/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjQvdy5wbmc=.png" alt="sigmoid"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/224/w.png" alt="sigmoid"/></p>
 <p>上述表格中的操作数 $i, j$ 均要小于当前节点的编号 $t$，这样随着跳蚤国王的一声令下，跳蚤就可以按编号从小到大的顺序，依次获得输入然后计算输出。每个跳蚤的计算能力都是有限的，他们仅可以精确到十进制小数点后 $90$ 位，超过的部分将会被四舍五入。同理，上述表格中的操作数 $c$ 的小数部分也不能超过 $90$ 位。另外，左移节点和右移节点中的操作数 $k$ 必须是非负整数，且不能超过 $10000$。</p>
 <p>把跳蚤排列好后，野心勃勃的跳蚤国王决心测试一下这台由跳蚤组成的计算机的计算能力，于是蝈蝈大臣给跳蚤国王献上了 $10$ 个计算任务。完成每个计算任务均需要从终端获取输入，进行中间计算，再用输出节点将结果输出。具体任务说明如下:</p>
 <div class="table-responsive">
@@ -103,7 +103,7 @@ O 9
 <p><code>./checker_linux64 3</code></p>
 <p>将测试 nodes3.out 是否可以接受。（windows用户请使用<code>checker_win32 3</code>）（什么你是windows 64位？放心吧可以运行win32应用程序的。）</p>
 <p>当然我们有对应的 linux 32 位版本：<code>checker_linux32</code>。如果 linux 用户发现无法运行程序，请尝试执行 <code>chmod +x checker_linux64</code> 或 <code>chmod +x checker_linux32</code> 后重试。</p>
-<p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
+<p>其它操作系统请安装 <a href="//nodejs.org/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker 将根据你给出的输出文件给出测试的结果。</p>
 <p>另外,你还可以在终端中使用命令</p>
 <p><code>./checker –f &lt;file_name&gt;</code></p>

@@ -8,7 +8,7 @@
 <li>必须是矩形。即游泳场必须是整个网格中的一个 $a \times b$ 的子网格。</li>
 <li>必须和海滩相邻。即游泳场的下边界必须紧贴网格的下边界。</li>
 </ul><p>例如：当 $N=5$ 时，若测量的结果如下（因为 $1001$ 太大，这儿只画出网格最下面三行的信息，其他部分都是危险的）。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/316/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zMTYvMS5wbmc=.png" alt="游泳池" style="width:400px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/316/1.png" alt="游泳池" style="width:400px;"/></p>
 <p>那么她可以选取最下面一行的 $1 \times 4$ 的子海域，也可以选择第三列的 $3 \times 1$ 的子海域。注意她不能选取最上面一行的 $1 \times 5$ 的子海域，因为它没有与海滩相邻。</p>
 <p>为了让朋友们玩的开心，她想让游泳场的面积尽可能的大。因此她会选取最下面那一行的 $1 \times 4$ 的子海域作为最终方案。</p>
 <p>虽然她要明天才能知道每一个单位海域是否安全，但是她现在就想行动起来估计一下她的游泳场面积有多大。经过简单的估计，她假设每一个单位海域都有独立的 $q$ 的概率是安全的，$1-q$ 的概率是不安全的。她想要知道她能选择的最大的游泳场的面积<strong>恰好</strong>为 $K$ 的概率是多少。</p>
