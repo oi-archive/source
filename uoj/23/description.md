@@ -2,7 +2,7 @@
 
 <p>这天，跳蚤国王决定亲自下江南视察当地跳蚤的生活情况。</p>
 <p>江南一共有 $n$ 座城市编号为$1$到 $n$，城市之间有一些道路相连。其道路结构可以抽象为一棵仙人掌。如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/23/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/what-is-cactus.png" alt="什么是仙人掌"/></p>
 <p>现在跳蚤国王在$1$号城市准备出发。为了制定合理的下江南路线，跳蚤国王时不时问他的助手伏特：“从$1$号城市出发经过恰好 $l$ 条道路的简单路径有多少条？”。所谓简单路径即不经过重复的结点的路径。</p>
 <p>这可难倒了伏特，请你对于 $l = 1, 2, \dots, (n-1)$ 求出相应的答案。只用输出答案对 $998244353$（$7 \times 17 \times 2^{23} + 1$，一个质数）取模后的值。</p>
 

@@ -88,5 +88,5 @@
 <p>“5,4,3,2,1，发射！”然而，就在所有人屏息以待，想要见证它超强的破坏力的时候，预想当中的炮击声并没有出现——炮口上弹出了一大簇鲜花！</p>
 <p>这时从旁边的地（窨）道（井）口（盖）下，跳出来了一个 picks 博士，他手上举着一支鲜花并大喊：“愚人节快乐！”</p>
 <p>P.S. 跳蚤国的愚人节是2月28号！（一本正经的胡说八道ing）</p>
-<p><img src="/source/uoj/182/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS8yOWY4ZjVjZDdiODk5ZTUxMTkwMjk1NzQ0NWE3ZDkzM2M5OTUwZGM3LmpwZw==.jpg" alt="嘿嘿嘿"/></p>
+<p><img src="//img.uoj.ac/utility/na.jpg" alt="嘿嘿嘿"/></p>
 <p>从此跳蚤国王和 picks 博士过上了幸（没）福（羞）快（没）乐（臊）的生活（o(*////▽////*)q 好像剧情往奇怪的方向发展了）</p>

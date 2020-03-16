@@ -45,35 +45,12 @@ Yes
 </pre>
 
 <h4>explanation</h4>
-<table width="100%"><tbody><tr><td width="75%">
-<p>第一组数据，由奶酪的剖面图可见：</p>
+<p>下面三个图分别是第一、二、三组数据的剖面图。</p>
+<p>第一组数据中，第一个空洞在 $(0,0,0)$ 与下表面相切，第二个空洞在 $(0,0,4)$ 与上表面相切，两个空洞在 $(0,0,2)$ 相切。输出 <samp>Yes</samp>。</p>
+<p>第二组数据中，两个空洞既不相交也不相切，输出 <samp>No</samp>。</p>
+<p>第三组数据中，两个空洞相交，且与上下表面相切或相交，输出 <samp>Yes</samp>。</p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/332/332.webp" alt="剖面图"/></p>
 
-<p>第一个空洞在 $(0,0,0)$ 与下表面相切</p>
-
-<p>第二个空洞在 $(0,0,4)$ 与上表面相切</p>
-
-<p>两个空洞在 $(0,0,2)$ 相切</p>
-
-<p>输出 <samp>Yes</samp></p>
-
-<p>第二组数据，由奶酪的剖面图可见：</p>
-
-<p>两个空洞既不相交也不相切</p>
-
-<p>输出 <samp>No</samp></p>
-
-<p>第三组数据，由奶酪的剖面图可见：</p>
-
-<p>两个空洞相交</p>
-
-<p>且与上下表面相切或相交</p>
-
-<p>输出 <samp>Yes</samp></p>
-</td>
-<td style="text-align:center;" width="25%">
-<img src="/source/uoj/332/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDgvMjgvR0prb2N1WDRtSGdpVEF6LnBuZw==.png" alt="GJkocuX4mHgiTAz.png"/></td>
-
-</tr></tbody></table>
 # 样例二
 
 
