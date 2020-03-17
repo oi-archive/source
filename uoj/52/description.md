@@ -87,7 +87,7 @@ function get_c(p : longint) : longint;</code></pre>
 </tr><tr><td>2</td><td rowspan="3">$n_c = 0$</td></tr><tr><td>3</td></tr><tr><td>4</td></tr><tr><td>5</td><td rowspan="6">无</td></tr><tr><td>6</td></tr><tr><td>7</td></tr><tr><td>8</td></tr><tr><td>9</td></tr><tr><td>10</td></tr></tbody></table></div>
 
 <p>对于所有测试点，$0 \leq n_a, n_b, n_c \leq 10^5$，$1 \leq a_i, b_i, c_i \leq 10^9$。</p>
-<p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
+<p><a href="//uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
 

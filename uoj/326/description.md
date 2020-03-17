@@ -65,7 +65,7 @@
 
 <h4>explanation</h4>
 <p>如下图所示：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/326/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTEvMTkvNWExMTQ1MjAxMGE1Yi5wbmc=.png" alt="326" align="middle"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/326/326.png" alt="样例解释" width="300"/></p>
 <p>样例输出中 result[0][2]=0 可以改成 1，这是因为 $B_1(1,0)$ 同样在以 $O(0,0),A_0(3,3),A_2(5,-5)$ 为顶点的三角形 $OA_0A_2$ 内部。</p>
 
 # 样例二

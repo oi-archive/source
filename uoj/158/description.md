@@ -5,7 +5,7 @@
 <p>于是又过了几天小W到沙漠里游玩，回来之后跟小V说，我发现好多棵会动的仙人掌耶！小V说，这有什么好稀奇的，我用脚丫子就能维护每棵仙人掌的形态。</p>
 <p>小S看到了这段故事，深受感动。他决定一步步做起，从仙人掌做起，从不会动的仙人掌做起。</p>
 <p>本题中，我们定义：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/158/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/what-is-cactus.png" alt="什么是仙人掌"/></p>
 <p>如果一个无向连通图的任意一条边最多属于一个简单环，且不存在自环，我们就称之为仙人掌。</p>
 <p>仙人掌上的两点间最短路径（一定是简单路径）与最长简单路径的定义与一般无向图的定义相同。</p>
 <p>本题中，我们还保证<strong>任何一个简单环的长度均为奇数</strong>。这意味着不存在重边，并且任意两点间的最短路径与最长简单路径一定是唯一的。</p>

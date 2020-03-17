@@ -30,7 +30,7 @@
 <p><code>./prog_linux64 nm4.out</code></p>
 <p>程序将会把 nm4.out 作为程序 prog 的输入。（windows用户请使用<code>prog_win32 nm4.out</code>）（什么你是windows 64位？放心吧可以运行win32应用程序的。）</p>
 <p>当然我们有对应的linux 32位版本：<code>prog_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x prog_linux64</code>或<code>chmod +x prog_linux32</code>后重试。</p>
-<p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node prog.js &lt;output_file&gt;</code> 运行checker。</p>
+<p>其它操作系统请安装 <a href="//nodejs.org/">node.js</a> 然后使用 <code>node prog.js &lt;output_file&gt;</code> 运行checker。</p>
 <p>如果你的文件不合法，程序将会输出错误信息。</p>
 
 # 样例一
