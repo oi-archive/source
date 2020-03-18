@@ -37,7 +37,7 @@
 
 <h4>explanation</h4>
 <p>这个地图如下图，其中画出的路径即是所求的最短路径。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/277/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNzcvc2FtcGxlLnBuZw==.png" alt="样例" style="width:700px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/277/sample.png" alt="样例" style="width:700px;"/></p>
 
 # 样例二
 

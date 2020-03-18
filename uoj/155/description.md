@@ -64,12 +64,12 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYS5wbmc=.png" alt="graph1"/></p>
+<p><img src="//img.uoj.ac/problem/155/a.png" alt="graph1"/></p>
 <p>对于第 $1$ 个需求，$5$ 到 $2$ 只有一条轨道，时间会 $+8$，无法满足 $+10$ 的需求。</p>
-<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYi5wbmc=.png" alt="graph2"/></p>
+<p><img src="//img.uoj.ac/problem/155/b.png" alt="graph2"/></p>
 <p>对于第 $2$ 个需求，路线从 $4$ 开始，$-9$ 到达 $4$，$+17$ 到达 $1$，$-11$ 到达 $3$，总计为 $-3$。</p>
 <p>对于第 $3$ 个需求，路线从 $3$ 开始，$+11$ 到达 $1$，$+20$ 到达 $4$，$-17$ 到达 $1$，$+20$ 到达 $4$，$-17$ 到达 $1$，总计为 $+17$。</p>
-<p><img src="/source/uoj/155/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xNTUvYy5wbmc=.png" alt="graph3"/></p>
+<p><img src="//img.uoj.ac/problem/155/c.png" alt="graph3"/></p>
 <p>对于第 $5$ 个需求，虽然 $1$ 附近的区域轨道很多，但是无论如何都无法做到回到 $1$ 时时间 $+2$。</p>
 
 # 限制与约定

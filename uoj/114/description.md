@@ -45,7 +45,7 @@ for v = 1, ..., n:
 
 <h4>explanation</h4>
 <p>共以下两种：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/114/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMTQvc2FtcGxlLnBuZw==.png" alt="样例解释图"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/114/sample.png" alt="样例解释图"/></p>
 
 # 样例二
 

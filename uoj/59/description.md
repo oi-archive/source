@@ -76,7 +76,7 @@
 <p><code>./checker_linux64 3</code></p>
 <p>将测试sports3.out是否可以接受。（windows用户请使用<code>checker_win32 3</code>）（什么你是windows 64位？放心吧可以运行win32应用程序的。）</p>
 <p>当然我们有对应的linux 32位版本：<code>checker_linux32</code>。如果linux用户发现无法运行程序，请尝试执行<code>chmod +x checker_linux64</code>或<code>chmod +x checker_linux32</code>后重试。</p>
-<p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
+<p>其它操作系统请安装 <a href="//nodejs.org/">node.js</a> 然后使用 <code>node checker.js &lt;case_no&gt;</code> 运行checker。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
 
 # 下载
