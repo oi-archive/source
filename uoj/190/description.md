@@ -32,7 +32,7 @@
 
 
 <p><a href="/download.php?type=problem&amp;id=190">输入数据下载</a></p>
-<p><a href="http://pan.baidu.com/s/1pLOSq9t">百度网盘下载</a> (密码：rc1j)</p>
+<p><a href="//pan.baidu.com/s/1pLOSq9t">百度网盘下载</a> (密码：rc1j)</p>
 
 # IOI赛制
 
@@ -43,4 +43,4 @@
 
 
 <p>下载压缩包，解压后将lost、lost2复制到文件夹内运行。
-<a href="http://pan.baidu.com/s/1bphXM0Z">下载</a></p>
+<a href="//pan.baidu.com/s/1bphXM0Z">下载</a></p>

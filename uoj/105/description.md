@@ -41,7 +41,7 @@
 <li>在 $3$ 和 $5$ 之间插入 $1$。（线长分别为 $40$ 和 $20$）。</li>
 <li>把 $2$ 和 $1$ 用长度为 $10$ 的线连起来。</li>
 <li>把 $4$ 和 $1$ 用长度为 $15$ 的线连起来。</li>
-</ul><p><img class="img-responsive center-block" src="/source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMS5wbmc=.png" alt="样例一的解释图"/></p>
+</ul><p><img class="img-responsive center-block" src="//img.uoj.ac/problem/104/1.png" alt="样例一的解释图"/></p>
 
 # 样例二
 
@@ -66,7 +66,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="/source/uoj/105/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8xMDQvMi5wbmc=.png" alt="样例二的解释图"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/104/2.png" alt="样例二的解释图"/></p>
 
 # 限制与约定
 
