@@ -67,7 +67,7 @@
 
 <p>我们提供 <strong><em>checker</em></strong> 这个工具来测试你的输出文件是否是可接受的。使用这个工具的方法是，在终端中运行</p>
 <pre><code>./checker_linux64 input output</code></pre>
-<p>（32 位 Linux 用户请使用 <code>checker_linux32</code>，Windows 用户请使用 <code>checker_win32.exe</code>，其他平台可以安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <code>node checker.js</code> 运行 checker，下同）</p>
+<p>（32 位 Linux 用户请使用 <code>checker_linux32</code>，Windows 用户请使用 <code>checker_win32.exe</code>，其他平台可以安装 <a href="//nodejs.org/">node.js</a> 然后使用 <code>node checker.js</code> 运行 checker，下同）</p>
 <p>其中 <code>input</code> 是给出的输入文件，<code>output</code> 是你的输出文件，例如</p>
 <pre><code>./checker_linux64 sort1.in sort1.out</code></pre>
 <p>将测试 <code>sort1.out</code> 在以 <code>sort1.in</code> 为输入时是否可以接受。</p>

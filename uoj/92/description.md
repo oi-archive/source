@@ -2,7 +2,7 @@
 
 <p>wangyisong1996 有一棵小树苗，可惜由于土地沙漠化小树苗枯死了。正当 wangyisong1996 悲痛欲绝的时候，从沙子中长出了一棵仙人掌。</p>
 <p>如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/92/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/what-is-cactus.png" alt="什么是仙人掌"/></p>
 <p>有一棵 $n$ 个结点的仙人掌，每条边有一个长度 $l$。（不同的边的长度不一定相同）</p>
 <p>有 $q$ 个点集，每个点集可以用两个整数 $u, d$ 来描述（$1 \leq u \leq n$），一个结点 $v$ 在这个点集中当且仅当结点 $v$ 与结点 $u$ 的距离不超过 $d$。两个结点之间的距离为它们之间的最短路径的长度。</p>
 <p>现在要求构造一个有向无环图（DAG），满足：</p>

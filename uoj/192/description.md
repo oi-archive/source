@@ -3,8 +3,7 @@
 <p>在人类和跳蚤的战争初期，人们凭借着地理优势占据了上风——即使是最强壮的跳蚤，也无法一下越过那一堵坚固的城墙。</p>
 <p>在经历了惨痛的牺牲后，跳蚤国王意识到再这样下去，跳蚤国必败无疑。然而为了震慑跳蚤国的老冤家——猴族，跳蚤国那世界上最跳的坦克只能留在跳蚤国本土，无法派上用场。</p>
 <p>于是跳蚤国王决定利用跳蚤国最尖端的技术，创造出最强的跳蚤来挽回败局。</p>
-<center><img src="/source/uoj/192/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9lZTJjM2VkM2Q1MzliNjAwOGUyMDk5ZTNlYjUwMzUyYWM0NWNiN2RmLmpwZw==.jpg" alt="上帝造跳蚤"/></center>
-
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/192/god-create-flea.jpg" alt="上帝造跳蚤"/></p>
 <p>为了避免这样的低级失误，跳蚤国王决定使用机器来帮助他创造跳蚤。他把它拥有的 $n$ 种属性放在了 $n$ 个容器中，然后他使用了 $n-1$ 条橡胶软管将这 $n$ 个容器连接成了<strong>一个树形结构</strong>（即任意两个容器之间有且只有一条简单路径）。</p>
 <p>跳蚤国王的机器会使用这样的方式来创造跳蚤：跳蚤国王需要选择两个不同的容器 $u,v(u \neq v)$，那么机器就会使用 $u$ 到 $v$ 的简单路径上的所有的橡胶软管将这条路上的所有属性汇聚到一起制造跳蚤。<strong>注意：这时只有 $u$ 到 $v$ 的简单路径上的橡胶软管被用到了。</strong></p>
 <p>每一条橡胶软管都有一个耐久度 $w_i$，<strong>跳蚤国王认为一个制造的方案是安全的，当且仅当所有被用到的橡胶软管的耐久度的乘积是完全平方数</strong>。</p>
