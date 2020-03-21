@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**Source: COCI 2009/2010 Round 3, [Task PATULJCI](http://hsin.hr/coci/archive/2009_2010/contest3_tasks.pdf)**
+**译自 POI 2014 Stage 1. 「[Couriers](https://szkopul.edu.pl/problemset/problem/Cs38m8lWFnOfDskXf43HR3lN/site/?key=statement)」**
 
 给定长度为 $n$ 的正整数序列。
 有 $m$ 组查询，每次查询区间 $[a,b]$ 中出现次数严格大于一半的数。
