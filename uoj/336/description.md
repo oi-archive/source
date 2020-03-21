@@ -4,9 +4,9 @@
 # 题目描述
 
 
-<p>曾经有一款流行的游戏，叫做<em>Infinity Loop</em>，先来简单的介绍一下这个游戏：</p>
-<p>游戏在一个 $n*m$ 的网格状棋盘上进行，其中有些小方格中会有水管，水管可能在方格某些方向的边界的中点有接口，所有水管的粗细都相同，所以如果两个相邻方格的公共边界的中点都有接头，那么可以看作这两个接头互相连接。水管有以下15种形状：</p>
-<p><img src="/source/uoj/336/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMTljMzc1NjVmOC5qcGc=.jpg" alt="pattern1.jpg" title="pattern1.jpg" height="200" width="200" align="middle"/><img src="/source/uoj/336/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMTljMzc4MGFlNC5qcGc=.jpg" alt="pattern2.jpg" title="pattern2.jpg" height="200" width="200" align="middle"/></p>
+<p>曾经有一款流行的游戏，叫做 <em>Infinity Loop</em>，先来简单的介绍一下这个游戏：</p>
+<p>游戏在一个 $n \times m$ 的网格状棋盘上进行，其中有些小方格中会有水管，水管可能在方格某些方向的边界的中点有接口，所有水管的粗细都相同，所以如果两个相邻方格的公共边界的中点都有接头，那么可以看作这两个接头互相连接。水管有以下 15 种形状：</p>
+<p><img src="//img.uoj.ac/problem/336/pipe1.webp" alt="pattern1.webp" height="200" width="200"/><img src="//img.uoj.ac/problem/336/pipe2.webp" alt="pattern2.webp" height="200" width="200"/></p>
 <p>游戏开始时，棋盘中水管可能存在漏水的地方。</p>
 <p>形式化地：如果存在某个接头，没有和其它接头相连接，那么它就是一个漏水的地方。</p>
 <p>玩家可以进行一种操作：选定一个含有<strong>非直线型</strong>水管的方格，将其中的水管绕方格中心顺时针或逆时针旋转90度。</p>
@@ -17,8 +17,8 @@
 
 
 <p>从标准输入读入数据。</p>
-<p>第一行两个正整数$n，m$，代表网格的大小。</p>
-<p>接下来$n$行每行$m$个数，每个数是$[0,15]$中的一个，你可以将其看作一个 $4$ 位的二进制数，从低到高每一位分别代表初始局面中这个格子上、右、下、左方向上是否有水管接头。</p>
+<p>第一行两个正整数 $n，m$，代表网格的大小。</p>
+<p>接下来 $n$ 行每行 $m$ 个数，每个数是 $[0,15]$ 中的一个，你可以将其看作一个 $4$ 位的二进制数，从低到高每一位分别代表初始局面中这个格子上、右、下、左方向上是否有水管接头。</p>
 <p>特别地，如果这个数是 $0$ ，则意味着这个位置没有水管。</p>
 <p>比如 $3(0011_{(2)})$ 代表上和右有接头，也就是一个L型，而 $12(1100_{(2)})$ 代表下和左有接头，也就是将L型旋转180度。</p>
 
@@ -39,9 +39,9 @@
 <pre><code class="sh_plain">2</code></pre>
 <h4>explanation</h4>
 <p>样例1棋盘如下</p>
-<p> <img src="/source/uoj/336/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMTljMzc2NjdhYi5qcGc=.jpg" alt="sample.jpg" title="sample.jpg" height="200" width="300"/></p>
+<p><img src="//img.uoj.ac/problem/336/sample.jpg" alt="sample.jpg" height="200"/></p>
 <p>旋转方法很显然，先将左上角虚线方格内的水管顺时针转90度</p>
-<p><img src="/source/uoj/336/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMTljMzc2NzdkZC5qcGc=.jpg" alt="process.jpg" title="process.jpg" height="200" width="300" align="middle"/></p>
+<p><img src="//img.uoj.ac/problem/336/process.webp" alt="process.webp" height="200"/></p>
 <p>然后右下角虚线方格内的水管顺时针旋转90度，这样就使得水管封闭了</p>
 
 # 样例二
@@ -79,4 +79,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=336">样例数据下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=336">样例数据下载</a></p>

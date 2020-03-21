@@ -1,7 +1,7 @@
 # 题目描述
 
 <p>如果一个无向连通图的任意一条边最多属于一个简单环，我们就称之为仙人掌。所谓简单环即不经过重复的结点的环。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/87/img/aHR0cDovL2ltZy51b2ouYWMvdXRpbGl0eS93aGF0LWlzLWNhY3R1cy5wbmc=.png" alt="什么是仙人掌"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/what-is-cactus.png" alt="什么是仙人掌"/></p>
 <p>现给定一棵仙人掌，每条边有一个正整数权值，每次给 $k$ 个点（<strong>可以存在相同点</strong>），问从它们中选出两个点（<strong>可以相同</strong>），它们之间<strong>最短路的最大值</strong>是多少。</p>
 
 # 输入格式
@@ -88,7 +88,7 @@
 # 题解
 
 
-<p><a href="http://matthew99.blog.uoj.ac/blog/241">http://matthew99.blog.uoj.ac/blog/241</a></p>
+<p><a href="https://matthew99.blog.uoj.ac/blog/241">https://matthew99.blog.uoj.ac/blog/241</a></p>
 
 # 下载
 

@@ -7,7 +7,7 @@
 <p>然而六花的卡组实在是太菜了，经过分析，六花发现在一回合内，她卡组中的牌并没有办法达成 OTK，除非主角光环附体：</p>
 <p><strong>被封印的艾克佐迪亚</strong></p>
 <p><strong>——包括这张卡在内，「被封印者的右足」「被封印者的左足」「被封印者的右腕」「被封印者的左腕」全在手牌的时候，获得决斗胜利。</strong></p>
-<p><img class="img-responsive left-block" src="/source/uoj/273/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNzMvY2FyZC5qcGc=.jpg" alt="卡片" style="width:300px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/273/card.jpg" alt="卡片" style="width:300px;"/></p>
 <p>但是因为六花不是高贵的氪金玩家，她可以肯定，这五张牌中肯定有一张，在牌堆的底端。所以六花现在面临着一个难题：需要在一回合内将卡组抽完。</p>
 <p>六花的牌堆一共有 $m+1$ 张牌，因为最后一张牌是固定的，所以我们现在只考虑前 $m$ 张牌。</p>
 <p>在这 $m$ 张牌中，有 $n$ 张特殊牌和 $m-n$ 张普通牌，每一个特殊牌有一个属性值 $w_i$，表示在打出这张牌后，可以再摸 $w_i$ 张牌。幸运的是，六花发现这些牌刚好满足 $\sum_{i=1}^n w_i=m$，因此她可以放心的随意摸牌而不用担心爆牌。</p>
