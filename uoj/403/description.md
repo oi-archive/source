@@ -33,7 +33,7 @@
 <pre><code class="sh_plain">2,13,207104420026411</code></pre>
 <h4>样例解释</h4>
 <p>Tommy 填写的 Trie 如下图，红色的节点为所有叶子节点，注意，根节点在左下方。</p>
-<p><img src="/source/uoj/403/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDUvMTQvNWFmOTIyOTc4OTM0Zi5wbmc=.png" alt="Trie.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/403/trie.png" alt="字典树"/></p>
 
 # 数据规模与约定
 
@@ -43,5 +43,10 @@
 <p>对于另外 $20\%$ 的数据，$f_i = i − 1$；</p>
 <p>对于另外 $10\%$ 的数据，$n \le 80$；</p>
 <p>对于所有数据，$T \le 100$，对于每组数据 $n \le 200$。</p>
-<hr/><p><strong>时间限制：</strong>$5\mathtt{s}$</p>
+<p><strong>时间限制：</strong>$5\mathtt{s}$</p>
 <p><strong>空间限制：</strong>$512\mathtt{MB}$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=403">样例数据下载</a></p>

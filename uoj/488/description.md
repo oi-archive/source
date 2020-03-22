@@ -56,3 +56,8 @@
 <p>对于 $100\%$ 的数据：$1 \leq n \leq 64,0 \leq k &lt; 2^n-1$</p>
 <p><strong>时间限制:</strong> $1\texttt{s}$</p>
 <p><strong>空间限制:</strong> $256\texttt{MB}$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=488">样例数据下载</a></p>

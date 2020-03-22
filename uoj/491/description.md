@@ -86,10 +86,14 @@
 # 限制与约定
 
 
-<p></p><div class="table-responsive">
-    <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$n \leq $</th><th>$m \leq $</th><th>$a_{i,j} &lt;$</th></tr></thead><tbody><tr><td>$1$</td><td rowspan="2">$2$</td><td>$2$</td><td rowspan="6">$2$</td></tr><tr><td>$2$</td><td>$3$</td></tr><tr><td>$3$</td><td rowspan="2">$5$</td><td>$2$</td></tr><tr><td>$4$</td><td>$3$</td></tr><tr><td>$5$</td><td rowspan="4">$10$</td><td>$2$</td></tr><tr><td>$6$</td><td>$3$</td></tr><tr><td>$7$</td><td>$2$</td><td rowspan="5">$1000$</td></tr><tr><td>$8$</td><td>$3$</td></tr><tr><td>$9 \sim 12$</td><td rowspan="3">$40$</td><td>$2$</td></tr><tr><td>$13 \sim 16$</td><td>$3$</td></tr><tr><td>$17 \sim 21$</td><td>$500$</td></tr><tr><td>$22 \sim 25$</td><td>$100$</td><td>$2000$</td><td>$998,244,353$</td></tr></tbody></table><div>
+<div class="table-responsive">
+    <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$n \leq $</th><th>$m \leq $</th><th>$a_{i,j} &lt;$</th></tr></thead><tbody><tr><td>$1$</td><td rowspan="2">$2$</td><td>$2$</td><td rowspan="6">$2$</td></tr><tr><td>$2$</td><td>$3$</td></tr><tr><td>$3$</td><td rowspan="2">$5$</td><td>$2$</td></tr><tr><td>$4$</td><td>$3$</td></tr><tr><td>$5$</td><td rowspan="4">$10$</td><td>$2$</td></tr><tr><td>$6$</td><td>$3$</td></tr><tr><td>$7$</td><td>$2$</td><td rowspan="5">$1000$</td></tr><tr><td>$8$</td><td>$3$</td></tr><tr><td>$9 \sim 12$</td><td rowspan="3">$40$</td><td>$2$</td></tr><tr><td>$13 \sim 16$</td><td>$3$</td></tr><tr><td>$17 \sim 21$</td><td>$500$</td></tr><tr><td>$22 \sim 25$</td><td>$100$</td><td>$2000$</td><td>$998,244,353$</td></tr></tbody></table></div>
 
 <p>对于所有测试点，保证 $1 \leq n \leq 100，1 \leq m \leq 2000，0 \leq a_{i,j} &lt; 998,244,353$。</p>
 <p><strong>时间限制:</strong> $1\texttt{s}$</p>
 <p><strong>空间限制:</strong> $256\texttt{MB}$</p>
-</div></div>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=491">样例数据下载</a></p>

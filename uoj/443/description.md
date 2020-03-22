@@ -53,7 +53,7 @@ int QR();</code></pre>
 </div>
 
 <p>其中 $\omega_n $ 表示 $n$ 次单位根，$k$ 为整数。</p>
-<p>满足 $AA^∗=I$ 的矩阵被称为<a href="https://en.wikipedia.org/wiki/Unitary_matrix">酉矩阵</a>。</p>
+<p>满足 $AA^∗=I$ 的矩阵被称为<a href="//en.wikipedia.org/wiki/Unitary_matrix">酉矩阵</a>。</p>
 <p><strong>时间限制</strong>：$\texttt{2s}$</p>
 <p><strong>空间限制</strong>：$\texttt{256MB}$</p>
 <p>选手程序与交互库共享本题的时空限制，但由于 <code>ACR</code> 操作的存在，我们不能保证交互库的运行时间。最终评测使用的交互库（只保证）各函数的实现方式与下发的 grader 相同，请自行计算实际运行时间与内存。</p>
