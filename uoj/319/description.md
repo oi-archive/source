@@ -54,7 +54,7 @@
 $$[(0+3) ~\mathrm{mod}~ 6] + 1 = 4$$ 
 $$[(1+3) ~\mathrm{mod}~ 6] + 1 = 5$$ </p>
 <p>剩余的4个点占领图中实线内部区域。</p>
-<p> <img class="img-responsive center-block" src="/source/uoj/319/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zMTkvZXhhbXBsZS5wbmc=.png" alt="样例解释" align="middle"/></p>
+<p> <img class="img-responsive center-block" src="//img.uoj.ac/problem/319/example.png" alt="样例解释"/></p>
 
 # 样例二
 

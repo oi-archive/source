@@ -40,7 +40,7 @@
 <pre><code class="sh_plain">6</code></pre>
 <h4>explanation</h4>
 <p>树的形态如下图:</p>
-<p><img src="/source/uoj/489/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTkvcWxlZ3hEbkticzY1OTJWLnBuZw==.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/489/kuohaoshu.webp" style="width:200px;" alt="括号树"/></p>
 <p>将根到 1 号结点的简单路径上的括号，按经过顺序排列所组成的字符串为 <code>(</code>，子串是合法括号串的个数为 $0$。</p>
 <p>将根到 2 号结点的字符串为 <code>((</code>，子串是合法括号串的个数为 $0$。</p>
 <p>将根到 3 号结点的字符串为 <code>()</code>，子串是合法括号串的个数为 $1$。</p>
@@ -55,3 +55,8 @@
 
 <p><strong>时间限制:</strong> $1\texttt{s}$</p>
 <p><strong>空间限制:</strong> $256\texttt{MB}$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=489">样例数据下载</a></p>

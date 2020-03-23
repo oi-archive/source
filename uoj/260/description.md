@@ -2,7 +2,7 @@
 
 <p>小南有一套可爱的玩具小人，它们各有不同的职业。</p>
 <p>有一天，这些玩具小人把小南的眼镜藏了起来。小南发现玩具小人们围成了一个圈，它们有的面朝圈内，有的面朝圈外。如下图：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/260/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNjAvdG95LnBuZw==.png" alt="toy" style="width:500px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/260/toy.png" alt="toy" style="width:500px;"/></p>
 <p>这时 <code>singer</code> 告诉小南一个谜题：“眼镜藏在我左数第 $3$ 个玩具小人的右数第 $1$ 个玩具小人的左数第 $2$ 个玩具小人那里。”</p>
 <p>小南发现，这个谜题中玩具小人的朝向非常关键，因为朝内和朝外的玩具小人的左右方向是相反的：
 面朝圈内的玩具小人，它的左边是顺时针方向，右边是逆时针方向；而面向圈外的玩具小人，它的左边是逆时针方向，右边是顺时针方向。</p>

@@ -42,7 +42,7 @@
 <pre><code class="sh_plain">2 1 3 4</code></pre>
 <h4>explanation</h4>
 <p>样例的一组最优解如下：</p>
-<p> <img src="/source/uoj/339/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWU1YWQ5OTNjOS5wbmc=.png" alt="img"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/339/339-optimal.webp" style="width:120px;" alt="最优解"/></p>
 <p>其中结点$4$为根，结点$1$为结点$4$的左儿子，结点$2,3$分别为结点$1$的左右儿子。</p>
 
 # 限制与约定
@@ -65,4 +65,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=339">样例数据及附加文件下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=339">样例数据及附加文件下载</a></p>

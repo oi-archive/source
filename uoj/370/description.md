@@ -5,7 +5,7 @@
 <p>他有 $n$ 个滑稽果，第 $i$ 个滑稽果的大小为 $a_i$。</p>
 <p>他现在想把它们构成一棵任意形态的有根树，每个点的<strong>滑稽度</strong>为它的<strong>大小</strong>和它父亲的<strong>滑稽度</strong>的 $\mathrm{and}$，其中 $\mathrm{and}$ 表示按位与运算，例如 $2\ \mathrm{and}\ 3=2，1\ \mathrm{and}\ 0=0，1\ \mathrm{and}\ 1=1$。特别地，根的滑稽度等于他的大小。</p>
 <p>为了世界的和平，他希望能最小化这棵树上所有滑稽果的滑稽度之和。请问你能帮他解决这个问题吗？</p>
-<p><img src="/source/uoj/370/img/a4b56acbe668b2a9bd0c56a65512ae8c.jpg" alt="滑稽树上滑稽果"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/370/huajiguo.jpeg" alt="滑稽树上滑稽果"/></p>
 
 # 输入格式
 
