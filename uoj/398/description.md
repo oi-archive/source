@@ -3,9 +3,7 @@
 <p>久莲是一个喜欢出题的女孩子。</p>
 <p>在今年的 World Final 结束以后，久莲特别喜欢计算几何，于是她打算在 NOI 的考场上也出一个计算几何：这是一道只有题目名字和计算几何相关的题目。</p>
 <p>首先，久莲给出了一棵 $n(n \ge 2)$ 个节点的有根树 T，根节点编号为 $1$。定义叶子节点为除了根以外所有度数恰好为 $1$ 的节点。下图是一个树 T 的例子，其中叶子节点集合为 $\{3, 4, 5\}$。</p>
-<div align="center">
-<img src="/source/uoj/398/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjMvNWI1NWU4Yzg1NzEwZC5wbmc=.png" width="200" alt="5b55e8c85710d.png"/></div>
-
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/398/398a.png" style="width:200px;" alt="例子"/></p>
 <p>接着通过这棵树，久莲构造了一个序列 $A$：</p>
 <ul><li>从根节点开始深度优先遍历整棵树，遍历时按照编号从小到大的顺序来访问孩子，这样可以得到一个树 $T$ 的 DFS 序。</li>
 <li>接着按照在 DFS 序中的出现顺序从前往后，久莲把所有叶子节点排成一排得到了一个序列 $A$。</li>
@@ -15,9 +13,7 @@
 <ul><li>在树 $T$ 中存在连接 $u, v$ 的边。</li>
 <li>在树 $T$ 中 $u, v$ 都是叶子节点且 $d(u, v) \le K$。</li>
 </ul><p>当 $K = 1$ 或 $2$ 时，上面的例子得到的图 $G$ 都如下图所示：</p>
-<div align="center">
-<img src="/source/uoj/398/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjMvNWI1NWU4Yzg2MTEwYS5wbmc=.png" width="200" alt="5b55e8c86110a.png"/></div>
-
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/398/398b.png" style="width:200px;" alt="例子"/></p>
 <p>现在久莲想让你来计算一下 $G$ 中不同的哈密尔顿回路数量有多少条，答案可能很大，请对 $998244353$ 取模后输出。</p>
 <p>下面是一些补充定义：</p>
 <ul><li>无重边无自环的无向图 $G$ 的一条哈密尔顿回路 $H$ 是 $G$ 中边的一个子集，其中每一个点恰好有两条不同的相邻边在 $H$ 中，且任意两个点都可以通过 $H$ 中的边直接或间接到达。</li>
