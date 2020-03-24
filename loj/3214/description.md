@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**题目译自 [PA 2019](https://sio2.mimuw.edu.pl/c/pa-2019-1/dashboard/) Runda próbna [A + B](https://sio2.mimuw.edu.pl/c/pa-2019-1/p/apb/)，感谢 [zimpha](https://github.com/zimpha) 提供 PA 2019 的题目翻译和官方数据。**
+**题目译自 [PA 2019](https://sio2.mimuw.edu.pl/c/pa-2019-1/dashboard/) Runda próbna [A + B](https://sio2.mimuw.edu.pl/c/pa-2019-1/p/apb/)，感谢 [@zimpha](https://github.com/zimpha) 提供 PA 2019 的题目翻译和官方数据。**
 
 在列竖式计算两个十进制数的和的时候，人们可能会错算成这样：
 
