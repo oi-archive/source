@@ -2,7 +2,7 @@
 
 <p>九条可怜是一个喜欢数据结构的女孩子，在常见的数据结构中，可怜最喜欢的就是线段树。</p>
 <p>线段树的核心是懒标记，下面是一个带懒标记的线段树的伪代码，其中 tag 数组为懒标记：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/467/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDQvMzAvNWNjODVmYzczMWI4OC5wbmc=.png" alt="5cc85fc731b88.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/467/segcode.webp" style="width:700px;" alt="伪代码"/></p>
 <p>其中函数 Lson(Node) 表示 Node 的左儿子，Rson(Node) 表示 Node 的右儿子。</p>
 <p>现在可怜手上有一棵 $[1,n]$ 上的线段树，编号为 $1$。这棵线段树上的所有节点的 tag 均为 $0$。接下来可怜进行了 $m$ 次操作，操作有两种：</p>
 <ul><li>$1\ l\ r$，假设可怜当前手上有 $t$ 棵线段树，可怜会把每棵线段树复制两份（tag 数组也一起复制），原先编号为 $i$ 的线段树复制得到的两棵编号为 $2i-1$ 与 $2i$，在复制结束后，可怜手上一共有 $2t$ 棵线段树。接着，可怜会对所有编号为奇数的线段树进行一次 $\text{Modify}(\text{root},1,n,l, r)$。</li>

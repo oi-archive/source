@@ -54,8 +54,8 @@
 # 限制与约定
 
 
-<p></p><div class="table-responsive">
-    <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$n = $</th><th>$特殊性质 $</th></tr></thead><tbody><tr><td>$1 \sim 2$</td><td>$7$</td><td rowspan="3"></td></tr><tr><td>$3 \sim 5$</td><td>$199$</td></tr><tr><td>$6 \sim 8$</td><td>$1999$</td></tr><tr><td>$9 \sim 11$</td><td>$49991$</td><td>$A$</td></tr><tr><td>$12 \sim 15$</td><td>$262143$</td><td>$B$</td></tr><tr><td>$16$</td><td>$99995$</td><td rowspan="3"></td></tr><tr><td>$17 \sim 18$</td><td>$199995$</td></tr><tr><td>$19 \sim 20$</td><td>$299995$</td></tr></tbody></table><div>
+<div class="table-responsive">
+    <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$n = $</th><th>$特殊性质 $</th></tr></thead><tbody><tr><td>$1 \sim 2$</td><td>$7$</td><td rowspan="3"></td></tr><tr><td>$3 \sim 5$</td><td>$199$</td></tr><tr><td>$6 \sim 8$</td><td>$1999$</td></tr><tr><td>$9 \sim 11$</td><td>$49991$</td><td>$A$</td></tr><tr><td>$12 \sim 15$</td><td>$262143$</td><td>$B$</td></tr><tr><td>$16$</td><td>$99995$</td><td rowspan="3"></td></tr><tr><td>$17 \sim 18$</td><td>$199995$</td></tr><tr><td>$19 \sim 20$</td><td>$299995$</td></tr></tbody></table></div>
 
 <p>表中特殊性质一栏,两个变量的含义为存在一个 $1 \sim n$ 的排列 $p_i (1 \leq i \leq n)$ ,使得:</p>
 <p>A:树的形态是一条链。即 $\forall 1 \leq i &lt; n$,存在一条边 $(p_{i} , p_{i+1} )$。</p>
@@ -67,4 +67,8 @@
 
 <p>由于标准算法实际上并不需要利用到数据范围里给定的关于 $n$ 的限制。因此本题的Hack数据中 $n$ 仅需要满足 $n \in [7,299995]$ 且 $n$ 为整数即可，不需要满足题面中的限制。</p>
 <p>其余输入条件仍然同题面。</p>
-</div></div>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=493">样例数据下载</a></p>

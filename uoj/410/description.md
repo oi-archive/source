@@ -22,7 +22,7 @@
 
 <p>设 $ N = 4 $，$ H = [2, 4, 3, 5] $，$ Q = 2 $，$ L = [0, 1] $ 和 $ R = [2, 3] $。</p>
 <p>评测程序调用<code>minimum_costs([2, 4, 3, 5], [0, 1], [2, 3])</code>。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/410/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjNiYWY5MzMxYi5wbmc=.png" alt="会议示例图"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/410/huiyi.png" alt="会议示例图"/></p>
 <p>会议 $ j = 0 $ 有 $ L_j = 0 $ 和 $ R_j = 2 $，所以将由住在山 $ 0 $、$ 1 $ 和 $ 2 $ 上的人参加。如果山 $ 0 $ 被选做举办地，会议的成本计算如下：</p>
 <ul><li>住在山 $ 0 $ 上的参会者的成本是 $ \max\{H_0\} = 2 $。</li>
 <li>住在山 $ 1 $ 上的参会者的成本是 $ \max\{H_0, H_1\} = 4 $。</li>
