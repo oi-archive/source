@@ -51,7 +51,7 @@ Output one line containing either `possible` if it is possible to find a suitabl
 
 # Note
 
-![title](/source/lutece/finding-lines/img/aHR0cHM6Ly9oZXJhbm8uZ2l0aHViLmlvL2ltYWdlcy9MdXRlY2UvMTExNy5wbmc=.png)
+![title](https://herano.github.io/images/Lutece/1117.png)
 
 # Source
 
