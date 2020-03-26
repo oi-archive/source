@@ -2,7 +2,7 @@
 
 <p>Pavel 有一个非常简单的铁路玩具。 它有一条含有 $n$ 个车站的主干线并且连续编号为 $0$ 到 $n−1$。车站 $0$ 和车站 $n−1$ 就在这条主干线的两端。其中车站 $i$ 和车站 $i+1$ 之间的距离为 $l_i$ 厘米（$0\le i &lt; n - 1$）。</p>
 <p>除了这条主干线之外，这个铁路也许会有些支线。每条支线都是由主干线中的一个车站和主干线 外的一个新车站之间的一条新铁路构成（这些新的车站不会被编号）。在主干线中的一个车站最多只能有一条支线。以主干线中的车站 $i$ 为起点的支线的长度为 $d_i$ 厘米。我们用 $d_i = 0$ 来表示车站 $i$ 没有支线。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/237/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMzcvc2FtcGxlMS5wbmc=.png" alt="图1" style="width:500px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/237/sample1.png" alt="图1" style="width:500px;"/></p>
 <p>Pavel 现正规划一条快捷方式：一条在主干线中两个不相同的车站之间（它们可能相邻）的快速干线。这条快速干线无论是连接哪两个车站，它的长度都将会恰好是 $c$ 厘米。</p>
 <p>铁路中的每一段，包括那条新的快速干线，都能够双向行驶。任意两个车站的距离就是它们之间沿着铁路由一个车站到另一个车站之间最短路径的长度。所有车站组合中最大的距离就叫做整个铁路网络的直径。换句话说，存在一个最小值 $t$ 使任意两个车站之间的距离都不会超过 $t$。</p>
 <p>Pavel 就是想建造一条快速干线，使得有了这条快速干线后新的铁路网络的直径能达到最小值。</p>
@@ -25,7 +25,7 @@
 <p>对于上图所示的铁路网络，样例评分程序会调用以下函数：</p>
 <p><code>find_shortcut(4, [10, 20, 20], [0, 40, 0, 30], 10)</code></p>
 <p>最优解是在车站 1 和车站 3 之间建造一条快速干线，如下图所示。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/237/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMzcvc2FtcGxlMi5wbmc=.png" alt="图2" style="width:500px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/237/sample2.png" alt="图2" style="width:500px;"/></p>
 <p>这个新铁路网络的直径是 $80$ 厘米，所以函数应该返回数值 $80$。</p>
 
 # 样例二

@@ -5,7 +5,7 @@
 <p>三星 note7 的主板可以看作是由 $(2n + 1) \times (2n + 1)$ 个中继器构成的，某些中继器会有导线连在一起，左上角和右下角的中继器分别连着电源的正负极。</p>
 <p>电流流过一根导线的时间可忽略不计，但当电流经过中继器时，会延缓一段时间再从中继器流出。这个时间只跟该中继器本身有关，我们把这段时间的长度称为中继器的延时值。</p>
 <p>这些中继器由导线连接围成一个一个的层，同个层的中继器的种类都一样，而不同层的种类都不一样，可以发现总共有 $n + 1$ 层。当 $n = 4$ 时，主板大概长这样：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/244/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDQvMS5wbmc=.png" style="width:500px;" alt="图1"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/244/1.png" style="width:500px;" alt="图1"/></p>
 <p>跳晚们打算再加几根导线将某些中继器连接起来.凭借发达的重工业，他们能生产出无数条导线。但由于主板的限制，他们的导线只能和主板四周的边平行，且其长度只够连接相邻两个中继器。</p>
 <p>现在他们想知道，他们改造的三星 note7 的电源正极流出的电流能在多短的时间到达电源负极从而造成短路，这样电池就会释放出巨大的能量摧毁跳蚤国的有生力量了。</p>
 <p>请参考输入格式和样例配图来更好地理解题意。</p>
@@ -41,9 +41,9 @@ a_{\max(\left|i-n-1\right|,\left|j-n-1\right|)}
 
 <h4>explanation</h4>
 <p>这个数据对应的主板如下所示：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/244/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDQvMi5wbmc=.png" alt="图2"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/244/2.png" alt="图2"/></p>
 <p>显然，我们可以用导线改造成这样：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/244/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDQvMy5wbmc=.png" alt="图3"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/244/3.png" alt="图3"/></p>
 <p>这样从左上角到右下角就会有条 $\{2,2,1,2,2\}$ 的电流路径，耗时为 $9$ 秒。</p>
 
 # 样例二

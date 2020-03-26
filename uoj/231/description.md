@@ -54,7 +54,7 @@
 <li>第 $N+2$ 行：$Q$</li>
 <li>第 $N+3, \dots, N+Q+2$ 行：$M$ $K[0]$ $K[1]$ $\dots$ $K[M-1]$</li>
 </ul><p>对于每个问题，样例测评库都会输出函数 $\mathrm{can}$ 的返回值</p>
-<p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
+<p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$4\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1\texttt{GB}$</p>
 

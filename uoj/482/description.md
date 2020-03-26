@@ -44,7 +44,7 @@
 <p>有 $\frac{1}{4}$ 的概率从上到下的最终结果是 $\{4, 1, 2, 3\}$。</p>
 <p>所以最终有 $\frac{1}{4}$ 的概率第一个位置是 $4$，有 $\frac{3}{4}$ 的概率第一个位置是 $1$，所以第一个位置的期望分数是 $\frac{7}{4}$。</p>
 <p>为了帮助你们更直观地了解洗牌的过程，我们在下面画出了结果是 $\{1, 4, 2, 3\}$ 的过程：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/482/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTAvMDQvanZGQVlnYkJJZkh1MUM1LnBuZw==.png" alt="jvFAYgbBIfHu1C5.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/482/douzhudi.webp" style="width:600px;" alt="斗主地"/></p>
 
 # 样例二至样例三
 

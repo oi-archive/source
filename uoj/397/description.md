@@ -60,9 +60,7 @@ F
 
 <h4>explanation</h4>
 <p>这个样例中包含两组数据。这两组数据的城市相同，只是在情报的价值和情报机构的方案上有所不同。城市地图如下：</p>
-<div align="center">
-<img src="/source/uoj/397/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjMvNWI1NWU3ZDM1NTViNC5wbmc=.png" width="500" alt="5b55e7d3555b4.png"/></div>
-
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/397/qingbao1.webp" style="width:500px;" alt="示意图"/></p>
 <ul><li>对于第一组数据，方案一中的节点 $1$ 到节点 $4$ 的最短路径为 $1 \rightarrow 2 \rightarrow 3 \rightarrow 4$，方案二中的节点 $3$ 到节点 $5$ 的最短路径为 $3 \rightarrow 2 \rightarrow 1 \rightarrow 5$。选择这两种方案需要花费 $5 + 8 = 13$ 的代价，并且每一条边的情报都被收集从而得到 $1 + 3 + 2 + 8 = 14$ 的收益，因此总收益减去总代价为 $14 − 13 = 1$。</li>
 <li>对于第二组数据，方案一中的节点 $1$ 到节点 $5$ 的最短路径为 $1 \rightarrow 5$，方案二中的节点 $2$ 到节点 $3$ 的最短路径为 $2 \rightarrow 3$。这两种方案收集情报的范围没有公共的边，因此非法，所以这组数据不存在合法方案，应输出 <code>F</code>。</li>
 </ul>
@@ -72,9 +70,7 @@ F
 <p>见下载文件中的 <code>ex_center2.in</code> 与 <code>ex_center2.ans</code>。
 这个样例只包含一组数据。这一数据中，最优方案为选择第 $2$ 种和第 $3$ 种方案。</p>
 <p>这组数据的城市地图如下，其中<strong><em>加粗</em></strong>的边表示被情报中心收集情报的边，<font color="#FF0000">红色</font>的边表示只被第 $2$ 种方案的情报中心收集情报的边，<font color="#0000FF">蓝色</font>的边表示只被第 $3$ 种方案的情报中心收集情报的边，<font color="#800080">紫色</font>的边表示同时被两个情报中心收集情报的边。</p>
-<div align="center">
-<img src="/source/uoj/397/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjMvNWI1NWU3YWFiMGE1Yy5wbmc=.png" width="500" alt="5b55e7aab0a5c.png"/></div>
-
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/397/qingbao2.webp" style="width:500px;" alt="示意图"/></p>
 
 # 样例三
 
