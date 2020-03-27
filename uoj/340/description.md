@@ -68,4 +68,4 @@ $k$，便会召唤一个新的具有 $m$ 点生命值的“恐怖的奴隶主”
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=340">样例数据下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=340">样例数据下载</a></p>

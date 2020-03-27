@@ -37,7 +37,7 @@
 
 <p>设 $ N = 4 $, $ M = 4 $, $ U = [0, 0, 0, 1] $, $ V = [1, 2, 3, 2] $, $ A = 1 $, $ B = 3 $, $ S = 1 $ 和 $ T = 3 $。</p>
 <p>评测程序调用 <code>find_pair(4, [0, 0, 0, 1], [1, 2, 3, 2], 1, 3)</code>。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/409/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjQ2NmUxN2VlNy5wbmc=.png" alt="示例图"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/409/gaosu.webp" alt="示例图"/></p>
 <p>上图中，编号为 $ i $ 的边对应高速公路 $ i $。其中一些对<code>ask</code>的可能调用和对应的返回值如下表所示:</p>
 <div class="table-responsive">
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>调用</th>

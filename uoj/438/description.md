@@ -30,7 +30,7 @@
 <pre><code>31</code></pre>
 <h4>样例解释 1</h4>
 <p>所有路口及适合于修建赛道的道路如下图所示：</p>
-<p><img src="/source/uoj/438/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI2ZjgwMy5wbmc=.png" alt="track1.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/438/saidao1.webp" style="width:250px;" alt="赛道"/></p>
 <p>道路旁括号内的数字表示道路的编号，非括号内的数字表示道路长度。</p>
 <p>需要修建 $1$ 条赛道。可以修建经过第 $3,1,2,6$ 条道路的赛道（从路口 $4$ 到路口 $7$），则该赛道的长度为 $9 + 10 + 5 + 7 = 31$，为所有方案中的最大值。</p>
 
@@ -51,7 +51,7 @@
 <pre><code>15</code></pre>
 <h4>样例解释 2</h4>
 <p>所有路口及适合于修建赛道的道路如下图所示：</p>
-<p><img src="/source/uoj/438/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTEvMjUvNWJmYTM1ZDI4MmY4MC5wbmc=.png" alt="track2.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/438/saidao2.webp" style="width:300px;" alt="赛道"/></p>
 <p>需要修建 $3$ 条赛道。可以修建如下 $3$ 条赛道：
 1. 经过第 $1,6$ 条道路的赛道（从路口 $1$ 到路口 $7$），长度为 $6 + 9 = 15$；
 2. 经过第 $5,2,3,8$ 条道路的赛道（从路口 $6$ 到路口 $9$），长度为 $4 + 3 + 5 + 4 = 16$；

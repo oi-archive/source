@@ -44,7 +44,7 @@
 </tr><tr><td>colours(1, 2, 5, 3)</td><td>3</td><td>河将矩形区域分成了三部分:第一部分包含 $(1, 2)$ 和 $(1, 3)$ ，第二 部分包含 $(3, 2)$，第三部分包含 $(5, 3)$，因此最多可以染$3$种不同的颜色。</td>
 </tr></tbody></table></div>
 
-<p><img src="/source/uoj/303/img/aHR0cHM6Ly9zMS5heDF4LmNvbS8yMDE4LzA2LzEzL0NPVFVSSC5tZC5wbmc=.png" alt="apiot1"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/303/coturh.png" alt="例子"/></p>
 <p>注:上图中的蓝色格子表示河流</p>
 
 # 样例输入
@@ -77,3 +77,8 @@ NWESSWEWS
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>子任务</th><th>分数</th><th>R</th><th>C</th><th>Q</th></tr></thead><tbody><tr><td>1</td><td>11</td><td> $R \leq 50$ </td><td> $C \leq 50$ </td><td> $Q \leq 1000$ </td></tr><tr><td>2</td><td>12</td><td> $R = 2$ </td><td> $C \leq 200000$ </td><td> $Q \leq 100000$ </td></tr><tr><td>3</td><td>24</td><td> $R = 200000$ </td><td> $C \leq 200000$ </td><td> $Q = 1$ </td></tr><tr><td>4</td><td>27</td><td> $R = 1000$ </td><td> $C \leq 1000$ </td><td> $Q = 100000$ </td></tr><tr><td>5</td><td>26</td><td> $R = 200000$ </td><td> $C \leq 200000$ </td><td> $Q = 100000$ </td></tr></tbody></table><p>在本题的 hack 中，你可以提交与样例交互库相同格式的输入，该输入需要满足 $ 1 \le R, C \le 200000, 1 \le Q \le 100000, 0 \le M \le 100000 $。</p>
 <p><strong>时间限制</strong>：$2\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=305">样例及测评库下载</a></p>

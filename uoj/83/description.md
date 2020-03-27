@@ -35,12 +35,12 @@
 
 
 <p>我们一共有 6 个程序，分别都提供了 C++ 和 Pascal 两个版本的源代码。（什么？你是C语言选手？直接看C++程序就可以啦！）</p>
-<ul><li>bogo_sort: Bogo排序。每次把数列胡乱地打乱，判定是否有序，直到有序为止。<a href="http://zh.wikipedia.org/wiki/Bogo%E6%8E%92%E5%BA%8F">维基介绍</a></li>
-<li>bubble_sort: 冒泡排序。重复地走访过要排序的数列，每次比较相邻两个元素，如果它们的顺序错误就把他们交换过来。<a href="http://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F">维基介绍</a></li>
-<li>selection_sort：选择排序。每次在未排序的部分找到最小的元素放到已排序数列的末尾。<a href="http://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F">维基介绍</a></li>
-<li>counting_sort：计数排序。使用一个额外的数组 $C$，其中第 $i$ 个元素是待排序数组 $A$ 中值等于 $i$ 的元素的个数，然后将 $A$ 中的元素排到正确的位置。<a href="http://zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F">维基介绍</a></li>
-<li>merge_sort：归并排序。把数列分成左右两部分递归进行排序，然后利用归并操作合并两个有序数组。<a href="http://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F">维基介绍</a></li>
-<li>quick_sort：快速排序。从数列中挑出一个元素作为基准，接着把比基准小的数放在基准左边，大的放右边，递归左右两边进行排序。<a href="http://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<ul><li>bogo_sort: Bogo排序。每次把数列胡乱地打乱，判定是否有序，直到有序为止。<a href="//zh.wikipedia.org/wiki/Bogo%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<li>bubble_sort: 冒泡排序。重复地走访过要排序的数列，每次比较相邻两个元素，如果它们的顺序错误就把他们交换过来。<a href="//zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<li>selection_sort：选择排序。每次在未排序的部分找到最小的元素放到已排序数列的末尾。<a href="//zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<li>counting_sort：计数排序。使用一个额外的数组 $C$，其中第 $i$ 个元素是待排序数组 $A$ 中值等于 $i$ 的元素的个数，然后将 $A$ 中的元素排到正确的位置。<a href="//zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<li>merge_sort：归并排序。把数列分成左右两部分递归进行排序，然后利用归并操作合并两个有序数组。<a href="//zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F">维基介绍</a></li>
+<li>quick_sort：快速排序。从数列中挑出一个元素作为基准，接着把比基准小的数放在基准左边，大的放右边，递归左右两边进行排序。<a href="//zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F">维基介绍</a></li>
 </ul><p>不保证给出的程序总能在人类可接受的时限运行完毕。</p>
 <p>不要尝试用自然溢出等方式把 <samp>counter</samp> 设定为一个负数，在OJ上进行评测时将会在 <samp>counter</samp> 大于 $9999999$ 时自动结束程序。</p>
 <p>表中每一行描述了一个子任务。每个任务所占分数见下表。</p>
