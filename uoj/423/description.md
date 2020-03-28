@@ -101,4 +101,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=423">样例数据下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=423">样例数据下载</a></p>

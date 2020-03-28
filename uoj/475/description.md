@@ -45,7 +45,7 @@
 <pre><code>23.563573998194637061425470524757</code></pre>
 <h4>explanation</h4>
 <p>下图为输入的线段，注意线段可以相交：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTAvMDUvUDV1UnpJbVVNeEM3ZGxYLnBuZw==.png" style="width:800px;" alt="P5uRzImUMxC7dlX.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/475/tianye1.webp" style="width:700px;" alt="线段"/></p>
 <p>我们以通过无限「逼近」这些红色的曲线来构造任意总长度大于答案的方案。注意通过样例 1，我们很容易知道左上角的红色线段被算了两遍。</p>
 <h4>样例输入 3</h4>
 <pre><code class="sh_plain">4
@@ -63,7 +63,7 @@
 <p>答案为 $8+4\sqrt 2$。</p>
 <h4>explanation</h4>
 <p>解释如图：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/475/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDkvMzAvUUFUOFJOSGVYZ0ttdHdGLnBuZw==.png" alt="QAT8RNHeXgKmtwF.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/475/tianye2.webp" style="width:700px;" alt="线段"/></p>
 <p>我们可以通过无限「逼近」这些红色的曲线来构造任意总长度大于 $8+4\sqrt 2$ 的方案。</p>
 
 # 样例四
