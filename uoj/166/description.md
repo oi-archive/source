@@ -25,7 +25,7 @@ v_i = F \left ( v_{a_i}, v_{b_i}, f_i \right ) = \left \lfloor \frac{f_i}{2 ^ {2
 由于跳蚤国的信息技术不发达，
 每只跳蚤确定它的值需要1小时（注意多只跳蚤可以同时确定它们的值）。</p>
 <p>下面是一个例子：（id表示编号，t表示该跳蚤的值被确定的时间，箭头表示跳蚤的依赖关系）</p>
-<p>【这里有一张图，原地址是 <a href="http://aiur.pacman-thu.org:2016/pics/10.png">http://aiur.pacman-thu.org:2016/pics/10.png</a> 然而现在已经失效。如果有备份请联系管理员 】</p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/166/king.jpg" alt="例子" style="width:400px;"/></p>
 <p>我们可以把编号小于 $2n$ 的跳蚤的值看作两个 $n$ 位的二进制数 $\mathrm{A}, \mathrm{B}$，
 其中 $\mathrm{A} = (v_{n-1} \  v_{n-2} \  \cdots \  v_0)_2$，
 $\mathrm{B} = (v_{2n-1} \  v_{2n-2} \  \cdots \  v_{n})_2$。

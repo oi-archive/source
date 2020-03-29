@@ -5,14 +5,14 @@
 <p>我们称占据的格子有公共边的两只跳蚤是<strong>相邻</strong>的。</p>
 <p>我们称两只跳蚤是<strong>连通</strong>的，当且仅当这两只跳蚤<strong>相邻</strong>，或存在另一只跳蚤与这两只跳蚤都<strong>连通</strong>。</p>
 <p>现在，蛐蛐国王希望，将某些（0 个，1 个或多个）跳蚤替换成蛐蛐，使得在此之后存在至少两只跳蚤<strong>不连通</strong>。</p>
-<p>例如：我们用图<img src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvZmxlYS5wbmc=.png" alt="flea"/>表示一只跳蚤，用图<img src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvY3JpY2tldC5wbmc=.png" alt="cricket"/>表示一只蛐蛐，那么图 1 描述了一个 $n=4, m=4, c=2$ 的情况。</p>
+<p>例如：我们用图<img src="//img.uoj.ac/problem/220/flea.png" alt="flea"/>表示一只跳蚤，用图<img src="//img.uoj.ac/problem/220/cricket.png" alt="cricket"/>表示一只蛐蛐，那么图 1 描述了一个 $n=4, m=4, c=2$ 的情况。</p>
 <p>这种情况下蛐蛐国王可以通过将第 2 行第 2 列，和第 3 行第 3 列的两只跳蚤替换为蛐蛐，从而达成他的希望，如图 2 所示。并且，不存在更优的方案，但是可能存在其他替换 2 只跳蚤的方案。</p>
 <div class="row">
 <div class="col-sm-6">
-    <img class="img-responsive center-block" src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMS5wbmc=.png" alt="图1"/><div class="text-center">图1</div>
+    <img class="img-responsive center-block" src="//img.uoj.ac/problem/220/img1.png" alt="图1"/><div class="text-center">图1</div>
 </div>
 <div class="col-sm-6">
-    <img class="img-responsive center-block" src="/source/uoj/220/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjAvaW1nMi5wbmc=.png" alt="图2"/><div class="text-center">图2</div>
+    <img class="img-responsive center-block" src="//img.uoj.ac/problem/220/img2.png" alt="图2"/><div class="text-center">图2</div>
 </div>
 </div>
 

@@ -3,7 +3,7 @@
 <p>为了固定S**p*鸽鸽，whx和zzt来到鸽具商店选购鸽子固定器。</p>
 <p>鸽具商店有 $n$ 个不同大小的固定器，现在可以选择至多 $m$ 个来固定S**p*鸽鸽。每个固定器有大小 $s_i$ 和牢固程度 $v_i$。</p>
 <p>如果他们选购的固定器大小不一或是不牢固，固定S**p*鸽鸽的时候肯定会很头疼，所以定义选择的物品总牢固程度和的 $d_v$ 次方减大小极差的 $d_s$ 次方为这个方案的价值，求不同选购方案中，价值的最大值。</p>
-<p><img src="/source/uoj/386/img/28e450194e83b9db97a2e7af3b3b31bd.jpg" alt="鸽子"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/386/gezigudingqi.jpeg" alt="鸽子固定器"/></p>
 
 # 输入格式
 

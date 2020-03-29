@@ -57,4 +57,8 @@
 <p> $LCA(x, y)$ 和 $LCA′(x, y)$ 分别表示树 $T$ 、 $T′$ 中点 $x$ 与点 $y$ 的最近公共祖先，即在从 $x$ 到 $y$ 的最短路径上的距离根<strong>经过边数最少</strong>的点。</p>
 <hr/><p><strong>时间限制：</strong>$4\mathtt{s}$</p>
 <p><strong>空间限制：</strong>$512\mathtt{MB}$</p>
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=400">样例数据下载</a></p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=400">样例数据下载</a></p>
