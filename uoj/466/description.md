@@ -1,7 +1,7 @@
 # 题目描述
 
 <p>九条可怜是一个热爱打麻将的女孩子。因此她出了一道和麻将相关的题目，希望这题不会让你对麻将的热爱消失殆尽。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/466/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDQvMzAvNWNjODVhNjhjMGJlOS5wbmc=.png" alt="5cc85a68c0be9.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/110.webp" alt="110.webp"/></p>
 <p>今天，可怜想要打麻将，但是她的朋友们都去下自走棋了，因此可怜只能自己一个人打。可怜找了一套特殊的麻将，它有 $n(n \ge 5)$ 种不同的牌，大小分别为 $1$ 到 $n$，每种牌都有 $4$ 张。</p>
 <p>定义面子为三张大小相同或者大小相邻的麻将牌，即大小形如 $i, i, i(1 \le i \le n)$ 或者 $i, i + 1, i + 2(1 \le i \le n − 2)$。定义对子为两张大小相同的麻将牌，即大小形如 $i, i(1 \le i \le n)$。</p>
 <p>定义一个麻将牌集合 $S$ 是胡的当且仅当它的大小为 $14$ 且满足下面两个条件中的至少一个：</p>

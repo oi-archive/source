@@ -47,4 +47,8 @@
 <p>本题部分测试点的输入规模较大，请注意读入效率。  </p>
 <hr/><p><strong>时间限制：</strong>$3\mathtt{s}$</p>
 <p><strong>空间限制：</strong>$512\mathtt{MB}$</p>
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=401">样例数据下载</a></p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=401">样例数据下载</a></p>
