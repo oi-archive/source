@@ -9,7 +9,7 @@
 <p>我微微一笑，合上了日记。“umi，我等着你。”</p>
 <p>给出一棵线段树，这个线段树是广义线段树。在正常的线段树中，对于区间$[l,r]$，我们会取$ m=⌊\frac{l+r}{2}⌋$，然后将这个区间分成 $[l,m]$ 和 $[m+1,r]$ 两个子区间。在广义的线段树中，$m$ 不要求恰好等于区间的中点，但是 $m$ 还是必须 满足 $l≤m&lt; r$ 的。不难发现在广义的线段树中，树的深度可以达到 $O(n)$ 级别。</p>
 <p>如下就是一棵广义线段树：</p>
-<p><img src="/source/uoj/431/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/seg.png" alt="线段树"/></p>
 <p>我们使用先序遍历给出该线段树每个节点的分界点，比如下列序列表示的就是该线段树：</p>
 <pre><code>5 1 3 2 4</code></pre>
 <p>表示的是$[1,6]$分界点为$5$,$[1,5]$的分界点为$1$，$[2,5]$的分界点为3等</p>

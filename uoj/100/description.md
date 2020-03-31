@@ -5,7 +5,7 @@
 <p>没办法，已经失去了，所以这道题只能让你帮 ydc 做了。</p>
 <p>已知的信息只有，这道题是传统题，采用全文比较的方式，时间限制 $1\texttt{s}$，空间限制 $256\texttt{MB}$。</p>
 <p>ydc 还给你提供了这道题的所有数据。</p>
-<p>数据下载: <a href="http://pan.baidu.com/s/1kT8Al0r">http://pan.baidu.com/s/1kT8Al0r</a> 密码: cb5y</p>
+<p>数据下载: <a href="https://pan.baidu.com/s/1kT8Al0r">https://pan.baidu.com/s/1kT8Al0r</a> 密码: cb5y</p>
 <p><strong>该题在比赛时显示的成绩就是最终成绩。</strong></p>
 
 # 来源

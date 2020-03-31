@@ -3,7 +3,7 @@
 <p>土卫二上一片荒凉，但这不影响基地的建造速度。在伏特跳蚤国王的指挥下，跳蚤们愉快地和从火星抓来的特有生物 “火猩” 一起高速建造基地。</p>
 <p>短短几天，基地便建造完毕，这标志着跳蚤国土卫二外区设立完毕。</p>
 <p>这么大的事怎么能不庆祝呢？于是跳蚤们做了一桌丰盛的蚤餐。蚤餐的话当然少不了跳蚤的最爱 —— 仙人掌蛋糕啦！由于火猩巨大的生产力，这个蛋糕是无限大的。在切下 $n$ 刀之后，蛋糕被分为了很多块。面积有限的蛋糕块准备分给跳蚤吃，面积无限大的蛋糕块则准备分给火猩吃。这时……</p>
-<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg" alt="黑恶势力登场"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/241/dark.jpg" alt="黑恶势力登场"/></p>
 <p>从某个隐蔽的角落射出了一束耀眼的光芒，这束光巧妙避开了所有蛋糕块的顶点，所经过的 $n + 1$ 个蛋糕块都被破坏了。</p>
 <p>“高稳鸡光！”众蚤惊呼了起来。</p>
 <p>没错，这意味有几个黑恶势力的特工混进了火箭中，也随着跳蚤大军来到了土卫二，虽然很快就被伏特跳蚤国王抓住并拿去煲汤了……</p>
@@ -42,7 +42,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMS5wbmc=.png" alt="样例一"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/242/sample1.png" alt="样例一"/></p>
 
 # 样例二
 
@@ -62,7 +62,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMi5wbmc=.png" alt="样例二"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/242/sample2.png" alt="样例二"/></p>
 <p>注意数据中前 $n$ 条直线可能出现互相平行的情况。</p>
 
 # 样例三
@@ -84,7 +84,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="/source/uoj/242/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDIvc2FtcGxlMy5wbmc=.png" alt="样例三"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/242/sample3.png" alt="样例三"/></p>
 
 # 样例四
 
