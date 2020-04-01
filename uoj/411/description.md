@@ -46,7 +46,7 @@
 <p>在第一组数据中，能够生成的树是唯一的,因此生成的两棵树必定相同。</p>
 <p>在第二组数据中，能够生成的树只有两种,他们是不同构的。因此生成的两棵树同构的概率为 $\displaystyle\frac{1}{2}$ ，在模 $998244353$ 意义下为 $499122177$。</p>
 <p>在第三组数据中，能够生成的树有 $6$ 种,如下图所示。其中第二、三、四棵(第一排中间三棵)是同构的,其余两两不同构。因此生成的两棵树同构的概率为 $\displaystyle\frac{1}{3}$ ，在模$998244353$ 意义下为 $332748118$。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/411/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMjgvNWFlNDJkZTZjNTM5OS5wbmc=.png" alt="5ae42de6c5399.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/411/tree.webp" alt="树" style="width:500px;"/></p>
 
 # 限制与约定
 
@@ -55,8 +55,8 @@
 <table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>测试点编号</th><th>$n$</th><th>$k$</th></tr></thead><tbody><tr><td>$1$</td><td>$\leq5$</td><td>$=2$</td></tr><tr><td>$2$</td><td>$\leq10$</td><td>$=2$</td></tr><tr><td>$3$</td><td>$\leq20$</td><td>$=2$</td></tr><tr><td>$4$</td><td>$\leq50$</td><td>$=2$</td></tr><tr><td>$5$</td><td>$\leq50$</td><td>$=2$</td></tr><tr><td>$6$</td><td>$\leq50$</td><td>$\leq10^9$</td></tr><tr><td>$7$</td><td>$\leq200$</td><td>$\leq10^9$</td></tr><tr><td>$8$</td><td>$\leq500$</td><td>$\leq10^9$</td></tr><tr><td>$9$</td><td>$\leq1000$</td><td>$\leq10^9$</td></tr><tr><td>$10$</td><td>$\leq2000$</td><td>$\leq10^9$</td></tr></tbody></table></div>
 
 <p>对于 100% 的数据,保证 $p$ 是质数且 $10^8 \le p \le 10^9$ 。</p>
-<p><strong>时间限制: 3s</strong></p>
-<p><strong>空间限制: 512MB</strong></p>
+<p><strong>时间限制:</strong> 3s</p>
+<p><strong>空间限制:</strong> 512MB</p>
 
 # 下载
 

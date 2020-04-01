@@ -4,7 +4,7 @@
 <p>现在小Y有一个电阻网络，问有多少点对 $(u,v)(u \neq v)$ 之间的电阻可以用串并联的方法计算出来。</p>
 <p>我们来形式化地定义一下点对 $(u,v)(u \neq v)$  之间的电阻能否用串并联的方法计算出来。首先我们把电阻网络看成一个 $n$ 个点 $m$ 条边的图（每个电阻对应一条边）。令 $S$ 表示从 $u$ 到 $v$ 的所有简单路径(不经过重复的点的路径)上点的并集，也就是对于一个点 $x$ ，如果存在一条从 $u$ 到 $v$ 的简单路径经过这个点，那么它就在集合  $S$ 中。如果 $S$ 非空且 $S$ 的导出子图是 $u,v$ 为端点的二端串并联图，那么 $u,v$ 之间的电阻就能用串并联方法计算。</p>
 <p>一个有两个不同端点 $s,t$ 的图被称为二端图，其中一个称为源点，另一个称为汇点。两个二端图 $X,Y$ 并联(parallel composition)是指建一个新图，把 $X$ 和 $Y$ 的源点和汇点分别合并起来。两个二端图 $X,Y$ 串联(series  composition)是指建一个新图，把 $X$ 的汇点和 $Y$ 的源点合并起来。由若干个两个点一条边的二端图经过一系列串并联变化之后形成的图称为二端串并联图。 </p>
-<p><img src="/source/uoj/197/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNTEwMjEzNzI2LnBuZw==.png" alt="QAQ"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/197/dianzu.png" alt="QAQ"/></p>
 <p>集合 $S$ 的导出子图点集为 $S$ ，边集由原图中两个端点都在 $S$ 中的边构成。 </p>
 
 # 输入格式

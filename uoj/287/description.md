@@ -44,7 +44,7 @@ No
 
 <h4>explanation</h4>
 <p>棋盘如下图所示：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/287/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yODcvc2FtcGxlLmpwZw==.jpg" alt="样例" style="width:300px;"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/287/sample.jpg" alt="样例" style="width:300px;"/></p>
 <p>对于第一组询问，只要将 $0$ 号点沿着 $5-4-3-2-1$ 的路径移动。对于第二组询问，将 $0$ 号点沿着$5-3-1-2-3$移动。对于第三组询问是无解的。</p>
 
 # 样例二
