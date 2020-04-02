@@ -3,7 +3,7 @@
 <p>今天又是核平的一天，跳蚤大军在完成建设任务后，也闲得没事做了。为贯彻劳逸结合的思想，跳蚤们分成 $n$ 队，正围在一起打着蚤国杀。同时，为了防御可能的袭击，跳蚤们在打牌现场安放了 $m$ 个 “三角莲”。</p>
 <p>三角莲是一种植物，因其三角形莲叶而得名。在三角莲覆盖的区域内，它能使用技能“莲莲看”，用 “莲线” 将袭击过来的导蛋连在一起，并用 “莲刀” 一次销毁在莲线上的导蛋。它除了有防御的功能外，还能赋予跳蚤 “莲爱” 状态，使得跳蚤干劲十足，思考速度翻倍！当然它还有遮阴的作用，实乃居家旅行必备植物！</p>
 <p>然而在地表……</p>
-<p><img class="img-responsive center-block" src="/source/uoj/243/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDEvZGFyay5qcGc=.jpg" alt="黑恶势力登场"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/241/dark.jpg" alt="黑恶势力登场"/></p>
 <p>其实，垃鸡除了能发射鸡光，还能 “咯咯咯” 生出几个导蛋下来，而黑恶势力便将其改造成 “地对土导蛋”，准备对土卫二上的跳蚤大军发动奇袭。</p>
 <p>黑恶势力通过 “扫描鸡光” 看到了三角莲之后并不死心，他们想统计下每个三角莲覆盖了多少队跳蚤，以便制定出一个最优的袭击计划。</p>
 <p><strong>一句话题意：</strong>平面上有 $n$ 个点，$m$ 次询问，每次询问一个三角形内的点数。（边界上的点也包含）</p>
@@ -43,7 +43,7 @@
 </pre>
 
 <h4>explanation</h4>
-<p><img class="img-responsive center-block" src="/source/uoj/243/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDMvc2FtcGxlLnBuZw==.png" alt="样例解释"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/243/sample.png" alt="样例解释"/></p>
 
 # 样例二
 
@@ -85,4 +85,4 @@
 <p>正当 BOSS 打算按下桌上的按钮发动袭击的时候，地下会议室的门嘎吱一声被打开了，出现了一个人影。</p>
 <p>“我是环保局工作人员，发射场的那些垃圾是你们丢的吧。在跳蚤国，你这样乱丢垃圾，是要被拿去煲汤的！诶，你们在干什么……”</p>
 <p>黑恶势力最终还是被一锅端了，土卫二改造工作也顺利完成，Happy Ending~</p>
-<p><img class="img-responsive center-block" src="/source/uoj/243/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yNDMvZGVmZWF0LmpwZw==.jpg" alt="把黑恶势力干翻"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/243/defeat.jpg" alt="把黑恶势力干翻"/></p>

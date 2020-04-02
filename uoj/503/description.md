@@ -1,7 +1,7 @@
 # 题目描述
 
 <p>比太郎的房间是一个直角边长度为$N$的等腰直角三角形。以直角定点为原点，两条直角边分别为$x,y$轴建立坐标系，$(x,y)(0 \leq x \leq N, 0 \leq y \leq N, x + y \leq N)$就表示比太郎房间中的一个点。</p>
-<p><a href="https://sm.ms/image/ofNwYLA8cQnkjqP"><img src="/source/uoj/503/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMjAvMDMvMjMvb2ZOd1lMQThjUW5ranFQLnBuZw==.png" alt="ofNwYLA8cQnkjqP.png"/></a></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/503/saochu.webp" alt="比太郎的房间"/></p>
 <p>一天，比太郎注意到他的房间里充满了灰尘。一开始，房间里有$M$片灰尘，其中第$i$片的坐标是$(X_i,Y_i)$。不同的灰尘可以重叠。</p>
 <p>现在，比太郎打算用扫帚打扫房间。我们可以把扫帚看作房间里的一条线段，并把线段的长度称作扫帚的<strong>宽度</strong>。比太郎是一个井井有条的人，他只会按照以下两种方式打扫房间：</p>
 <ul><li>比太郎把扫帚放在$y$轴上，使扫帚的一个端点落在原点。然后，他沿着$x$轴的方向水平移动扫帚，直到扫帚碰到房间的斜边为止，保持扫帚的一个端点在$x$轴上，并且与$y$轴平行。如果扫帚的宽度是$l$，原来位于$(x,y) (x &lt; N - l,y \leq l)$的灰尘将会被扫到$(N-l,y)$处。（$(N-l,y)$处可能有其它灰尘。）这被称作<strong>过程H</strong>。</li>

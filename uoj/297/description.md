@@ -2,7 +2,7 @@
 
 <p>一个密钥是一个长度为 $n = 2k+1$ 的字符串，它包含 $1$ 个字母X、$k$ 个字母 A 和 $k$ 个字母 B。例如 $k=3$ 时，BAXABAB 就是一个密钥。</p>
 <p>如下图所示，可以按顺时针顺序把这 $2k+1$ 个字母排成一个圈：</p>
-<p><img class="img-responsive center-block" src="/source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYS5qcGc=.jpg" style="width:200px;" alt="圈"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/297/a.jpg" style="width:200px;" alt="圈"/></p>
 <p>在 $k$ 个字母 A 中，有一部分可以定义为&#34;<strong>强的</strong>&#34;。</p>
 <p>具体来说，从 X 出发顺时针走到某个 A 时，如果途中 A 的数目<strong>严格多于</strong> B 的数目，则称此字母 A 为强的。</p>
 <p>对于上面的例子来说，顺时针方向从字母 X 数起第 $1$ 个和第 $2$ 个字母 A 是强的，而第 $3$ 个字母 A 不是强的。</p>
@@ -12,7 +12,7 @@
 （注意，满足这样要求的密钥一共有 $k+1$ 个，因为字母 X 还剩下 $k+1$ 个可能的位置。）</p>
 <p>可以证明：所有这$k+1$个可能的密钥的特征值是各不相同的，它们恰好为$0,1,2,…,k$。</p>
 <p>下页的图是一个具体的示例，从左到右的四个子图中分别有3个，2个，1个，0个字母A是强的。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/297/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yOTcvYi5qcGc=.jpg" style="width:600px;" alt="圈"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/297/b.jpg" style="width:600px;" alt="圈"/></p>
 <p>类似地，如果固定 $k$ 个字母 B 的位置，那满足条件的所有 $k+1$ 个密钥的特征值也各不相同，恰好为 $0,1,\cdots,k$。</p>
 <p>现在你需要解决以下三个问题：</p>
 <ol><li>给定密钥中所有 A 的位置，当密钥的特征值为 $0$ 时，请问 X 在哪个位置。</li>
