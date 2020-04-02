@@ -8,10 +8,10 @@
 某天晚上，michaelshuoliu 结束了在图书馆的学习，踏上幽静的小道，准备回寝室接着学。这条小道长为 $n$ 格，宽为 $2$ 格。一开始，michaelshuoliu 在小道最左上角的格子，他想要走到小道底部。每一步他会从以下三种策略中选择一种：
 
 1. 向下走一格。  
-![向下1.png](https://i.loli.net/2019/11/05/BupXFr7lv2cJ8iw.png)
-![向下2.png](https://i.loli.net/2019/11/05/ZlLPUnmoijg2qvt.png)
+![向下1.png](/source/lutece/ye-lu/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMDUvQnVwWEZyN2x2MmNKOGl3LnBuZw==.png)
+![向下2.png](/source/lutece/ye-lu/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMDUvWmxMUFVubW9pamcycXZ0LnBuZw==.png)
 2. 向左下走一格（如果他在道路左侧则不能选择这一种）。  
-![向左下.png](https://i.loli.net/2019/11/05/yLcKCqzvfwUI25X.png)
+![向左下.png](/source/lutece/ye-lu/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMDUveUxjS0NxenZmd1VJMjVYLnBuZw==.png)
 3. 向右下走一格（如果他在道路右侧则不能选择这一种）。  
 ![向右下.png](/source/lutece/ye-lu/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMDUvMVNBZUNrdEZ5TkpCRW05LnBuZw==.png)
 
