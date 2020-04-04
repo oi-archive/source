@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**原题来自：[Contest Hunter Round #56](http://contest-hunter.org:83/contest/CH%20Round%20%2356%20-%20%E5%9B%BD%E5%BA%86%E8%8A%82%E6%AC%A2%E4%B9%90%E8%B5%9B/%E5%BC%82%E8%B1%A1%E7%9F%B3)**
+**原题来自：[Contest Hunter Round #56](http://noi-test.zzstep.com/contest/CH%20Round%20%2356%20-%20%E5%9B%BD%E5%BA%86%E8%8A%82%E6%AC%A2%E4%B9%90%E8%B5%9B/%E5%BC%82%E8%B1%A1%E7%9F%B3)**
 
 在 Adera 的异时空中有一张地图。这张地图上有 $N$ 个点，有 $N-1$ 条双向边把它们连通起来。起初地图上没有任何异象石，在接下来的 $M$ 个时刻中，每个时刻会发生以下三种类型的事件之一： 
 1.  地图的某个点上出现了异象石（已经出现的不会再次出现）； 
