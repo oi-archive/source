@@ -36,6 +36,7 @@
 
 
 <p>  选手程序可能会运用若干全局变量和子程序。为了防止多个文件变量重名或子程序重名带来的编译错误，请将所有全局变量和子程序定义在一个没有名字的 namespace 里。</p>
+<p>  如果在程序里使用 printf/scanf/cout/cin，会直接导致 Wrong Answer 或者 Runtime Error。</p>
 <p>  最终测评时会将 Anthony 和 Catherine 的程序独立编译，因此不能共享全局变量。</p>
 
 # 编译与运行
@@ -77,4 +78,4 @@
 # 下载
 
 
-<p><a href="/download.php?type=problem&amp;id=509">测评库下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=509">样例及测评库下载</a></p>

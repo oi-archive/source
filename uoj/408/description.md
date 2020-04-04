@@ -4,13 +4,13 @@
 <p>为了描述娃娃是如何运动的，设想有一个<strong>球</strong>放在这些器件之一的上面。这个球在管路中穿行。在穿行的每一步，它从所在器件的一个出口离开该器件，沿着连接该出口的管道，进入管道另一头所连接的器件。</p>
 <p>器件有三种类型：<strong>起点</strong>、 <strong>触发器</strong>和<strong>开关</strong>。总共有恰好一个起点，$M$个触发器和$S$个开关（$S$可以为零）。开关的数量$S$要由你来定。每个器件都有唯一的序列号。</p>
 <p>起点是球最初所在的那个器件。它有一个出口。它的序列号是$0$。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlMDhjNy5wbmc=.png" alt="pic1"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/408/qidian.png" alt="起点"/></p>
 <p>一旦球进入某个触发器，就会让娃娃做某个特定运动。每个触发器都有一个出口。触发器的序列号是从$1$到$M$。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhkZWY1Yy5wbmc=.png" alt="pic2"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/408/chufaqi.png" alt="触发器"/></p>
 <p>每个开关都有两个出口，被记为“X”和“Y”。开关的<strong>状态</strong>或者为“X”，或者为“Y”。在球进入
 某个开关后，它会从开关的当前状态所对应的出口离开。此后开关将切换为另一状态。最初，所有开
 关的状态都是“X”。开关的序列号是从$-1$到$-S$。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhmMTBkZi5wbmc=.png" alt="pic3"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/408/kaiguan.png" alt="开关"/></p>
 <p>告诉你触发器的数量$M$。再给你一个长度为$N$的序列$A$，序列的每个元素都是某个触发器的序列号。每个触发器会在序列$A$中出现若干次（也可能是零次）。你的任务是设计一个管路，以满足如下条件：</p>
 <ul><li>球在若干步之后返回到起点。</li>
 <li>当球首次返回到起点时，所有开关的状态都是“X”。</li>
@@ -42,7 +42,7 @@
 
 <p>假设 $ M = 4 $，$ N = 4 $ 和 $ A = [1, 2, 1, 3] $。评测程序调用<code>create_circuit(4, [1, 2, 1,
 3])</code>。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/408/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMjYvNWJhYjY0MDhlOWQ1ZS5wbmc=.png" alt="pic4"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/408/dianlu.png" alt="电路"/></p>
 <p>上图展示了函数调用<code>answer([1, -1, -2, 0, 2], [2, -2], [3, 1])</code>所对应的管路图。图中的数字是器件的序列号。</p>
 <p>图中使用了两个开关。所以$ S = 2 $.</p>
 <p>开关 $ -1 $ 和 $ -2 $ 的初始状态都是“X”。</p>
