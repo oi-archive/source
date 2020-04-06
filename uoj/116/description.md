@@ -54,7 +54,7 @@
 <p>然后在终端中运行：<samp>./run_linux64 &lt;code&gt;</samp>。其中 <samp>&lt;code&gt;</samp> 是你要执行的汇编代码的文件名。例如：<samp>./run lock1.in</samp>（当然我们也提供了对应的 32 位版本 <samp>run_linux32</samp>，Windows 选手请使用 <samp>run_win32 lock1.in</samp>）</p>
 <p>模拟器将从终端中读入数据。如果你想从文件中读入，请使用 <samp>&lt;</samp> 来指定。</p>
 <p>例如：<samp>./run lock1.in &lt;lock1.out</samp></p>
-<p>其它操作系统请安装 <a href="http://nodejs.org/download/">node.js</a> 然后使用 <samp>node run.js &lt;code&gt;</samp> 运行。</p>
+<p>其它操作系统请安装 <a href="//nodejs.org/">node.js</a> 然后使用 <samp>node run.js &lt;code&gt;</samp> 运行。</p>
 
 # 输出格式
 

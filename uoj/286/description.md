@@ -65,7 +65,7 @@ int identify(graph g);</code></pre>
 
 <p>选手给出的图必须是简单无向连通图，且结点数不能超过 $50$。</p>
 <p>我们给出了一个参考的样例测评库 grader.cpp 及一个样例程序 sample.cpp。样例测评库中自带了图的合法性检查及题目中提到的 $6$ 个算法。请注意最终测评时 $6$ 个算法的运行不会占用选手的程序运行时间。</p>
-<p><a href="http://uoj.ac/faq">交互式类型的题目怎么本地测试</a></p>
+<p><a href="/faq">交互式类型的题目怎么本地测试</a></p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
 <p><strong>空间限制：</strong>$256\texttt{MB}$</p>
 
