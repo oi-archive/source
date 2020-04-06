@@ -5,7 +5,7 @@
 
 新建的圆形动物园是亚太地区的骄傲。圆形动物园坐落于太平洋的一个小岛上，包含一大圈围栏，每个围栏里有一种动物。如下图所示：
 
-![zoo1.png](/source/loj/10174/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvem9vMS5wbmc=.png)
+![zoo1.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/zoo1.png)
 
 你是动物园的公关主管。你要做的是，让每个参观动物园的游客都尽可能高兴。今天有一群小朋友来到动物园参观，你希望能让他们在动物园度过一段美好的时光。但这并不是一件容易的事——有些小朋友喜欢某些动物，而有些小朋友则害怕某些动物。例如， Alex 喜欢可爱的猴子和考拉，而害怕拥有锋利牙齿的狮子。而 Polly 会因狮子有美丽的鬃毛而喜欢它，但害怕有臭味的考拉。
 
@@ -17,7 +17,7 @@
 
 例如，考虑下图中的小朋友和动物：
 
-![zoo2.png](/source/loj/10174/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvem9vMi5wbmc=.png)
+![zoo2.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/zoo2.png)
 
 假如你将围栏 $4$ 和 $12$ 的动物移走。Alex 和 Ka-Shu 将很高兴，因为至少有一个他们害怕的动物被移走了。这也会使 Chaitanya 高兴，因为他喜欢的围栏 $6$ 和 $8$ 中的动物都保留了。但是，Polly 和 Hwan 将不高兴，因为他们看不到任何他们喜欢的动物，而他们害怕的动物都还在。这种安排方式使得三个小朋友高兴。
 
