@@ -7,7 +7,7 @@
 
 有一个 $n\times m$ 大小的网格，其中有些格点比较特殊，当玩家站在上面的时候会自动移动到相邻四个方向之一，另外一些格点暂时还并不特殊，因为它们的移动方向还未知，如下图：
 
-![Challenge](https://loj.ac/problem/1/testdata/download/challenge.png)
+![Challenge](/source/loj/6298/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL2NoYWxsZW5nZS5wbmc=.png)
 
 上图中，第一列和最后一行格点的移动方向未知，其他点的移动方向已经确定了，已经在图中用箭头指出其方向。
 
@@ -15,7 +15,7 @@
 
 如下图是一个方案，其中蓝色格点标注出了从起点到终点的路径：
 
-![Submit](https://loj.ac/problem/1/testdata/download/submit.png)
+![Submit](/source/loj/6298/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8xL3Rlc3RkYXRhL2Rvd25sb2FkL3N1Ym1pdC5wbmc=.png)
 
 # 输入格式
 
