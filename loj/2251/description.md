@@ -10,7 +10,7 @@
 
 尽管那个时候的可怜非常的 simple，但是她还是发现这题可以用树状数组做。当时非常 young 的她写了如下的算法：
 
-![](/source/loj/2251/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg3MDY4NWQyZDUucG5n.png)
+![](https://ooo.0o0.ooo/2017/04/20/58f870685d2d5.png)
 
 其中 $\mathrm{lowbit}(x)$ 表示数字 $x$ **最低**的非 $0$ 二进制位，例如 $\text{lowbit}(5) = 1, \text{lowbit}(12) = 4$。进行第一类操作的时候就调用 $\mathrm{Add}(x)$，第二类操作的时候答案就是 $\mathrm{Query}(l, r)$。
 
