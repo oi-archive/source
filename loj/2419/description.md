@@ -42,5 +42,5 @@ FJ 正修建一个漂亮的花园。花园由 $N$ 个花圃组成，花圃 $i$ �
 
 # 数据范围与提示
 
-$1 \leq N \leq 10^5,$ $1 \leq A_i,B_i \leq 10,$ $0 \leq X, Y \le 10^8,$ $0 \le Z \leq 1000$。
+$1 \leq N \leq 10^5,$ $0 \leq A_i,B_i \leq 10,$ $0 \leq X, Y \le 10^8,$ $0 \le Z \leq 1000$。
 
