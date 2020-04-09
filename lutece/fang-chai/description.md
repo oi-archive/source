@@ -68,9 +68,9 @@ $1 \leq o \leq 4$
 
 以下为本题中方差的定义：
 
-$S^2=\frac{1}{n}[\sum_{i=1}^{n}{(X_i-\bar{X})^2}]$
+$\displaystyle S^2=\frac{1}{n}\left[\sum_{i=1}^{n}{(X_i-\bar{X})^2}\right]$
 
-$\bar{X}=\frac{1}{n}\sum_{i=1}^{n}{X_i}$
+$\displaystyle \bar{X}=\frac{1}{n}\sum_{i=1}^{n}{X_i}$
 
 # Source
 
