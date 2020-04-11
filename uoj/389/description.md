@@ -52,7 +52,7 @@
 
 
 <p>样例中的图如下图所示，<strong>注意图中的重边未被标识。</strong></p>
-<p><img class="img-responsive center-block" src="/source/uoj/389/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zODkvMS5qcGc=.jpg" width="300" alt="样例一解释"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/389/1.jpg" style="width:300px;" alt="样例一解释"/></p>
 <p>一种最优的遍历顺序是：</p>
 <p>$1 \rightarrow 3 \rightarrow 2 \rightarrow 5 \rightarrow 4 \rightarrow 1 \rightarrow 3 \rightarrow 4 \rightarrow 1 \rightarrow 3 \rightarrow 1$</p>
 <p><strong>再次提醒：注意重边。</strong></p>

@@ -10,7 +10,7 @@
 <hr/><p>作为一个数竞选手，小 $y^\infty$ 一眼就秒了这个题，这大约只要写一棵线段树就好了。</p>
 <p>这里给出了他的详细做法，大概和 UOJ#228. 基础数据结构练习题 的做法差不多？</p>
 <p>线段树是一种二叉树，它的每个节点都代表着一个区间，大约长这样：</p>
-<p><img src="/source/uoj/421/img/aHR0cDovL2ppcnV5aTkxMDM4NzcxNC5pcy1wcm9ncmFtbWVyLmNvbS91c2VyX2ZpbGVzL2ppcnV5aTkxMDM4NzcxNC9JbWFnZS9RUSVFNiU4OCVBQSVFNSU5QiVCRTIwMTYwNzE1MDE0NTE3XzIwMTYwNzE1MDE0ODM2LnBuZw==.png" alt="http://jiruyi910387714.is-programmer.com/user_files/jiruyi910387714/Image/QQ%E6%88%AA%E5%9B%BE20160715014517_20160715014836.png"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/utility/seg.png" alt="线段树"/></p>
 
 
 
@@ -94,3 +94,8 @@
 <p><del>乱搞碾标算，N方过百万！</del></p>
 <p>时间限制：$5s$</p>
 <p>空间限制：$512MB$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=421">样例数据下载</a></p>

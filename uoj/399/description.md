@@ -116,4 +116,8 @@
 <li>测试点顺序可能与难度无关。   </li>
 </ol><hr/><p><strong>时间限制</strong>：$6\mathtt{s}$</p>
 <p><strong>空间限制</strong>：$512\mathtt{MB}$</p>
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=399">样例数据下载</a></p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=399">样例数据下载</a></p>

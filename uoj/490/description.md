@@ -3,9 +3,9 @@
 <p>给定一个大小为 $n$ 的树,它共有 $n$ 个结点与 $n − 1$ 条边,结点从 $1 \sim n$ 编号。初始时每个结点上都有一个 $1 \sim n$ 的数字,且每个 $1 \sim n$ 的数字都只在<strong>恰好</strong>一个结点上出现。</p>
 <p>接下来你需要进行<strong>恰好</strong> $n − 1$ 次删边操作,每次操作你需要选一条<strong>未被删去</strong>的边，此时这条边所连接的两个结点上的数字将会<strong>交换</strong>,然后这条边将被删去。</p>
 <p>$n − 1$ 次操作过后,所有的边都将被删去。此时,按数字从小到大的顺序,将数字 $1 \sim n$ 结点编号依次排列,就得到一个结点编号的排列 $P_i$。现在请你求出,在最优操作方案下能得到的<strong>字典序最小</strong>的 $P_i$。</p>
-<p><img src="/source/uoj/490/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTkvMVp3MkNoaUdtSmtXZ1VmLnBuZw==.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/490/csptree1.webp" style="width:200px;" alt="示意图"/></p>
 <p>如上图,蓝圈中的数字 $1 \sim 5$ 一开始分别在结点②、①、③、⑤、④。按照 (1)(4)(3)(2)的顺序删去所有边,树变为下图。按数字顺序得到的结点编号排列为①、③、④、②、⑤。排列是所有可能的结果中字典序最小的。</p>
-<p><img src="/source/uoj/490/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTkvams3aEViSXlsWDlBYzZ4LnBuZw==.png" alt=""/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/490/csptree2.webp" style="width:230px;" alt="示意图"/></p>
 
 # 输入格式
 
@@ -76,3 +76,8 @@
 <p>对于所有测试点: $1 \leq T \leq 10$,保证给出的是一个树。</p>
 <p><strong>时间限制:</strong> $2\texttt{s}$</p>
 <p><strong>空间限制:</strong> $256\texttt{MB}$</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=490">样例数据下载</a></p>
