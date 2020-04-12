@@ -5,8 +5,8 @@
 
 
 <p>小Y是一个爱好旅行的OIer。一天，她来到了一个新的城市。由于不熟悉那里的交通系统，她选择了坐地铁。</p>
-<p>她发现每条地铁线路可以看成平面上的一条曲线，不同线路的交点处一定会设有换乘站 <img src="/source/uoj/338/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWU4NGNkNGRkNS5wbmc=.png" alt="img"/> 。通过调查得知，没有线路是环线，也没有线路与自身相交。任意两条不同的线路只会在若干个点上相交，没有重合的部分，且没有三线共点的情况。即，如图所示的情况都是不存在的：</p>
-<p> <img src="/source/uoj/338/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWU4NGY1MzM4OS5wbmc=.png" alt="img" width="812" height="180"/></p>
+<p>她发现每条地铁线路可以看成平面上的一条曲线，不同线路的交点处一定会设有换乘站 <img src="//img.uoj.ac/problem/338/huancheng.webp" alt="换成站"/> 。通过调查得知，没有线路是环线，也没有线路与自身相交。任意两条不同的线路只会在若干个点上相交，没有重合的部分，且没有三线共点的情况。即，如图所示的情况都是不存在的：</p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/338/example.webp" alt="例子" style="width:812px;"/></p>
 <p>小Y坐着地铁 $0$ 号线，路上依次经过了 $n$ 个换乘站。她记下了每个换乘站可以换乘的线路编号，发现每条线路与她所乘坐的线路最多只有 $2$ 个换乘站。现在小Y想知道，除掉她经过的换乘站以外，这个城市里最少有几个换乘站。只有你告诉她正确的答案，她才会答应下次带你去玩呢。</p>
 
 # 输入格式
@@ -43,7 +43,7 @@
 1</code></pre>
 <h4>explanation</h4>
 <p>对于样例的前两组数据，一种可能的最优答案如下图所示。</p>
-<p> <img src="/source/uoj/338/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDkvMTkvNWJhMWU4NGVhYzM2Yy5wbmc=.png" alt="img" width="330" height="283"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/338/338-exp.png" alt="解释" style="width:500px;"/></p>
 
 # 限制与约定
 
@@ -56,4 +56,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=338">样例数据下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=338">样例数据下载</a></p>
