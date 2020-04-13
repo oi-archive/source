@@ -11,7 +11,7 @@
 >都只是遥不可及的宝石  
 >即便如此，人们啊，  
 >获得幸福吧！  
->![zqq1.png](https://herano.coding.net/p/PicPlace/d/PicPlace/git/raw/master/zzd1.png)  
+>![zqq1.png](/source/loj/6200/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvenpkMS5wbmc=.png)  
 >世界将在 7 月 20 日终结。  
 >世界回归天空的日子。  
 >万物被天空侵染的日子。  
@@ -20,14 +20,14 @@
 >世界的极限。  
 >世界的尽头。  
 >世界的终结。  
->![zqq2.png](https://herano.coding.net/p/PicPlace/d/PicPlace/git/raw/master/zzd2.png)  
+>![zqq2.png](/source/loj/6200/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvenpkMi5wbmc=.png)  
 >你看……那就是极限……最尽头的天空。  
 >如今，已无应该之事了如今，已无忘却之物了。  
 >不需要的话语。  
->![zqq3.png](https://herano.coding.net/p/PicPlace/d/PicPlace/git/raw/master/zzd3.png)  
+>![zqq3.png](/source/loj/6200/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvenpkMy5wbmc=.png)  
 >告别了永不相交的平行，我被吸进了……  
 >垂直下落的世界。  
->![zqq4.png](https://herano.coding.net/p/PicPlace/d/PicPlace/git/raw/master/zzd4.png)  
+>![zqq4.png](/source/loj/6200/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvenpkNC5wbmc=.png)  
 >虽哭亦喜  
 >虽悲亦喜  
 >各种感情混在一起……  
@@ -53,7 +53,7 @@
 >风正凉  
 >在我怀中，温暖的，  
 >橘希实香  
->![zqq5.png](https://herano.coding.net/p/PicPlace/d/PicPlace/git/raw/master/zzd5.png)  
+>![zqq5.png](/source/loj/6200/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvenpkNS5wbmc=.png)  
 >她在我的怀中……静静地合上了双眼  
 >然后我也……  
 >静静地合上了双眼
