@@ -105,5 +105,5 @@ $$\mathrm{ans3} = \frac{1}{r-l+1}\sum_{n=l}^{r} G(n,k)$$
 - $1\le k \le 501$
 - $r - l + 1 \not \equiv 0 \pmod {998244353}$
 
-时间限制根据 loj 评测机效率经过相应调整。
+时间限制根据 LOJ 评测机效率经过相应调整。
 

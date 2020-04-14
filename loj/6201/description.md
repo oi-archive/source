@@ -5,11 +5,11 @@
 >镜子的世界里会有快乐的事情吗？  
 >镜子世界的我，像我一样摆着一副无聊的表情  
 > ——出自《镜之国的爱丽丝》  
->![1.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/ftc1.png)  
+>![1.png](/source/loj/6201/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvZnRjMS5wbmc=.png)  
 >两个少女的战斗故事。  
 >文学代表强烈的意志，化学是对抗物理世界的力量。  
 >她们只有这两样对抗现实的武器。  
->![2.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/ftc2.png)  
+>![2.png](/source/loj/6201/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvZnRjMi5wbmc=.png)  
 >啊，勒布雷！  
 >我今天要登上乳白色的月球了！  
 >不需要发明是机器，真是如此，我要一跃而出！  
@@ -40,7 +40,7 @@
 >对不起，我该走了，我不能让人久等！  
 >你们看……月亮来迎接我了！  
 >Mon panache！  
->![3.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/ftc3.png)  
+>![3.png](/source/loj/6201/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvZnRjMy5wbmc=.png)  
 >我往空中踏出一步  
 >两人拼命地想要拉住我  
 >但是我往空中踏出一步  
@@ -53,7 +53,7 @@
 >没关系……  
 >我在你们身边！  
 >Sora！  
->![4.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/ftc4.png)  
+>![4.png](/source/loj/6201/img/aHR0cHM6Ly9oZXJhbm8uY29kaW5nLm5ldC9wL1BpY1BsYWNlL2QvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvZnRjNC5wbmc=.png)  
 >我完全投身于空中  
 >我的身体瞬间从空中向地面落去  
 >我紧紧地握住两人手腕，拉着两人  
