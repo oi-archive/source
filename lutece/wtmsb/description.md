@@ -11,7 +11,7 @@
 # Standard Input
 
 第一行包含一个整数$n$，    
-第二行包含$n$个整数$A\_1,A\_2,{\ldots},A\_n$，代表$n$张图片的社保值。
+第二行包含$n$个整数$A_1,A_2,{\ldots},A_n$，代表$n$张图片的社保值。
 
 # Standard Output
 
