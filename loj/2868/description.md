@@ -45,7 +45,7 @@ int64[] minimum_costs(int[] H, int[] L, int[] R)
 
 评测程序调用 `minimum_costs([2, 4, 3, 5], [0, 1], [2, 3])`。
 
-![meeting.png](/source/loj/2868/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvbWVldGluZy5wbmc=.png)
+![meeting.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/meeting.png)
 
 会议 $j=0$ 有 $L_j=0$ 和 $R_j=2$，所以将由住在山 $0,1$ 和 $2$ 上的人参加。如果山 $0$ 被选做举办地，会议 $0$ 的成本计算如下：
 - 住在山 $0$ 上的参会者的成本是 $\max \{ H_0\}=2$。
