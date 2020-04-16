@@ -5,7 +5,7 @@
 <p>鸽举制是鸽国自古以来的一项传统文化制度，鸽举选仕也是鸽国政治制度的重要组成部分。为了选拔不鸽的人才，鸽国只能采用这种制度，并给予丰厚的回报。即便是如此，鸽国仍然处于“来了一个算一个、来了两个赚一个”的状态。</p>
 <p>*鸽普是今年鸽举的主考官，他要负责给鸽子们出 $ 8 $ 道试题。但是*鸽普认为，认认真真出了这几道题的有违他的原则，因此他的数据<strong>全部是随机的</strong>。</p>
 <p><strong><font color="#FF0000">F</font><font color="#000000">ateice </font></strong> 觉得这样不好，但是他也不愿意帮助*鸽普完成造数据的任务。幸好，<strong><font color="#FF0000">F</font><font color="#000000">ateice </font></strong> 是大预言家，他预言了 $ 8 $ 份代码，并交给了你。<strong>你的任务是构造 $ 8 $ 组测试数据，使得这 $ 8 $ 份代码无法在规定的时间内得出正确的解。</strong></p>
-<p><img class="img-responsive center-block" src="/source/uoj/391/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8zOTEvZGF5dXlhbmppYS5qcGc=.jpg" alt="我是大预言家"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/391/dayuyanjia.jpg" alt="我是大预言家"/></p>
 <p><strong>非常抱歉。。由于疏忽，第2个测试点漏掉了一个限制：</strong> $1 \le v, u \le n$。<strong>第 8 个测试点中，应当有</strong> $ k \ge 2 $。</p>
 
 # 下发文件
@@ -32,5 +32,5 @@
 # 下载
 
 
-<p><a href="http://img.uoj.ac/problem/391/problem_391.zip">数据下载通道1</a> （推荐）</p>
+<p><a href="//img.uoj.ac/problem/391/problem_391.zip">数据下载通道1</a> （推荐）</p>
 <p><a href="/download.php?type=problem&amp;id=391">数据下载通道2</a></p>
