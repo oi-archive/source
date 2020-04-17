@@ -71,8 +71,8 @@
 <p>在终端中先切换到该试题的目录下：（windows用户请使用cmd）（假设你把输入输出文件、checker什么的都放在了vote这个文件夹下）</p>
 <p><code>cd vote</code></p>
 <p>我们提供checker这个工具来测试你的输出文件是否是可接受的。使用这个工具的方法是，在终端中运行</p>
-<p><code>g++ checker.cpp -o checker </code></p>
-<p><code>./checker vote.in your_answer.out your_answer.out </code></p>
+<p><code>g++ checker.cpp -o checker</code></p>
+<p><code>./checker vote&lt;case_no&gt;.in your_answer.out your_answer.out</code></p>
 <p>其中case_no是测试数据的编号。</p>
 <p>在你调用这个程序后，checker将根据你给出的输出文件给出测试的结果。</p>
 <p><strong>注意比赛时提交此题显示的成绩就是最终成绩。</strong></p>
@@ -80,4 +80,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=354">checker下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=354">checker下载</a></p>
