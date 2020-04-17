@@ -7,11 +7,11 @@
 1. 生产一个仅有一个顶点标号为 $0$ 而没有边的零件。
 2. 组合两个已有的零件 $G_1$、$G_2$，且 $G_2$ 的顶点数 $m$ 大于等于 $G_1$ 的顶点数 $n$，得到新的零件 $G$。$G$ 的顶点集合是 $G_1$、$G_2$ 顶点集合的并集，并且 $G_2$ 的顶点 $i \ (0 \leq i < m)$ 被重新标号为 $n + i$。$G$ 的边集是 $G_1$、$G_2$ 边集的并集再对所有标号为 $a \ (a \geq n)$ 的顶点添加一条连接 $(a, a \bmod n)$ 的无向边。
 
-![gadget_desc_1.png](https://ooo.0o0.ooo/2017/04/20/58f89a9476f01.png)
+![gadget_desc_1.png](/source/loj/2040/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5YTk0NzZmMDEucG5n.png)
 
 现在 SHTSC 正在思考，对于一个给定的零件，能否由零件组装机生产组装得到。注意：零件是带标号的，这意味着两个零件即使仅有标号不同也被视为不同的零件。为了帮助你理解问题，SHTSC 特地给了你顶点数 $\leq 5$ 的所有零件的图例。
 
-![gadget_desc_2.png](https://ooo.0o0.ooo/2017/04/20/58f89a9484a59.png)
+![gadget_desc_2.png](/source/loj/2040/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg5YTk0ODRhNTkucG5n.png)
 
 # 输入格式
 
