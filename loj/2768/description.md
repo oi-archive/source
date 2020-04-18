@@ -25,7 +25,7 @@
 
 下图展示了一个确定虎的位置的过程。
 
-![tiger.png](/source/loj/2768/img/aHR0cHM6Ly9jb2RpbmcubmV0L3UvSGVSYU5PL3AvUGljUGxhY2UvZ2l0L3Jhdy9tYXN0ZXIvdGlnZXIucG5n.png)
+![tiger.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/tiger.png)
 
 # 输入格式
 
