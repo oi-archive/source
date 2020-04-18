@@ -103,7 +103,7 @@ k    =  1</code></pre>
 <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>数据类型</th>
 <th>数据组数</th>
 <th>特点</th>
-</tr></thead><tbody><tr><td><samp>A</samp></td><td>10</td><td>$n = 2$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>B</samp></td><td>10</td><td>$n = 3$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>C</samp></td><td>50</td><td>$n \leq 16$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>D</samp></td><td>30</td><td>$n \leq 200$，$1 \leq m \leq 10^9$</td></tr></tbody></table></div>
+</tr></thead><tbody><tr><td><samp>A</samp></td><td>10</td><td>$n = 2$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>B</samp></td><td>10</td><td>$n = 3$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>C</samp></td><td>50</td><td>$n \leq 16$，$10^8 \leq m \leq 10^9$</td></tr><tr><td><samp>D</samp></td><td>30</td><td>$n \leq 200$，$2 \leq m \leq 10^9$</td></tr></tbody></table></div>
 
 <p>比赛时只会从每种类型的数据中抽取 $\frac{1}{10}$ 进行评测。</p>
 <p><strong>时间限制：</strong>$1\texttt{s}$</p>
