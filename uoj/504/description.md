@@ -95,4 +95,4 @@
 # 下载
 
 
-<p><a href="/download.php?type=problem&amp;id=509">样例及测评库下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=504">样例及测评库下载</a></p>
