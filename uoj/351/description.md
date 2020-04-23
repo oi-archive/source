@@ -3,8 +3,8 @@
 <p>躲过了AlphaGo之后，你躲在SingleDog的长毛里，和它们一起来到了AlphaGo的家。此时你们才突然发现，AlphaGo的家居然是一个隐藏在地下的计算中心！难道AlphaGo如此人赢的秘密是...它其实是一个AI？</p>
 <p>根据情报，这个地下的计算中心的结构构成了一棵无根树，整个计算中心名为被AT-field的力场保护起来，保护力场的直径恰好等于树的直径（树的直径定义为树上距离最远的两个结点之间的距离，结点 $u,v$ 的距离定义为从 $u$ 到 $v$ 最少需要经过的边数）。</p>
 <p>由于保护力场的存在，SingleDog们每次只能进入整棵树的一个叶子（<strong>度为1的结点</strong>），由于狗的大脑很小，他们每次只会随机进攻一个<strong>原树</strong>的叶子，并且破坏里面的设备，更加狼狈的是他们甚至会重复进入一个已经被破坏过的叶子。</p>
-<p><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3946434924,3542855052&amp;fm=27&amp;gp=0.jpg" alt="一棵树"/></p>
-<p>比如这棵树中，SingleDog们攻击的就是${3,4,7}$这三个点，他们不会攻击$2$号点，因为它不是原树的叶子。</p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/351/351.png" alt="一棵树" style="width:300px;"/></p>
+<p>比如这棵树中，SingleDog们攻击的就是$\{2,4,7,9\}$这四个点，他们不会攻击$1$号点，因为它不是原树的叶子。</p>
 <p>他们想知道，期望多少次之后，可以使得保护力场的直径缩小？</p>
 <p>即，对于一棵树，每次随机染黑一个叶子（可能会重复染黑），期望多少次后直径变小？</p>
 
@@ -111,4 +111,4 @@
 # 下载
 
 
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=351">样例数据下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=351">样例数据下载</a></p>
