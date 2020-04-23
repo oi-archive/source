@@ -51,7 +51,7 @@ Nuske 永恒的对手 Phantom Thnook 向 Nuske 发出了 $Q$ 次查询。第 $i$
 ```
 
 #### 样例解释 1
-![图](https://atcoder.jp/img/agc015/7aa4a2252f50a19fc18e0cec01368a2a.png)  
+![图](/source/loj/6236/img/aHR0cHM6Ly9hdGNvZGVyLmpwL2ltZy9hZ2MwMTUvN2FhNGEyMjUyZjUwYTE5ZmMxOGUwY2VjMDEzNjhhMmEucG5n.png)  
 第一次查询了整个网格。有三个蓝色单元格组成的四联通块，因此应该输出 $3$。  
 第二次查询了红框内的区域。有两个蓝色单元格组成的四联通块，因此应该输出 $2$。请注意，在原始网格中属于相同四联通块的单元格在查询中形可能属于不同的四联通块。
 
