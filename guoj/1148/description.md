@@ -7,7 +7,7 @@
 一副麻将由 $136$ 张牌组成，其中包含 $34$ 种不同的牌，每种各有 $4$ 张。这 $34$ 种牌分别是：  
 一万到九万、一索到九索、一筒到九筒、东、南、西、北、中、白、发。
 
-![](/source/guoj/1148/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyOWIyNmMxNTlkLnBuZw==.png)
+![](/source/guoj/1148/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzExNDgvaHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8xNC81Y2IyOWIyNmMxNTlkLnBuZw==.png)
 
 它们可以组合成不同的牌型：
 - 顺子：$3$ 张数字连续的万，或 $3$ 张数字连续的索，或 $3$ 张数字连续的筒。
