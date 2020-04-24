@@ -93,23 +93,28 @@ mov a a</code></pre>
 <p>如果选手提交的代码在 $a_3$ 个周期内正确输出了答案，将会得到该测试点 $30\%$ 的分。</p>
 <p>即在每个周期结束时，会分别进行一次答案正确性判断，以最早正确的一次为准。</p>
 <h4>提示</h4>
-<p>以下为 <code>checker</code> 的正确使用方式。
-- <code>./checker graph.in input.in code.out x -detail</code>
-  - 其中 <code>graph.in</code> 为连线关系描述文件。
-  - <code>input.in</code> 为输入数据。
-  - <code>code.out</code> 为选手提交的文件。
-  - <code>x</code> 为一个非负整数表示执行周期数。
-  - <code>-detail</code> 为一个可选字段，附加上这个字段后将会输出每个周期每个远古计算机执行的代码内容到 <code>detail.out</code>。
-  - <code>checker</code> 将会运行选手的代码，输出 <code>x</code> 个周期结束时的运行结果到 <code>result.out</code> 中。
-- 输入数据 <code>input.in</code> 格式要求如下：
-  - 一共 $n$ 行，每行多个整数，表示对应的计算机的标准输入内容。
-- 输出数据 <code>result.out</code> 格式如下：
-  - 第一行一个字符串为返回的信息。
-  - 如果正确运行，还会有 $n$ 行，每行多个整数，表示对应的计算机的标准输出内容。</p>
-
+<p>以下为 <code>checker</code> 的正确使用方式。</p>
+<ul><li><code>./checker graph.in input.in code.out x -detail</code><ul><li>其中 <code>graph.in</code> 为连线关系描述文件。</li>
+<li><code>input.in</code> 为输入数据。</li>
+<li><code>code.out</code> 为选手提交的文件。</li>
+<li><code>x</code> 为一个非负整数表示执行周期数。</li>
+<li><code>-detail</code> 为一个可选字段，附加上这个字段后将会输出每个周期每个远古计算机执行的代码内容到 <code>detail.out</code>。</li>
+<li><code>checker</code> 将会运行选手的代码，输出 <code>x</code> 个周期结束时的运行结果到 <code>result.out</code> 中。</li>
+</ul></li>
+<li>输入数据 <code>input.in</code> 格式要求如下：<ul><li>一共 $n$ 行，每行多个整数，表示对应的计算机的标准输入内容。</li>
+</ul></li>
+<li>输出数据 <code>result.out</code> 格式如下：<ul><li>第一行一个字符串为返回的信息。</li>
+<li>如果正确运行，还会有 $n$ 行，每行多个整数，表示对应的计算机的标准输出内容。</li>
+</ul></li>
+</ul>
 # 限制与约定
 
 
 <div class="table-responsive"><table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th> 子任务编号 </th><th>$1$</th><th>$2$</th><th>$3$</th><th>$4$</th><th>$5$</th></tr></thead><tbody><tr><td>集训队分值</td><td>$10$</td><td>$15$</td><td>$15$</td><td>$30$</td><td>$30$</td></tr><tr><td>非集训队分值</td><td>$20$</td><td>$20$</td><td> $20$</td><td>$20$</td><td>$20$</td></tr></tbody></table></div>
 
 <p>在 UOJ 上，将按照「集训队分值」一栏的分值进行评分。</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=458">输入数据及checker下载</a></p>
