@@ -50,7 +50,7 @@ $1 \leq N \leq 20000$ , $1 \leq M \leq 50000$喵星人的名字总长和点名�
 4 17 0 8 25</td><td>2
 1
 0
-12</td></tr></table>
+1 2</td></tr></table>
 
 
 # Constraints
