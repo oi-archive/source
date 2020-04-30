@@ -47,11 +47,11 @@
 
 以第 $2$ 行第 $1$ 列的**空地**格为例，其变为**障碍物**后的网格如下图，其中白色格子代表**空地**，黑色格子代表**障碍物**。
 
-![Sample Grid](https://oj.thusaac.org/staticdata/publicfile.te4XJXbxvIXGwXES.sample_grid.png/sample_grid.png)
+![moscow1.png](/source/loj/6301/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNC8xOS81ZTljMzdmMDlkYTU2LnBuZw==.png)
 
 $15$ 种方案如下图所示，不同颜色代表不同运输机的投放位置。
 
-![Sample Ways](https://oj.thusaac.org/staticdata/publicfile.Qi7PBcz2ZqEmCXJd.sample_ways.png/sample_ways.png)
+![moscow2.png](/source/loj/6301/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNC8xOS81ZTljMzdmMTNhZTNjLnBuZw==.png)
 
 #### 样例 2 输入
 
