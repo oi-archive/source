@@ -9,7 +9,7 @@
 <meta name="language" content="pl">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" type="text/css" href="/style.css" />
-<base href="http://www.main.edu.pl/" />
+<base href="http://www.main.edu.pl" />
 
 <style>
 @font-face {
