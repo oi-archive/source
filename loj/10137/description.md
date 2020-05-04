@@ -9,7 +9,7 @@
 
 写一个程序，首先判断是否可以完成任务。如果可以，输出最少需要的跳动次数。
 
-![halma.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/halma.png)
+![halma.png](/source/loj/10137/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNS8wNC81ZWFlZWZiZGU3NzQ3LnBuZw==.png)
 
 # 输入格式
 

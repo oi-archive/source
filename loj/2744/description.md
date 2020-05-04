@@ -44,7 +44,7 @@
 ```
 
 #### 样例说明
-![](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/path.png)
+![path.png](/source/loj/2744/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNS8wNC81ZWFlZjA4YTc2ZTVjLnBuZw==.png)
 
 当蚂蚁的爬行路径为 $1\to 2\to 3\to 4\to 2\to 3\to 4\to \cdots \to 2\to 3\to 4\to \cdots$ 时，$H = 10.0+8.0\times 0.5+8.0\times 0.5^2+\cdots $。可以证明， 这个无穷序列的总和为 $18.0$， 且这就是 $H$ 的最大值。
 
