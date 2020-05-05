@@ -1,7 +1,7 @@
 
 # Content
 
-![pic](/source/lutece/wo-men-shen-bian-de-lang/img/aHR0cHM6Ly9tZWRpYS5zdC5kbC5ic2NzdG9yYWdlLm5ldC9zdGVhbS9hcHBzLzI1MDMyMC9zc19jOGMyY2YwNjAzZjZhOTU2ZmE0YTUxNGEwNTFiMGFjZTUwODFiZWQ4LjYwMHgzMzguanBnP3Q9MTU3MDY1MzkyNA==.jpg)
+![pic](https://media.st.dl.bscstorage.net/steam/apps/250320/ss_c8c2cf0603f6a956fa4a514a051b0ace5081bed8.600x338.jpg?t=1570653924)
 
 童话镇，一个充满了黑暗、血腥、犯罪的城市。在这里，有着最为庞大的地下组织。组织每天做着地下交易，无恶不作。在这里，每天都会有人离奇失踪，甚至死亡。
 
