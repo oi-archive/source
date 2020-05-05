@@ -12,7 +12,7 @@ JOI 高中的学生们很喜欢彩灯的交替列（亮的彩灯和不亮的彩�
 #### 例子
 例如，彩灯从西向东依次为：
 
-![TIM20180807230724.png](/source/loj/2761/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wNy9USU0yMDE4MDgwNzIzMDcyNC5wbmc=.png)
+![TIM20180807230724.png](https://www.z4a.net/images/2018/08/07/TIM20180807230724.png)
 
 （$ ○ $ 表示亮的彩灯， $ ● $ 表示不亮的彩灯）。此时，对从第 $ 4 $ 个彩灯到第 $ 7 $ 个彩灯进行操作。
 
