@@ -25,7 +25,7 @@
 
 下图展示了一个确定虎的位置的过程。
 
-![tiger.png](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/tiger.png)
+![tiger.png](/source/loj/2768/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNS8wNC81ZWFlZjFhNDJkNDI4LnBuZw==.png)
 
 # 输入格式
 
@@ -37,7 +37,7 @@
 
 # 样例
 
-![tiger_ineract.png](/source/loj/2768/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMTIvNWM2MmNiN2UyMzExZi5wbmc=.png)
+![tiger2.png](/source/loj/2768/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNS8wNC81ZWFlZjFkMDJlYzgzLnBuZw==.png)
 
 注：给出的例子中为了按步表示交互器的输出和你的输出，因此添加了多余的空白行，但是你的程序并不需要输出这些空白行。
 

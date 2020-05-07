@@ -57,7 +57,7 @@
 ```
 -->
 
-![rpath](https://coding.net/u/HeRaNO/p/PicPlace/git/raw/master/rpath.png)
+![rpaths.png](/source/loj/10098/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNS8wNC81ZWFlZjExMWVjNmNhLnBuZw==.png)
 
 图中实线表示已有的道路，虚线表示新建的两条道路。现在可以检验一些路径，比如：
 
