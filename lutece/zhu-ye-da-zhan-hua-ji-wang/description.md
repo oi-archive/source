@@ -9,7 +9,7 @@
 
 $咸鱼王$![title](/source/lutece/zhu-ye-da-zhan-hua-ji-wang/img/aHR0cHM6Ly9hY20udWVzdGMuZWR1LmNuL21lZGlhL2ltYWdlL3Byb2JsZW0vMTM0OS8yMDE2MDQyNDIxNDIzNzIzMzE5LmpwZw==.jpg)
 
-$滑稽王$![title](/media/image/problem/1349/2016042421424349820.gif)
+$滑稽王$![title](/source/lutece/zhu-ye-da-zhan-hua-ji-wang/img/aHR0cHM6Ly9hY20udWVzdGMuZWR1LmNuL21lZGlhL2ltYWdlL3Byb2JsZW0vMTM0OS8yMDE2MDQyNDIxNDI0MzQ5ODIwLmdpZg==.gif)
 
 $挠头王$![title](/source/lutece/zhu-ye-da-zhan-hua-ji-wang/img/aHR0cHM6Ly9hY20udWVzdGMuZWR1LmNuL21lZGlhL2ltYWdlL3Byb2JsZW0vMTM0OS8yMDE2MDQyNDIxNDI1MzIyNjIxLmdpZg==.gif)
 

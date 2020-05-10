@@ -1,7 +1,7 @@
 
 # Content
 
-![pic](/source/lutece/ye-lu/img/aHR0cHM6Ly9tZWRpYS5zdC5kbC5ic2NzdG9yYWdlLm5ldC9zdGVhbS9hcHBzLzQ4MTUxMC9zc19iZDQ0YmY1Njg1N2Y3NjVhYjA0OThiZGJmYjI5NDZmZjMyOTM1YzgzLjYwMHgzMzguanBnP3Q9MTU1NTQwMTk0Ng==.jpg)
+![pic](https://media.st.dl.bscstorage.net/steam/apps/481510/ss_bd44bf56857f765ab0498bdbfb2946ff32935c83.600x338.jpg?t=1555401946)
 
 朋友，你走过夜路吗？
 
