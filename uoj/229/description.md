@@ -10,7 +10,7 @@
 
 
 <p>在这个样例中，代表队的数目 $N=3$，Aman 最多携带纪念品的数量 $K=2$，区域的数量 $L=8$。这些代表队分别位于区域 $1$，$2$和$5$。</p>
-<p><img class="img-responsive center-block" src="/source/uoj/229/img/aHR0cDovL2ltZy51b2ouYWMvcHJvYmxlbS8yMjkvYm94ZXMucG5n.png" alt="样例"/></p>
+<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/229/boxes.png" alt="样例"/></p>
 <p>上图是最优解之一。</p>
 <p>第一步：Aman 在起点拿走 $2$ 个纪念品，一个发给区域 $2$，一个发给区域 $5$，然后顺便绕回到起点，刚好走了一圈，花费了 $8$ 秒钟。</p>
 <p>第二步：Aman 在起点拿走 $1$ 个纪念品，发给区域 $1$，然后原路返回，花费了 $2$ 秒钟。</p>
