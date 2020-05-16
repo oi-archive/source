@@ -1,7 +1,7 @@
 
 # Content
 
-![Celeste](/source/lutece/wei-lan/img/aHR0cHM6Ly9tZWRpYS5zdC5kbC5ic2NzdG9yYWdlLm5ldC9zdGVhbS9hcHBzLzUwNDIzMC9oZWFkZXIuanBnP3Q9MTU2Nzc0MDc5MQ==.jpg)
+![Celeste](https://media.st.dl.bscstorage.net/steam/apps/504230/header.jpg?t=1567740791)
 
 Kaiser 和 Fatdog_Jo 在玩一款叫做《[Celeste](https://store.steampowered.com/app/504230/Celeste/)》的游戏。这是个非常硬核的游戏，但两人都已经玩得非常熟练了。因此他们想尝试更高的挑战：速通。
 
