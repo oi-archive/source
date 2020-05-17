@@ -1,6 +1,8 @@
 
 # 题目描述
 
+**原题来自 [USACO 2017 US Open Contest, Platinum](http://usaco.org/index.php?page=open17results) Problem 2. [Switch Grass](http://usaco.org/index.php?page=viewproblem2&cpid=745)，数据范围有改动。**
+
 「这场圣杯战争……从一开始，就很不对劲。」
 
 由于这场圣杯战争过于异常，作为中立调停的「裁定者」贞德被大圣杯召唤。
