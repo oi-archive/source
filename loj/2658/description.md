@@ -59,7 +59,7 @@ Byteland 的铁路不得不重建并简化。在深度研究后，上级决定�
 ```
 #### 样例说明
 
-![](https://szkopul.edu.pl/problemset/problem/54354BdfgDdcfoUVs6s8skKv/site/images/OI14/kolzad.gif)
+![](/source/loj/2658/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vNTQzNTRCZGZnRGRjZm9VVnM2czhza0t2L3NpdGUvaW1hZ2VzL09JMTQva29semFkLmdpZg==.gif)
 
 # 数据范围与提示
 
