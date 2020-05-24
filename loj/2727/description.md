@@ -53,7 +53,7 @@ IOI 王国为了庆祝 JOI 公主的生日，举行了舞会。
 #### 样例解释 1
 开始时有 $ 3 $ 个人的位置是确定的。
 
-![64f21fcfcd875ef5162872c7ed1e5bdf.png](/source/loj/2727/img/aHR0cHM6Ly93d3cuejRhLm5ldC9pbWFnZXMvMjAxOC8wOC8wMy82NGYyMWZjZmNkODc1ZWY1MTYyODcyYzdlZDFlNWJkZi5wbmc=.png)
+![64f21fcfcd875ef5162872c7ed1e5bdf.png](https://www.z4a.net/images/2018/08/03/64f21fcfcd875ef5162872c7ed1e5bdf.png)
 
 括号内的数字表示舞蹈的熟练度，左端是队列的开始。
 

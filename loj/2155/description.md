@@ -37,7 +37,7 @@ Bitotia 偷袭了 Byteotia 并占领了很大一块领地。Byteotia 国王 Byte
 ```
 
 #### 样例解释
-![](/source/loj/2155/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4ZjgxYWU0ZGE5NmEuZ2lm.gif)
+![](https://ooo.0o0.ooo/2017/04/20/58f81ae4da96a.gif)
 
 有三种将人们分成两组的方案。同谋者可以是 $1,4$，或 $2,4$，或 $4$ 一个人。
 
