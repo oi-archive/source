@@ -119,7 +119,7 @@
     <td>$\le 10^6$</td>
    </tr></tbody></table></div>
 
-<p><strong>时间限制：</strong>$4\texttt{s}$</p>
+<p><strong>时间限制：</strong>$6\texttt{s}$</p>
 <p><strong>空间限制：</strong>$1024\texttt{MB}$</p>
 
 # 下载
