@@ -4,8 +4,10 @@
 **题目译自 [JOISC 2020](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/index.html) Day2 T1「[カメレオンの恋](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/day2/chameleon.pdf) / [Chameleon’s Love](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/day2/chameleon-en.pdf)」**
 
 注意：**在 LibreOJ 上，由于语言限制，目前只支持以下语言的提交：**
+- C++
 - C++ 11
 - C++ 17
+- C++ (NOI)
 - C++ 11 (NOI)
 - C++ 11 (Clang)
 - C++ 17 (Clang)
