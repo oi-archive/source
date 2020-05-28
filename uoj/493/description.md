@@ -61,6 +61,8 @@
 <p>A:树的形态是一条链。即 $\forall 1 \leq i &lt; n$,存在一条边 $(p_{i} , p_{i+1} )$。</p>
 <p>B:树的形态是一个完美二叉树。即 $\forall 1 \leq i &lt; \lfloor \frac{n-1}{2} \rfloor$ ,存在两条边$(p_i , p_{2i} )$ 与 $(p_i , p_{2i+1} )$。</p>
 <p>对于所有测试点: $1 \leq T \leq 5$ , $1 \leq u_i , v_i \leq n$。保证给出的图是一个树。</p>
+<p><strong>时间限制:</strong> $3\texttt{s}$</p>
+<p><strong>空间限制:</strong> $256\texttt{MB}$</p>
 
 # 关于本题的Hack数据
 
