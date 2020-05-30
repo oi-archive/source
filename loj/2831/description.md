@@ -3,7 +3,7 @@
 
 #### 译自 [JOISC 2018](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/index.html) Day1 T1「[高速道路の建設](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/index.html) / [Construction of Highway](https://www.ioi-jp.org/camp/2018/2018-sp-tasks/day1/construction-en.pdf)」
 
-JOI 王国里有 $N$ 座城市，从 $1$ 到 $N$ 编号。$1$ 号城市是首都。每个城市都有一个叫作「活跃度」的权值，第 $i(1\le i\le N)$ 座城市的活跃度初始值是 $C_{i}$ 。
+JOI 王国里有 $N$ 座城市，从 $1$ 到 $N$ 编号。$1$ 号城市是首都。每个城市都有一个叫作「活跃度」的权值，第 $i(1\le i\le N)$ 座城市的活跃度初始值是 $C_{i}$。
 
 JOI 王国里的每条道路双向连接两个不同的城市。开始时 JOI 王国里没有道路。你规划了 $N-1$ 个道路建设项目。第 $j(1\le j\le N-1)$ 个项目会按以下方式完成：
 
