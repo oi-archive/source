@@ -36,7 +36,7 @@
 ```
 
 #### 样例解释 2
-![](/source/loj/6385/img/aHR0cHM6Ly9hY20uZWNudS5lZHUuY24vdXBsb2FkLzM1NjgvY2hlc3Nfc2FtcGxlLnpQRDZyQ05QLnBuZw==.png)
+![](https://acm.ecnu.edu.cn/upload/3568/chess_sample.zPD6rCNP.png)
 
 # 数据范围与提示
 
