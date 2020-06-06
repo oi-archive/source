@@ -7,7 +7,7 @@
 
 于是，摆在科学家面前的新问题诞生了：判断一个化石中的千年虫与理论模型的差距有多大？具体来说，就是根据一个千年虫化石的形态 $A$，找到一个符合理论模型的形态 $B$，使得 $B$ 是最有可能在形成化石时变成形态 $A$。
 
-![](/source/guoj/1249/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyMy5wbmc=.png)
+![](/source/guoj/1249/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDkvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyMy5wbmc=.png)
 
 理论学家提出的“千年虫形态特征模型”如下（如上图所示）：**躯体**由**头、尾、躯干、足**四大部分构成。
 
@@ -17,7 +17,7 @@
 
 注意：足不能退化成三角形（即底边的长度均大于零），躯干两侧足的数目可以不一样。（如上图，左边有 $4$ 条足，右边有 $5$ 条足）
 
-![](/source/guoj/1249/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNS5wbmc=.png)
+![](/source/guoj/1249/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDkvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNS5wbmc=.png)
 
 可见，$x-y$ 直角坐标系内，躯干和所有足组成的实心区域的边界均平行或垂直于坐标轴。为了方便，我们假设所有这些边界的长度均为正整数。因此可以认为每个千年虫的躯体都由一些单位方格拼成。每个单位方格都由坐标 $(x,y)$ 唯一确定。设头尾之间的距离为 $n$，则我们可以用 $2\times n$ 个整数来描述一条千年虫 $B$（如上图）：将 $B$ 沿平行 $x$ 轴方向剖分成 $n$ 条宽度为 $1$ 的横条，每个横条最左边一格的 $x$ 坐标设为 $L_i$，最右一格的的 $x$ 坐标设为 $R_i$。则 $(n,L_1,L_2,\ldots,L_n,R_1,R_2,\ldots,R_n)$ 就确定了一条千年虫。
 
@@ -35,7 +35,7 @@
 
 例如下图：
 
-![](/source/guoj/1249/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNi5wbmc=.png)
+![](/source/guoj/1249/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDkvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNi5wbmc=.png)
 
 现在你的任务是，输入一个化石里的千年虫的描述 $A\langle n,L’,R’\rangle$，找一个满足理论模型的千年虫的描述 $B\langle n,L,R\rangle$，使得 $B$ 可以通过腐蚀过程得以变为 $A$，且由 $B$ 转化为 $A$ 的代价（须被腐蚀的格子数）最少。输出此最小代价。
 
@@ -70,7 +70,7 @@
 ```
 
 #### 样例说明
-如右图![](/source/guoj/1249/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNy5wbmc=.png)
+如右图![](/source/guoj/1249/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDkvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNy5wbmc=.png)
 
 # 数据范围与提示
 
