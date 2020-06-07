@@ -19,7 +19,7 @@
 
 例如，下面是一个 $4/5$ 的构造
 
-![](/source/loj/6438/img/aHR0cHM6Ly9kcmFtLmNmL3JlcG8vc3F1YXJlLnN2Zw==.svg)
+![](https://dram.cf/repo/square.svg)
 
 # 输入格式
 

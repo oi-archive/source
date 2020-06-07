@@ -56,7 +56,7 @@
 
 # 数据范围与提示
 
-<img src="https://ooo.0o0.ooo/2017/04/20/58f86c397fb5c.png">
+<img src="/source/loj/2250/img/aHR0cHM6Ly9vb28uMG8wLm9vby8yMDE3LzA0LzIwLzU4Zjg2YzM5N2ZiNWMucG5n.png">
 
 对于$100\%$ 的数据，保证 $1\leq m \leq \frac{n(n-1)}{2},\sum m\leq 10^6$。
 
