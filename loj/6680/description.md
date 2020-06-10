@@ -1,7 +1,7 @@
 
 # 题目描述
 
-*感谢 @reek 提出本题题意，@_rqy 提供本题社论。*
+*感谢 @[reek](https://loj.ac/user/3003) 提出本题题意，@[_rqy](https://loj.ac/user/686) 提供本题社论。*
 
 某一天，你发现了一个神奇的函数 $g(x)$，它满足很多神奇的性质：
 
@@ -93,4 +93,10 @@ $f(5) = 25 \times g(1) + 4 \times g(2) + 1 \times g(3) + 1 \times g(4) + 1 \time
 对于 $50\%$ 的数据，$n \leq 10^6$。
 
 对于 $100\%$ 的数据，$n \leq 10^7$。
+
+#### 题目信息
+* Idea: @[reek](https://loj.ac/user/3003)
+* Solution: @[_rqy](https://loj.ac/user/686)
+* Std / Data: @[cutekibry](https://loj.ac/user/1408)
+* Testing: @[moonoshawott](https://loj.ac/user/10399)
 

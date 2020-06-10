@@ -92,3 +92,8 @@ $\texttt{absmu}(1) = 1, \texttt{absmu}(2) = 1, \texttt{absmu}(3) = 1, \texttt{ab
 * 函数中的所有变量和函数返回值的类型都是 `unsigned`；这意味着函数中的所有计算都会自动对 $2^{32}$ 取模。
 * 请注意常数因子给程序运行时间带来的影响。
 
+#### 题目信息
+* Idea / Std / Data: @[cutekibry](https://loj.ac/user/1408)
+* Solution: @[djq_cpp](https://loj.ac/user/3560)
+* Testing: @[moonoshawott](https://loj.ac/user/10399)
+
