@@ -3,9 +3,9 @@
 
 **译自 [JOI 2020 Final](https://www.ioi-jp.org/joi/2019/2020-ho/index.html) T2「[JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2.pdf) / [JJOOII 2](https://www.ioi-jp.org/joi/2019/2020-ho/2020-ho-t2-en.pdf)」**
 
-比太郎收到了一个长度为 $N$ 的字符串 $S$ 作为他的生日礼物，且这个字符串仅由 $\texttt J,\texttt O,\texttt I$ 组成。
+比太郎收到了一个长度为 $N$ 的字符串 $S$ 作为他的生日礼物，且这个字符串仅由 $\texttt{J},\texttt{O},\texttt{I}$ 组成。
 
-对于所有正整数 $K$，若一个字符串仅由 $K$ 个连续的 $\texttt J$，$K$ 个连续的 $\texttt O$ 和 $K$ 个连续的 $\texttt I$ 顺次连接而成，则我们称这个字符串为 **$K$ 级 JOI-串**。  
+对于所有正整数 $ K $，若一个字符串仅由 $K$ 个连续的 $\texttt J$，$K$ 个连续的 $\texttt O$ 和 $K$ 个连续的 $\texttt I$ 顺次连接而成，则我们称这个字符串为 **$K$ 级 JOI-串**。  
 例如，$\texttt{JJOOII}$ 就是一个 $2$ 级 JOI-串。
 
 比太郎热衷于构造 $K$ 级 JOI-串，于是他打算通过以任意顺序使用以下三个操作任意次来将字符串 $S$ 构造为一个 $K$ 级 JOI-串：

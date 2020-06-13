@@ -3,7 +3,7 @@
 
 **题目译自 [JOISC 2019](https://www.ioi-jp.org/camp/2019/2019-sp-tasks/index.html) Day2 T1「[ふたつのアンテナ](https://www.ioi-jp.org/camp/2019/2019-sp-tasks/day2/antennas.pdf) / [Two Antennas](https://www.ioi-jp.org/camp/2019/2019-sp-tasks/day2/antennas-en.pdf)」**
 
-有 $N$ 个天线排成一行，编号分别为 $1$ 到 $N$，相邻两个天线之间的距离都是 $1$。天线 $i$ 的高度为 $H_i$。天线 $i$ 可以向天线 $j$ 发送信息，当且仅当他们之间的距离 $L_{i,j} \in [A_i, B_i]$。如果一对天线 $i$ 和 $j$ 可以互相发消息，那么我们定义他们之间的通信成本为 $\lvert H_i - H_j \rvert$。
+有 $N$ 个天线排成一行，编号分别为 $1$ 到 $N$，相邻两个天线之间的距离都是 $1$。天线 $i$ 的高度为 $H_i$。天线 $i$ 可以向天线 $j$ 发送信息，当且仅当他们之间的距离 $D_{i,j} \in [A_i, B_i]$。如果一对天线 $i$ 和 $j$ 可以互相发消息，那么我们定义他们之间的通信成本为 $\lvert H_i - H_j \rvert$。
 
 JOI 共和国总理 K 先生收到了 $Q$ 件通信故障的投诉，对于第 $j$ 件投诉，你需要确定天线 $L_j, L_j+1, \ldots , R_j​$ 中是否存在一对天线可以互相发消息，如果存在，输出最大的通信成本。
 
