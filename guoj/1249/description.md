@@ -70,7 +70,7 @@
 ```
 
 #### 样例说明
-如右图![](/source/guoj/1249/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDkvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjAyNy5wbmc=.png)
+如右图![](https://www.wjyyy.top/wp-content/uploads/2019/06/201906232027.png)
 
 # 数据范围与提示
 
