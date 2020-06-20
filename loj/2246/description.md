@@ -7,7 +7,7 @@
 园长：「对于一个字符串 $S$，它的长度为 $L$。我们可以在 $O(L)$ 的时间内，求出一个名为 $\textrm{next}$ 的数组。有谁预习了 $\textrm{next}$ 数组的含义吗？」  
 熊猫：「对于字符串 $S$ 的前 $i$ 个字符构成的子串，既是它的后缀又是它的前缀的字符串中（它本身除外），最长的长度记作 $\textrm{next}_i$。」  
 园长：「非常好！那你能举个例子吗？」  
-熊猫：「例如 $S$ 若为 ``abcababc``，则 $\textrm{next}_5=2$。因为 $S$ 的前五个字符为 ``abcab``，``ab`` 既是它的后缀又是它的前缀，并且找不到一个更长的字符串满足这个性质。同理，还可得出 $\textrm{next}_1 =\textrm{next}_2 = \textrm{next}_3 = 0,\ \textrm{next}_5 = \textrm{next}_6 = 1,\ \textrm{next}_7 = 2,\ \textrm{next}_8 = 3$。」
+熊猫：「例如 $S$ 若为 ``abcababc``，则 $\textrm{next}_5=2$。因为 $S$ 的前五个字符为 ``abcab``，``ab`` 既是它的后缀又是它的前缀，并且找不到一个更长的字符串满足这个性质。同理，还可得出 $\textrm{next}_1 =\textrm{next}_2 = \textrm{next}_3 = 0,\ \textrm{next}_4 = \textrm{next}_6 = 1,\ \textrm{next}_7 = 2,\ \textrm{next}_8 = 3$。」
 
 园长表扬了认真预习的熊猫同学。随后，他详细讲解了如何在 $O(L)$ 的时间内求出 $\textrm{next}$ 数组。
 
