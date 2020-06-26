@@ -26,10 +26,10 @@ unsigned f(unsigned k, unsigned seed) {
 }
 ```
 
-其中 $\texttt{absmu}(p) = |\mu(p)|$。该函数满足：
+其中 $\text{absmu}(p) = |\mu(p)|$。该函数满足：
 
-* 若存在大于 $1$ 的整数 $x$ 使得 $x^2$ 为 $p$ 的因子，则 $\texttt{absmu}(p) = 0$；
-* 否则 $\texttt{absmu}(p) = 1$。
+* 若存在大于 $1$ 的整数 $x$ 使得 $x^2$ 为 $p$ 的因子，则 $\text{absmu}(p) = 0$；
+* 否则 $\text{absmu}(p) = 1$。
 
 给出 $n, m, x$，请你求出 `f(6, x)` 的值。
 
@@ -43,7 +43,7 @@ Tsukimaru 想出了一个 $O(n^6 \sqrt m)$ 的优秀解法。Tsukimaru 相信没
 
 Tsukimaru 认为 henry_y 可以直接 A 掉这道题。
 
-henry_y 说：「黑的实在逼真 =.=，你起码把时限开到每个测试点 $1500\ \texttt{ms}$ 吧。」
+henry_y 说：「黑的实在逼真 =.=，你起码把时限开到每个测试点 $1500\ \text{ms}$ 吧。」
 
 Tsukimaru 觉得 henry_y 说的有道理，于是想让你帮他求 `f(6, x)` 的结果。
 
@@ -71,7 +71,7 @@ Tsukimaru 觉得 henry_y 说的有道理，于是想让你帮他求 `f(6, x)` �
 ```
 
 #### 样例解释 1
-$\texttt{absmu}(1) = 1, \texttt{absmu}(2) = 1, \texttt{absmu}(3) = 1, \texttt{absmu}(4) = 0, \texttt{absmu}(5) = 1$。
+$\text{absmu}(1) = 1, \text{absmu}(2) = 1, \text{absmu}(3) = 1, \text{absmu}(4) = 0, \text{absmu}(5) = 1$。
 
 根据以上代码模拟即可得出结果。
 
@@ -85,7 +85,7 @@ $\texttt{absmu}(1) = 1, \texttt{absmu}(2) = 1, \texttt{absmu}(3) = 1, \texttt{ab
 
 欢迎 Hack。如果你发现了可以让标程运行超时的数据，可以在题目讨论提出。
 
-**提醒：如果你希望提出 Hack 数据，请认真检查输入数据中 $n, m$ 的范围是否合法。如果你输入的 $n > 10$，那么 $m$ 必须不小于 $5 \times 10^6$。**
+**提醒：如果你希望提出 Hack 数据，请认真检查输入数据中 $n, m$ 的范围是否合法。如果你输入的 $n > 15$，那么 $m$ 必须不小于 $5 \times 10^6$。**
 
 来自 Tsukimaru 的善意提醒：
 
