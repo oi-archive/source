@@ -11,7 +11,7 @@
 
 小 Y 和小 Z 希望为小 H 的 $N$ 个好友设计一张联系的网络，这样，若某个人得知了关于聚会的最新情况，则其他人都可以直接或间接得到消息。同时为了尽量的保证消息传递得简单、高效以及最重要的一点：保密（为了给小 H 一个惊喜，在 party 的筹备阶段这个聚会的消息是绝对不能让他知道的），小 Y 和小 Z 决定让尽量少的好友直接联系：为了保证 $N$ 个好友都能互相直接或间接联系到，只需要让 $(N-1)$ 对好友直接联系就可以了。
 
-![](/source/guoj/1245/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTY0MS5wbmc=.png)
+![](/source/guoj/1245/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDUvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTY0MS5wbmc=.png)
 
 显然，名单上的好友也不都互相认识，而即使是两个互相认识的人，他们之间的熟悉程度也是有区别的。因此小 Y 和小 Z 又根据调查的结果，列出了一个好友间的关系表，表中标明了哪些人是可以**直接联系**的，而对于每一对可以互相联系的好友，小 Y 和小 Z 又为他们标出了**联系的愉快程度**。如 $3$ 和 $4$ 的关系非常好，因此标记他们之间的联系愉快程度为 $10$；而 $1$ 和 $3$ 是一般的朋友，则他们的愉快程度要小一些。上面的图 $1$ 表示一个 $N=5$ 的联系表，其中点表示名单上的好友，边则表示两个好友可以直接联系，边上的数字即为他们联系的愉快程度。
 
@@ -21,7 +21,7 @@
 
 还是用图 $1$ 的例子，若我们为 $1$ 至 $5$ 每个点分别加上了 $k_i = 1, 1, 4, 2, 2$ 的限制，则上述方案就不能满足要求了。此时的最优方案如图 $2$ 所示，其愉快程度为 $3+6+10+5=24$。
 
-![](/source/guoj/1245/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTY0Mi5wbmc=.png)
+![](/source/guoj/1245/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDUvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMTY0Mi5wbmc=.png)
 
 你能帮小 Y 和小 Z 求出在满足限制条件的前提下，愉快程度尽量大的一个联系网络吗？
 
