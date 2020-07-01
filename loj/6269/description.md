@@ -10,7 +10,7 @@
 
 刚刚得了化竞全市第一的晴岚听了，认为这道题十分简单，建议胡小兔写个程序解决这个问题。但胡小兔弱得连什么是同分异构体都不知道，于是晴岚给胡小兔画了个图——例如 $n = 4$ 时（即丁基），有 $4$ 种同分异构体：
 
-![chem.png](/source/loj/6269/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8wMi81Y2EyZjY1NDgyNjYzLnBuZw==.png)
+![chem.png](/source/loj/6269/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wNi8xNi81ZWU4M2Q2M2ExMjMxLnBuZw==.png)
 
 同理，其他常见烷基同分异构体数目如下表：
 
