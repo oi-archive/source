@@ -9,7 +9,7 @@ Alice 和 Bob 约定了一个大质数 $p$，一个随机范围值 $err$ 和一�
 
 当 Bob 想要确认 Alice 的身份时，Bob 会生成 $m$ 个在 $0\sim p-1$ 之间均匀随机生成的 $a_i$ 并发给 Alice。对于每个 $a_i$，Alice 会返回给Bob $a_i x$ 模 $p$ 的值。为了防止窃听，Alice 会给结果加上一个在 $-\lceil \frac {err}2 \rceil$ 到 $\lceil \frac {err}2 \rceil$ 之间均匀随机生成的扰动。
 
-即，Alice 会返回给 Bob $m$ 组形如 $a_i x + b \equiv c_i \pmod p$ 的等式，其中 $b$ 为一个不公开的在 $-\lceil \frac {err}2 \rceil$ 到 
+即，Alice 会返回给 Bob $m$ 组形如 $a_i x + b_i \equiv c_i \pmod p$ 的等式，其中 $b_i$ 为一个不公开的在 $-\lceil \frac {err}2 \rceil$ 到 
 $\lceil \frac {err}2 \rceil$ 之间均匀随机生成的数，$a_i$ 为随机生成的数，$a_i,p,err,c_i$ 为公开的数。
 
 你获得了 Alice 返回的这 $m$ 组等式（即 $m$ 个 $a_i$ 和 $c_i$），你需要求出 $x$ 的值。

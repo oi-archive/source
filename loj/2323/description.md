@@ -3,9 +3,9 @@
 
 小 Y 是一个爱好旅行的 OIer。一天，她来到了一个新的城市。由于不熟悉那里的交通系统，她选择了坐地铁。
 
-她发现每条地铁线路可以看成平面上的一条曲线，不同线路的交点处一定会设有换乘站![interchange-station.png](/source/loj/2323/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTAvNWEyYzk0Y2U4NTQ2NS5wbmc=.png)。通过调查得知，没有线路是环线，也没有线路与自身相交。任意两条不同的线路只会在若干个点上相交，没有重合的部分，且没有三线共点的情况。即，如图所示的情况都是不存在的：
+她发现每条地铁线路可以看成平面上的一条曲线，不同线路的交点处一定会设有换乘站![interchange-station.png](https://i.loli.net/2017/12/10/5a2c94ce85465.png)。通过调查得知，没有线路是环线，也没有线路与自身相交。任意两条不同的线路只会在若干个点上相交，没有重合的部分，且没有三线共点的情况。即，如图所示的情况都是不存在的：
 
-![examples.png](/source/loj/2323/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTAvNWEyYzk0ZDRiNTZhZC5wbmc=.png)
+![examples.png](https://i.loli.net/2017/12/10/5a2c94d4b56ad.png)
 
 小 Y 坐着地铁 $0$ 号线，路上依次经过了 $n$ 个换乘站。她记下了每个换乘站可以换乘的线路编号，发现每条线路与她所乘坐的线路最多只有 $2$ 个换乘站。现在小Y想知道，除掉她经过的换乘站以外，这个城市里最少有几个换乘站。只有你告诉她正确的答案，她才会答应下次带你去玩呢。
 
@@ -48,7 +48,7 @@
 #### 样例解释
 对于样例的前两组数据，一种可能的最优答案如下图所示。
 
-![sample1.png](/source/loj/2323/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTAvNWEyYzk0ZDRiNWM4Ny5wbmc=.png)
+![sample1.png](https://i.loli.net/2017/12/10/5a2c94d4b5c87.png)
 
 # 数据范围与提示
 

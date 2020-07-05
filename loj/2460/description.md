@@ -33,7 +33,7 @@
 ```
 
 ### 样例解释
-![mos.gif](/source/loj/2460/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDMvMjkvNWFiY2RmMzU3N2ZmNy5naWY=.gif)
+![mos.gif](https://i.loli.net/2018/03/29/5abcdf3577ff7.gif)
 
 最优路线为 $1 \xrightarrow{4} 4 \xrightarrow{4} 3 \xrightarrow{4} 2 \xrightarrow{4}1$，最大权值为 $4$。
 

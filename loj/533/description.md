@@ -19,7 +19,7 @@
 
 定义一个环的**色彩值**为**所有被「对立」元素分开的子段的长度乘积**。换言之，将所有的「对立」元素移除，色彩值等于剩余的环上连续子段（包括长度为 $0$ 的子段 —— 出现在两个「对立」元素相邻的情况下）的长度乘积。特别地，如果环上没有「对立」元素，那么其色彩值为 $0$。
 
-<center><img alt='legend_scaled.png' src="/source/loj/533/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTAvMjEvNTllYWNiNDUzMTg2ZC5wbmc=.png" width='300px' /></center>
+<center><img alt='legend_scaled.png' src='https://i.loli.net/2017/10/21/59eacb453186d.png' width='300px' /></center>
 <div style='text-align: center; color: #999'>
     一个 <img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExYWQzNDU2LnN2Zw==.svg" alt="svg_n_18.svg" title="svg_n_18.svg" /> 的例子。移除「对立」元素后剩余的子段有 <img width=20% src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmI4NDZkMGMxLnN2Zw==.svg" alt="svg_longf_.svg" title="svg_longf_.svg" />，其色彩值为 <img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExOWViYTY1LnN2Zw==.svg" alt="svg_multi.svg" title="svg_multi.svg" />。
 
@@ -64,14 +64,14 @@
 
 #### 样例解释
 
-<center><img alt='sample_1_scaled.png' src="/source/loj/533/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTAvMjEvNTllYWUzM2ViZTY2OC5wbmc=.png" width='300px' /></center>
+<center><img alt='sample_1_scaled.png' src='https://i.loli.net/2017/10/21/59eae33ebe668.png' width='300px' /></center>
 <br>
 <div style='text-align: center; color: #999'><img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExOThhNzEyLnN2Zw==.svg" alt="svg_k5.svg" title="svg_k5.svg" /> 即 
 <img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExOTRmMjcwLnN2Zw==.svg" alt="svg_m25.svg" title="svg_m25.svg" />。</div>
 
 <br>
 
-<center><img alt='sample_2_scaled.png' src="/source/loj/533/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTAvMjEvNTllYWUzM2VjNWUzZi5wbmc=.png" width='300px' /></center>
+<center><img alt='sample_2_scaled.png' src='https://i.loli.net/2017/10/21/59eae33ec5e3f.png' width='300px' /></center>
 <br>
 <div style='text-align: center; color: #999'>
 <img src="/source/loj/533/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8wNC8zMC81Y2M3ZmExYTg5M2E3LnN2Zw==.svg" alt="svg_k10.svg" title="svg_k10.svg" /> 即 
