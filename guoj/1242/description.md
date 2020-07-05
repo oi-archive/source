@@ -55,61 +55,61 @@ MAX-SUM
 <!--$$
 2\quad -6\qquad 3\qquad 5\qquad 1\quad -5\quad -3\qquad 6\qquad 3
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MTQ3ZmVkYzMzMTg5LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MTQ3ZmVkYzMzMTg5LnBuZw==.png)
 
 执行操作 `GET-SUM 5 4`，表示求出数列中从第 $5$ 个数开始连续 $4$ 个数字之和，如下图中的灰色部分 $1+(-5)+(-3)+6=-1$：
 <!--$$
 2\quad -6\qquad 3\qquad 5\qquad \colorbox{lightgray}{$1\quad -5\quad -3\qquad 6$}\qquad 3
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MTM5MjQ2Yzk4NDQxLnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MTM5MjQ2Yzk4NDQxLnBuZw==.png)
 
 执行操作 `MAX-SUM`，表示要求求出当前数列中最大的一段和，即如下图所示，应为 $3+5+1+(-5)+(-3)+6+3=10$：
 <!--$$
 2\quad -6\qquad \colorbox{lightgray}{$3\qquad 5\qquad 1\quad -5\quad -3\qquad 6\qquad 3$}
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjE5YWQ4OTUwMzI5LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjE5YWQ4OTUwMzI5LnBuZw==.png)
 
 执行操作 `INSERT 8 3 -5 7 2`，即在数列中第 $8$ 个数字后插入 $-5\quad 7\quad 2$，如下所示的灰色部分：
 <!--$$
 2\quad -6\qquad 3\qquad 5\qquad 1\quad -5\quad -3\qquad 6\quad\colorbox{lightgray}{$-5\qquad7\qquad2$}\qquad 3
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjJhOWU4ZjQ4OTI4LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjJhOWU4ZjQ4OTI4LnBuZw==.png)
 
 执行操作 `DELETE 12 1`，表示删除第 $12$ 个数字，即最后一个：
 <!--$$
 2\quad -6\qquad 3\qquad 5\qquad 1\quad -5\quad -3\qquad 6\quad-5\qquad7\qquad2
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjQ3OTkwZjEyOTM1LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjQ3OTkwZjEyOTM1LnBuZw==.png)
 
 执行操作 `MAKE-SAME 3 3 2`，表示从第 $3$ 个数开始的 $3$ 个数字，即下图中的灰色部分，统一修改为 $2$：
 <!--$$
 2\quad -6\qquad \colorbox{lightgray}{$3\qquad 5\qquad 1$}\quad -5\quad -3\qquad 6\quad-5\qquad7\qquad2
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjVkZGMyNDIzMDAzLnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MjVkZGMyNDIzMDAzLnBuZw==.png)
 
 改为
 <!--$$
 2\quad -6\qquad \colorbox{lightgray}{$2\qquad 2\qquad 2$}\quad -5\quad -3\qquad 6\quad-5\qquad7\qquad2
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5Mjc1MTgwNTEwNTg5LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5Mjc1MTgwNTEwNTg5LnBuZw==.png)
 
 执行操作 `REVERSE 3 6`，表示取出数列中从第 $3$ 个数开始的连续 $6$ 个数： 
 <!--$$
 2\quad -6\qquad \colorbox{lightgray}{$2\qquad 2\qquad 2\quad -5\quad -3\qquad 6$}\quad-5\qquad7\qquad2
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5Mjg5ZjYzOTMxNDg2LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5Mjg5ZjYzOTMxNDg2LnBuZw==.png)
 
 如上所示的灰色部分 $2\quad\ 2\quad\ 2\ -5\ -3\quad\ 6$，翻转后得到 $6\ -3\ -5\quad\ 2\quad\ 2\quad\ 2$，并放回原来位置： 
 <!--$$
 2\quad -6\quad \colorbox{lightgray}{$-6\quad -3\quad -5\qquad 2\qquad 2\qquad 2$}\quad-5\qquad7\qquad2
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MmI0ZGFjNjk5MzI5LnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MmI0ZGFjNjk5MzI5LnBuZw==.png)
 
 最后执行 `GET-SUM 5 4` 和 `MAX-SUM`，不难得到答案 $1$ 和 $10$。 
 <!--$$
 2\quad -6\quad -6\quad -3\quad \rlap{\overbrace{\phantom{-5\qquad 2\qquad 2\qquad 2}}^{\texttt{GET-SUM 5 4}}}-5\qquad \underbrace{2\qquad 2\qquad 2\quad-5\qquad7\qquad2}_{\texttt{MAX-SUM}}
 $$-->
-![](/source/guoj/1242/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MmQ1NTEzNTE0MTEwLnBuZw==.png)
+![](/source/guoj/1242/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjIvNWQwZGU5MmQ1NTEzNTE0MTEwLnBuZw==.png)
 
 # 数据范围与提示
 

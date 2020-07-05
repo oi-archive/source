@@ -3,7 +3,7 @@
 
 在一次战斗中，门仓甲遭受爆炸的冲击不幸失忆了。于是他的搭档桐岛蕾准备带他去他曾经去过的地方，帮助他找回记忆。
 
-![](/source/guoj/1202/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzM1MmUxMDg3ODkwOTI4LnBuZw==.png)
+![](/source/guoj/1202/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyMDIvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMTcvNWQwNzM1MmUxMDg3ODkwOTI4LnBuZw==.png)
 
 ---
 
