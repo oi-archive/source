@@ -1,7 +1,7 @@
 
 # Content
 
-![6343e8b7c2e245ad86bde6e6cf3b987c.jpeg](/source/lutece/san-cheng-mei-qin-de-xin-li-zhi-you-xue-xi/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMjAvbzlBaW1DUVlCMm55SXU3LmpwZw==.jpg)
+![6343e8b7c2e245ad86bde6e6cf3b987c.jpeg](https://i.loli.net/2019/11/20/o9AimCQYB2nyIu7.jpg)
 
 三澄美琴是一个热爱学习的法医，今天晚上她准备下载很多很多法医论文资料。下面有三个操作
 
