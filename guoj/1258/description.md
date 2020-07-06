@@ -7,7 +7,7 @@ Magic Land 由 $N$ 个城市组成，并且这 $N$ 个城市又由恰好 $N-1$ �
 
 例如，下图就是 Magic Land 的一个可能格局（ $4$ 个城市用数字编号， $3$ 条公路用字母编号）：
 
-![](/source/guoj/1258/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNTgvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDE3NjhjNzAyYzM0NDgzLnBuZw==.png)
+![](/source/guoj/1258/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjQvNWQxMDE3NjhjNzAyYzM0NDgzLnBuZw==.png)
 
 大盗 Frank 能够在公路上以**任意速度**移动。
 
