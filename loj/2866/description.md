@@ -11,15 +11,15 @@
 
 起点是球最初所在的那个器件。它有一个出口。它的序列号是 $0$。
 
-![doll1.png](https://i.loli.net/2019/02/07/5c5be37b6863e.png)
+![doll1.png](/source/loj/2866/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmUzN2I2ODYzZS5wbmc=.png)
 
 一旦球进入某个触发器，就会让娃娃做某个特定运动。每个触发器都有一个出口。触发器的序列号是从 $1$ 到 $M$。
 
-![doll2.png](https://i.loli.net/2019/02/07/5c5be37be021a.png)
+![doll2.png](/source/loj/2866/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmUzN2JlMDIxYS5wbmc=.png)
 
 每个开关都有两个出口，被记为 `X` 和 `Y`。开关的状态或者为 `X`，或者为 `Y`。在球进入某个开关后，它会从开关的当前状态所对应的出口离开。此后开关将切换为另一状态。最初，所有开关的状态都是 `X`。开关的序列号是从 $-1$ 到 $-S$。
 
-![doll3.png](https://i.loli.net/2019/02/07/5c5be37c9e26d.png)
+![doll3.png](/source/loj/2866/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmUzN2M5ZTI2ZC5wbmc=.png)
 
 告诉你触发器的数量 $M$。再给你一个长度为 $N$ 的序列 $A$，序列的每个元素都是某个触发器的序列号。每个触发器会在序列 $A$ 中出现若干次（也可能是零次）。你的任务是设计一个管路，以满足如下条件：
 
@@ -92,7 +92,7 @@ answer(int[] C, int[] X, int[] Y)
 
 假设 $N=4,M=4$ 和 $A=[1,2,1,3]$。评测程序调用 `create_circuit(4, [1, 2, 1, 3])`。
 
-![doll4.png](https://i.loli.net/2019/02/07/5c5be37e1ba4e.png)
+![doll4.png](/source/loj/2866/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDIvMDcvNWM1YmUzN2UxYmE0ZS5wbmc=.png)
 
 上图展示了函数调用 `answer([1, -1, -2, 0, 2], [2, -2], [3, 1])` 所对应的管路图。图中的数字是器件的序列号。
 
