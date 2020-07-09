@@ -1,7 +1,7 @@
 
 # Content
 
-![pic](https://i.loli.net/2019/11/23/vNFRLbuXseHJ1I6.png)
+![pic](/source/lutece/ma-la-song/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMjMvdk5GUkxidVhzZUhKMUk2LnBuZw==.png)
 
 一年一鸽的电子科技大学 IUPC 校队马拉松开始了！共有 $n$ 名 IUPC 校队成员参加这场马拉松，第 $i$ 个人运动的速度是恒定的，并且可以被分解为 $v_{x_i}$ 和 $v_{y_i}$。在第 $0$ 时刻，所有成员很神奇地都出现在一条 $y=ax+b$ 的直线上，且在这条直线上没有两名成员在同一位置。由于 IUPC 的优良传统，对于第 $i$ 位成员，他每碰到一位其他成员（同一时刻出现在同一位置），他就会施展膜大佬技能，使自己的的膜法值加 $1$。现假设 IUPC 校队成员精力十足，从负无穷时刻开始跑，一直跑到正无穷时刻。zhw 大佬想知道所有参赛成员的膜法值之和是多少。
 
