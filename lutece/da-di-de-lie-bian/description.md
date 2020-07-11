@@ -1,7 +1,7 @@
 
 # Content
 
-![pic](https://i.loli.net/2019/11/17/tPHVn7lU84OeI6b.jpg)
+![pic](/source/lutece/da-di-de-lie-bian/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTEvMTcvdFBIVm43bFU4NE9lSTZiLmpwZw==.jpg)
 
 山无棱，天地合。ZXyang 和 HeRaNO 一起从 wf （winterfall）启程，准备修复灾难对大地带来的创伤。大地在经历了冷和热的双重打击（热胀冷缩）之后，出现了很多裂缝，可以看作 $n$ 条相互不重合的直线。然而这个世界的大地是有灵守护的，灵会担负起修复大地的工作。ZXyang 的工作就是找到大地上的奇异点，并且根据奇异点裂开的程度选择合适的魔法修复药剂（胶水）修复奇异点。神奇的是，这片土地上的奇异点刚好位于地图上坐标轴的整点处。所以 ZXyang 决定以大陆的左下角为参考点（大陆向右上无限延伸），修复地图上整点处的奇异点。现在他的工作就是知道这些点的数量，用以对症下药。
 
@@ -42,7 +42,7 @@
 
 样例解释：
 
-![pic.jpg](https://i.loli.net/2019/10/28/oOCe694LMvnu3hm.jpg)
+![pic.jpg](/source/lutece/da-di-de-lie-bian/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMTAvMjgvb09DZTY5NExNdm51M2htLmpwZw==.jpg)
 
 对于这种情况，可以看到三条线虽有三个交点，但是红线与绿线的交点没有在整数坐标处。所以两直线交点有两个，三直线交点为零个。
 
