@@ -50,14 +50,14 @@
 
 <h4>计分方式</h4>
 <p>对每个测试点，你最多能够得到 $10$ 分，</p>
-<p>如果给出一条非法的折线，你将得到 $0$ 分。否则，得分将根据一个递减序列 $c_1,\cdots,c_10$ 来计算。</p>
+<p>如果给出一条非法的折线，你将得到 $0$ 分。否则，得分将根据一个递减序列 $c_1,\cdots,c_{10}$ 来计算。</p>
 <p>假设你的解答是一条包含 $t$ 条线段的合法折线。那么，你将得到</p>
 <ul><li>$i$ 分，如果 $c_i=t,(1 \le i \le 10)$。</li>
 <li>$i+\frac{c_i-t}{c_{i+1}-c_i}$ 分，如果 $c_{i+1} &lt; t &lt; c_i(1 \le i \le 9)$。</li>
 <li>$0$ 分，如果 $t &gt; c_1$。</li>
 <li>$10$ 分，如果 $t &lt; c_{10}$。</li>
 </ul><p>可以这样理解：在 $k \in (c_{i+1},c_i)$ 这个区间上，你的得分是随着 $k$ 减小线性增大的。一旦得分，得分一定在 $[1,10]$ 区间内。</p>
-<p>由于某些原因，OJ上每个测试点的得分为实际得分下取整得到的值。</p>
+<p>由于某些计分方式的原因，OJ上每个测试点的得分为实际得分下取整得到的值。</p>
 <p>以下是每个测试点 $n$ 与 $c_i$ 的信息：</p>
 <div class="table-responsive">
     <table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试包编号</th><th>$n$</th><th>$c_1$</th><th>$c_2$</th><th>$c_3$</th><th>$c_4$</th><th>$c_5$</th>
@@ -71,3 +71,4 @@
                                  <td>$100057$</td><td>$100027$</td><td>$100015$</td><td>$100009$</td><td>$100003$</td></tr></tbody></table></div>
 
 <p>对于所有测试数据，满足$1 \le n \le 100000,-10^9 \le x_i,y_i \le 10^9$。</p>
+<p><a href="http://uoj.ac/download.php?type=problem&amp;id=536">输入数据下载</a></p>
