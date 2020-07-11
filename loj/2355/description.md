@@ -9,7 +9,7 @@
 
 你将要编写的软件系统应支持如下命令：
 
-![fa.png](https://i.loli.net/2018/02/12/5a81482d414fe.png)
+![fa.png](/source/loj/2355/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTIvNWE4MTQ4MmQ0MTRmZS5wbmc=.png)
 
 #### 试题澄清
  - 关于旋转和翻转
