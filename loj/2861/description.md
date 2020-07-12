@@ -9,7 +9,7 @@
 
 给定一个进行过三角形划分的凸多边形，每个三角形都有一个颜色。请找到保证**没有**两个相同颜色的三角形出现在不同的部分中的情况下最大的切割数量。
 
-![](https://i.loli.net/2018/08/25/5b813c040aada.png)
+![](/source/loj/2861/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDgvMjUvNWI4MTNjMDQwYWFkYS5wbmc=.png)
 
 # 输入格式
 

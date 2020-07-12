@@ -13,7 +13,7 @@
 
 T 君不满足于焊接奇形怪状的作品，强烈的破坏欲驱使他拆掉这个作品，然后将之焊接成规整的形状。这会儿，T 君正要把这个怪物改造成一个环形，当作自己的相框，步骤如下：
 
-![2.jpg](https://i.loli.net/2018/07/26/5b5950d8999e6.jpg)
+![2.jpg](/source/loj/10111/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMjYvNWI1OTUwZDg5OTllNi5qcGc=.jpg)
 
 T 君约定了两种操作：
 
