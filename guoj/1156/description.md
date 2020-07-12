@@ -65,7 +65,7 @@
 
 #### 样例 2 解释
 下图为输入的线段，注意线段可以相交：
-![](/source/guoj/1156/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzExNTYvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA1L3NhbXBsZTIucG5n.png)
+![](/source/guoj/1156/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA1L3NhbXBsZTIucG5n.png)
 
 我们可以通过无限“逼近”这些红色的曲线来构造任意总长度大于答案的方案。注意通过样例 1，我们很容易知道左上角的红色线段被算了两遍。
 
@@ -85,7 +85,7 @@
 答案为 $8+4\sqrt 2$。
 
 解释如图：
-![](/source/guoj/1156/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzExNTYvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA1L3NhbXBsZTMucG5n.png)
+![](/source/guoj/1156/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA1L3NhbXBsZTMucG5n.png)
 
 我们可以通过无限“逼近”这些红色的曲线来构造任意总长度大于 $8+4\sqrt 2$ 的方案。
 
