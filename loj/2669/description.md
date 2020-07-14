@@ -37,7 +37,7 @@
 ```
 
 #### 样例解释 1
-![](https://i.loli.net/2018/06/10/5b1d07c4dc6a4.png)
+![](/source/loj/2669/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDYvMTAvNWIxZDA3YzRkYzZhNC5wbmc=.png)
 
 如图所示，最优选址为建筑 $1$。到达 $4$ 个建筑的距离分别为 $0,1,2,2$。
 
