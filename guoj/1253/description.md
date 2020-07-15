@@ -52,7 +52,7 @@ $$
 
 社交网络如下图所示。
 
-![](/source/guoj/1253/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyNTMvaHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjEyNy5wbmc=.png)
+![](/source/guoj/1253/img/aHR0cHM6Ly93d3cud2p5eXkudG9wL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzIwMTkwNjIzMjEyNy5wbmc=.png)
 
 对于 $1$ 号结点而言，只有 $2$ 号到 $4$ 号结点和 $4$ 号到 $2$ 号结点的最短路经过 $1$ 号结点，而 $2$ 号结点和 $4$ 号结点之间的最短路又有 $2$ 条。因而根据定义，$1$ 号结点的重要程度计算为 $\frac 12+\frac 12=1$。由于图的对称性，其他三个结点的重要程度也都是 $1$。
 
