@@ -71,7 +71,7 @@ void report(int, int);
 1 4
 ```
 
-![](/source/guoj/1236/img/aHR0cHM6Ly9ndW9qLmljdS9wcm9ibGVtLzEyMzYvaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzM0NWIzYmI4NDUxODEyLnBuZw==.png)
+![](/source/guoj/1236/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDYvMjEvNWQwYzM0NWIzYmI4NDUxODEyLnBuZw==.png)
 
 探险队初始时站在编号为 $1$ 的洞穴内，编号为 $0$ 的道路通向洞穴 $2$，编号为 $1$ 的道路通向洞穴 $3$，编号为 $2$ 的道路通向洞穴 $4$。
 
