@@ -30,7 +30,7 @@
 <h4>input</h4>
 <pre><code>5
 3 3
-3 3
+2 2
 3 4
 2 2
 3 3</code></pre>
