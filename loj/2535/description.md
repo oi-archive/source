@@ -3,7 +3,7 @@
 
 九连环是一种源于中国的传统智力游戏。如图所示，九个圆环套在一把“剑”上，并且互相牵连。游戏的目标是把九个圆环从“剑”上卸下。  
 
-![无标题.png](https://i.loli.net/2018/04/30/5ae5fac88073e.png)
+![无标题.png](/source/loj/2535/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDQvMzAvNWFlNWZhYzg4MDczZS5wbmc=.png)
 
 圆环的装卸需要遵守两个规则。   
 1. 第一个（最右边）环任何时候都可以装上或卸下。
