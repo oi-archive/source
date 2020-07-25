@@ -54,8 +54,8 @@
 
 <p>对于所有测试数据：$1 \le n \le 300 , 1 \le A_i \le B_i \le 10^9$。</p>
 <p>每个测试点的具体限制见下表：</p>
- <div class="table-responsive">
-<table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>测试点编号</th><th>$n\le$</th><th>特殊性质</th></tr></thead><tbody><tr><td>$1,2$</td><td>$7$</td><td>$A_i=B_i,B_i\le 7$</td></tr><tr><td>$3,4$</td><td>$7$</td><td>$B_i\le 7$</td></tr><tr><td>$5\sim 7$</td><td>$50$</td><td>$B_i\le 100$</td></tr><tr><td>$8\sim 10$</td><td>$300$</td><td>$B_i\le 10^4$</td></tr><tr><td>$11,12$</td><td>50</td><td>$A_i=1,B_i=10^9$</td></tr></tbody></table></div>
+<div class="table-responsive">
+<table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$n\le$</th><th>特殊性质</th></tr></thead><tbody><tr><td>$1,2$</td><td rowspan="2">$7$</td><td>$A_i=B_i,B_i\le 7$</td></tr><tr><td>$3,4$</td><td>$B_i\le 7$</td></tr><tr><td>$5\sim 7$</td><td>$50$</td><td>$B_i\le 100$</td></tr><tr><td>$8\sim 10$</td><td>$300$</td><td>$B_i\le 10^4$</td></tr><tr><td>$11,12$</td><td rowspan="2">50</td><td>$A_i=1,B_i=10^9$</td></tr><tr><td>$13 \sim 15$</td><td rowspan="4">无</td></tr><tr><td>$16,17$</td><td>150</td></tr><tr><td>$18,19$</td><td>200</td></tr><tr><td>$20$</td><td>300</td></tr></tbody></table></div>
 
 
 <p><strong>时间限制</strong>：$3\texttt{s}$</p>
