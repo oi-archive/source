@@ -68,5 +68,5 @@
 
 # 数据范围与提示
 
-对于 $100\%$ 的数据，$1\leqslant n,m,k,a_i\leqslant 10^5$。数据有一定梯度。
+对于 $100\%$ 的数据，$1\leqslant n,m\leqslant 10^5,0\leqslant a_i,k\leqslant 10^5$。数据有一定梯度。
 
