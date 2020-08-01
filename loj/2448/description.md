@@ -5,7 +5,7 @@
 
 一个铁路包含两个侧线 $1$ 和 $2$ ，左边由 $A$ 进入，右边由 $B$ 出去（如下图所示）。  
 
-![捕获.JPG](https://i.loli.net/2018/02/18/5a899f9e3a03e.jpg)
+![捕获.JPG](/source/loj/2448/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDIvMTgvNWE4OTlmOWUzYTAzZS5qcGc=.jpg)
 
 有 $n$ 个车厢在通道 $A$ 上，编号为 $1$ 到 $n$ ，它们按照 $a_1,a_2,\cdots ,a_n$ 的顺序进入侧线，想要按照 $1,2,\cdots ,n$ 的顺序从通道 $B$ 出去。    
 他们可以从 $A$ 到 $1$ 或 $2$ ，然后经过一系列转移从 $B$ 出去（不用考虑容量问题）。求是否能够做到，如果可以，请找出一种方案。
