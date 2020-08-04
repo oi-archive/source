@@ -21,7 +21,7 @@ $\text{seed}$ 表示生成数据的种子。
 ```cpp
 typedef unsigned int ui ;
 ui randNum( ui& seed , ui last , const ui m){ 
-    seed = seed ∗ 17 + last ; return seed % m + 1; 
+    seed = seed * 17 + last ; return seed % m + 1; 
 }
 ```
 （$\texttt{last}$ 为上一次输出的结果，在没有输出结果时 $\texttt{last} = 7$，多组数据时 $\texttt{last}$ 不需要重新赋值）  
