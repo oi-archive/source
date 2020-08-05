@@ -9,7 +9,7 @@
 
 解开奎恩哥的疑惑即可获得 `黑暗剑22` 一把。
 
-![moyu](/source/lutece/hei-an-jian-22jin-zai-zhi-chi/img/aHR0cHM6Ly9waWNzLmltYWdlcy5hYy5jbi9pbWFnZS81ZWJlMDM3YzQ2MDI1Lmh0bWw=.html)
+![moyu](https://pics.images.ac.cn/image/5ebe037c46025.html)
 
 # Standard Input
 
