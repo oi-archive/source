@@ -6,7 +6,7 @@
 一个图海星当且仅当它内部存在五个互不相同的点 $A,B,C,D,E$，
 满足点对$<A,C>, <A,D>,<B,D>, <B,E>, <C,E>$ 之间都存在一条边。
 
-![](https://raw.githubusercontent.com/Abreto/img/master/haixing.png)
+![](/source/lutece/wo-jue-de-hai-xing/img/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FicmV0by9pbWcvbWFzdGVyL2hhaXhpbmcucG5n.png)
 
 # Standard Input
 
