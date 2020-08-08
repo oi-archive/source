@@ -92,7 +92,7 @@ $m$ 段输入之后，有一个非负整数 $p$，表示关系的条数。
 
 #### 样例 3
 
-见附加文件中的 `courses2.in` 与 `courses2.ans`。
+见附加文件中的 `courses3.in` 与 `courses3.ans`。
 
 # 数据范围与提示
 

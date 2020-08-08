@@ -11,7 +11,7 @@
 
 每次移动可以选取一个青蛙，向这只青蛙的前方移动一格到空格子中或跳过前方的**一个不同朝向**的青蛙并移动到空格子中。
 
- ![](https://i.loli.net/2017/12/14/5a3262250ca07.png)<!--<img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
+ ![](/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png)<!--<img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwY2EwNy5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
 
 ![](/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png) <!--<img src="/source/loj/2327/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTcvMTIvMTQvNWEzMjYyMjUwZTM4YS5wbmc=.png" alt="img"align="middle"width="50.0%"/> -->
 

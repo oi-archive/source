@@ -17,7 +17,7 @@
 
 计算深海机器人的最优移动方案， 使深海机器人到达目的地后，采集到的生物标本的总价值最高。
 
-![233](https://www.oj.swust.edu.cn/upload/image/problem/1755.png)
+![robot.png](/source/loj/6224/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wOC8wMi81ZjI2YTBjMDJjODJjLnBuZw==.png)
 
 # 输入格式
 
