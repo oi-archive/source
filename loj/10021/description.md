@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**原题来自：[ZOJ 1937](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1937)**
+**原题来自：[ZOJ 1937](https://zoj.pintia.cn/problem-sets/91827364500/problems/91827365436)**
 
 已知一个数列 $a_0,a_1...a_m$（其中 $a_0 = 1 , a_m = n , a_0 \lt a_1 \lt a_2 \lt ... \lt a_{m-1} \lt a_m$）。对于每个 $k$，需要满足 $a_k=a_i+a_j$（$0 \leq i , j \leq k-1$，这里 $i$ 与 $j$ 可以相等）。
 
