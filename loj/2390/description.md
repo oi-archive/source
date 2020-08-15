@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**题目译自 [JOISC 2017](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/index.html) Day1 T1「[開拓](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1.pdf)：[Cultivation](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1-en.pdf)」**
+**题目译自 [JOISC 2017](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/index.html) Day1 T1「[開拓](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1.pdf) / [Cultivation](https://www.ioi-jp.org/camp/2017/2017-sp-tasks/2017-sp-d1-en.pdf)」**
 
 开荒者要让一片长方形的平原长满草。这个长方形可视为 $R$ 行 $C$ 列的正方形网格，底平行于南北方向，高平行于东西方向。我们用 $(1,1)$ 表示网格的西北角，$(R,C)$ 表示网格的东南角。开始时有且只有 $N$ 个网格内长有野草，其余网格内既没有草也没有草籽。开荒者们可以控制这片平原上的风往东、西、南、北四个方向中的一个方向吹。  
 
