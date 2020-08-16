@@ -69,7 +69,7 @@
 
 时刻 4：
 
-<img src="https://i.loli.net/2018/12/04/5c0616c061165.png" width="80%" />
+<img src="/source/loj/2836/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMTIvMDQvNWMwNjE2YzA2MTE2NS5wbmc=.png" width="80%" />
 
 时刻 5：
 
