@@ -81,4 +81,4 @@ NWESSWEWS
 # 下载
 
 
-<p><a href="/download.php?type=problem&amp;id=305">样例及测评库下载</a></p>
+<p><a href="/download.php?type=problem&amp;id=303">样例及测评库下载</a></p>
