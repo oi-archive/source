@@ -1,11 +1,11 @@
 
 # 题目描述
 
-**原题来自：[ZOJ 3203](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3203)**
+**原题来自：[ZOJ 3203](https://zoj.pintia.cn/problem-sets/91827364500/problems/91827367865)**
 
 相比 wildleopard 的家，他的弟弟 mildleopard 比较穷。他的房子是狭窄的而且在他的房间里面仅有一个灯泡。每天晚上，他徘徊在自己狭小的房子里，思考如何赚更多的钱。有一天，他发现他的影子的长度随着他在灯泡和墙壁之间走到时发生着变化。一个突然的想法出现在脑海里，他想知道他的影子的最大长度。
 
-[![无标题.jpg](/source/loj/10016/img/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTgvMDcvMDMvNWIzYWMzNmEyY2E0YS5qcGc=.jpg)](https://i.loli.net/2018/07/03/5b3ac36a2ca4a.jpg)
+![bulb.jpg](/source/loj/10016/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wOC8wMi81ZjI2YTA3OTliNmNhLmpwZw==.jpg)
 
 # 输入格式
 
