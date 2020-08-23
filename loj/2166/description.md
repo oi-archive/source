@@ -47,7 +47,7 @@ Byteasar 认为他没有义务举办一个大型聚会，但他想邀请至少 $
 
 # 数据范围与提示
 
-对于全部数据，$ 3 \le n \le 3000 , \frac{\frac{2}{3}(\frac{2}{3}n-1)}{2} \le m \le \frac{n(n-1)}{2}, 1 \le a_i \lt b_i \le n $。
+对于全部数据，$ 3 \le n \le 3000 , \frac{\frac{2}{3}n(\frac{2}{3}n-1)}{2} \le m \le \frac{n(n-1)}{2}, 1 \le a_i \lt b_i \le n $。
 
 Task author: Jakub Onufry Wojtaszczyk.
 
