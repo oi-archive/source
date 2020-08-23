@@ -61,3 +61,8 @@
 </ul><p><strong>时间限制</strong>：$1\texttt{s}$</p>
 <p><strong>空间限制</strong>：$512\texttt{MB}$</p>
 <p>本题不支持 hack。</p>
+
+# 下载
+
+
+<p><a href="/download.php?type=problem&amp;id=304">样例及测评库下载</a></p>
