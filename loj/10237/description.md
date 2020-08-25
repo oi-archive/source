@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**原题来自：[BZOJ 2142](https://www.lydsy.com/JudgeOnline/problem.php?id=2142)**
+**原题来自：[BZOJ 2142](https://darkbzoj.tk/problem/2142)**
 
 一年一度的圣诞节快要来到了。每年的圣诞节小 E 都会收到许多礼物，当然他也会送出许多礼物。不同的人物在小 E 心目中的重要性不同，在小 E 心中分量越重的人，收到的礼物会越多。
 
