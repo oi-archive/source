@@ -94,7 +94,7 @@ X[Q-1] Y[Q-1]
 
 #### 样例解释 1
 
-$N = 5$, $M = 6$, $U = [0, 0, 1, 1, 1, 2]$, $V = [1, 2, 2, 3, 4, 3]$, $W = [4, 4, 1, 2, 10, 3]$, $Q = 3$, $X = [1, 2, 0]$, $Y = [2, 4, 1]$。如下图：
+$N = 5$, $M = 6$，$U = [0, 0, 1, 1, 1, 2]$，$V = [1, 2, 2, 3, 4, 3]$，$W = [4, 4, 1, 2, 10, 3]$，$Q = 3$，$X = [1, 2, 0]$，$Y = [2, 4, 1]$。如下图：
 
 ![swap1.png](/source/loj/3346/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wOC8yNi81ZjQ2MjY0MDkwNTcwLnBuZw==.png)
 
@@ -122,7 +122,7 @@ $N = 5$, $M = 6$, $U = [0, 0, 1, 1, 1, 2]$, $V = [1, 2, 2, 3, 4, 3]$, $W = [4, 4
 
 #### 样例解释 2
 
-$N=3$, $M = 2$, $U = [0, 0]$, $V = [1, 2]$, $W = [5, 5]$, $Q = 1$, $X = [1]$, $Y = [2]$。如下图：
+$N=3$，$M = 2$，$U = [0, 0]$，$V = [1, 2]$，$W = [5, 5]$，$Q = 1$，$X = [1]$，$Y = [2]$。如下图：
 
 ![swap2.png](/source/loj/3346/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAyMC8wOC8yNi81ZjQ2MjYzZjYzMjQ3LnBuZw==.png)
 
