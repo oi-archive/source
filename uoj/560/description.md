@@ -82,7 +82,7 @@
 <p>特殊限制 C：最多有 50 对事件 $(i,j)$（$1 \le i &lt; j \le n$）<strong>不满足</strong> $(i,p_i) \le (j,p_j)$。</p>
 <p><strong>时间限制</strong>：$6\texttt{s}$</p>
 <p><strong>空间限制</strong>：$1\texttt{GB}$</p>
-<p><strong>考虑到现场是超级牛逼的 i5-9400，在综合估量 std 在考试机和 UOJ 机子上的运行时间，时间限制在原来的 4s 基础上增加 2s</strong>。</p>
+<p><strong>考虑到现场是超级牛逼的 i5-9400，在综合估量 std 在考试机和 UOJ 机子上的运行时间，经过和出题人的讨论后时间限制在原来的 4s 基础上增加 2s</strong>。</p>
 
 # 下载
 
