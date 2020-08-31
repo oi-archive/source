@@ -41,7 +41,7 @@ Vicomte de Bajteaux 收藏了许多石头并准备把它们放到花园里。
 10 200
 01010
 ```
-![](/source/loj/2655/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9za2FvdXQuZ2lm.gif)
+![](https://main.edu.pl/en/images/OI14/skaout.gif)
 
 # 数据范围与提示
 
