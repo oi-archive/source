@@ -94,17 +94,19 @@
 
 <p>最终评测<strong>只会</strong>收取 <code>explore.cpp/c/pas</code>，修改选手目录下其他文件对评测<strong>无效</strong>。</p>
 <p><strong>本题首先会受到和传统题相同的限制</strong>。例如编译错误会导致整道题目得 $0$ 分，运行时错误、超过时间限制、超过空间限制等会导致相应测试点得 $0$ 分等。你只能访问自己定义的和交互库给出的变量及其对应的内存空间，尝试访问其他空间将可能导致编译错误或运行错误。</p>
-<p>在上述条件基础上，在一个测试点中，你得到满分，当且仅当：
-1. 你的每次函数调用均合法，且调用 $\texttt{modify}$、$\texttt{query}$ 和 $\texttt{check}$ 的次数分别不超过 $L_m, L_q, L_c$。
-2. 由于 $\texttt{report}$ 的调用次数限制为 $M$，你的每次调用都必须记录一条新的且存在的边；即每次调用 $\texttt{report(x, y)}$ 时，应满足：有一条连接 $x$ 号洞穴和 $y$ 号洞穴的通路，且在这次调用之前从未调用过 $\texttt{report(x, y)}$ 或 $\texttt{report(y, x)}$。
-3. 你实现的函数 $\texttt{explore}$ 正常返回。
-4. 在 $\texttt{explore}$ 函数返回时，你已经通过调用 $\texttt{report}$ 记录了全部 $M$ 条通路。</p>
-
+<p>在上述条件基础上，在一个测试点中，你得到满分，当且仅当：</p>
+<ol><li>你的每次函数调用均合法，且调用 $\texttt{modify}$、$\texttt{query}$ 和 $\texttt{check}$ 的次数分别不超过 $L_m, L_q, L_c$。</li>
+<li>由于 $\texttt{report}$ 的调用次数限制为 $M$，你的每次调用都必须记录一条新的且存在的边；即每次调用 $\texttt{report(x, y)}$ 时，应满足：有一条连接 $x$ 号洞穴和 $y$ 号洞穴的通路，且在这次调用之前从未调用过 $\texttt{report(x, y)}$ 或 $\texttt{report(y, x)}$。</li>
+<li>你实现的函数 $\texttt{explore}$ 正常返回。</li>
+<li>在 $\texttt{explore}$ 函数返回时，你已经通过调用 $\texttt{report}$ 记录了全部 $M$ 条通路。</li>
+</ol>
 # 限制与约定
 
 
 <p>本题共 $25$ 个测试点，每个测试点 $4$ 分。每个测试点的数据规模和相关限制见下表。</p>
-<div class="table-responsive"><table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>测试点编号</th><th>$N=$</th><th>$M=$</th><th>$L_m=$</th><th>$L_q=$</th><th>$L_c=$</th><th>特殊性质</th></tr></thead><tbody><tr><td>$1$</td><td>$3$</td><td>$2$</td><td>$100$</td><td>$100$</td><td>$100$</td><td>无</td></tr><tr><td>$2$</td><td>$100$</td><td>$10N$</td><td>$200$</td><td>$10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$3$</td><td>$200$</td><td>$10N$</td><td>$200$</td><td>$4\times 10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$4$</td><td>$300$</td><td>$10N$</td><td>$299$</td><td>$9\times 10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$5$</td><td>$500$</td><td>$10N$</td><td>$499$</td><td>$1.5\times 10^5$</td><td>$2M$</td><td>无</td></tr><tr><td>$6$</td><td>$59998$</td><td>$N/2$</td><td>$17N$</td><td>$17N$</td><td>$0$</td><td>A</td></tr><tr><td>$7$</td><td>$99998$</td><td>$N/2$</td><td>$18N$</td><td>$18N$</td><td>$0$</td><td>A</td></tr><tr><td>$8$</td><td>$199998$</td><td>$N/2$</td><td>$19N$</td><td>$19N$</td><td>$0$</td><td>A</td></tr><tr><td>$9$</td><td>$199998$</td><td>$N/2$</td><td>$19N$</td><td>$19N$</td><td>$0$</td><td>A</td></tr><tr><td>$10$</td><td>$99997$</td><td>$N-1$</td><td>$18N$</td><td>$18N$</td><td>$0$</td><td>B</td></tr><tr><td>$11$</td><td>$199997$</td><td>$N-1$</td><td>$19N$</td><td>$19N$</td><td>$0$</td><td>B</td></tr><tr><td>$12$</td><td>$99996$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>C</td></tr><tr><td>$13$</td><td>$199996$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>C</td></tr><tr><td>$14$</td><td>$199996$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>C</td></tr><tr><td>$15$</td><td>$99995$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>D</td></tr><tr><td>$16$</td><td>$99995$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>D</td></tr><tr><td>$17$</td><td>$199995$</td><td>$N-1$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>D</td></tr><tr><td>$18$</td><td>$1004$</td><td>$2\times 10^3$</td><td>$10^7$</td><td>$5\times 10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$19$</td><td>$1004$</td><td>$3\times 10^3$</td><td>$10^7$</td><td>$5\times 10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$20$</td><td>$1004$</td><td>$3\times 10^3$</td><td>$10^7$</td><td>$5\times 10^4$</td><td>$2M$</td><td>无</td></tr><tr><td>$21$</td><td>$5\times 10^4$</td><td>$2N$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>无</td></tr><tr><td>$22$</td><td>$10^5$</td><td>$2N$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>无</td></tr><tr><td>$23$</td><td>$1.5\times 10^5$</td><td>$2\times 10^5$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>无</td></tr><tr><td>$24$</td><td>$2\times 10^5$</td><td>$2.5\times 10^5$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>无</td></tr><tr><td>$25$</td><td>$2\times 10^5$</td><td>$3\times 10^5$</td><td>$10^7$</td><td>$10^7$</td><td>$2M$</td><td>无</td></tr></tbody></table></div>
+<div class="table-responsive">
+<table class="table table-bordered table-text-center table-vertical-middle"><thead><tr><th>测试点编号</th><th>$N=$</th><th>$M=$</th><th>$L_m=$</th><th>$L_q=$</th><th>$L_c=$</th><th>特殊性质</th>
+</tr></thead><tbody><tr><td>$1$</td><td>$3$</td><td>$2$</td><td>$100$</td><td>$100$</td><td>$100$</td><td rowspan="5">无</td></tr><tr><td>$2$</td><td>$100$</td><td rowspan="4">$10N$</td><td>$200$</td><td>$10^4$</td><td rowspan="4">$2M$</td></tr><tr><td>$3$</td><td>$200$</td><td>$200$</td><td>$4\times 10^4$</td></tr><tr><td>$4$</td><td>$300$</td><td>$299$</td><td>$9\times 10^4$</td></tr><tr><td>$5$</td><td>$500$</td><td>$499$</td><td>$1.5\times 10^5$</td></tr><tr><td>$6$</td><td>$59998$</td><td rowspan="4">$N/2$</td><td>$17N$</td><td>$17N$</td><td rowspan="6">$0$</td><td rowspan="4">A</td></tr><tr><td>$7$</td><td>$99998$</td><td>$18N$</td><td>$18N$</td></tr><tr><td>$8$</td><td>$199998$</td><td>$19N$</td><td>$19N$</td></tr><tr><td>$9$</td><td>$199998$</td><td>$19N$</td><td>$19N$</td></tr><tr><td>$10$</td><td>$99997$</td><td rowspan="8">$N-1$</td><td>$18N$</td><td>$18N$</td><td rowspan="2">B</td></tr><tr><td>$11$</td><td>$199997$</td><td>$19N$</td><td>$19N$</td></tr><tr><td>$12$</td><td>$99996$</td><td rowspan="14">$10^7$</td><td rowspan="6">$10^7$</td><td rowspan="14">$2M$</td><td rowspan="3">C</td></tr><tr><td>$13$</td><td>$199996$</td></tr><tr><td>$14$</td><td>$199996$</td></tr><tr><td>$15$</td><td>$99995$</td><td rowspan="3">D</td></tr><tr><td>$16$</td><td>$99995$</td></tr><tr><td>$17$</td><td>$199995$</td></tr><tr><td>$18$</td><td rowspan="3">$1004$</td><td>$2000$</td><td rowspan="3">$5\times 10^4$</td><td rowspan="8">无</td></tr><tr><td>$19$</td><td>$3000$</td></tr><tr><td>$20$</td><td>$3000$</td></tr><tr><td>$21$</td><td>$5\times 10^4$</td><td>$2N$</td><td rowspan="5">$10^7$</td></tr><tr><td>$22$</td><td>$10^5$</td><td>$2N$</td></tr><tr><td>$23$</td><td>$1.5\times 10^5$</td><td>$2\times 10^5$</td></tr><tr><td>$24$</td><td>$2\times 10^5$</td><td>$2.5\times 10^5$</td></tr><tr><td>$25$</td><td>$2\times 10^5$</td><td>$3\times 10^5$</td></tr></tbody></table></div>
 
 <p>再次提醒，<strong>题目保证测试所使用的图在交互开始之前已经完全确定，而不会根据和你的程序的交互动态构造</strong>。</p>
 <p>表中特殊性质栏中变量的含义如下：</p>
@@ -112,8 +114,8 @@
 <li>B：保证对于每个 $x &gt; 0$，存在恰好一个 $y &lt; x$ 的 $y$ 使得 $x$ 号洞穴与 $y$ 号洞穴有通路直接相连。</li>
 <li>C：存在 $0 \sim N − 1$ 的一个排列 $p_0, p_1, \ldots , p_{N−1}$，使得对任意 $1 \le i &lt; N$，存在一条连接洞穴编号分别为 $p_{i−1}$ 与 $p_i$ 的通路。</li>
 <li>D：保证图连通。</li>
-</ul><p><strong>时间限制: 2s</strong></p>
-<p><strong>空间限制: 512MB</strong></p>
+</ul><p><strong>时间限制</strong>：$2\texttt{s}$</p>
+<p><strong>空间限制</strong>：$512\texttt{MB}$</p>
 
 # 提示
 
