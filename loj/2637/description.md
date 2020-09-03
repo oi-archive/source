@@ -3,7 +3,7 @@
 
 $T$ 是一棵有根树，$S$ 是 $T$ 的副本。我们将这两棵树相对应的叶子结点一一合并，就变成了一个树镜像图。如果你无法理解，请参见下图。
 
-<img src="/source/loj/2637/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNjM3L3Rlc3RkYXRhL2Rvd25sb2FkLzEuUE5H.PNG" width="50%">
+<img src="https://loj.ac/problem/2637/testdata/download/1.PNG" width="50%">
 
 给出一个由 $N$ 个结点 $M$ 条边组成的无向图 $G$，结点依次编号为 $1\ldots N$。  
 试求 $G$ 是不是树镜像图，如果它是树镜像图，请输出 $\texttt{YES}$，否则输出 $\texttt{NO}$。
