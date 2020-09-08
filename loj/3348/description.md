@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [CEOI 2020](http://ceoi2020.inf.elte.hu/contest/tasks/) Day1 T1「[Fancy Fence](http://ceoi2020.inf.elte.hu/wp-content/uploads/2020/09/fancyfence_eng.pdf)」**
+**题目译自 [CEOI 2020](http://ceoi2020.inf.elte.hu/contest/tasks/) Day1 T1「[Fancy Fence](http://ceoi2020.inf.elte.hu/wp-content/uploads/2020/09/fancyfence_eng.pdf)」**
 
 众所周知，Balázs 拥有整个城镇中最漂亮的围栏。围栏由 $N$ 个部分组成，每个部分均为矩形，且相邻的两个部分间均紧密相连。第 $i$ 部分矩形的高度为 $h_i$，宽度为 $w_i$，我们需要找到满足如下条件的花式矩形：
 
