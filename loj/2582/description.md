@@ -51,7 +51,7 @@
 #### 样例说明 2
 样例 2 中的 $6$ 个点，以及 $D(l)$ 取到最小值时的直线 $l$ 如图所示。
 
-<img src="/problem/2582/testdata/download/line.png" height="270" width="440" />
+<img src="/source/loj/2582/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTgyL3Rlc3RkYXRhL2Rvd25sb2FkL2xpbmUucG5n.png" height="270" width="440" />
 
 # 数据范围与提示
 

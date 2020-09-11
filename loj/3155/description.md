@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T3 「[ウイルス実験](https://cms.ioi-jp.org/dist/virus/2019-open-virus-statement.pdf) / [Virus Experiment](https://cms.ioi-jp.org/dist/virus/2019-open-virus-statement-en.pdf)」**
+**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T3 「[ウイルス実験](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/virus/2019-open-virus-statement.pdf) / [Virus Experiment](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/virus/2019-open-virus-statement-en.pdf)」**
 
 你知道「净是一些鬼畜发明公司」（Just Odd Inventions Co., Ltd.）吗？这家公司就是发明一些鬼畜玩意的。现在我们就叫它 JOI 公司。
 

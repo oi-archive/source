@@ -104,7 +104,7 @@
 
 # 数据范围与提示
 
-所有数据均满足：$2 \leq N \leq 10^5$，$1 \leq D \leq 500$，$0 \leq U \leq 2 \times 10^5$，$1 \leq Q \leq 500$。
+所有数据均满足：$2 \leq N \leq 10^5$，$1 \leq D \leq 500$，$0 \leq U \leq 2 \times 10^5$，$1 \leq Q \leq 5 \times 10^4$。
 
 各子任务的约束条件如下：
 
