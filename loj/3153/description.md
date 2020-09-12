@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T1 「[三段跳び](https://cms.ioi-jp.org/dist/jumps/2019-open-jumps-statement.pdf) / [Triple Jump](https://cms.ioi-jp.org/dist/jumps/2019-open-jumps-statement-en.pdf)」**
+**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T1 「[三段跳び](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/jumps/2019-open-jumps-statement.pdf) / [Triple Jump](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/jumps/2019-open-jumps-statement-en.pdf)」**
 
 有一条很长的路，被划分为 $N$ 段并从 $1$ 到 $N$ 编号。每一段都一个坚固程度，第 $i$ 段路的坚固程度为 $A_i$。
 
