@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T2 「[送金](https://cms.ioi-jp.org/dist/remittance/2019-open-remittance-statement.pdf) / [Remittance](https://cms.ioi-jp.org/dist/remittance/2019-open-remittance-statement-en.pdf)」**
+**译自 [JOI Open 2019](https://contests.ioi-jp.org/open-2019/index.html) T2 「[送金](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/remittance/2019-open-remittance-statement.pdf) / [Remittance](http://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2019/remittance/2019-open-remittance-statement-en.pdf)」**
 
 JOI 王国的河狸湖边有 $N$ 座房子，按逆时针方向给房子从 $1$ 到 $N$ 编号。
 
