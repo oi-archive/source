@@ -3,7 +3,7 @@
 
 **题目译自 [JOISC 2020](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/index.html) Day1 T2「[美味しい美味しいハンバーグ](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/day1/hamburg.pdf) / [Hamburg Steak](https://www.ioi-jp.org/camp/2020/2020-sp-tasks/day1/hamburg-en.pdf)」**
 
-你听说过奇异物品公司<!--沙雕发明公司-->（Just Odd inventions, Ltd.）吗？这家公司以生产奇异物品出名。在本题中，我们简称它为 JOI 公司。
+你听说过奇异物品公司<!--沙雕发明公司-->（Just Odd Inventions, Ltd.）吗？这家公司以生产奇异物品出名。在本题中，我们简称它为 JOI 公司。
 
 JOI 公司将要举办一场盛大的年会，主厨正在一块由 $10^9\times 10^9$ 个网格组成的超大的网格形烤架上烤着 $N$ 块汉堡肉。为了方便，我们用 $(x,~y)$ 表示从左往右数第 $x$ 列，从下往上数第 $y$ 行的网格。
 
