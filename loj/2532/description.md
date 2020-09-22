@@ -11,9 +11,9 @@
 
 如果用箭头表示好友关系，下图展示了某个社交网络中消息转发的所有可能情况。（初始消息是用户 $1$ 发送的，加粗箭头表示一次消息转发）
 
-![Ex1](https://loj.ac/problem/2532/testdata/download/CQ2018Ex1.png)![Ex2](https://loj.ac/problem/2532/testdata/download/CQ2018Ex2.png)![Ex3](https://loj.ac/problem/2532/testdata/download/CQ2018Ex3.png)
+![Ex1](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4MS5wbmc=.png)![Ex2](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4Mi5wbmc=.png)![Ex3](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4My5wbmc=.png)
 
-![Ex4](https://loj.ac/problem/2532/testdata/download/CQ2018Ex4.png)![Ex5](https://loj.ac/problem/2532/testdata/download/CQ2018Ex5.png)![Ex6](https://loj.ac/problem/2532/testdata/download/CQ2018Ex6.png)
+![Ex4](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4NC5wbmc=.png)![Ex5](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4NS5wbmc=.png)![Ex6](/source/loj/2532/img/aHR0cHM6Ly9sb2ouYWMvcHJvYmxlbS8yNTMyL3Rlc3RkYXRhL2Rvd25sb2FkL0NRMjAxOEV4Ni5wbmc=.png)
 
 # 输入格式
 

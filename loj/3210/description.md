@@ -8,7 +8,7 @@
 $n − 1$ 次操作过后，所有的边都将被删去。此时，按数字从小到大的顺序，将数字 $1 \sim n$ 所在的结点编号依次排列，就得到一个结点编号的排列 $P_i$。现在请你求出，在最优操作方案下能得到的**字典序最小**的 $P_i$。
 
 ![CSP-S-2019-C.png](/source/loj/3210/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMi8yMi81ZGZmMWUxZGIwNDJiLnBuZw==.png)
-<!--![tree1.png](/source/loj/3210/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMS8xNi81ZGNmZWQzMDQ0NWIyLnBuZw==.png)>
+<!-- ![tree1.png](/source/loj/3210/img/aHR0cHM6Ly9sb2otaW1nLnVweXVuLm1lbmNpLm1lbXNldDAuY24vMjAxOS8xMS8xNi81ZGNmZWQzMDQ0NWIyLnBuZw==.png) -->
 
 如左图，蓝圈中的数字 $1 \sim 5$ 一开始分别在结点 ②、①、③、⑤、④。按照 (1)(4)(3)(2) 的顺序删去所有边，树变为右图。按数字顺序得到的结点编号排列为 ①③④②⑤，该排列是所有可能的结果中字典序最小的。
 
