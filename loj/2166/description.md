@@ -41,7 +41,7 @@ Byteasar 认为他没有义务举办一个大型聚会，但他想邀请至少 $
 ```
 #### 样例说明
 
-![](/source/loj/2166/img/aHR0cHM6Ly9zemtvcHVsLmVkdS5wbC9wcm9ibGVtc2V0L3Byb2JsZW0vUEN0dGVDNmdLd2MyWmlrVzhuVVp6ZnloL3NpdGUvaW1hZ2VzL09JMTgvaW1wemFkMS5naWY=.gif)
+![](https://szkopul.edu.pl/problemset/problem/PCtteC6gKwc2ZikW8nUZzfyh/site/images/OI18/impzad1.gif)
 
 编号为 $1,3,4,5$ 的朋友互相认识。然而对于任意一对互相认识的朋友，如 $2,4$，都可以作为正确答案。即，这一对朋友并不一定来自于之前提到的那个四元组。
 
