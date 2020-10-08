@@ -5,7 +5,7 @@
 
 提示：
 
-在 `c++17` 中，定义于头文件 `<cmath>` 中的 `double std::riemann_zeta (double arg)`可以计算黎曼zeta函数 $ζ（arg）$。其中 $ζ(arg) = \sum_{i=1}^\infty{1 \over i^{arg}}$。
+在 `c++17` 中，定义于头文件 `<cmath>` 中的 `double std::riemann_zeta (double arg)`可以计算黎曼zeta函数 $ζ(arg)$。其中 $ζ(arg) = \sum_{i=1}^\infty{1 \over i^{arg}}$。
 
 # 输入格式
 
