@@ -34,7 +34,7 @@ Vicomte de Bajteaux 收藏了许多石头并准备把它们放到花园里。
 3 4 100
 5 3 277
 ```
-![](/source/loj/2655/img/aHR0cHM6Ly9tYWluLmVkdS5wbC9lbi9pbWFnZXMvT0kxNC9za2Fpbi5naWY=.gif)
+![](https://main.edu.pl/en/images/OI14/skain.gif)
 
 #### 样例输出 1
 ```plain
