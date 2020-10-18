@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #1](http://hsin.hr/coci/contest1_tasks.pdf) T5「Zoo」**
+**译自 [COCI 2019/2020 Contest #1](https://hsin.hr/coci/archive/2019_2020/) T5「[Zoo](https://hsin.hr/coci/archive/2019_2020/contest1_tasks.pdf)」**
 
 一个圣诞节的晚上，一个人离开了他的家，到对面的公园去散步。
 

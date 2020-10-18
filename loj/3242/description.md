@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/contest3_tasks.pdf) T5「Sob」**
+**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/archive/2019_2020/) T5「[Sob](https://hsin.hr/coci/archive/2019_2020/contest3_tasks.pdf)」**
 
 给出两个整数 $ N $ 和 $ M $，把集合 $ A = \{0, 1, 2, \dots, N - 1 \} $ 和 $ B = \{M, \dots, M + N - 1\}$ 一一匹配成 $ N $ 对数。对于每对匹配的数 $ x \in A $ 和 $ y \in B $ 都要满足 $ x\ \&\ y = x $，其中 $ \& $ 表示位运算与操作。
 

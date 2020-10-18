@@ -1,9 +1,9 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/contest4_tasks.pdf) T5「Nivelle」**
+**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/archive/2019_2020/) T5「[Nivelle](https://hsin.hr/coci/archive/2019_2020/contest4_tasks.pdf)」**
 
-*原本的题目描述由于过于暴力而被修改。下面的程序适合于初级选手。*
+*原本的题目描述由于过于暴力而被修改。下面的描述适合于未成年选手。*
 
 Bojan 看见了货架上摆着 $N$ 个可爱的，毛绒绒的并且还能吃的小玩具（yaay），它们按从 $1$ 到 $N$ 的顺序排列。每个毛绒玩具用 $26$ 种不同的颜色之一染色。每种颜色用一个小写的英文字母表示。Bojan 想要吃掉其中的一些（流口水）。
 
