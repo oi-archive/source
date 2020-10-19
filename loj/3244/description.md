@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/contest4_tasks.pdf) T4「Klasika」**
+**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/archive/2019_2020/) T4「[Klasika](https://hsin.hr/coci/archive/2019_2020/contest4_tasks.pdf)」**
 
 开始时，有一个编号为 $1$ 的节点，它代表一棵树的根节点。你的任务是支持以下两种形式的 $Q$ 次操作：
 - $\texttt{Add x y}$：给树上编号为 $x$ 的节点加一个儿子，新加入的节点和节点 $x$ 之间用一条边权为 $y$ 的边连接，新加入的节点编号等于该节点加入后树上所有的节点数；

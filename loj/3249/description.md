@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #5](https://hsin.hr/coci/contest5_tasks.pdf) T3「Matching」**
+**译自 [COCI 2019/2020 Contest #5](https://hsin.hr/coci/archive/2019_2020/) T3「[Matching](https://hsin.hr/coci/archive/2019_2020/contest5_tasks.pdf)」**
 
 给定一个偶数 $N$，表示二维平面上有 $N$ 个整点（整点即点坐标均为整数的点）。对于每个整数 $a$，最多有两个点坐标为 $(a,x)$，类似地，对于每个整数 $b$，最多有两个点坐标为 $(x,b)$。
 
