@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #5](https://hsin.hr/coci/contest5_tasks.pdf) T5「Zapina」**
+**译自 [COCI 2019/2020 Contest #5](https://hsin.hr/coci/archive/2019_2020/) T5「[Zapina](https://hsin.hr/coci/archive/2019_2020/contest5_tasks.pdf)」**
 
 现有 $N$ 位年轻的程序竞赛选手正在 ~~Krapina~~ Zagreb 的冬令营中准备第二赛季的比赛。Malnar 先生十分重视秩序，规则和努力，他让选手排成一行，并分配给他们一定数量（可能为 $0$）的题。他分配了 **$N$ 道不同的**题。并且他知道如果第 $i$ 名选手被分配到**恰好** $i$ 道题，他就会开心。
 
