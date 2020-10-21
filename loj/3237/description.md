@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #2](https://hsin.hr/coci/contest2_tasks.pdf) T3「Checker」**
+**译自 [COCI 2019/2020 Contest #2](https://hsin.hr/coci/archive/2019_2020/) T3「[Checker](https://hsin.hr/coci/archive/2019_2020/contest2_tasks.pdf)」**
 
 在本题中，我们将研究正 $N$ 边形。这些多边形的各条边都被染成了三种颜色之一，且节点按顺时针编号为 $1$ 到 $N$。一个多边形的三角剖分是将多边形分成多个互不重叠的三角形，且三角形的各边在多边形的边上或对角线上的操作。当然，本题中用于多边形的三角形剖分操作的对角线也被染成了三种颜色之一。
 
