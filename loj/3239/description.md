@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #2](https://hsin.hr/coci/contest2_tasks.pdf) T5「Zvijezda」**
+**译自 [COCI 2019/2020 Contest #2](https://hsin.hr/coci/archive/2019_2020/) T5「[Zvijezda](https://hsin.hr/coci/archive/2019_2020/contest2_tasks.pdf)」**
 
 小 M 和小 S 正在用多边形游戏和观看新一季的影视剧来消磨时间。小 M 刚刚画了一个含有 $N$ 个顶点的凸多边形。然后小 S 选出各组对边（两条边是对边当且仅当这两条边之间有 $\frac{N}{2}-1$条边），然后沿着这两条边画一条直线，再给这两条直线所夹的区域以及多边形涂上颜色。最后，为了考验小 S，小 M 选出了 $Q$ 个点，让他对于每个点回答这个点是否落在被染过色的区域内。
 
