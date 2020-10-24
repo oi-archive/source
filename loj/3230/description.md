@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #1](http://hsin.hr/coci/contest1_tasks.pdf) T4「Trobojnica」**
+**译自 [COCI 2019/2020 Contest #1](https://hsin.hr/coci/archive/2019_2020/) T4「[Trobojnica](https://hsin.hr/coci/archive/2019_2020/contest1_tasks.pdf)」**
 
 给出一个正多边形，顶点按顺序从 $1$ 到 $N$ 进行编号，且每条边都会染上三种颜色中的一种。
 

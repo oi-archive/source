@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #1](http://hsin.hr/coci/contest1_tasks.pdf) T3「Džumbus」**
+**译自 [COCI 2019/2020 Contest #1](https://hsin.hr/coci/archive/2019_2020/) T3「[Džumbus](https://hsin.hr/coci/archive/2019_2020/contest1_tasks.pdf)」**
 
 Marin 准备为他的 $N$ 个朋友们准备 $Q$ 场聚会，他的朋友们都是编程竞赛选手。聚会上唯一准备的饮料将是 džumbus。
 
