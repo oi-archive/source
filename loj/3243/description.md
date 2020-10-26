@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/contest4_tasks.pdf) T3「Holding」**
+**译自 [COCI 2019/2020 Contest #4](https://hsin.hr/coci/archive/2019_2020/) T3「[Holding](https://hsin.hr/coci/archive/2019_2020/contest4_tasks.pdf)」**
 
 Ivica 和他的资产——一个他拥有的，由 $N$ 个克罗地亚企业组成的财团，正在经历一段困难的时间。每家企业都有负债，所以政府派公职律师拿走他的一切财产。只有我们发现了尽管他有着巨额的欠债，Ivica 还是成功地让政府留给他了某些企业。是哪些呢？我们也知道了。
 

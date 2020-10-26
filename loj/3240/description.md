@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/contest3_tasks.pdf) T3「Drvca」**
+**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/archive/2019_2020/) T3「[Drvca](https://hsin.hr/coci/archive/2019_2020/contest3_tasks.pdf)」**
 
 给出一个长度为 $ N $ 的序列 $ h_1, h_2, \dots, h_N $。你需要把它划分成两个非空的子序列，使得每个子序列里的数构成了一个等差数列。
 
