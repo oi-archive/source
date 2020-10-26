@@ -1,13 +1,13 @@
 # 题目描述
 
-<p>给你一张 $n$ 个点 $m$ 条边构成的有向图 $G=(V, E)$，其中第 $i$ 条边的起点为 $from(i)$，终点为 $to(i)$，有容量 $cap(i)$ 和费用 $cost(i)$ 两个属性。并且，图中存在两个特殊点，源点 $s$ 和汇点 $t$，$s$ 点没有入边，$t$ 点没有出边。</p>
+<p>给你一张 $n$ 个点 $m$ 条边构成的有向图 $G=(V, E)$，其中点从 $1$ 到 $n$ 编号，第 $i$ 条边的起点为 $from(i)$，终点为 $to(i)$，有容量 $cap(i)$ 和费用 $cost(i)$ 两个属性。并且，图中存在两个特殊点，源点 $s$ 和汇点 $t$，$s$ 点没有入边，$t$ 点没有出边。</p>
 <p>定义流函数 $f:E\rightarrow N$ 为满足以下条件的任一函数（即 $f(i)$ 表示 $i$ 这条边的流量）：</p>
 <ol><li><p>$\forall i\in E, 0\le f(i)\le cap(i)$（每条边的流量不超过容量）。</p>
 </li>
 <li><p>$\forall u\in (V\setminus\{s, t\}), \sum\limits_{from(i) = u\ }f(i)=\sum\limits_{to(i) = u\ }f(i)$（除源汇外每个点的流出量等于流入量）。</p>
 </li>
 </ol><p>定义一个流函数的流量为 $s$ 流出的流量：$flow(f)=\sum_{from(i)=s\ \ \,}f(i)$。</p>
-<p>定义一个流函数的总费用为每条边的流量与费用乘积之和：$totalcost(f)=\sum_{i\in E\;}f(i)cost(i)$。</p>
+<p>定义一个流函数的总费用为每条边的流量与费用乘积之和：$totalcost(f)=\sum_{i\in E\;}f(i) \cdot cost(i)$。</p>
 <p>请求出最大流（$flow(f)$ 的最大值），以及最大流前提下的最小费用（即 $\min\{totalcost(f)|flow(f)=\max\{flow(i)|i\text{ is a flow of }G\}\}$）。</p>
 
 # 输入格式
