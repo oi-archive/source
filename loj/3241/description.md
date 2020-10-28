@@ -1,7 +1,7 @@
 
 # 题目描述
 
-**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/contest3_tasks.pdf) T4「Lampice」**
+**译自 [COCI 2019/2020 Contest #3](https://hsin.hr/coci/archive/2019_2020/) T4「[Lampice](https://hsin.hr/coci/archive/2019_2020/contest3_tasks.pdf)」**
 
 Mirko 准备用 $ N $ 个 LED 灯来装饰圣诞树。这 $ N $ 个灯通过了 $ N - 1 $ 根电线连接在一起，任意两个灯之间都能通过电线互相到达。并且我们知道所有灯的颜色。
 
