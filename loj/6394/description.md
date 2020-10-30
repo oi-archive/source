@@ -38,7 +38,7 @@
 
 	7. 降维打击（2dsaigao）：利用超时空武器，向自己右前方发射动感光波，使得某个区域内的单位不能释放技能。该动感光波发射之后，遇到棋盘边缘或者障碍物则会发生方向改变的现象，如下图所示：
 	
-		<img src="/source/loj/6394/img/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhbmd5dXJ6ZWU3L1RIVVBDMjAxOC9tYXN0ZXIvcHJvYmxlbXMvcHJvYmxlbS9yZXNvdXJjZXMvMi5wbmc=.png" width="269" height="273" />
+		<img src="https://raw.githubusercontent.com/wangyurzee7/THUPC2018/master/problems/problem/resources/2.png" width="269" height="273" />
 		
         中间格子为当前棋子所处的位置，其方向向左。每当该光波会进入一个有障碍物的格子或者棋盘边缘的时候，该光波就会改变自己的方向顺时针旋转 $90^\circ$。该光波每从一个格子的中心到达另一个格子的中心时我们称该光波走了 $1$ 的距离。当光波走了 $o$ 的距离之后，光波就会以当前格子为中心发生爆炸，使得所有距离当前格子曼哈顿距离不超过 $v$ 的棋子在接下来 $l$ 回合的时间内都不能释放技能，即从现在到第 $H+l$ 回合开始的这段时间内都不能释放技能。（详见样例第一组数据）
 		
