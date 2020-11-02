@@ -5,15 +5,15 @@
 
 > <b>Malnar 先生（通过电话）：</b>听着，我曾在大半夜在 Zagreb 周边贴过一些海报。我遇见了一排栅栏，用不同高度的木板拼成的栅栏，我正想着如何计算我能在这排栅栏上贴上的最大的海报面积。你觉得那会是一道不错的 COCI 题吗？
 > 
-> <b>同事：</b>你都干过些啥啊？！而且吧，这题也不怎么好。不过是一个用单调队列的套路题罢了，我们甚至在我们的 x 令营里教小学生这些东西呢。
+> <b>同事：</b>你在干啥啊？！而且吧，这题也不怎么好。不过是一个用单调队列的套路题罢了，我们甚至在我们的 x 令营里教小学生这些东西呢。
 > 
 > <b>Malnar 先生：</b>如果你稍微改编一下，比如对每个前缀都求一遍之类的，那应该够难了吧。
 > 
-> <b>同事：</b>那就和去年我们的 CERC 资格赛撞题了。那题挺难的，难点在 Harbingers 技巧上，但是现在大家都见过了。
+> <b>同事：</b>那就和去年我们的 [CERC 资格赛](https://hsin.hr/studenti2019/zadaci/zadaci.pdf)撞题了（H 题）。那题挺难的，难点在 [Harbingers](https://vjudge.net/problem/Gym-207383I) 一题（CEOI 2009）采用的技巧上（指在凸包上二分更新 DP），但是现在大家都见过了。
 > 
 > <b>Malnar 先生：</b>你确定我们真的束手无策了吗？
 > 
-> <b>同事：</b>我觉得我们已经出完了所有直方图类型的题目了。COCI 2020/2011 的 Tabovi，COCI 2015/2016 的 Poplava，COCI 2017/2018 的 Krov，2018 年的 IOI 选拔赛的 Histogram…… 你懂的。
+> <b>同事：</b>我觉得我们已经出完了所有直方图类型的题目了。COCI 2010/2011 的 [Tabovi](https://hsin.hr/coci/archive/2010_2011/contest1_tasks.pdf)，COCI 2015/2016 的 [Poplava](https://hsin.hr/coci/archive/2015_2016/contest5_tasks.pdf)，COCI 2017/2018 的 [Krov](https://hsin.hr/coci/archive/2017_2018/contest4_tasks.pdf)，2018 年的 IOI 选拔赛的 [Histogram](https://hsin.hr/pripreme2018/zadaci/prvi/zadaci.pdf)…… 你懂的。
 > 
 > <b>Malnar 先生：</b>如果直方图是三维的呢？
 > 
