@@ -1,9 +1,9 @@
 
 # 题目描述
 
-定义 $f(j)\ \equiv\ \sum_{i=0}^{n-1}\ C_{i\cdot d}^{j}\ (\bmod\ M),\ 0\ \leq\ f(j)\ <\ M$，其中 $n,\ d,\ M$ 为给定值。
+定义 $f(j)\ \equiv\ \sum_{i=0}^{n-1}\ C_{i\cdot d}^{j}\ {\pmod M},\ 0\ \leq\ f(j)\ <\ M$，其中 $n,\ d,\ M$ 为给定值。
 
-现在给定 $m$，输出 $f(0)\ \mathrm{xor}\ f(1)\ \mathrm{xor}\ f(2)\ \mathrm{xor}\ \cdots\ \mathrm{xor}\ f(m\ -\ 1)$ 的值。
+现在给定 $m$，输出 $f(0)\ \mathrm{xor}\ f(1)\ \mathrm{xor}\ f(2)\ \mathrm{xor}\ \cdots\ \mathrm{xor}\ f(m - 1)$ 的值。
 	
 其中 $C_{n}^{m}$ 为组合数 $n$ 选 $m$，即 $C_{n}^{m}\ =\ \begin{cases}\frac{n!}{m!\cdot (n-m)!}&, 0\leq m\leq n \cr 0&, \text{otherwise}\end{cases}$。$\mathrm{xor}$ 表示异或和。
 
