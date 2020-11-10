@@ -19,19 +19,17 @@
 
 
 <h4>input</h4>
-<pre><code>5
+<pre>5
 1 1 1 1
 2 2 2 1
 7 8 9 3
 123 456 789 1
-1000 1000 1000 10</code></pre>
-<h4>output</h4>
-<pre><code>1
+1000 1000 1000 10</pre><h4>output</h4>
+<pre>1
 142606337
 736950806
 246172965
-189652652</code></pre>
-
+189652652</pre>
 # 样例二
 
 
@@ -40,12 +38,14 @@
 # 限制与约定
 
 
+<p>对于$10\%$的数据，$n,m\leq 2$，$l\leq 3$，$k=1$。</p>
+<p>对于$30\%$的数据，$n,m,l,k\leq 12$。</p>
+<p>对于$40\%$的数据，$n,m,l\leq 100$。</p>
+<p>对于$50\%$的数据，$n,m,l\leq 1000$。</p>
+<p>对于$60\%$的数据，$n,m,l\leq 100000$，其中有占全部数据$30\%$的数据保证$k=1$。</p>
+<p>对于$80\%$的数据，$n,m,l\leq 1000000$，其中有占全部数据$40\%$的数据保证$k=1$。</p>
 <p>对于 $100\%$ 的数据，$1\le n,m,l\le 5000000$，$1\le k\le 100$，$1\le T\le 10$。</p>
 <p>其中有 $50\%$ 的数据保证 $k=1$。</p>
-<p>每个测试点的具体限制见下表：</p>
- <div class="table-responsive">
-<table class="table table-bordered table-text-center table-verticle-middle"><thead><tr><th>子任务编号</th><th>$n$</th><th>$m$</th><th>$l$</th><th>$k$</th><th>分值</th></tr></thead><tbody><tr><td>$1$</td><td>$\le 2$</td><td>$\le 2$</td><td>$\le 3$</td><td>$=1$</td><td>$10$</td></tr><tr><td>$2$</td><td>$\le 12$</td><td>$\le 12$</td><td>$\le 12$</td><td>$\le 12$</td><td>$20$</td></tr><tr><td>$3$</td><td>$\le 100$</td><td>$\le 100$</td><td>$\le 100$</td><td>无</td><td>$10$</td></tr><tr><td>$4$</td><td>$\le 1000$</td><td>$\le 1000$</td><td>$\le 1000$</td><td>其中有占全部数据 $30\%$ 的数据保证 $k=1$</td><td>$10$</td></tr><tr><td>$5$</td><td>$\le 100000$</td><td>$\le 100000$</td><td>$\le 100000$</td><td>其中有占全部数据 $40\%$ 的数据保证 $k=1$</td><td>$10$</td></tr><tr><td>$6$</td><td>$\le 1000000$</td><td>$\le 1000000$</td><td>$\le 1000000$</td><td>其中有占全部数据 $40\%$ 的数据保证 $k=1$</td><td>$20$</td></tr></tbody></table></div>
-
 <p><strong>时间限制: <del>5s</del> 12s</strong></p>
 <p><strong>空间限制: 512MB</strong></p>
 
